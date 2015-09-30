@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AuroraTV</string>
+    <string name="button_update">Opdater</string>
+    <string name="cancelled">Afbrudt</string>
+    <string name="card_channel_minutes">min</string>
+    <string name="channels_edit_hide">Skjul</string>
+    <string name="channels_edit_move">Flyt</string>
+    <string name="channels_leave">Forlad</string>
+    <string name="channels_leave_message">Er du sikker på at du vil forlade kanallisteredigeringen?</string>
+    <string name="channels_leave_title">Forlad Redigering</string>
+    <string name="channels_move_popup_message">Vælg imellem Flyt eller Skjul kanal</string>
+    <string name="channels_move_popup_title">Vælg handling</string>
+    <string name="channels_number_allocation">Kanalnummer allokering</string>
+    <string name="channels_reset_popup_message">Du vil miste dine kanalliste modifikationer. Er du sikker?</string>
+</resources>
