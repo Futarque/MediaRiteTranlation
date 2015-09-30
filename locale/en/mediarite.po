@@ -1,0 +1,949 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MediaRite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-30 20:49+0200\n"
+"PO-Revision-Date: 2015-09-30 20:57+0100\n"
+"Last-Translator: Jan Pedersen <jap@futarque.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: /home/cas/MediaRite/trunk/Source\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:352
+#: Core/Implementation/ChannelSearchController.cpp:2335
+msgid "Analog"
+msgstr "Analog"
+
+#: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:176
+msgid "CA|Bad Card"
+msgstr "Bad Card"
+
+#: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:168
+msgid "CA|Card Accepted"
+msgstr "Card Accepted"
+
+#: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:174
+msgid "CA|Card Not Responding"
+msgstr "Card Not Responding"
+
+#: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:172
+msgid "CA|Card Not Supported"
+msgstr "Card Not Supported"
+
+#: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:166
+#: Core/Implementation/MediaHandlers/Mpeg2Ts/Modules/CaManager/CaModule/CommonInterface/CaCardSlotCommonInterface.cpp:131
+msgid "CA|Checking Card"
+msgstr "Checking Card"
+
+#: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:50
+msgid "CA|Checking Cards"
+msgstr "Checking Cards"
+
+#: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:86
+msgid "CA|Geographical Blackout"
+msgstr "Geographical Blackout"
+
+#: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:102
+msgid "CA|Maturity Locked"
+msgstr "Maturity Locked"
+
+#: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:84
+msgid "CA|Network Block"
+msgstr "Network Block"
+
+#. _DESCRAMBLING_FIRST_STATE
+#: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:82
+msgid "CA|No Access"
+msgstr "No Access"
+
+#: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:163
+msgid "CA|No Card"
+msgstr "No Card"
+
+#: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:43
+msgid "CA|No Cards"
+msgstr "No Cards"
+
+#: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:47
+msgid "CA|No Matching Card"
+msgstr "No Matching Card"
+
+#: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:52
+msgid "CA|No Resources"
+msgstr "No Resources"
+
+#: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:45
+msgid "CA|Unsupported encryption system"
+msgstr "Unsupported encryption system"
+
+#: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:170
+msgid "CA|Wrong Card Version"
+msgstr "Wrong Card Version"
+
+#: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:3226
+#: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:5333
+#: Core/Implementation/MediaHandlers/Analog/AnalogStreamHandler.cpp:308
+msgid "CHNAME|Default"
+msgstr "Default"
+
+#: Core/Implementation/ChannelSearchController.cpp:559
+msgid "CHSEARCH|Aborted"
+msgstr "Aborted"
+
+#: Core/Implementation/ChannelSearchController.cpp:557
+msgid "CHSEARCH|Aborting"
+msgstr "Aborting"
+
+#: Core/Implementation/ChannelSearchController.cpp:561
+msgid "CHSEARCH|Finished"
+msgstr "Finished"
+
+#: Core/Implementation/ChannelSearchController.cpp:551
+msgid "CHSEARCH|Initializing"
+msgstr "Initializing"
+
+#: Core/Implementation/ChannelSearchController.cpp:565
+msgid "CHSEARCH|Interaction"
+msgstr "Interaction"
+
+#: Core/Implementation/ChannelSearchController.cpp:563
+msgid "CHSEARCH|Processing"
+msgstr "Processing"
+
+#: Core/Implementation/ChannelSearchController.cpp:555
+msgid "CHSEARCH|Searching"
+msgstr "Searching"
+
+#: Core/Implementation/ChannelSearchController.cpp:553
+msgid "CHSEARCH|Tuning"
+msgstr "Tuning"
+
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:267
+msgid "CONTENT|Commentary"
+msgstr "Commentary"
+
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:264
+msgid "CONTENT|Dialogue"
+msgstr "Dialogue"
+
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:270
+msgid "CONTENT|Emergency"
+msgstr "Emergency"
+
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:255
+msgid "CONTENT|HearingImpaired"
+msgstr "Hearing Impaired"
+
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:276
+msgid "CONTENT|Karaoke"
+msgstr "Karaoke"
+
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:261
+msgid "CONTENT|MusicAndEffects"
+msgstr "Music & Effects"
+
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:252
+msgid "CONTENT|Normal"
+msgstr "Normal"
+
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:258
+msgid "CONTENT|VisuallyImpaired"
+msgstr "Visually Impaired"
+
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:273
+msgid "CONTENT|VoiceOver"
+msgstr "VoiceOver"
+
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:399
+msgid "COUN|Australia"
+msgstr "Australia"
+
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:402
+msgid "COUN|Austria"
+msgstr "Austria"
+
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:410
+msgid "COUN|Belgium"
+msgstr "Belgium"
+
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:436
+msgid "COUN|Denmark"
+msgstr "Denmark"
+
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:450
+msgid "COUN|Finland"
+msgstr "Finland"
+
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:452
+msgid "COUN|France"
+msgstr "France"
+
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:456
+msgid "COUN|Germany"
+msgstr "Germany"
+
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:458
+msgid "COUN|Greece"
+msgstr "Greece"
+
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:470
+msgid "COUN|India"
+msgstr "India"
+
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:478
+msgid "COUN|Ireland"
+msgstr "Ireland"
+
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:482
+msgid "COUN|Italy"
+msgstr "Italy"
+
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:524
+msgid "COUN|Malta"
+msgstr "Malta"
+
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:531
+msgid "COUN|Netherlands"
+msgstr "Netherlands"
+
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:537
+msgid "COUN|Norway"
+msgstr "Norway"
+
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:388
+msgid "COUN|Other"
+msgstr "Other"
+
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:551
+msgid "COUN|Poland"
+msgstr "Poland"
+
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:554
+msgid "COUN|Portugal"
+msgstr "Portugal"
+
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:575
+msgid "COUN|Spain"
+msgstr "Spain"
+
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:577
+msgid "COUN|Sweden"
+msgstr "Sweden"
+
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:579
+msgid "COUN|Switzerland"
+msgstr "Switzerland"
+
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:583
+msgid "COUN|Taiwan"
+msgstr "Taiwan"
+
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:592
+msgid "COUN|Turkey"
+msgstr "Turkey"
+
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:598
+msgid "COUN|United Kingdom"
+msgstr "United Kingdom"
+
+#: Core/Implementation/ChannelSearchController.cpp:780
+#: Core/Implementation/ChannelSearchController.cpp:1623
+#: Core/Implementation/ChannelSearchController.cpp:2332
+msgid "Cable"
+msgstr "Cable"
+
+#: Core/Implementation/SettingsDB/DynamicResource.cpp:34
+msgid "DYNUP|Checking"
+msgstr "Checking"
+
+#: Core/Implementation/SettingsDB/DynamicResource.cpp:40
+msgid "DYNUP|Deleting"
+msgstr "Deleting"
+
+#: Core/Implementation/SettingsDB/DynamicResource.cpp:38
+msgid "DYNUP|Deploying"
+msgstr "Deploying"
+
+#: Core/Implementation/SettingsDB/DynamicResource.cpp:36
+msgid "DYNUP|Downloading"
+msgstr "Downloading"
+
+#: Core/Implementation/SettingsDB/DynamicResource.cpp:44
+msgid "DYNUP|Failed"
+msgstr "Failed"
+
+#: Core/Implementation/SettingsDB/DynamicResource.cpp:32
+msgid "DYNUP|Idle"
+msgstr "Idle"
+
+#: Core/Implementation/SettingsDB/DynamicResource.cpp:42
+msgid "DYNUP|Success"
+msgstr "Success"
+
+#: Core/Implementation/ChannelSearchController.cpp:507
+msgid "East"
+msgstr "East"
+
+#: Basic/FutarqueInfo/src/FutarqueEpgInfo.cpp:266
+msgid "GENRE|Children's"
+msgstr "Children's"
+
+#: Basic/FutarqueInfo/src/FutarqueEpgInfo.cpp:272
+msgid "GENRE|Drama"
+msgstr "Drama"
+
+#: Basic/FutarqueInfo/src/FutarqueEpgInfo.cpp:268
+msgid "GENRE|Education"
+msgstr "Education"
+
+#: Basic/FutarqueInfo/src/FutarqueEpgInfo.cpp:262
+msgid "GENRE|Entertainment"
+msgstr "Entertainment"
+
+#: Basic/FutarqueInfo/src/FutarqueEpgInfo.cpp:270
+msgid "GENRE|Lifestyle"
+msgstr "Lifestyle"
+
+#: Basic/FutarqueInfo/src/FutarqueEpgInfo.cpp:258
+msgid "GENRE|Movie"
+msgstr "Movie"
+
+#: Basic/FutarqueInfo/src/FutarqueEpgInfo.cpp:260
+msgid "GENRE|News & Factual"
+msgstr "News & Factual"
+
+#: Basic/FutarqueInfo/src/FutarqueEpgInfo.cpp:264
+msgid "GENRE|Sport"
+msgstr "Sport"
+
+#: Basic/FutarqueInfo/src/FutarqueEpgInfo.cpp:256
+msgid "GENRE|Unclassified"
+msgstr "Unclassified"
+
+#: Basic/FutarqueInfo/src/FutarqueEpgInfo.cpp:274
+msgid "GENRE|Unknown"
+msgstr "Unknown"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:176
+msgid "LANG|Assamese"
+msgstr "Assamese"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:181
+msgid "LANG|Audio Description"
+msgstr "Audio Description"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:216
+msgid "LANG|Basque"
+msgstr "Basque"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:251
+msgid "LANG|Belarusian"
+msgstr "Belarusian"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:223
+msgid "LANG|Bengali"
+msgstr "Bengali"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:244
+msgid "LANG|Bulgarian"
+msgstr "Bulgarian"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:258
+msgid "LANG|Catalan"
+msgstr "Catalan"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:309
+msgid "LANG|Croatian"
+msgstr "Croatian"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:314
+msgid "LANG|Czech"
+msgstr "Czech"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:319
+msgid "LANG|Danish"
+msgstr "Danish"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:334
+msgid "LANG|Dutch"
+msgstr "Dutch"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:351
+msgid "LANG|English"
+msgstr "English"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:362
+msgid "LANG|Estonian"
+msgstr "Estonian"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:377
+msgid "LANG|Finnish"
+msgstr "Finnish"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:384
+msgid "LANG|French"
+msgstr "French"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:397
+msgid "LANG|Gaelic"
+msgstr "Gaelic"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:400
+msgid "LANG|Gallegan"
+msgstr "Gallegan"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:411
+msgid "LANG|German"
+msgstr "German"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:430
+msgid "LANG|Greek"
+msgstr "Greek"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:437
+msgid "LANG|Gujarati"
+msgstr "Gujarati"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:454
+msgid "LANG|Hindi"
+msgstr "Hindi"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:459
+msgid "LANG|Hungarian"
+msgstr "Hungarian"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:466
+msgid "LANG|Icelandic"
+msgstr "Icelandic"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:489
+msgid "LANG|Irish"
+msgstr "Irish"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:498
+msgid "LANG|Italian"
+msgstr "Italian"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:515
+msgid "LANG|Kannada"
+msgstr "Kannada"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:580
+msgid "LANG|Latvian"
+msgstr "Latvian"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:583
+msgid "LANG|Letzeburgesch"
+msgstr "Letzeburgesch"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:590
+msgid "LANG|Lithuanian"
+msgstr "Lithuanian"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:617
+msgid "LANG|Malayalam"
+msgstr "Malayalam"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:632
+msgid "LANG|Marathi"
+msgstr "Marathi"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:693
+msgid "LANG|Norwegian"
+msgstr "Norwegian"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:712
+msgid "LANG|Original"
+msgstr "Original"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:735
+msgid "LANG|Panjabi"
+msgstr "Panjabi"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:748
+msgid "LANG|Polish"
+msgstr "Polish"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:753
+msgid "LANG|Portuguese"
+msgstr "Portuguese"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:772
+msgid "LANG|Romanian"
+msgstr "Romanian"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:779
+msgid "LANG|Russian"
+msgstr "Russian"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:786
+msgid "LANG|Sami"
+msgstr "Sami"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:795
+msgid "LANG|Sanskrit"
+msgstr "Sanskrit"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:806
+msgid "LANG|Serbo_Croatian"
+msgstr "Serbo Croatian"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:831
+msgid "LANG|Slovak"
+msgstr "Slovak"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:834
+msgid "LANG|Slovenian"
+msgstr "Slovenian"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:851
+msgid "LANG|Spanish"
+msgstr "Spanish"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:864
+msgid "LANG|Swedish"
+msgstr "Swedish"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:877
+msgid "LANG|Tamil"
+msgstr "Tamil"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:882
+msgid "LANG|Telugu"
+msgstr "Telugu"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:915
+msgid "LANG|Turkish"
+msgstr "Turkish"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:930
+msgid "LANG|Ukrainian"
+msgstr "Ukrainian"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:935
+msgid "LANG|Undetermined"
+msgstr "Undetermined"
+
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:960
+msgid "LANG|Welsh"
+msgstr "Welsh"
+
+#: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2728
+msgid "LIST|All"
+msgstr "All"
+
+#: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2732
+msgid "LIST|Favorite"
+msgstr "Favorite"
+
+#: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2730
+msgid "LIST|Hidden"
+msgstr "Hidden"
+
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:96
+msgid "LNB|SCIF"
+msgstr "SCIF"
+
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:80
+msgid "LNB|Universal"
+msgstr "Universal"
+
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:287
+msgid "Mono"
+msgstr "Mono"
+
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:396
+msgid "NETCHANGETYPE|Coverage Changed"
+msgstr "Coverage Changed"
+
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:400
+msgid "NETCHANGETYPE|Frequency Changed"
+msgstr "Frequency Changed"
+
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:390
+msgid "NETCHANGETYPE|Message Only"
+msgstr "Message Only"
+
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:392
+msgid "NETCHANGETYPE|Multiplex Added"
+msgstr "Multiplex Added"
+
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:394
+msgid "NETCHANGETYPE|Multiplex Removed"
+msgstr "Multiplex Removed"
+
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:398
+msgid "NETCHANGETYPE|Service Changed"
+msgstr "Service Changed"
+
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:388
+msgid "NETCHANGETYPE|Unspecified"
+msgstr "Unspecified"
+
+#: MediaRiteApi/Player/Player.cpp:461
+msgid "No Subtitles"
+msgstr "No Subtitles"
+
+#: MediaRiteApi/Settings/SettingsManager.cpp:346
+msgid "None"
+msgstr "None"
+
+#: Core/Implementation/Core/CoreInterfaceTypes.cpp:48
+msgid "STATUS|Capture resource already in use"
+msgstr "Capture resource already in use"
+
+#: Core/Implementation/Core/CoreInterfaceTypes.cpp:140
+msgid "STATUS|Codec Not Supported"
+msgstr "Codec Not Supported"
+
+#: Core/Implementation/Core/CoreInterfaceTypes.cpp:168
+msgid "STATUS|Generic Error"
+msgstr "Generic Error"
+
+#: Core/Implementation/Core/CoreInterfaceTypes.cpp:106
+msgid "STATUS|Insufficient output protection"
+msgstr "Insufficient output protection"
+
+#. _("STATUS|Tuner Error");
+#: Core/Implementation/Core/CoreInterfaceTypes.cpp:87
+msgid "STATUS|Low or No Signal"
+msgstr "Low or No Signal"
+
+#: Core/Implementation/Core/CoreInterfaceTypes.cpp:136
+msgid "STATUS|Missing Data"
+msgstr "Missing Data"
+
+#: Core/Implementation/Core/CoreInterfaceTypes.cpp:24
+msgid "STATUS|No Resource"
+msgstr "No Resource"
+
+#: Core/Implementation/Core/CoreInterfaceTypes.cpp:116
+msgid "STATUS|No capture signal"
+msgstr "No capture signal"
+
+#: Core/Implementation/Core/CoreInterfaceTypes.cpp:123
+msgid "STATUS|No space left to record on"
+msgstr "No space left to record on"
+
+#: Core/Implementation/Core/CoreInterfaceTypes.cpp:51
+msgid "STATUS|No tuners available"
+msgstr "No tuners available"
+
+#: Core/Implementation/Core/CoreInterfaceTypes.cpp:32
+msgid "STATUS|Nothing to Record"
+msgstr "Nothing to Record"
+
+#: Core/Implementation/Core/CoreInterfaceTypes.cpp:28
+msgid "STATUS|Player Error"
+msgstr "Player Error"
+
+#: Core/Implementation/Core/CoreInterfaceTypes.cpp:41
+#: Core/Implementation/Core/CoreInterfaceTypes.cpp:102
+msgid "STATUS|Service Error"
+msgstr "Service Error"
+
+#: Core/Implementation/Core/CoreInterfaceTypes.cpp:95
+msgid "STATUS|Service Locked"
+msgstr "Service Locked"
+
+#: Core/Implementation/Core/CoreInterfaceTypes.cpp:44
+msgid "STATUS|Service is currently not being broadcasted"
+msgstr "Service is currently not being broadcasted"
+
+#: Core/Implementation/Core/CoreInterfaceTypes.cpp:54
+msgid "STATUS|Storage resource not available"
+msgstr "Storage resource not available"
+
+#: Core/Implementation/Core/CoreInterfaceTypes.cpp:76
+#: Core/Implementation/Core/CoreInterfaceTypes.cpp:99
+msgid "STATUS|Stream Error"
+msgstr "Stream Error"
+
+#: Core/Implementation/Core/CoreInterfaceTypes.cpp:59
+msgid "STATUS|Stream Resource Unavailable"
+msgstr "Stream Resource Unavailable"
+
+#: Core/Implementation/Core/CoreInterfaceTypes.cpp:80
+msgid "STATUS|Tuner Params Out Of Range"
+msgstr "Tuner Params Out Of Range"
+
+#: Core/Implementation/Core/CoreInterfaceTypes.cpp:113
+msgid "STATUS|Unable to decode"
+msgstr "Unable to Decode"
+
+#: Core/Implementation/Core/CoreInterfaceTypes.cpp:131
+msgid "STATUS|Unable to record"
+msgstr "Unable to record"
+
+#: Core/Implementation/ChannelSearchController.cpp:787
+#: Core/Implementation/ChannelSearchController.cpp:1620
+msgid "Satellite"
+msgstr "Satellite"
+
+#: Core/Implementation/MediaHandlers/Analog/AnalogStreamHandler.cpp:306
+#, c-format
+msgid "Service %d.%d MHz"
+msgstr "Service %d.%d MHz"
+
+#: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:3223
+#: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:5335
+#, c-format
+msgid "Service <%u,%u,%u>"
+msgstr "Service <%u,%u,%u>"
+
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:290
+msgid "Stereo"
+msgstr "Stereo"
+
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:293
+msgid "SurroundSound"
+msgstr "Surround Sound"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:990
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1188
+msgid "TIME|Apr"
+msgstr "Apr"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1145
+msgid "TIME|April"
+msgstr "April"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1002
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1200
+msgid "TIME|Aug"
+msgstr "Aug"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1157
+msgid "TIME|August"
+msgstr "August"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1014
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1212
+msgid "TIME|Dec"
+msgstr "Dec"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1169
+msgid "TIME|December"
+msgstr "December"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:984
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1182
+msgid "TIME|Feb"
+msgstr "Feb"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1139
+msgid "TIME|February"
+msgstr "February"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1123
+msgid "TIME|Fri"
+msgstr "Fri"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1038
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1095
+msgid "TIME|Friday"
+msgstr "Friday"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:981
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1179
+msgid "TIME|Jan"
+msgstr "Jan"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1136
+msgid "TIME|January"
+msgstr "January"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:999
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1197
+msgid "TIME|Jul"
+msgstr "Jul"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1154
+msgid "TIME|July"
+msgstr "July"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:996
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1194
+msgid "TIME|Jun"
+msgstr "Jun"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1151
+msgid "TIME|June"
+msgstr "June"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:987
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1185
+msgid "TIME|Mar"
+msgstr "Mar"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1142
+msgid "TIME|March"
+msgstr "March"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:993
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1191
+msgid "TIME|May"
+msgstr "May"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1148
+msgid "TIME|May_long"
+msgstr "May"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1111
+msgid "TIME|Mon"
+msgstr "Mon"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1026
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1083
+msgid "TIME|Monday"
+msgstr "Monday"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1011
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1209
+msgid "TIME|Nov"
+msgstr "Nov"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1166
+msgid "TIME|November"
+msgstr "November"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1008
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1206
+msgid "TIME|Oct"
+msgstr "Oct"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1163
+msgid "TIME|October"
+msgstr "October"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1126
+msgid "TIME|Sat"
+msgstr "Sat"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1041
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1098
+msgid "TIME|Saturday"
+msgstr "Saturday"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1005
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1203
+msgid "TIME|Sep"
+msgstr "Sep"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1160
+msgid "TIME|September"
+msgstr "September"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1108
+msgid "TIME|Sun"
+msgstr "Sun"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1023
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1080
+msgid "TIME|Sunday"
+msgstr "Sunday"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1120
+msgid "TIME|Thu"
+msgstr "Thu"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1035
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1092
+msgid "TIME|Thursday"
+msgstr "Thursday"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1114
+msgid "TIME|Tue"
+msgstr "Tue"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1029
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1086
+msgid "TIME|Tuesday"
+msgstr "Tuesday"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1117
+msgid "TIME|Wed"
+msgstr "Wed"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1032
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1089
+msgid "TIME|Wednesday"
+msgstr "Wednesday"
+
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:366
+msgid "TUNER|Analog"
+msgstr "Analog"
+
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:376
+msgid "TUNER|Antenna Error"
+msgstr "Antenna Error"
+
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:37
+msgid "TUNER|Circular Left"
+msgstr "Circular Left"
+
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:39
+msgid "TUNER|Circular Right"
+msgstr "Circular Right"
+
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:33
+msgid "TUNER|Horizontal"
+msgstr "Horizontal"
+
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:379
+msgid "TUNER|Locked"
+msgstr "Locked"
+
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:389
+msgid "TUNER|No Signal"
+msgstr "No Signal"
+
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:382
+msgid "TUNER|Scanning"
+msgstr "Scanning"
+
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:392
+msgid "TUNER|Unlocked"
+msgstr "Unlocked"
+
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:35
+msgid "TUNER|Vertical"
+msgstr "Vertical"
+
+#: Core/Implementation/ChannelSearchController.cpp:2329
+msgid "Terrestrial"
+msgstr "Terrestrial"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:934
+msgid "Today"
+msgstr "Today"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:942
+msgid "Tomorrow"
+msgstr "Tomorrow"
+
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:31
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:42
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:49
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:74
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:99
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:280
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:296
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:300
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:386
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:402
+#: Core/Implementation/SettingsDB/DynamicResource.cpp:46
+msgid "Unknown"
+msgstr "Unknown"
+
+#: Core/Implementation/ChannelSearchController.cpp:504
+msgid "West"
+msgstr "West"
+
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:938
+msgid "Yesterday"
+msgstr "Yesterday"
