@@ -86,4 +86,7 @@
     <string name="button_cancel">Fortryd</string>
     <string name="tuner_select_none">Ingen supporterede netværkstunere fundet. Kontroler din LAN forbindelse.</string>
     <string name="wizard_welcome">Den følge guide will hjælpe dig med at instille din Aurora Digitale TV modtager.</string>
+    <string name="close">Luk</string>
+    <string name="play_services_error">Google Play Services kan ikke kontaktes.</string>
+    <string name="status_signed_out">Logget ud</string>
 </resources>

@@ -86,4 +86,7 @@
     <string name="channels_leave_message">Are you sure want to leave the channel editor?</string>
     <string name="channels_leave">Leave</string>
     <string name="channels_stay">Stay</string>
+    <string name="close">Close</string>
+    <string name="play_services_error">Google Play services is not available.</string>
+    <string name="status_signed_out">Signed out</string>
 </resources>

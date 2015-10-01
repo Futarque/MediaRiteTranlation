@@ -16,6 +16,9 @@
     <string name="wizard_welcome">The following wizard will help you setup your Aurora Digital TV client.</string>
     <string name="wizard_instruction">Click Next to proceed</string>
     <string name="location_welcome">Please select your location:</string>
+    <string name="close">Close</string>
+    <string name="play_services_error">Google Play services is not available.</string>
+    <string name="status_signed_out">Signed out</string>
     <string name="language_audio_priority_1">Audio (1. Priority)</string>
     <string name="language_audio_priority_2">Audio (2. Priority)</string>
     <string name="language_subtitle_priority_1">Subtitle (1. Priority)</string>
