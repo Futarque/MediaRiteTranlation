@@ -64,9 +64,11 @@ for dir in ${SDIR}/Resource/Language/7702/locale/??; do
     dirname="$(basename "${dir}")"    
     $CMD ${SDIR}/Resource/Language/7702/locale/${dirname}/mediarite.po ${TDIR}/Resource/Language/7702/locale/${dirname}/mediarite.po
 done
-$CMD ${SDIR}/Source/Android/Amoeba/app/src/main/res/values/strings.xml strings.tmp
-cat strings.tmp |grep -v 'translatable="false"' > ${TDIR}/Source/Android/Amoeba/app/src/main/res/values/strings.xml
-rm -f strings.tmp
+if [ "$TDIR" == "." ] ; then
+    $CMD ${SDIR}/Source/Android/Amoeba/app/src/main/res/values/strings.xml strings.tmp
+    cat strings.tmp |grep -v 'translatable="false"' > ${TDIR}/Source/Android/Amoeba/app/src/main/res/values/strings.xml
+    rm -f strings.tmp
+fi
 for dir in ${SDIR}/Source/Android/Amoeba/app/src/main/res/values-??; do
     [ -d "${dir}" ] || continue # if not a directory, skip
     dirname="$(basename "${dir}")"    
