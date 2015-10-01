@@ -164,95 +164,95 @@ msgid "CONTENT|VoiceOver"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:399
-msgid "COUN|Australia"
+msgid "Australia"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:402
-msgid "COUN|Austria"
+msgid "Austria"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:410
-msgid "COUN|Belgium"
+msgid "Belgium"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:436
-msgid "COUN|Denmark"
+msgid "Denmark"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:450
-msgid "COUN|Finland"
+msgid "Finland"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:452
-msgid "COUN|France"
+msgid "France"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:456
-msgid "COUN|Germany"
+msgid "Germany"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:458
-msgid "COUN|Greece"
+msgid "Greece"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:470
-msgid "COUN|India"
+msgid "India"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:478
-msgid "COUN|Ireland"
+msgid "Ireland"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:482
-msgid "COUN|Italy"
+msgid "Italy"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:524
-msgid "COUN|Malta"
+msgid "Malta"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:531
-msgid "COUN|Netherlands"
+msgid "Netherlands"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:537
-msgid "COUN|Norway"
+msgid "Norway"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:388
-msgid "COUN|Other"
+msgid "Other"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:551
-msgid "COUN|Poland"
+msgid "Poland"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:554
-msgid "COUN|Portugal"
+msgid "Portugal"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:575
-msgid "COUN|Spain"
+msgid "Spain"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:577
-msgid "COUN|Sweden"
+msgid "Sweden"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:579
-msgid "COUN|Switzerland"
+msgid "Switzerland"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:583
-msgid "COUN|Taiwan"
+msgid "Taiwan"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:592
-msgid "COUN|Turkey"
+msgid "Turkey"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:598
-msgid "COUN|United Kingdom"
+msgid "United Kingdom"
 msgstr ""
 
 #: Core/Implementation/ChannelSearchController.cpp:784
@@ -306,131 +306,131 @@ msgid "GENRE|Unknown"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:176
-msgid "LANG|Assamese"
+msgid "Assamese"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:181
-msgid "LANG|Audio Description"
+msgid "Audio Description"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:216
-msgid "LANG|Basque"
+msgid "Basque"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:251
-msgid "LANG|Belarusian"
+msgid "Belarusian"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:223
-msgid "LANG|Bengali"
+msgid "Bengali"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:244
-msgid "LANG|Bulgarian"
+msgid "Bulgarian"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:258
-msgid "LANG|Catalan"
+msgid "Catalan"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:309
-msgid "LANG|Croatian"
+msgid "Croatian"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:314
-msgid "LANG|Czech"
+msgid "Czech"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:319
-msgid "LANG|Danish"
+msgid "Danish"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:334
-msgid "LANG|Dutch"
+msgid "Dutch"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:351
-msgid "LANG|English"
+msgid "English"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:362
-msgid "LANG|Estonian"
+msgid "Estonian"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:377
-msgid "LANG|Finnish"
+msgid "Finnish"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:384
-msgid "LANG|French"
+msgid "French"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:397
-msgid "LANG|Gaelic"
+msgid "Gaelic"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:400
-msgid "LANG|Gallegan"
+msgid "Gallegan"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:411
-msgid "LANG|German"
+msgid "German"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:430
-msgid "LANG|Greek"
+msgid "Greek"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:437
-msgid "LANG|Gujarati"
+msgid "Gujarati"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:454
-msgid "LANG|Hindi"
+msgid "Hindi"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:459
-msgid "LANG|Hungarian"
+msgid "Hungarian"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:466
-msgid "LANG|Icelandic"
+msgid "Icelandic"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:489
-msgid "LANG|Irish"
+msgid "Irish"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:498
-msgid "LANG|Italian"
+msgid "Italian"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:515
-msgid "LANG|Kannada"
+msgid "Kannada"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:580
-msgid "LANG|Latvian"
+msgid "Latvian"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:583
-msgid "LANG|Letzeburgesch"
+msgid "Letzeburgesch"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:590
-msgid "LANG|Lithuanian"
+msgid "Lithuanian"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:617
-msgid "LANG|Malayalam"
+msgid "Malayalam"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:632
-msgid "LANG|Marathi"
+msgid "Marathi"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:693
-msgid "LANG|Norwegian"
+msgid "Norwegian"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:712
@@ -438,75 +438,75 @@ msgid "LANG|Original"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:735
-msgid "LANG|Panjabi"
+msgid "Panjabi"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:748
-msgid "LANG|Polish"
+msgid "Polish"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:753
-msgid "LANG|Portuguese"
+msgid "Portuguese"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:772
-msgid "LANG|Romanian"
+msgid "Romanian"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:779
-msgid "LANG|Russian"
+msgid "Russian"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:786
-msgid "LANG|Sami"
+msgid "Sami"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:795
-msgid "LANG|Sanskrit"
+msgid "Sanskrit"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:806
-msgid "LANG|Serbo_Croatian"
+msgid "Serbo_Croatian"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:831
-msgid "LANG|Slovak"
+msgid "Slovak"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:834
-msgid "LANG|Slovenian"
+msgid "Slovenian"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:851
-msgid "LANG|Spanish"
+msgid "Spanish"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:864
-msgid "LANG|Swedish"
+msgid "Swedish"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:877
-msgid "LANG|Tamil"
+msgid "Tamil"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:882
-msgid "LANG|Telugu"
+msgid "Telugu"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:915
-msgid "LANG|Turkish"
+msgid "Turkish"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:930
-msgid "LANG|Ukrainian"
+msgid "Ukrainian"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:935
-msgid "LANG|Undetermined"
+msgid "Undetermined"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:960
-msgid "LANG|Welsh"
+msgid "Welsh"
 msgstr ""
 
 #: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2608

@@ -57,16 +57,20 @@ if [ -z "$1" ] ; then
 	argerror "MediaRite location param missing"
 fi
 
-if [ "$CMD" == "copy" ] ; then
+if [ "$CMD" == "cp" ] ; then
 $CMD ${SDIR}/Resource/Language/7702/locale/master.pot ${TDIR}/Resource/Language/7702/locale/master.pot
-for dir in ${SDIR}/Resource/Language/7702/locale/; do
+for dir in ${SDIR}/Resource/Language/7702/locale/??; do
     [ -d "${dir}" ] || continue # if not a directory, skip
     dirname="$(basename "${dir}")"    
-    $CMD ${SDIR}/Resource/Language/7702/locale/${dirname}/mediarite.po ${TDIR}/Resource/Language/7702/${dirname}/mediarite.po
+    $CMD ${SDIR}/Resource/Language/7702/locale/${dirname}/mediarite.po ${TDIR}/Resource/Language/7702/locale/${dirname}/mediarite.po
 done
-for dir in ${SDIR}/Source/Android/Amoeba/app/src/main/res/values*; do
+$CMD ${SDIR}/Source/Android/Amoeba/app/src/main/res/values/strings.xml strings.tmp
+cat strings.tmp |grep -v 'translatable="false"' > ${TDIR}/Source/Android/Amoeba/app/src/main/res/values/strings.xml
+rm -f strings.tmp
+for dir in ${SDIR}/Source/Android/Amoeba/app/src/main/res/values-??; do
     [ -d "${dir}" ] || continue # if not a directory, skip
     dirname="$(basename "${dir}")"    
+    mkdir -p ${TDIR}/Source/Android/Amoeba/app/src/main/res/${dirname}
     $CMD ${SDIR}/Source/Android/Amoeba/app/src/main/res/${dirname}/strings.xml ${TDIR}/Source/Android/Amoeba/app/src/main/res/${dirname}/strings.xml
 done
 else

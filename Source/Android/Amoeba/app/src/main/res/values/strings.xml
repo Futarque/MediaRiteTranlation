@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-
-    <!-- ad ids -->
-
-    <!-- Common Strings -->
+    <string name="app_name">AuroraTV</string>
     <string name="cancelled">Cancelled</string>
     <string name="complete">Complete</string>
-
-    <!-- UI Components -->
     <string name="spinner_off">Off</string>
     <string name="spinner_on">On</string>
     <string name="button_next">Next</string>
@@ -19,15 +13,9 @@
     <string name="button_update">Update</string>
     <string name="button_edit">Edit</string>
     <string name="button_reset">Reset</string>
-
-    <!-- Wizard -->
     <string name="wizard_welcome">The following wizard will help you setup your Aurora Digital TV client.</string>
     <string name="wizard_instruction">Click Next to proceed</string>
-
-    <!-- Location setup -->
     <string name="location_welcome">Please select your location:</string>
-
-    <!-- Language setup -->
     <string name="language_audio_priority_1">Audio (1. Priority)</string>
     <string name="language_audio_priority_2">Audio (2. Priority)</string>
     <string name="language_subtitle_priority_1">Subtitle (1. Priority)</string>
@@ -39,21 +27,13 @@
     <string name="language_subtitles_when_0">Available</string>
     <string name="language_subtitles_when_1">1. Priority Audio not Available</string>
     <string name="language_subtitles_when_2">1. or 2. Priority Audio not Available</string>
-
-    <!-- Tuner Select -->
     <string name="tuner_select">Select your tuner devices</string>
-
-    <!-- Tuner Setup -->
     <string name="hello_search_setup">Setup %s search options.\nBefore you proceed please make sure, that your antenna cable is connected to the tuner.\nIf you are using Network Tuners (FutarqueTvGateway, HDHomeRun, Sat>IP), these must be setup properly and connected to you network.</string>
-
-    <!-- Leanback -->
     <string name="menu_initial_no_channels">No Channels</string>
     <string name="menu_initial_no_events">No Events</string>
     <string name="menu_no_channels_match">No Match</string>
     <string name="menu_no_events_match">No Match</string>
     <string name="card_channel_minutes">min</string>
-
-    <!-- TV Input Service-->
     <string name="menu_channels">Channels</string>
     <string name="menu_guide">Guide</string>
     <string name="menu_settings">Settings</string>
@@ -61,14 +41,9 @@
     <string name="menu_settings_reset">Reset</string>
     <string name="menu_settings_about">About</string>
     <string name="menu_settings_exit">Exit</string>
-
     <string name="menu_wizard_location">Region</string>
-
     <string name="settings_factory_reset_text">You are about to reset all data.\n Please confirm</string>
-
     <string name="today">Today</string>
-
-
     <string name="menu_wizard_tuners">Tuners</string>
     <string name="menu_wizard_cable">Cable</string>
     <string name="menu_wizard_satellite">Satellite</string>
@@ -111,5 +86,4 @@
     <string name="channels_leave_message">Are you sure want to leave the channel editor?</string>
     <string name="channels_leave">Leave</string>
     <string name="channels_stay">Stay</string>
-    <!-- this is a test id -->
 </resources>
