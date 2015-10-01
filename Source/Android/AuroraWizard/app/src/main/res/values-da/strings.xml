@@ -1,0 +1,12 @@
+<resources>
+    <string name="wizard_country">Land</string>
+    <string name="wizard_country_description">Vælg venligst dit land</string>
+    <string name="wizard_language">Sprog</string>
+    <string name="wizard_language_description">Vælg venligst dit sprog</string>
+    <string name="wizard_timezone">Tidszone</string>
+    <string name="wizard_timezone_description">Vælg venligst din tidszone</string>
+    <string name="wizard_complete">Guiden er færdig</string>
+    <string name="wizard_complete_ok">OK</string>
+    <string name="wizard_wifi_description">Vælg venligst dit trådløse netværk</string>
+    <string name="wizard_wifi">Wifi</string>
+</resources>

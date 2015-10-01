@@ -1,0 +1,12 @@
+<resources>
+    <string name="wizard_country">Land</string>
+    <string name="wizard_country_description">Bitte wählen Sie Ihr Land</string>
+    <string name="wizard_language">Sprache</string>
+    <string name="wizard_language_description">Bitte wählen Sie Ihre Sprache</string>
+    <string name="wizard_timezone">Zeitzone</string>
+    <string name="wizard_timezone_description">Bitte wählen Sie Ihre Zeitzone</string>
+    <string name="wizard_complete">Wizard fertiggestellt</string>
+    <string name="wizard_complete_ok">OK</string>
+    <string name="wizard_wifi_description">Bitte wählen Sie Ihr WiFi-Zugangspunkt</string>
+    <string name="wizard_wifi">Wifi</string>
+</resources>
