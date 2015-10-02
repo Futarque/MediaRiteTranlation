@@ -17,7 +17,7 @@
     <string name="channels_edit_popup_title">Slå redigering til</string>
     <string name="channels_list_editor">Kanalliste redigering</string>
     <string name="channels_stay">Bliv</string>
-    <string name="complete">Færdg</string>
+    <string name="complete">Færdig</string>
     <string name="channels_reset_popup_title">Nulstil kanallisten</string>
     <string name="context_menu_audio">Lydspor</string>
     <string name="context_menu_signal_info">Signal Information</string>
@@ -49,7 +49,7 @@
     <string name="menu_settings_channels_edit">Rediger kanalliste</string>
     <string name="menu_settings_download_nothing">Ingen opdatering fundet</string>
     <string name="menu_settings_exit">Afslut</string>
-    <string name="menu_settings_language">Sport</string>
+    <string name="menu_settings_language">Sprog</string>
     <string name="menu_settings_reset">Nulstil</string>
     <string name="menu_tuner_select_disabled">Fra</string>
     <string name="menu_wizard_cable">Kabel</string>
@@ -89,4 +89,7 @@
     <string name="close">Luk</string>
     <string name="play_services_error">Google Play Services kan ikke kontaktes.</string>
     <string name="status_signed_out">Logget ud</string>
+    <string name="channels_priority_auto">Automatisk</string>
+    <string name="channels_priority_none">Ingen</string>
+    <string name="all">Alle</string>
 </resources>

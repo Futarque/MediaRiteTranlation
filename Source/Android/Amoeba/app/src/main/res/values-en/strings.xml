@@ -89,4 +89,7 @@
     <string name="close">Close</string>
     <string name="play_services_error">Google Play services is not available.</string>
     <string name="status_signed_out">Signed out</string>
+    <string name="channels_priority_auto">Automatic</string>
+    <string name="channels_priority_none">None</string>
+    <string name="all">All</string>
 </resources>
