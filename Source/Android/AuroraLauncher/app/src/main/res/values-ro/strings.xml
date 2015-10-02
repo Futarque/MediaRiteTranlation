@@ -1,4 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">AuroraLauncher</string>
+<string name="app_name">"AuroraLauncher"</string>
+<string name="home_featured">"Recomandate"</string>
+<string name="home_launcher_settings">"Configurație"</string>
+<string name="home_leanback">"TV Apps"</string>
+<string name="home_recent">"Recent"</string>
+<string name="home_settings">"Setări"</string>
+<string name="home_standard">"Aplicații"</string>
+<string name="home_system">"Sistem"</string>
+<string name="home_system_display">"Afișare"</string>
+<string name="home_system_manage_applications">"Gestionați Aplicații"</string>
+<string name="home_system_power">"Închide"</string>
+<string name="home_system_settings">"Setari de sistem"</string>
+<string name="home_system_sound">"Sunet"</string>
+<string name="preferences_applications">"Aplicații"</string>
+<string name="preferences_country">"Țară"</string>
+<string name="preferences_groups">"Grupuri"</string>
+<string name="preferences_preferences">"Preferințe"</string>
+<string name="search_result">"Rezultatul căutării:"</string>
 </resources>
