@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="wizard_complete_ok">OK</string>
+<string name="wizard_country">"Țară"</string>
+<string name="wizard_country_description">"Vă rugăm să selectați țara dvs."</string>
+<string name="wizard_language">"Limbă"</string>
+<string name="wizard_language_description">"Vă rugăm să selectați limba"</string>
+<string name="wizard_timezone">"Fus orar"</string>
+<string name="wizard_timezone_description">"Vă rugăm să selectați fusul orar"</string>
+<string name="wizard_complete">"Wizard finalizat"</string>
+<string name="wizard_complete_ok">"OK"</string>
+<string name="wizard_wifi_description">"Vă rugăm să selectați punctul de acces Wi-Fi"</string>
+<string name="wizard_wifi">"Wifi"</string>
 </resources>
