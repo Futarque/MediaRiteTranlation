@@ -96,4 +96,13 @@
 <string name="channels_priority_none"></string>
 <string name="channels_priority_auto"></string>
 <string name="all"></string>
+<string name="signal_info_transmission"></string>
+<string name="signal_info_frequency"></string>
+<string name="signal_info_modulation"></string>
+<string name="signal_info_ber"></string>
+<string name="signal_info_c_n"></string>
+<string name="signal_info_rf_level"></string>
+<string name="signal_info_uncorrected_packets"></string>
+<string name="signal_info_signal_quality"></string>
+<string name="signal_info_signal_strength"></string>
 </resources>
