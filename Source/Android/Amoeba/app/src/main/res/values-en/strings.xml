@@ -96,4 +96,13 @@ The resulting zip file must be named picons.zip and placed at the base URL speci
 <string name="channels_priority_none">"None"</string>
 <string name="channels_priority_auto">"Auto"</string>
 <string name="all">"All"</string>
+<string name="signal_info_transmission">"Transmission"</string>
+<string name="signal_info_frequency">"Frequency"</string>
+<string name="signal_info_modulation">"Modulation"</string>
+<string name="signal_info_ber">"BER"</string>
+<string name="signal_info_c_n">"C/N"</string>
+<string name="signal_info_rf_level">"RF Level"</string>
+<string name="signal_info_uncorrected_packets">"Uncorrected Packets"</string>
+<string name="signal_info_signal_quality">"Signal Quality"</string>
+<string name="signal_info_signal_strength">"Signal Strength"</string>
 </resources>
