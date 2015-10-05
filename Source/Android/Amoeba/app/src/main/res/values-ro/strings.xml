@@ -96,4 +96,13 @@ Fișierul zip rezultat trebuie să fie numit picons.zip și plasat la  URL-ul de
 <string name="channels_priority_none">"Nici unul"</string>
 <string name="channels_priority_auto">"channels_priority_auto"</string>
 <string name="all">"Toate"</string>
+<string name="signal_info_transmission">"Transmisie"</string>
+<string name="signal_info_frequency">"Frecvență"</string>
+<string name="signal_info_modulation">"Modulare"</string>
+<string name="signal_info_ber">"BER"</string>
+<string name="signal_info_c_n">"C / N"</string>
+<string name="signal_info_rf_level">"RF Level"</string>
+<string name="signal_info_uncorrected_packets">"Pachete necorectate"</string>
+<string name="signal_info_signal_quality">"Calitate semnal"</string>
+<string name="signal_info_signal_strength">"Puterea semnalului"</string>
 </resources>
