@@ -96,4 +96,13 @@ Le fichier zip résultant doit être nommé picons.zip et placé à l'URL de bas
 <string name="channels_priority_none">"Aucun"</string>
 <string name="channels_priority_auto">"Auto"</string>
 <string name="all">"Tous"</string>
+<string name="signal_info_transmission">"Transmission"</string>
+<string name="signal_info_frequency">"Fréquence"</string>
+<string name="signal_info_modulation">"Modulation"</string>
+<string name="signal_info_ber">"BER"</string>
+<string name="signal_info_c_n">"C / N"</string>
+<string name="signal_info_rf_level">"Niveau RF"</string>
+<string name="signal_info_uncorrected_packets">"Les paquets non corrigées"</string>
+<string name="signal_info_signal_quality">"Qualité du signal"</string>
+<string name="signal_info_signal_strength">"Force du signal"</string>
 </resources>
