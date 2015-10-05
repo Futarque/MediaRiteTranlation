@@ -28,7 +28,7 @@
 <string name="language_subtitles_when_1">"1. Priorité audio non disponible"</string>
 <string name="language_subtitles_when_2">"1. ou 2. Priorité audio non disponible"</string>
 <string name="tuner_select">"Sélectionnez vos tuners"</string>
-<string name="hello_search_setup">"Les options de recherche installation% s.
+<string name="hello_search_setup">"Les options de recherche installation %s.
 Avant de commencer veuillez-vous assurer que votre câble d'antenne est connecté au tuner.
 Si vous utilisez des tuners réseau (FutarqueTvGateway, HDHomeRun, SAT&gt;IP), ceux-ci doivent être correctement configurés et connectés à votre réseau."</string>
 <string name="menu_initial_no_channels">"Aucune chaîne"</string>
