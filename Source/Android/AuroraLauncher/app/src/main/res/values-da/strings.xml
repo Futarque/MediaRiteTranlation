@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">AuroraLauncher</string>
-    <string name="home_featured">Anbefalede</string>
-    <string name="home_launcher_settings">Konfiguration</string>
-    <string name="home_leanback">TV Apps</string>
-    <string name="home_recent">Nyligt brugte</string>
-    <string name="home_settings">Indstillinger</string>
-    <string name="home_standard">Apps</string>
-    <string name="home_system">System</string>
-    <string name="home_system_display">Skærm</string>
-    <string name="home_system_manage_applications">Håndter Programmer</string>
-    <string name="home_system_power">Sluk</string>
-    <string name="home_system_settings">Systemindstillinger</string>
-    <string name="home_system_sound">Lyd</string>
-    <string name="preferences_applications">Programmer</string>
-    <string name="preferences_country">Land</string>
-    <string name="preferences_groups">Grupper</string>
-    <string name="preferences_preferences">Foretrukne</string>
-    <string name="search_result">Søgeresultater:</string>
+<string name="app_name">"AuroraLauncher"</string>
+<string name="home_featured">"Anbefalede"</string>
+<string name="home_launcher_settings">"Konfiguration"</string>
+<string name="home_leanback">"TV Apps"</string>
+<string name="home_recent">"Nyligt brugte"</string>
+<string name="home_settings">"Indstillinger"</string>
+<string name="home_standard">"Apps"</string>
+<string name="home_system">"System"</string>
+<string name="home_system_display">"Skærm"</string>
+<string name="home_system_manage_applications">"Håndter programmer"</string>
+<string name="home_system_power">"Sluk"</string>
+<string name="home_system_settings">"Systemindstillinger"</string>
+<string name="home_system_sound">"Lyd"</string>
+<string name="preferences_applications">"Programmer"</string>
+<string name="preferences_country">"Land"</string>
+<string name="preferences_groups">"Grupper"</string>
+<string name="preferences_preferences">"Foretrukne"</string>
+<string name="search_result">"Søgeresultater:"</string>
 </resources>
