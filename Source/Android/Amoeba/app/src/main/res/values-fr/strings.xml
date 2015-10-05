@@ -65,7 +65,7 @@ Veuillez confirmer"</string>
 <string name="menu_wizard_download">"Télécharger"</string>
 <string name="menu_download_icon_url">"URL de base Picon "</string>
 <string name="menu_settings_download_nothing">"Aucun téléchargement trouvé"</string>
-<string name="menu_download_icon_description">"Logos de canaux peuvent être générés en utilisant le logiciel disponible à http://picons.github.io
+<string name="menu_download_icon_description">"Logos de canaux peuvent être générés en utilisant le logiciel disponible à http://picons.github.io.
 Le fichier zip résultant doit être nommé picons.zip et placé à l'URL de base indiqué ci-dessous"</string>
 <string name="menu_tuner_select_disabled">"désactivé"</string>
 <string name="tuner_select_none">"Aucun tuners réseau pris en charge trouvé. Veuillez vérifier votre connexion réseau"</string>
@@ -93,4 +93,7 @@ Le fichier zip résultant doit être nommé picons.zip et placé à l'URL de bas
 <string name="close">"Fermer"</string>
 <string name="play_services_error">"les Services Google Play ne sont pas disponibles."</string>
 <string name="status_signed_out">"Se déconnecter"</string>
+<string name="channels_priority_none">"Aucun"</string>
+<string name="channels_priority_auto">"Auto"</string>
+<string name="all">"Tous"</string>
 </resources>
