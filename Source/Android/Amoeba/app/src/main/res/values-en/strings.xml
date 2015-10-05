@@ -20,7 +20,7 @@
 <string name="language_audio_priority_2">"Audio (2. Priority)"</string>
 <string name="language_subtitle_priority_1">"Subtitle (1. Priority)"</string>
 <string name="language_subtitle_priority_2">"Subtitle (2. Priority)"</string>
-<string name="language_application_language">"Broadcast Text Language"</string>
+<string name="language_application_language">"Guide and Text Language"</string>
 <string name="language_visually_impaired">"Visually Impaired"</string>
 <string name="language_hearing_impaired">"Hearing Impaired"</string>
 <string name="language_subtitles_shown_when">"Subtitles shown when"</string>
@@ -93,4 +93,7 @@ The resulting zip file must be named picons.zip and placed at the base URL speci
 <string name="close">"Close"</string>
 <string name="play_services_error">"Google Play services is not available."</string>
 <string name="status_signed_out">"Signed out"</string>
+<string name="channels_priority_none">"None"</string>
+<string name="channels_priority_auto">"Auto"</string>
+<string name="all">"All"</string>
 </resources>
