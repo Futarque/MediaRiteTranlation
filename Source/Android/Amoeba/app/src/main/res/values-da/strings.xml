@@ -97,4 +97,13 @@ Den resulterende ZIP fil skal navngives picons.zip, og placeres så den kan tilg
 <string name="channels_priority_none">"Ingen"</string>
 <string name="channels_priority_auto">"Automatisk"</string>
 <string name="all">"Alle"</string>
+<string name="signal_info_transmission">"Transmission"</string>
+<string name="signal_info_frequency">"Frekvens"</string>
+<string name="signal_info_modulation">"Modulation"</string>
+<string name="signal_info_ber">"BER"</string>
+<string name="signal_info_c_n">"C/N"</string>
+<string name="signal_info_rf_level">"RF niveau"</string>
+<string name="signal_info_uncorrected_packets">"Pakkefejl"</string>
+<string name="signal_info_signal_quality">"Signalkvalitet"</string>
+<string name="signal_info_signal_strength">"Signalstyrke"</string>
 </resources>
