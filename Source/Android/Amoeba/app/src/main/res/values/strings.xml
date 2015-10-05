@@ -23,7 +23,7 @@
     <string name="language_audio_priority_2">Audio (2. Priority)</string>
     <string name="language_subtitle_priority_1">Subtitle (1. Priority)</string>
     <string name="language_subtitle_priority_2">Subtitle (2. Priority)</string>
-    <string name="language_application_language">Broadcast Text Language</string>
+    <string name="language_application_language">EPG and Text Language</string>
     <string name="language_visually_impaired">Visually Impaired</string>
     <string name="language_hearing_impaired">Hearing Impaired</string>
     <string name="language_subtitles_shown_when">Subtitles shown when</string>
