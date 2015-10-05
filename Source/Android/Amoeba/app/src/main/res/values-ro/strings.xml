@@ -93,4 +93,7 @@ Fișierul zip rezultat trebuie să fie numit picons.zip și plasat la  URL-ul de
 <string name="close">"Închide"</string>
 <string name="play_services_error">"Serviciile Google Play nu sunt disponibile"</string>
 <string name="status_signed_out">"Delogat"</string>
+<string name="channels_priority_none">"Nici unul"</string>
+<string name="channels_priority_auto">"channels_priority_auto"</string>
+<string name="all">"Toate"</string>
 </resources>
