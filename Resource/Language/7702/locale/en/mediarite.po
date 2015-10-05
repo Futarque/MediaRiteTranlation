@@ -1,17 +1,11 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: MediaRite\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-01 11:02+0200\n"
-"PO-Revision-Date: 2015-10-01 11:03+0100\n"
-"Last-Translator: Jan Pedersen <jap@futarque.com>\n"
-"Language-Team: \n"
-"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Basepath: /home/cas/MediaRite/trunk/Source\n"
-"X-Generator: Poedit 1.5.4\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: MediaRite\n"
+"Language: en\n"
 
 #: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:352
 #: Core/Implementation/ChannelSearchController.cpp:2335
@@ -654,13 +648,11 @@ msgid "Serbo_Croatian"
 msgstr "Serbo Croatian"
 
 #: Core/Implementation/MediaHandlers/Analog/AnalogStreamHandler.cpp:306
-#, c-format
 msgid "Service %d.%d MHz"
 msgstr "Service %d.%d MHz"
 
 #: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:3223
 #: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:5335
-#, c-format
 msgid "Service <%u,%u,%u>"
 msgstr "Service <%u,%u,%u>"
 
@@ -1014,5 +1006,3 @@ msgstr "Wrong Card Version"
 msgid "Yesterday"
 msgstr "Yesterday"
 
-#~ msgid "Other"
-#~ msgstr "Other"
