@@ -28,7 +28,7 @@
 <string name="language_subtitles_when_1">"1. Prioritatea audio nu este disponibilă"</string>
 <string name="language_subtitles_when_2">"1. sau 2. Prioritatea audio nu este disponibilă"</string>
 <string name="tuner_select">"Selectați dispozitivele tuner"</string>
-<string name="hello_search_setup">"Configurare% s opțiuni de căutare.
+<string name="hello_search_setup">"Configurare %s opțiuni de căutare.
 Înainte de a începe, asigurați-vă, că , cablul de antenă este conectat la tuner.
 Dacă utilizați Tunere Rețea (FutarqueTvGateway, HDHomeRun, Sat&gt; IP), acestea trebuie să fie configurate în mod corespunzător și conectate la rețea."</string>
 <string name="menu_initial_no_channels">"Lipsă canale"</string>
