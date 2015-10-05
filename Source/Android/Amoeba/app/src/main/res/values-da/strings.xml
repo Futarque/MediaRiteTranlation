@@ -94,4 +94,7 @@ Den resulterende ZIP fil skal navngives picons.zip, og placeres så den kan tilg
 <string name="close">"Luk"</string>
 <string name="play_services_error">"Google Play Services kan ikke kontaktes."</string>
 <string name="status_signed_out">"Logget ud"</string>
+<string name="channels_priority_none">"Ingen"</string>
+<string name="channels_priority_auto">"Automatisk"</string>
+<string name="all">"Alle"</string>
 </resources>
