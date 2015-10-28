@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="wizard_complete_ok">OK</string>
+<string name="wizard_country">"Ország"</string>
+<string name="wizard_country_description">"Válassza ki az országot"</string>
+<string name="wizard_language">"Nyelv"</string>
+<string name="wizard_language_description">"Válasszon nyelvet"</string>
+<string name="wizard_timezone">"Időzóna"</string>
+<string name="wizard_timezone_description">"Kérjük, válassza ki az időzónát"</string>
+<string name="wizard_complete">"Varázsló befejeződött"</string>
+<string name="wizard_complete_ok">"OK"</string>
+<string name="wizard_wifi_description">"Kérjük, válassza ki a WiFi hozzáférési pont"</string>
+<string name="wizard_wifi">"Wifi"</string>
 </resources>
