@@ -1,4 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">AuroraLauncher</string>
+<string name="app_name">"AuroraLauncher"</string>
+<string name="home_featured">"Kiemelt"</string>
+<string name="home_launcher_settings">"Konfiguráció"</string>
+<string name="home_leanback">"TV Apps"</string>
+<string name="home_recent">"Újabb keletű"</string>
+<string name="home_settings">"Beállítások"</string>
+<string name="home_standard">"Alkalmazások"</string>
+<string name="home_system">"Rendszer"</string>
+<string name="home_system_display">"Kijelző"</string>
+<string name="home_system_manage_applications">"Alkalmazások kezelése"</string>
+<string name="home_system_power">"Lekapcsol"</string>
+<string name="home_system_settings">"Rendszer beállítások"</string>
+<string name="home_system_sound">"Hangzik"</string>
+<string name="preferences_applications">"Alkalmazások"</string>
+<string name="preferences_country">"Ország"</string>
+<string name="preferences_groups">"Csoportok"</string>
+<string name="preferences_preferences">"Preferenciák"</string>
+<string name="search_result">"Keresés eredménye:"</string>
 </resources>
