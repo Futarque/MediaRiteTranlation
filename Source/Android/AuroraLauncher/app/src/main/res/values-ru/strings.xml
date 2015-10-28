@@ -1,4 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">AuroraLauncher</string>
+<string name="app_name">"AuroraLauncher"</string>
+<string name="home_featured">"Рекомендуемые"</string>
+<string name="home_launcher_settings">"Конфигурация"</string>
+<string name="home_leanback">"ТВ программы и приложения"</string>
+<string name="home_recent">"Недавний"</string>
+<string name="home_settings">"Настройки"</string>
+<string name="home_standard">"Программы"</string>
+<string name="home_system">"Система"</string>
+<string name="home_system_display">"Дисплей"</string>
+<string name="home_system_manage_applications">"Управление приложениями"</string>
+<string name="home_system_power">"Закрыть"</string>
+<string name="home_system_settings">"Настройки системы"</string>
+<string name="home_system_sound">"Звук"</string>
+<string name="preferences_applications">"Приложения"</string>
+<string name="preferences_country">"Страна"</string>
+<string name="preferences_groups">"Группы"</string>
+<string name="preferences_preferences">"Предпочтения"</string>
+<string name="search_result">"Результат поиска:"</string>
 </resources>

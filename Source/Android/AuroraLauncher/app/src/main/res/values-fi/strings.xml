@@ -1,4 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">AuroraLauncher</string>
+<string name="app_name">"AuroraLauncher"</string>
+<string name="home_featured">"Varustellun"</string>
+<string name="home_launcher_settings">"Kokoonpano"</string>
+<string name="home_leanback">"TV Apps"</string>
+<string name="home_recent">"Viimeaikainen"</string>
+<string name="home_settings">"Asetukset"</string>
+<string name="home_standard">"Sovellukset"</string>
+<string name="home_system">"Järjestelmä"</string>
+<string name="home_system_display">"Näyttö"</string>
+<string name="home_system_manage_applications">"Manage Applications"</string>
+<string name="home_system_power">"Sammuttaa"</string>
+<string name="home_system_settings">"Järjestelmäasetukset"</string>
+<string name="home_system_sound">"Ääni"</string>
+<string name="preferences_applications">"Sovellukset"</string>
+<string name="preferences_country">"Maa"</string>
+<string name="preferences_groups">"Ryhmät"</string>
+<string name="preferences_preferences">"Asetukset"</string>
+<string name="search_result">"Tulos:"</string>
 </resources>

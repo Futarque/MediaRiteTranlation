@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="wizard_complete_ok">OK</string>
+<string name="wizard_country">"País"</string>
+<string name="wizard_country_description">"Por favor selecciona tu país"</string>
+<string name="wizard_language">"Idioma"</string>
+<string name="wizard_language_description">"Seleccione su idioma"</string>
+<string name="wizard_timezone">"Zona horaria"</string>
+<string name="wizard_timezone_description">"Seleccione su zona horaria"</string>
+<string name="wizard_complete">"Asistente completado"</string>
+<string name="wizard_complete_ok">"OK"</string>
+<string name="wizard_wifi_description">"Por favor, seleccione el punto de acceso Wifi"</string>
+<string name="wizard_wifi">"Wifi"</string>
 </resources>

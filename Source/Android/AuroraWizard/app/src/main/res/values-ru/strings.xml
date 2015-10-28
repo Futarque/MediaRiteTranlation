@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="wizard_complete_ok">OK</string>
+<string name="wizard_country">"Страна"</string>
+<string name="wizard_country_description">"Пожалуйста, выберите вашу страну"</string>
+<string name="wizard_language">"Язык"</string>
+<string name="wizard_language_description">"Пожалуйста, выберите язык"</string>
+<string name="wizard_timezone">"Часовой пояс"</string>
+<string name="wizard_timezone_description">"Пожалуйста, выберите ваш часовой пояс"</string>
+<string name="wizard_complete">"Мастер завершил"</string>
+<string name="wizard_complete_ok">"OK"</string>
+<string name="wizard_wifi_description">"Пожалуйста, выберите точку доступа Wi-Fi"</string>
+<string name="wizard_wifi">"Wi-Fi"</string>
 </resources>
