@@ -1,4 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">AuroraLauncher</string>
+<string name="app_name">"AuroraLauncher"</string>
+<string name="home_featured">"Uitgelicht"</string>
+<string name="home_launcher_settings">"Configuratie"</string>
+<string name="home_leanback">"TV Apps"</string>
+<string name="home_recent">"Recent"</string>
+<string name="home_settings">"Instellingen"</string>
+<string name="home_standard">"Apps"</string>
+<string name="home_system">"Systeem"</string>
+<string name="home_system_display">"Beeldscherm"</string>
+<string name="home_system_manage_applications">"Toepassingen beheren"</string>
+<string name="home_system_power">"Afsluiten"</string>
+<string name="home_system_settings">"Systeem instellingen"</string>
+<string name="home_system_sound">"Klinken"</string>
+<string name="preferences_applications">"Toepassingen"</string>
+<string name="preferences_country">"Land"</string>
+<string name="preferences_groups">"Groepen"</string>
+<string name="preferences_preferences">"Voorkeuren"</string>
+<string name="search_result">"Zoekresultaat:"</string>
 </resources>
