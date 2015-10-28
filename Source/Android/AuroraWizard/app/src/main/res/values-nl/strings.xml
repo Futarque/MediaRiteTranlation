@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="wizard_complete_ok">OK</string>
+<string name="wizard_country">"Land"</string>
+<string name="wizard_country_description">"Selecteer uw land"</string>
+<string name="wizard_language">"Taal"</string>
+<string name="wizard_language_description">"Selecteer uw taal"</string>
+<string name="wizard_timezone">"Tijdzone"</string>
+<string name="wizard_timezone_description">"Selecteer uw tijdzone"</string>
+<string name="wizard_complete">"Wizard voltooid"</string>
+<string name="wizard_complete_ok">"OK"</string>
+<string name="wizard_wifi_description">"Selecteer uw Wifi-toegangspunt"</string>
+<string name="wizard_wifi">"Wifi"</string>
 </resources>
