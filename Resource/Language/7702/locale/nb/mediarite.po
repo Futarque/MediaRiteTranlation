@@ -1,981 +1,969 @@
-# Norwegian Bokmal translations for MediaRite package.
-# Copyright (C) 2015 THE MediaRite'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the MediaRite package.
-# Jan Pedersen <jap@futarque.com>, 2015.
-#
 msgid ""
 msgstr ""
-"Project-Id-Version: MediaRite\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-01 11:02+0200\n"
-"PO-Revision-Date: 2015-09-14 15:32+0200\n"
-"Last-Translator: Jan Pedersen <jap@futarque.com>\n"
-"Language-Team: Norwegian Bokmal\n"
-"Language: nb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: MediaRite\n"
+"Language: nb\n"
 
 #: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:352
 #: Core/Implementation/ChannelSearchController.cpp:2335
 msgid "Analog"
-msgstr ""
+msgstr "Analog"
 
 #. Tuner
 #: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:376
 msgid "Antenna Error"
-msgstr ""
+msgstr "Antenne Feil"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:176
 msgid "Assamese"
-msgstr ""
+msgstr "Assamesisk"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:181
 msgid "Audio Description"
-msgstr ""
+msgstr "Lydbeskrivelse"
 
 #. AUSTRALIA
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:399
 msgid "Australia"
-msgstr ""
+msgstr "Australia"
 
 #. AUSTRIA
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:402
 msgid "Austria"
-msgstr ""
+msgstr "Østerrike"
 
 #. Conditional Access
 #: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:180
 msgid "Bad Card"
-msgstr ""
+msgstr "Bad kort"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:216
 msgid "Basque"
-msgstr ""
+msgstr "Basque"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:251
 msgid "Belarusian"
-msgstr ""
+msgstr "Belarusian"
 
 #. BELGIUM
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:410
 msgid "Belgium"
-msgstr ""
+msgstr "Belgia"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:223
 msgid "Bengali"
-msgstr ""
+msgstr "Bengali"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:244
 msgid "Bulgarian"
-msgstr ""
+msgstr "Bulgarian"
 
 #: Core/Implementation/MediaHandlers/Mpeg2Ts/Modules/CaManager/CaModule/CommonInterface/CaCardSlotCommonInterface.cpp:131
 msgid "CA|Checking Card"
-msgstr ""
+msgstr "Kontroll-kort"
 
 #: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:3226
 #: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:5333
 #: Core/Implementation/MediaHandlers/Analog/AnalogStreamHandler.cpp:308
 msgid "CHNAME|Default"
-msgstr ""
+msgstr "Standard"
 
 #: Core/Implementation/ChannelSearchController.cpp:559
 msgid "CHSEARCH|Aborted"
-msgstr ""
+msgstr "Avbrutt"
 
 #: Core/Implementation/ChannelSearchController.cpp:557
 msgid "CHSEARCH|Aborting"
-msgstr ""
+msgstr "Avbryter"
 
 #: Core/Implementation/ChannelSearchController.cpp:561
 msgid "CHSEARCH|Finished"
-msgstr ""
+msgstr "Ferdig"
 
 #: Core/Implementation/ChannelSearchController.cpp:551
 msgid "CHSEARCH|Initializing"
-msgstr ""
+msgstr "Initialisering"
 
 #: Core/Implementation/ChannelSearchController.cpp:565
 msgid "CHSEARCH|Interaction"
-msgstr ""
+msgstr "Interaksjon"
 
 #: Core/Implementation/ChannelSearchController.cpp:563
 msgid "CHSEARCH|Processing"
-msgstr ""
+msgstr "Prosessering"
 
 #: Core/Implementation/ChannelSearchController.cpp:555
 msgid "CHSEARCH|Searching"
-msgstr ""
+msgstr "Søke"
 
 #: Core/Implementation/ChannelSearchController.cpp:553
 msgid "CHSEARCH|Tuning"
-msgstr ""
+msgstr "Tuning"
 
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:267
 msgid "CONTENT|Commentary"
-msgstr ""
+msgstr "Kommentar"
 
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:264
 msgid "CONTENT|Dialogue"
-msgstr ""
+msgstr "Dialogue"
 
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:270
 msgid "CONTENT|Emergency"
-msgstr ""
+msgstr "Emergency"
 
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:255
 msgid "CONTENT|HearingImpaired"
-msgstr ""
+msgstr "Hørselshemmet"
 
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:276
 msgid "CONTENT|Karaoke"
-msgstr ""
+msgstr "Karaoke"
 
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:261
 msgid "CONTENT|MusicAndEffects"
-msgstr ""
+msgstr "Musikk & Effects"
 
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:252
 msgid "CONTENT|Normal"
-msgstr ""
+msgstr "Normal"
 
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:258
 msgid "CONTENT|VisuallyImpaired"
-msgstr ""
+msgstr "Synshemmede"
 
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:273
 msgid "CONTENT|VoiceOver"
-msgstr ""
+msgstr "Voice"
 
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:388
 msgid "COUNTRY|Other"
-msgstr ""
+msgstr "Andre"
 
 #: Core/Implementation/ChannelSearchController.cpp:780
 #: Core/Implementation/ChannelSearchController.cpp:1623
 #: Core/Implementation/ChannelSearchController.cpp:2332
 msgid "Cable"
-msgstr ""
+msgstr "Kabel"
 
 #. Conditional Access
 #: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:172
 msgid "Card Accepted"
-msgstr ""
+msgstr "Kort Akseptert"
 
 #. Conditional Access
 #: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:178
 msgid "Card Not Responding"
-msgstr ""
+msgstr "Kort Svarer ikke"
 
 #. Conditional Access
 #: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:176
 msgid "Card Not Supported"
-msgstr ""
+msgstr "Kort støttes ikke"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:258
 msgid "Catalan"
-msgstr ""
+msgstr "Catalan"
 
 #. Conditional Access
 #: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:170
 msgid "Checking Card"
-msgstr ""
+msgstr "Kontroll-kort"
 
 #. Conditional Access
 #: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:50
 msgid "Checking Cards"
-msgstr ""
+msgstr "Kontroll kort"
 
 #. FutarqueEpgGenre
 #: Basic/FutarqueInfo/src/FutarqueEpgInfo.cpp:266
 msgid "Children's"
-msgstr ""
+msgstr "Barne"
 
 #. SettingsDBNetworkChangeType
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:396
 msgid "Coverage Changed"
-msgstr ""
+msgstr "Dekning Endret"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:309
 msgid "Croatian"
-msgstr ""
+msgstr "Kroatisk"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:314
 msgid "Czech"
-msgstr ""
+msgstr "Czech"
 
 #: Core/Implementation/SettingsDB/DynamicResource.cpp:34
 msgid "DYNUP|Checking"
-msgstr ""
+msgstr "Kontrollere"
 
 #: Core/Implementation/SettingsDB/DynamicResource.cpp:40
 msgid "DYNUP|Deleting"
-msgstr ""
+msgstr "Slette"
 
 #: Core/Implementation/SettingsDB/DynamicResource.cpp:38
 msgid "DYNUP|Deploying"
-msgstr ""
+msgstr "Distribuere"
 
 #: Core/Implementation/SettingsDB/DynamicResource.cpp:36
 msgid "DYNUP|Downloading"
-msgstr ""
+msgstr "Nedlasting"
 
 #: Core/Implementation/SettingsDB/DynamicResource.cpp:44
 msgid "DYNUP|Failed"
-msgstr ""
+msgstr "Mislyktes"
 
 #: Core/Implementation/SettingsDB/DynamicResource.cpp:32
 msgid "DYNUP|Idle"
-msgstr ""
+msgstr "Inaktiv"
 
 #: Core/Implementation/SettingsDB/DynamicResource.cpp:42
 msgid "DYNUP|Success"
-msgstr ""
+msgstr "Suksess"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:319
 msgid "Danish"
-msgstr ""
+msgstr "Danish"
 
 #. DENMARK
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:436
 msgid "Denmark"
-msgstr ""
+msgstr "Danmark"
 
 #. FutarqueEpgGenre
 #: Basic/FutarqueInfo/src/FutarqueEpgInfo.cpp:272
 msgid "Drama"
-msgstr ""
+msgstr "Drama"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:334
 msgid "Dutch"
-msgstr ""
+msgstr "nederlandsk"
 
 #: Core/Implementation/ChannelSearchController.cpp:507
 msgid "East"
-msgstr ""
+msgstr "Øst"
 
 #. FutarqueEpgGenre
 #: Basic/FutarqueInfo/src/FutarqueEpgInfo.cpp:268
 msgid "Education"
-msgstr ""
+msgstr "Utdanning"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:351
 msgid "English"
-msgstr ""
+msgstr "Engelsk"
 
 #. FutarqueEpgGenre
 #: Basic/FutarqueInfo/src/FutarqueEpgInfo.cpp:262
 msgid "Entertainment"
-msgstr ""
+msgstr "Entertainment"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:362
 msgid "Estonian"
-msgstr ""
+msgstr "Estonian"
 
 #. FINLAND
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:450
 msgid "Finland"
-msgstr ""
+msgstr "Finland"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:377
 msgid "Finnish"
-msgstr ""
+msgstr "Finnish"
 
 #. FRANCE
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:452
 msgid "France"
-msgstr ""
+msgstr "Frankrike"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:384
 msgid "French"
-msgstr ""
+msgstr "fransk"
 
 #. SettingsDBNetworkChangeType
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:400
 msgid "Frequency Changed"
-msgstr ""
+msgstr "Frekvens Endret"
 
 #: Basic/FutarqueInfo/src/FutarqueEpgInfo.cpp:274
 msgid "GENRE|Unknown"
-msgstr ""
+msgstr "Ukjent"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:397
 msgid "Gaelic"
-msgstr ""
+msgstr "Gaelic"
 
 #. Galician
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:400
 msgid "Gallegan"
-msgstr ""
+msgstr "Gallegan"
 
 #. Conditional Access
 #: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:89
 msgid "Geographical Blackout"
-msgstr ""
+msgstr "Geografisk Blackout"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:411
 msgid "German"
-msgstr ""
+msgstr "tysk"
 
 #. GERMANY
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:456
 msgid "Germany"
-msgstr ""
+msgstr "Tyskland"
 
 #. GREECE
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:458
 msgid "Greece"
-msgstr ""
+msgstr "Hellas"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:430
 msgid "Greek"
-msgstr ""
+msgstr "Gresk"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:437
 msgid "Gujarati"
-msgstr ""
+msgstr "Gujarati"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:454
 msgid "Hindi"
-msgstr ""
+msgstr "Hindi"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:459
 msgid "Hungarian"
-msgstr ""
+msgstr "Hungarian"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:466
 msgid "Icelandic"
-msgstr ""
+msgstr "Icelandic"
 
 #. INDIA
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:470
 msgid "India"
-msgstr ""
+msgstr "India"
 
 #. IRELAND
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:478
 msgid "Ireland"
-msgstr ""
+msgstr "Irland"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:489
 msgid "Irish"
-msgstr ""
+msgstr "Irish"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:498
 msgid "Italian"
-msgstr ""
+msgstr "Italiensk"
 
 #. ITALY
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:482
 msgid "Italy"
-msgstr ""
+msgstr "Italia"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:515
 msgid "Kannada"
-msgstr ""
+msgstr "Kannada"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:712
 msgid "LANG|Original"
-msgstr ""
+msgstr "Original"
 
 #: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2728
 msgid "LIST|All"
-msgstr ""
+msgstr "Alt"
 
 #: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2732
 msgid "LIST|Favorite"
-msgstr ""
+msgstr "Favoritt"
 
 #: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2730
 msgid "LIST|Hidden"
-msgstr ""
+msgstr "Skjult"
 
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:96
 msgid "LNB|SCIF"
-msgstr ""
+msgstr "SCIF"
 
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:80
 msgid "LNB|Universal"
-msgstr ""
+msgstr "Universal"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:580
 msgid "Latvian"
-msgstr ""
+msgstr "Latvisk"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:583
 msgid "Letzeburgesch"
-msgstr ""
+msgstr "Letzeburgesch"
 
 #. FutarqueEpgGenre
 #: Basic/FutarqueInfo/src/FutarqueEpgInfo.cpp:270
 msgid "Lifestyle"
-msgstr ""
+msgstr "Livsstil"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:590
 msgid "Lithuanian"
-msgstr ""
+msgstr "Litauisk"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:617
 msgid "Malayalam"
-msgstr ""
+msgstr "Malayalam"
 
 #. MALTA
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:524
 msgid "Malta"
-msgstr ""
+msgstr "Malta"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:632
 msgid "Marathi"
-msgstr ""
+msgstr "Marathi"
 
 #. Conditional Access
 #: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:106
 msgid "Maturity Locked"
-msgstr ""
+msgstr "Forfall Låst"
 
 #. SettingsDBNetworkChangeType
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:390
 msgid "Message Only"
-msgstr ""
+msgstr "Message Only"
 
 #. AudioMixType
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:287
 msgid "Mono"
-msgstr ""
+msgstr "Mono"
 
 #. FutarqueEpgGenre
 #: Basic/FutarqueInfo/src/FutarqueEpgInfo.cpp:258
 msgid "Movie"
-msgstr ""
+msgstr "Film"
 
 #. SettingsDBNetworkChangeType
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:392
 msgid "Multiplex Added"
-msgstr ""
+msgstr "Multiplex Lagd"
 
 #. SettingsDBNetworkChangeType
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:394
 msgid "Multiplex Removed"
-msgstr ""
+msgstr "Multiplex Fjernet"
 
 #. NETHERLANDS
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:531
 msgid "Netherlands"
-msgstr ""
+msgstr "Nederland"
 
 #. Conditional Access
 #: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:86
 msgid "Network Block"
-msgstr ""
+msgstr "Network Block"
 
 #. FutarqueEpgGenre
 #: Basic/FutarqueInfo/src/FutarqueEpgInfo.cpp:260
 msgid "News & Factual"
-msgstr ""
+msgstr "Nyheter og Fakta"
 
 #. equal to CCDS_DESCRAMBLING_FIRST_STATE
 #. Conditional Access
 #: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:83
 msgid "No Access"
-msgstr ""
+msgstr "Ingen adgang"
 
 #. Conditional Access
 #: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:167
 msgid "No Card"
-msgstr ""
+msgstr "Ingen kort"
 
 #. Conditional Access
 #: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:43
 msgid "No Cards"
-msgstr ""
+msgstr "Ingen kort"
 
 #. Conditional Access
 #: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:47
 msgid "No Matching Card"
-msgstr ""
+msgstr "Ingen Matching-kort"
 
 #. Conditional Access
 #: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:52
 msgid "No Resources"
-msgstr ""
+msgstr "Ingen Resources"
 
 #. Tuner
 #: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:389
 msgid "No Signal"
-msgstr ""
+msgstr "Intet signal"
 
 #: MediaRiteApi/Player/Player.cpp:461
 msgid "No Subtitles"
-msgstr ""
+msgstr "Ingen Teksting"
 
 #: MediaRiteApi/Settings/SettingsManager.cpp:346
 msgid "None"
-msgstr ""
+msgstr "None"
 
 #. NORWAY
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:537
 msgid "Norway"
-msgstr ""
+msgstr "Norge"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:693
 msgid "Norwegian"
-msgstr ""
+msgstr "norsk"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:735
 msgid "Panjabi"
-msgstr ""
+msgstr "Panjabi"
 
 #. POLAND
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:551
 msgid "Poland"
-msgstr ""
+msgstr "Polen"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:748
 msgid "Polish"
-msgstr ""
+msgstr "Polsk"
 
 #. PORTUGAL
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:554
 msgid "Portugal"
-msgstr ""
+msgstr "Portugal"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:753
 msgid "Portuguese"
-msgstr ""
+msgstr "Portugisisk"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:772
 msgid "Romanian"
-msgstr ""
+msgstr "Rumensk"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:779
 msgid "Russian"
-msgstr ""
+msgstr "Russian"
 
 #: Core/Implementation/Core/CoreInterfaceTypes.cpp:48
 msgid "STATUS|Capture resource already in use"
-msgstr ""
+msgstr "Capture ressurs som allerede er i bruk"
 
 #: Core/Implementation/Core/CoreInterfaceTypes.cpp:140
 msgid "STATUS|Codec Not Supported"
-msgstr ""
+msgstr "Codec støttes ikke"
 
 #: Core/Implementation/Core/CoreInterfaceTypes.cpp:168
 msgid "STATUS|Generic Error"
-msgstr ""
+msgstr "Generic Error"
 
 #: Core/Implementation/Core/CoreInterfaceTypes.cpp:106
 msgid "STATUS|Insufficient output protection"
-msgstr ""
+msgstr "Utilstrekkelig utgang beskyttelse"
 
 #. return _("STATUS|Tuner Error");
 #: Core/Implementation/Core/CoreInterfaceTypes.cpp:87
 msgid "STATUS|Low or No Signal"
-msgstr ""
+msgstr "Lav eller No Signal"
 
 #: Core/Implementation/Core/CoreInterfaceTypes.cpp:136
 msgid "STATUS|Missing Data"
-msgstr ""
+msgstr "Manglende data"
 
 #: Core/Implementation/Core/CoreInterfaceTypes.cpp:24
 msgid "STATUS|No Resource"
-msgstr ""
+msgstr "Ingen Resource"
 
 #: Core/Implementation/Core/CoreInterfaceTypes.cpp:116
 msgid "STATUS|No capture signal"
-msgstr ""
+msgstr "Ingen fangst signal"
 
 #: Core/Implementation/Core/CoreInterfaceTypes.cpp:123
 msgid "STATUS|No space left to record on"
-msgstr ""
+msgstr "Ingen plass igjen for å spille inn på"
 
 #: Core/Implementation/Core/CoreInterfaceTypes.cpp:51
 msgid "STATUS|No tuners available"
-msgstr ""
+msgstr "Ingen tunere tilgjengelige"
 
 #: Core/Implementation/Core/CoreInterfaceTypes.cpp:32
 msgid "STATUS|Nothing to Record"
-msgstr ""
+msgstr "Ingenting å ta opp"
 
 #: Core/Implementation/Core/CoreInterfaceTypes.cpp:28
 msgid "STATUS|Player Error"
-msgstr ""
+msgstr "Spiller Feil"
 
 #: Core/Implementation/Core/CoreInterfaceTypes.cpp:41
 #: Core/Implementation/Core/CoreInterfaceTypes.cpp:102
 msgid "STATUS|Service Error"
-msgstr ""
+msgstr "Service Feil"
 
 #: Core/Implementation/Core/CoreInterfaceTypes.cpp:95
 msgid "STATUS|Service Locked"
-msgstr ""
+msgstr "Tjenesten Låst"
 
 #: Core/Implementation/Core/CoreInterfaceTypes.cpp:44
 msgid "STATUS|Service is currently not being broadcasted"
-msgstr ""
+msgstr "Tjenesten er for tiden ikke blir kringkastet"
 
 #: Core/Implementation/Core/CoreInterfaceTypes.cpp:54
 msgid "STATUS|Storage resource not available"
-msgstr ""
+msgstr "Lagring ressurs ikke tilgjengelig"
 
 #: Core/Implementation/Core/CoreInterfaceTypes.cpp:76
 #: Core/Implementation/Core/CoreInterfaceTypes.cpp:99
 msgid "STATUS|Stream Error"
-msgstr ""
+msgstr "Stream Feil"
 
 #: Core/Implementation/Core/CoreInterfaceTypes.cpp:59
 msgid "STATUS|Stream Resource Unavailable"
-msgstr ""
+msgstr "Stream Resource utilgjengelig"
 
 #: Core/Implementation/Core/CoreInterfaceTypes.cpp:80
 msgid "STATUS|Tuner Params Out Of Range"
-msgstr ""
+msgstr "Tuner Params Out Of Range"
 
 #: Core/Implementation/Core/CoreInterfaceTypes.cpp:113
 msgid "STATUS|Unable to decode"
-msgstr ""
+msgstr "Kan ikke avkode"
 
 #: Core/Implementation/Core/CoreInterfaceTypes.cpp:131
 msgid "STATUS|Unable to record"
-msgstr ""
+msgstr "Kan ikke ta opp"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:786
 msgid "Sami"
-msgstr ""
+msgstr "Sami"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:795
 msgid "Sanskrit"
-msgstr ""
+msgstr "Sanskrit"
 
 #: Core/Implementation/ChannelSearchController.cpp:787
 #: Core/Implementation/ChannelSearchController.cpp:1620
 msgid "Satellite"
-msgstr ""
+msgstr "Satellite"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:806
 msgid "Serbo_Croatian"
-msgstr ""
+msgstr "Serbo Croatian"
 
 #: Core/Implementation/MediaHandlers/Analog/AnalogStreamHandler.cpp:306
-#, c-format
 msgid "Service %d.%d MHz"
-msgstr ""
+msgstr "Tjenesten% d.% D MHz"
 
 #: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:3223
 #: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:5335
-#, c-format
 msgid "Service <%u,%u,%u>"
-msgstr ""
+msgstr "Tjenesten <% u,% u,% u>"
 
 #. SettingsDBNetworkChangeType
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:398
 msgid "Service Changed"
-msgstr ""
+msgstr "Tjenesten Endret"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:831
 msgid "Slovak"
-msgstr ""
+msgstr "Slovak"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:834
 msgid "Slovenian"
-msgstr ""
+msgstr "Slovensk"
 
 #. SPAIN
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:575
 msgid "Spain"
-msgstr ""
+msgstr "Spania"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:851
 msgid "Spanish"
-msgstr ""
+msgstr "Spansk"
 
 #. FutarqueEpgGenre
 #: Basic/FutarqueInfo/src/FutarqueEpgInfo.cpp:264
 msgid "Sport"
-msgstr ""
+msgstr "Sport"
 
 #. AudioMixType
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:290
 msgid "Stereo"
-msgstr ""
+msgstr "Stereo"
 
 #. AudioMixType
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:293
 msgid "SurroundSound"
-msgstr ""
+msgstr "Surround Sound"
 
 #. SWEDEN
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:577
 msgid "Sweden"
-msgstr ""
+msgstr "Sverige"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:864
 msgid "Swedish"
-msgstr ""
+msgstr "Swedish"
 
 #. SWITZERLAND
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:579
 msgid "Switzerland"
-msgstr ""
+msgstr "Sveits"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:990
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1188
 msgid "TIME|Apr"
-msgstr ""
+msgstr "April"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1145
 msgid "TIME|April"
-msgstr ""
+msgstr "April"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1002
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1200
 msgid "TIME|Aug"
-msgstr ""
+msgstr "August"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1157
 msgid "TIME|August"
-msgstr ""
+msgstr "August"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1014
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1212
 msgid "TIME|Dec"
-msgstr ""
+msgstr "Desember"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1169
 msgid "TIME|December"
-msgstr ""
+msgstr "Desember"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:984
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1182
 msgid "TIME|Feb"
-msgstr ""
+msgstr "Februar"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1139
 msgid "TIME|February"
-msgstr ""
+msgstr "Februar"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1123
 msgid "TIME|Fri"
-msgstr ""
+msgstr "Fr"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1038
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1095
 msgid "TIME|Friday"
-msgstr ""
+msgstr "Fredag"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:981
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1179
 msgid "TIME|Jan"
-msgstr ""
+msgstr "Jan"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1136
 msgid "TIME|January"
-msgstr ""
+msgstr "Januar"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:999
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1197
 msgid "TIME|Jul"
-msgstr ""
+msgstr "Juli"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1154
 msgid "TIME|July"
-msgstr ""
+msgstr "Juli"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:996
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1194
 msgid "TIME|Jun"
-msgstr ""
+msgstr "Juni"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1151
 msgid "TIME|June"
-msgstr ""
+msgstr "Juni"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:987
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1185
 msgid "TIME|Mar"
-msgstr ""
+msgstr "Mar"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1142
 msgid "TIME|March"
-msgstr ""
+msgstr "Mars"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:993
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1191
 msgid "TIME|May"
-msgstr ""
+msgstr "Kan"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1148
 msgid "TIME|May_long"
-msgstr ""
+msgstr "Kan"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1111
 msgid "TIME|Mon"
-msgstr ""
+msgstr "Man"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1026
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1083
 msgid "TIME|Monday"
-msgstr ""
+msgstr "Mandag"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1011
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1209
 msgid "TIME|Nov"
-msgstr ""
+msgstr "November"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1166
 msgid "TIME|November"
-msgstr ""
+msgstr "November"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1008
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1206
 msgid "TIME|Oct"
-msgstr ""
+msgstr "Oktober"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1163
 msgid "TIME|October"
-msgstr ""
+msgstr "Oktober"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1126
 msgid "TIME|Sat"
-msgstr ""
+msgstr "Lør"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1041
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1098
 msgid "TIME|Saturday"
-msgstr ""
+msgstr "Lørdag"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1005
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1203
 msgid "TIME|Sep"
-msgstr ""
+msgstr "September"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1160
 msgid "TIME|September"
-msgstr ""
+msgstr "September"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1108
 msgid "TIME|Sun"
-msgstr ""
+msgstr "Sol"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1023
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1080
 msgid "TIME|Sunday"
-msgstr ""
+msgstr "Søndag"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1120
 msgid "TIME|Thu"
-msgstr ""
+msgstr "To"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1035
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1092
 msgid "TIME|Thursday"
-msgstr ""
+msgstr "Torsdag"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1114
 msgid "TIME|Tue"
-msgstr ""
+msgstr "Ti"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1029
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1086
 msgid "TIME|Tuesday"
-msgstr ""
+msgstr "Tirsdag"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1117
 msgid "TIME|Wed"
-msgstr ""
+msgstr "Wed"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1032
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1089
 msgid "TIME|Wednesday"
-msgstr ""
+msgstr "Onsdag"
 
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:366
 msgid "TUNER|Analog"
-msgstr ""
+msgstr "Analog"
 
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:37
 msgid "TUNER|Circular Left"
-msgstr ""
+msgstr "Rundskriv Venstre"
 
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:39
 msgid "TUNER|Circular Right"
-msgstr ""
+msgstr "Rundskriv Høyre"
 
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:33
 msgid "TUNER|Horizontal"
-msgstr ""
+msgstr "Horisontal"
 
 #. Tuner
 #: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:379
 msgid "TUNER|Locked"
-msgstr ""
+msgstr "Låst"
 
 #. Tuner
 #: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:382
 msgid "TUNER|Scanning"
-msgstr ""
+msgstr "Skanning"
 
 #. Tuner
 #: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:392
 msgid "TUNER|Unlocked"
-msgstr ""
+msgstr "Ulåst"
 
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:35
 msgid "TUNER|Vertical"
-msgstr ""
+msgstr "Vertikal"
 
 #. TAIWAN,PROVINCEOFCHINA
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:583
 msgid "Taiwan"
-msgstr ""
+msgstr "Taiwan"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:877
 msgid "Tamil"
-msgstr ""
+msgstr "Tamil"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:882
 msgid "Telugu"
-msgstr ""
+msgstr "Telugu"
 
 #: Core/Implementation/ChannelSearchController.cpp:2329
 msgid "Terrestrial"
-msgstr ""
+msgstr "Terrestrial"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:934
 msgid "Today"
-msgstr ""
+msgstr "I dag"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:942
 msgid "Tomorrow"
-msgstr ""
+msgstr "I morgen"
 
 #. TURKEY
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:592
 msgid "Turkey"
-msgstr ""
+msgstr "Kalkun"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:915
 msgid "Turkish"
-msgstr ""
+msgstr "Turkish"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:930
 msgid "Ukrainian"
-msgstr ""
+msgstr "Ukrainsk"
 
 #. FutarqueEpgGenre
 #: Basic/FutarqueInfo/src/FutarqueEpgInfo.cpp:256
 msgid "Unclassified"
-msgstr ""
+msgstr "Uklassifisert"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:935
 msgid "Undetermined"
-msgstr ""
+msgstr "Ubestemt"
 
 #. UNITEDKINGDOM
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:598
 msgid "United Kingdom"
-msgstr ""
+msgstr "Storbritannia"
 
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:31
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:42
@@ -989,31 +977,32 @@ msgstr ""
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:402
 #: Core/Implementation/SettingsDB/DynamicResource.cpp:46
 msgid "Unknown"
-msgstr ""
+msgstr "Ukjent"
 
 #. SettingsDBNetworkChangeType
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:388
 msgid "Unspecified"
-msgstr ""
+msgstr "Uspesifisert"
 
 #. Conditional Access
 #: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:45
 msgid "Unsupported encryption system"
-msgstr ""
+msgstr "Uegnet krypteringssystem"
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:960
 msgid "Welsh"
-msgstr ""
+msgstr "Welsh"
 
 #: Core/Implementation/ChannelSearchController.cpp:504
 msgid "West"
-msgstr ""
+msgstr "Vest"
 
 #. Conditional Access
 #: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:174
 msgid "Wrong Card Version"
-msgstr ""
+msgstr "Feil kort versjon"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:938
 msgid "Yesterday"
-msgstr ""
+msgstr "I går"
+
