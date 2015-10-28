@@ -1,4 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">AuroraLauncher</string>
+<string name="app_name">"AuroraLauncher"</string>
+<string name="home_featured">"Utvalda"</string>
+<string name="home_launcher_settings">"Konfiguration"</string>
+<string name="home_leanback">"TV Apps"</string>
+<string name="home_recent">"Senaste"</string>
+<string name="home_settings">"Inställningar"</string>
+<string name="home_standard">"Appar"</string>
+<string name="home_system">"System"</string>
+<string name="home_system_display">"Display"</string>
+<string name="home_system_manage_applications">"Hantera program"</string>
+<string name="home_system_power">"Stäng ner"</string>
+<string name="home_system_settings">"Systeminställningar"</string>
+<string name="home_system_sound">"Ljud"</string>
+<string name="preferences_applications">"Tillämpningar"</string>
+<string name="preferences_country">"Land"</string>
+<string name="preferences_groups">"Grupper"</string>
+<string name="preferences_preferences">"Inställningar"</string>
+<string name="search_result">"Sökresultat:"</string>
 </resources>
