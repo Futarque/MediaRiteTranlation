@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="wizard_complete_ok">OK</string>
+<string name="wizard_country">"Maa"</string>
+<string name="wizard_country_description">"Valitse maa"</string>
+<string name="wizard_language">"Kieli"</string>
+<string name="wizard_language_description">"Valitse kieli"</string>
+<string name="wizard_timezone">"Aikavyöhyke"</string>
+<string name="wizard_timezone_description">"Valitse aikavyöhyke"</string>
+<string name="wizard_complete">"Wizard valmistunut"</string>
+<string name="wizard_complete_ok">"OK"</string>
+<string name="wizard_wifi_description">"Valitse Wifi tukiaseman"</string>
+<string name="wizard_wifi">"Wifi"</string>
 </resources>
