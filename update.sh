@@ -68,37 +68,39 @@ if [ "$TDIR" == "." ] ; then
     $CMD ${SDIR}/Source/Android/Amoeba/app/src/main/res/values/strings.xml strings.tmp
     cat strings.tmp |grep -v 'translatable="false"' > ${TDIR}/Source/Android/Amoeba/app/src/main/res/values/strings.xml
     rm -f strings.tmp
+else
+    for dir in ${SDIR}/Source/Android/Amoeba/app/src/main/res/values-??; do
+	[ -d "${dir}" ] || continue # if not a directory, skip
+	dirname="$(basename "${dir}")"    
+	mkdir -p ${TDIR}/Source/Android/Amoeba/app/src/main/res/${dirname}
+	$CMD ${SDIR}/Source/Android/Amoeba/app/src/main/res/${dirname}/strings.xml ${TDIR}/Source/Android/Amoeb#a/app/src/main/res/${dirname}/strings.xml
+    done
 fi
-for dir in ${SDIR}/Source/Android/Amoeba/app/src/main/res/values-??; do
-    [ -d "${dir}" ] || continue # if not a directory, skip
-    dirname="$(basename "${dir}")"    
-    mkdir -p ${TDIR}/Source/Android/Amoeba/app/src/main/res/${dirname}
-    $CMD ${SDIR}/Source/Android/Amoeba/app/src/main/res/${dirname}/strings.xml ${TDIR}/Source/Android/Amoeba/app/src/main/res/${dirname}/strings.xml
-done
-
 if [ "$TDIR" == "." ] ; then
     $CMD ${SDIR}/Source/Android/AuroraLauncher/app/src/main/res/values/strings.xml strings.tmp
     cat strings.tmp |grep -v 'translatable="false"' > ${TDIR}/Source/Android/AuroraLauncher/app/src/main/res/values/strings.xml
     rm -f strings.tmp
+else
+    for dir in ${SDIR}/Source/Android/AuroraLauncher/app/src/main/res/values-??; do
+	[ -d "${dir}" ] || continue # if not a directory, skip
+	dirname="$(basename "${dir}")"    
+	mkdir -p ${TDIR}/Source/Android/AuroraLauncher/app/src/main/res/${dirname}
+	$CMD ${SDIR}/Source/Android/AuroraLauncher/app/src/main/res/${dirname}/strings.xml ${TDIR}/Source/Android/AuroraLauncher/app/src/main/res/${dirname}/strings.xml
+    done
 fi
-for dir in ${SDIR}/Source/Android/AuroraLauncher/app/src/main/res/values-??; do
-    [ -d "${dir}" ] || continue # if not a directory, skip
-    dirname="$(basename "${dir}")"    
-    mkdir -p ${TDIR}/Source/Android/AuroraLauncher/app/src/main/res/${dirname}
-    $CMD ${SDIR}/Source/Android/AuroraLauncher/app/src/main/res/${dirname}/strings.xml ${TDIR}/Source/Android/AuroraLauncher/app/src/main/res/${dirname}/strings.xml
-done
 
 if [ "$TDIR" == "." ] ; then
     $CMD ${SDIR}/Source/Android/AuroraWizard/app/src/main/res/values/strings.xml strings.tmp
     cat strings.tmp |grep -v 'translatable="false"' > ${TDIR}/Source/Android/AuroraWizard/app/src/main/res/values/strings.xml
     rm -f strings.tmp
+else
+    for dir in ${SDIR}/Source/Android/AuroraWizard/app/src/main/res/values-??; do
+	[ -d "${dir}" ] || continue # if not a directory, skip
+	dirname="$(basename "${dir}")"    
+	mkdir -p ${TDIR}/Source/Android/AuroraWizard/app/src/main/res/${dirname}
+	$CMD ${SDIR}/Source/Android/AuroraWizard/app/src/main/res/${dirname}/strings.xml ${TDIR}/Source/Android/AuroraWizard/app/src/main/res/${dirname}/strings.xml
+    done
 fi
-for dir in ${SDIR}/Source/Android/AuroraWizard/app/src/main/res/values-??; do
-    [ -d "${dir}" ] || continue # if not a directory, skip
-    dirname="$(basename "${dir}")"    
-    mkdir -p ${TDIR}/Source/Android/AuroraWizard/app/src/main/res/${dirname}
-    $CMD ${SDIR}/Source/Android/AuroraWizard/app/src/main/res/${dirname}/strings.xml ${TDIR}/Source/Android/AuroraWizard/app/src/main/res/${dirname}/strings.xml
-done
 
 else
 $CMD ${SDIR}/Resource/Language/7702/locale/ ${TDIR}/Resource/Language/7702/locale/
