@@ -24,7 +24,6 @@ while [ -n "$1" ]; do
 			shift
 			CMD=cp
 			TDIR=$1
-
 			;;
 		-update)
 			shift
@@ -58,12 +57,15 @@ if [ -z "$1" ] ; then
 fi
 
 if [ "$CMD" == "cp" ] ; then
-$CMD ${SDIR}/Resource/Language/7702/locale/master.pot ${TDIR}/Resource/Language/7702/locale/master.pot
-for dir in ${SDIR}/Resource/Language/7702/locale/??; do
-    [ -d "${dir}" ] || continue # if not a directory, skip
-    dirname="$(basename "${dir}")"    
-    $CMD ${SDIR}/Resource/Language/7702/locale/${dirname}/mediarite.po ${TDIR}/Resource/Language/7702/locale/${dirname}/mediarite.po
-done
+if [ "$TDIR" == "." ] ; then
+    $CMD ${SDIR}/Resource/Language/7702/locale/master.pot ${TDIR}/Resource/Language/7702/locale/master.pot
+else
+    for dir in ${SDIR}/Resource/Language/7702/locale/??; do
+	[ -d "${dir}" ] || continue # if not a directory, skip
+	dirname="$(basename "${dir}")"    
+	$CMD ${SDIR}/Resource/Language/7702/locale/${dirname}/mediarite.po ${TDIR}/Resource/Language/7702/locale/${dirname}/mediarite.po
+    done
+fi
 if [ "$TDIR" == "." ] ; then
     $CMD ${SDIR}/Source/Android/Amoeba/app/src/main/res/values/strings.xml strings.tmp
     cat strings.tmp |grep -v 'translatable="false"' > ${TDIR}/Source/Android/Amoeba/app/src/main/res/values/strings.xml
