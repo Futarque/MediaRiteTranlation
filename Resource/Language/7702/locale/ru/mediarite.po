@@ -7,31 +7,31 @@ msgstr ""
 "Project-Id-Version: MediaRite\n"
 "Language: ru\n"
 
-#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:352
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:417
 #: Core/Implementation/ChannelSearchController.cpp:2335
 msgid "Analog"
 msgstr "Аналоговый"
 
 #. Tuner
-#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:376
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:441
 msgid "Antenna Error"
 msgstr "Антенна Ошибка"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:176
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:138
 msgid "Assamese"
 msgstr "Ассамский"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:181
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:129
 msgid "Audio Description"
 msgstr "Описание аудио"
 
 #. AUSTRALIA
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:399
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:376
 msgid "Australia"
 msgstr "Австралия"
 
 #. AUSTRIA
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:402
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:378
 msgid "Austria"
 msgstr "Австрия"
 
@@ -40,24 +40,24 @@ msgstr "Австрия"
 msgid "Bad Card"
 msgstr "Плохой карты"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:216
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:141
 msgid "Basque"
 msgstr "Баскский"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:251
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:150
 msgid "Belarusian"
 msgstr "Белорусский"
 
 #. BELGIUM
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:410
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:380
 msgid "Belgium"
 msgstr "Бельгия"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:223
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:144
 msgid "Bengali"
 msgstr "Бенгальский"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:244
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:147
 msgid "Bulgarian"
 msgstr "Болгарский"
 
@@ -139,7 +139,7 @@ msgstr "Слабовидящих"
 msgid "CONTENT|VoiceOver"
 msgstr "VoiceOver"
 
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:388
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:374
 msgid "COUNTRY|Other"
 msgstr "Другие"
 
@@ -164,7 +164,7 @@ msgstr "Карта не отвечает"
 msgid "Card Not Supported"
 msgstr "Карта памяти не поддерживается"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:258
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:153
 msgid "Catalan"
 msgstr "Каталонский"
 
@@ -188,11 +188,11 @@ msgstr "Детский"
 msgid "Coverage Changed"
 msgstr "Покрытие Изменено"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:309
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:156
 msgid "Croatian"
 msgstr "Хорватский"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:314
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:159
 msgid "Czech"
 msgstr "Чешский"
 
@@ -224,12 +224,12 @@ msgstr "Холостой"
 msgid "DYNUP|Success"
 msgstr "Успех"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:319
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:162
 msgid "Danish"
 msgstr "Датский"
 
 #. DENMARK
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:436
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:382
 msgid "Denmark"
 msgstr "Дания"
 
@@ -238,11 +238,12 @@ msgstr "Дания"
 msgid "Drama"
 msgstr "Драма"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:334
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:165
 msgid "Dutch"
 msgstr "Голландский"
 
-#: Core/Implementation/ChannelSearchController.cpp:507
+#: Core/Implementation/ChannelSearchController.cpp:504
+#: MediaRiteApi/ChannelLists/ChannelListManager.cpp:410
 msgid "East"
 msgstr "Восток"
 
@@ -251,7 +252,7 @@ msgstr "Восток"
 msgid "Education"
 msgstr "Образование"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:351
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:168
 msgid "English"
 msgstr "английский"
 
@@ -260,25 +261,25 @@ msgstr "английский"
 msgid "Entertainment"
 msgstr "Развлекательная программа"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:362
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:171
 msgid "Estonian"
 msgstr "Эстонский"
 
 #. FINLAND
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:450
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:384
 msgid "Finland"
 msgstr "Финляндия"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:377
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:174
 msgid "Finnish"
 msgstr "Финский"
 
 #. FRANCE
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:452
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:386
 msgid "France"
 msgstr "Франция"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:384
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:177
 msgid "French"
 msgstr "Французский"
 
@@ -291,82 +292,77 @@ msgstr "Частота Изменено"
 msgid "GENRE|Unknown"
 msgstr "Неизвестный"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:397
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:180
 msgid "Gaelic"
 msgstr "Гаэльский"
-
-#. Galician
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:400
-msgid "Gallegan"
-msgstr "Gallegan"
 
 #. Conditional Access
 #: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:89
 msgid "Geographical Blackout"
 msgstr "Географическое Затемнение"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:411
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:183
 msgid "German"
 msgstr "Немецкий"
 
 #. GERMANY
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:456
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:388
 msgid "Germany"
 msgstr "Германия"
 
 #. GREECE
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:458
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:390
 msgid "Greece"
 msgstr "Греция"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:430
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:186
 msgid "Greek"
 msgstr "Греческий"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:437
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:189
 msgid "Gujarati"
 msgstr "Гуджарати"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:454
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:192
 msgid "Hindi"
 msgstr "Хинди"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:459
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:195
 msgid "Hungarian"
 msgstr "Венгерский"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:466
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:198
 msgid "Icelandic"
 msgstr "Исландский"
 
 #. INDIA
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:470
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:392
 msgid "India"
 msgstr "Индия"
 
 #. IRELAND
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:478
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:394
 msgid "Ireland"
 msgstr "Ирландия"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:489
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:201
 msgid "Irish"
 msgstr "Ирландский"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:498
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:204
 msgid "Italian"
 msgstr "Итальянский"
 
 #. ITALY
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:482
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:396
 msgid "Italy"
 msgstr "Италия"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:515
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:207
 msgid "Kannada"
 msgstr "Каннада"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:712
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:135
 msgid "LANG|Original"
 msgstr "Оригинальный"
 
@@ -390,11 +386,11 @@ msgstr "SCIF"
 msgid "LNB|Universal"
 msgstr "Универсальный"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:580
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:210
 msgid "Latvian"
 msgstr "Латышский"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:583
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:213
 msgid "Letzeburgesch"
 msgstr "Люксембургский"
 
@@ -403,20 +399,20 @@ msgstr "Люксембургский"
 msgid "Lifestyle"
 msgstr "Стиль жизни"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:590
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:216
 msgid "Lithuanian"
 msgstr "Литовский"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:617
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:219
 msgid "Malayalam"
 msgstr "Малаялам"
 
 #. MALTA
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:524
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:398
 msgid "Malta"
 msgstr "Мальта"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:632
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:222
 msgid "Marathi"
 msgstr "Маратхи"
 
@@ -451,7 +447,7 @@ msgid "Multiplex Removed"
 msgstr "Мультиплекс Удалены"
 
 #. NETHERLANDS
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:531
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:400
 msgid "Netherlands"
 msgstr "Нидерланды"
 
@@ -492,7 +488,7 @@ msgid "No Resources"
 msgstr "Нет ресурсы"
 
 #. Tuner
-#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:389
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:454
 msgid "No Signal"
 msgstr "Нет сигнала"
 
@@ -500,46 +496,46 @@ msgstr "Нет сигнала"
 msgid "No Subtitles"
 msgstr "Нет Субтитры"
 
-#: MediaRiteApi/Settings/SettingsManager.cpp:346
+#: MediaRiteApi/Settings/SettingsManager.cpp:340
 msgid "None"
 msgstr "Ни одной"
 
 #. NORWAY
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:537
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:402
 msgid "Norway"
 msgstr "Норвегия"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:693
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:225
 msgid "Norwegian"
 msgstr "Норвежский"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:735
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:228
 msgid "Panjabi"
 msgstr "Panjabi"
 
 #. POLAND
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:551
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:404
 msgid "Poland"
 msgstr "Польша"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:748
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:231
 msgid "Polish"
 msgstr "Польский"
 
 #. PORTUGAL
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:554
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:406
 msgid "Portugal"
 msgstr "Португалия"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:753
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:234
 msgid "Portuguese"
 msgstr "Португальский"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:772
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:237
 msgid "Romanian"
 msgstr "Румынский"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:779
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:240
 msgid "Russian"
 msgstr "Русский"
 
@@ -630,11 +626,11 @@ msgstr "Невозможно Расшифруйте"
 msgid "STATUS|Unable to record"
 msgstr "Невозможно записать"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:786
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:243
 msgid "Sami"
 msgstr "Сами"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:795
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:246
 msgid "Sanskrit"
 msgstr "Санскрит"
 
@@ -642,10 +638,6 @@ msgstr "Санскрит"
 #: Core/Implementation/ChannelSearchController.cpp:1620
 msgid "Satellite"
 msgstr "спутник"
-
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:806
-msgid "Serbo_Croatian"
-msgstr "Сербско хорватский"
 
 #: Core/Implementation/MediaHandlers/Analog/AnalogStreamHandler.cpp:306
 msgid "Service %d.%d MHz"
@@ -661,20 +653,20 @@ msgstr "Сервис <% и,% U,% U>"
 msgid "Service Changed"
 msgstr "Обслуживание Изменено"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:831
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:249
 msgid "Slovak"
 msgstr "Словацкий"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:834
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:252
 msgid "Slovenian"
 msgstr "Словенский"
 
 #. SPAIN
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:575
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:408
 msgid "Spain"
 msgstr "Испания"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:851
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:255
 msgid "Spanish"
 msgstr "испанский"
 
@@ -694,187 +686,187 @@ msgid "SurroundSound"
 msgstr "Объемный звук"
 
 #. SWEDEN
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:577
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:410
 msgid "Sweden"
 msgstr "Швеция"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:864
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:258
 msgid "Swedish"
 msgstr "Шведский"
 
 #. SWITZERLAND
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:579
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:412
 msgid "Switzerland"
 msgstr "Швейцария"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:990
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1188
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1006
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1204
 msgid "TIME|Apr"
 msgstr "Апрель"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1145
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1161
 msgid "TIME|April"
 msgstr "апрель"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1002
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1200
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1018
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1216
 msgid "TIME|Aug"
 msgstr "Август"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1157
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1173
 msgid "TIME|August"
 msgstr "Август"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1014
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1212
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1030
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1228
 msgid "TIME|Dec"
 msgstr "Декабрь"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1169
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1185
 msgid "TIME|December"
 msgstr "Декабрь"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:984
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1182
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1000
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1198
 msgid "TIME|Feb"
 msgstr "Февраль"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1139
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1155
 msgid "TIME|February"
 msgstr "Февраль"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1123
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1139
 msgid "TIME|Fri"
 msgstr "Пт"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1038
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1095
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1054
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1111
 msgid "TIME|Friday"
 msgstr "Пятница"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:981
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1179
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:997
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1195
 msgid "TIME|Jan"
 msgstr "Январь"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1136
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1152
 msgid "TIME|January"
 msgstr "Января"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:999
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1197
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1015
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1213
 msgid "TIME|Jul"
 msgstr "Июль"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1154
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1170
 msgid "TIME|July"
 msgstr "Июль"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:996
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1194
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1012
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1210
 msgid "TIME|Jun"
 msgstr "Июнь"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1151
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1167
 msgid "TIME|June"
 msgstr "Июнь"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:987
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1185
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1003
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1201
 msgid "TIME|Mar"
 msgstr "Март"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1142
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1158
 msgid "TIME|March"
 msgstr "Март"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:993
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1191
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1009
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1207
 msgid "TIME|May"
 msgstr "май"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1148
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1164
 msgid "TIME|May_long"
 msgstr "май"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1111
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1127
 msgid "TIME|Mon"
 msgstr "Пн"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1026
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1083
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1042
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1099
 msgid "TIME|Monday"
 msgstr "понедельник"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1011
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1209
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1027
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1225
 msgid "TIME|Nov"
 msgstr "Ноября"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1166
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1182
 msgid "TIME|November"
 msgstr "Ноября"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1008
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1206
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1024
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1222
 msgid "TIME|Oct"
 msgstr "Октябрь"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1163
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1179
 msgid "TIME|October"
 msgstr "Октября"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1126
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1142
 msgid "TIME|Sat"
 msgstr "Сидел"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1041
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1098
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1057
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1114
 msgid "TIME|Saturday"
 msgstr "Суббота"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1005
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1203
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1021
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1219
 msgid "TIME|Sep"
 msgstr "Сентябрь"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1160
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1176
 msgid "TIME|September"
 msgstr "сентябрь"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1108
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1124
 msgid "TIME|Sun"
 msgstr "солнце"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1023
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1080
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1039
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1096
 msgid "TIME|Sunday"
 msgstr "Воскресенье"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1120
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1136
 msgid "TIME|Thu"
 msgstr "Чт"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1035
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1092
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1051
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1108
 msgid "TIME|Thursday"
 msgstr "Четверг"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1114
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1130
 msgid "TIME|Tue"
 msgstr "Вт"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1029
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1086
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1045
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1102
 msgid "TIME|Tuesday"
 msgstr "Вторник"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1117
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1133
 msgid "TIME|Wed"
 msgstr "Мы б"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1032
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1089
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1048
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1105
 msgid "TIME|Wednesday"
 msgstr "Среда"
 
@@ -895,17 +887,17 @@ msgid "TUNER|Horizontal"
 msgstr "Горизонтальный"
 
 #. Tuner
-#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:379
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:444
 msgid "TUNER|Locked"
 msgstr "Запертый"
 
 #. Tuner
-#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:382
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:447
 msgid "TUNER|Scanning"
 msgstr "Сканирование"
 
 #. Tuner
-#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:392
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:457
 msgid "TUNER|Unlocked"
 msgstr "Разблокирована"
 
@@ -914,15 +906,15 @@ msgid "TUNER|Vertical"
 msgstr "Вертикальный"
 
 #. TAIWAN,PROVINCEOFCHINA
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:583
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:414
 msgid "Taiwan"
 msgstr "Тайвань"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:877
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:261
 msgid "Tamil"
 msgstr "Тамильский"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:882
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:264
 msgid "Telugu"
 msgstr "Телугу"
 
@@ -930,24 +922,24 @@ msgstr "Телугу"
 msgid "Terrestrial"
 msgstr "Земной"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:934
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:950
 msgid "Today"
 msgstr "Cегодня"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:942
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:958
 msgid "Tomorrow"
 msgstr "Завтра"
 
 #. TURKEY
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:592
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:416
 msgid "Turkey"
 msgstr "индейка"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:915
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:267
 msgid "Turkish"
 msgstr "турецкий"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:930
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:270
 msgid "Ukrainian"
 msgstr "украинец"
 
@@ -956,12 +948,12 @@ msgstr "украинец"
 msgid "Unclassified"
 msgstr "Неклассифицированный"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:935
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:132
 msgid "Undetermined"
 msgstr "Неопределенный"
 
 #. UNITEDKINGDOM
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:598
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:418
 msgid "United Kingdom"
 msgstr "Великобритания"
 
@@ -975,6 +967,7 @@ msgstr "Великобритания"
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:300
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:386
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:402
+#: Core/Implementation/Storage/Gio/CddaRipActivity.cpp:76
 #: Core/Implementation/SettingsDB/DynamicResource.cpp:46
 msgid "Unknown"
 msgstr "Неизвестный"
@@ -989,11 +982,12 @@ msgstr "Неопределенные"
 msgid "Unsupported encryption system"
 msgstr "Поддерживается система шифрования"
 
-#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:960
+#: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:273
 msgid "Welsh"
 msgstr "Валлийский"
 
-#: Core/Implementation/ChannelSearchController.cpp:504
+#: Core/Implementation/ChannelSearchController.cpp:507
+#: MediaRiteApi/ChannelLists/ChannelListManager.cpp:413
 msgid "West"
 msgstr "Запад"
 
@@ -1002,7 +996,111 @@ msgstr "Запад"
 msgid "Wrong Card Version"
 msgstr "Неправильная версия карты"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:938
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:954
 msgid "Yesterday"
 msgstr "Вчера"
+
+#: Core/Implementation/Storage/Gio/GioVolumeMonitor.cpp:578
+msgid "Audio CD"
+msgstr "Audio CD"
+
+#. OAD
+#: Core/Implementation/SoftwareUpdateController.cpp:1167
+msgid "Decryption error"
+msgstr "Ошибка расшифровки"
+
+#. OAD
+#: Core/Implementation/SoftwareUpdateController.cpp:665
+#: Core/Implementation/SoftwareUpdateController.cpp:1017
+msgid "Error contacting update server"
+msgstr "Ошибка в контакт сервер обновлений"
+
+#. OAD
+#: Core/Implementation/SoftwareUpdateController.cpp:701
+#: Core/Implementation/SoftwareUpdateController.cpp:719
+#: Core/Implementation/OverAirUpdateController.cpp:134
+msgid "Error downloading update."
+msgstr "Ошибка загрузки обновления."
+
+#. OAD
+#: Core/Implementation/SoftwareUpdateController.cpp:674
+#: Core/Implementation/SoftwareUpdateController.cpp:681
+#: Core/Implementation/SoftwareUpdateController.cpp:1144
+#: Core/Implementation/SoftwareUpdateController.cpp:1153
+msgid "Error reading update file"
+msgstr "Ошибка чтения файла обновления"
+
+#. newTuner.mFrontEndCapabilityMask;
+#: Core/Implementation/Stream/Modules/NetworkTunerManager/NetworkTunerManager.cpp:648
+msgid "Internal"
+msgstr "Внутренний"
+
+#: Core/Implementation/Storage/Gio/GioVolumeMonitor.cpp:514
+msgid "Internal HDD"
+msgstr "Внутренний жесткий диск"
+
+#. OAD
+#: Core/Implementation/SoftwareUpdateController.cpp:1053
+msgid "Invalid index file"
+msgstr "Неверный индексный файл"
+
+#. OAD
+#: Core/Implementation/SoftwareUpdateController.cpp:983
+msgid "Invalid product."
+msgstr "Неверный продукт."
+
+#. OAD
+#: Core/Implementation/SoftwareUpdateController.cpp:1032
+msgid "No update found at URL"
+msgstr "Не обновление не найдено в URL"
+
+#. CDDA
+#: Core/Implementation/Storage/Gio/FutarqueCdda.cpp:115
+msgid "Track"
+msgstr "Трек"
+
+#. OAD
+#: Core/Implementation/SoftwareUpdateController.cpp:997
+msgid "Unable to burn update."
+msgstr "Не удается записать обновление."
+
+#. OAD
+#: Core/Implementation/SoftwareUpdateController.cpp:980
+msgid "Update corrupt."
+msgstr "Обновление поврежден."
+
+#. OAD
+#: Core/Implementation/SoftwareUpdateController.cpp:819
+#: Core/Implementation/SoftwareUpdateController.cpp:1053
+#: Core/Implementation/SoftwareUpdateController.cpp:1167
+#: Core/Implementation/OverAirUpdateController.cpp:253
+#: Core/Implementation/OverAirUpdateController.cpp:261
+#: Core/Implementation/OverAirUpdateController.cpp:283
+msgid "Update failed"
+msgstr "Не удалось обновить"
+
+#. OAD
+#: Core/Implementation/SoftwareUpdateController.cpp:986
+msgid "Update invalid."
+msgstr "Обновление недействительным."
+
+#. OAD
+#: Core/Implementation/SoftwareUpdateController.cpp:989
+msgid "Update requirements not met."
+msgstr "Требования к обновлению не выполняются."
+
+#. OAD
+#: Core/Implementation/OverAirUpdateController.cpp:283
+msgid "Verify error"
+msgstr "Проверьте ошибку"
+
+#. OAD
+#: Core/Implementation/SoftwareUpdateController.cpp:819
+msgid "Write error"
+msgstr "Ошибка записи"
+
+#. OAD
+#: Core/Implementation/SoftwareUpdateController.cpp:992
+msgid "Your current version is newer."
+msgstr "Ваше текущее версия новее."
 
