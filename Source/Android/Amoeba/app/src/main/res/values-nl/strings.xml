@@ -122,4 +122,6 @@ De resulterende zip-bestand moet worden genoemd picons.zip en geplaatst op de ba
 <string name="menu_purchase_1_year_ad_free_description">"Geen pop-up advertenties voor een jaar. Heeft video-advertenties tv-kanalen 'niet verwijderen. Betekent niet automatisch rebill."</string>
 <string name="menu_purchase_thank_you_level_1_description">"Voeden de ontwikkelaars. Doet niets, maar geeft je een warme, fuzzy gevoel van binnen."</string>
 <string name="menu_purchase_thank_you_level_2_description">"Voeden de ontwikkelaars nog meer. Doet niets. Wij zullen u een warm gedachte sturen en blaas je een kus :-)"</string>
+<string name="menu_wizard_tuner_select_already_selected">"Typ reeds geselecteerd"</string>
+<string name="menu_wizard_download_resources">"Downloaden Resources"</string>
 </resources>
