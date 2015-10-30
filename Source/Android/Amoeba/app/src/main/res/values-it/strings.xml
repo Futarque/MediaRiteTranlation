@@ -30,7 +30,7 @@
 <string name="tuner_select">"Selezionare i dispositivi di sintonizzazione"</string>
 <string name="hello_search_setup">"Impostazione %s opzioni di ricerca.
 Prima di procedere assicuratevi che il vostro cavo dell'antenna è collegato al sintonizzatore.
-Se si utilizza Network Tuner (FutarqueTvGateway, HDHomeRun, Sat&gt; IP), questi devono essere installato correttamente e collegato alla rete di voi."</string>
+Se si utilizza Network Tuner (FutarqueTvGateway, HDHomeRun, SAT&gt;IP), questi devono essere installato correttamente e collegato alla rete di voi."</string>
 <string name="menu_initial_no_channels">"Nessun canale"</string>
 <string name="menu_initial_no_events">"Nessun evento"</string>
 <string name="menu_no_channels_match">"Nessuna corrispondenza"</string>

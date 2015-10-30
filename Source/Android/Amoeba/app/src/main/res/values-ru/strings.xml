@@ -30,7 +30,7 @@
 <string name="tuner_select">"Выберите Ваш тюнер устройства"</string>
 <string name="hello_search_setup">"Установку %s параметры поиска.
 Прежде чем продолжить, пожалуйста, убедитесь, что, что ваша антенна кабель подключен к тюнеру.
-Если вы используете сети тюнерами (FutarqueTvGateway, HDHomeRun, сб&gt; IP), это должен быть настроен правильно и подключен к сети вам."</string>
+Если вы используете сети тюнерами (FutarqueTvGateway, HDHomeRun, SAT&gt;IP), это должен быть настроен правильно и подключен к сети вам."</string>
 <string name="menu_initial_no_channels">"Нет каналы"</string>
 <string name="menu_initial_no_events">"Событий нет"</string>
 <string name="menu_no_channels_match">"Не совпадает"</string>

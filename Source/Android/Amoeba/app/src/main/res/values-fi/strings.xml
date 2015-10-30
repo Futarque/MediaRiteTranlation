@@ -30,7 +30,7 @@
 <string name="tuner_select">"Valitse viritinlaitteista"</string>
 <string name="hello_search_setup">"Asetukset %s hakuvaihtoehtoja.
 Ennen kuin jatkat varmista, että antennijohto on liitetty virittimen.
-Jos käytät Network virittimet (FutarqueTvGateway, HDHomeRun, la&gt; IP), niiden on oltava määritetty oikein ja kytketty teille verkkoon."</string>
+Jos käytät Network virittimet (FutarqueTvGateway, HDHomeRun, SAT&gt;IP), niiden on oltava määritetty oikein ja kytketty teille verkkoon."</string>
 <string name="menu_initial_no_channels">"Ei Kanavat"</string>
 <string name="menu_initial_no_events">"Ei tapahtumia"</string>
 <string name="menu_no_channels_match">"Ei osumia"</string>

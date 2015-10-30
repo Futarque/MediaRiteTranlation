@@ -13,7 +13,7 @@
 <string name="button_update">"Opdater"</string>
 <string name="button_edit">"Rediger"</string>
 <string name="button_reset">"Nulstil"</string>
-<string name="wizard_welcome">"Den følgende guide vil hjælpe dig med at indstille din Aurora digitale TV kilent."</string>
+<string name="wizard_welcome">"Den følgende guide vil hjælpe dig med at indstille din Aurora digitale TV klient."</string>
 <string name="wizard_instruction">"Tryk næste for at fortsætte"</string>
 <string name="location_welcome">"Vælg dit land"</string>
 <string name="language_audio_priority_1">"Lydspor (1. prioritet)"</string>
@@ -80,7 +80,7 @@ Den resulterende ZIP fil skal navngives picons.zip, og placeres så den kan tilg
 <string name="channels_list_editor">"Kanallisteredigering"</string>
 <string name="menu_settings_channels_edit">"Rediger kanalliste"</string>
 <string name="channels_reset_popup_title">"Nulstil kanallisten"</string>
-<string name="channels_reset_popup_message">"Du vil miste dine kanalliste ændringer. Er du sikker?"</string>
+<string name="channels_reset_popup_message">"Du vil miste dine kanallisteændringer. Er du sikker?"</string>
 <string name="channels_edit_popup_title">"Slå redigering til"</string>
 <string name="channels_edit_popup_message">"Hvis du redigere kanallisten, vil du ikke længere modtaget automatiske opdateringer. Nye kanaler vil blive tilføjet i bunden."</string>
 <string name="channels_move_popup_title">"Vælg handling"</string>
