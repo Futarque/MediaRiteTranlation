@@ -105,4 +105,21 @@ The resulting zip file must be named picons.zip and placed at the base URL speci
 <string name="signal_info_uncorrected_packets">"Uncorrected Packets"</string>
 <string name="signal_info_signal_quality">"Signal Quality"</string>
 <string name="signal_info_signal_strength">"Signal Strength"</string>
+<string name="menu_settings_purchase">"Store"</string>
+<string name="menu_wizard_positions">"Positions"</string>
+<string name="menu_channels_edit_hidden">"Hidden Channels"</string>
+<string name="menu_channels_edit_hint">"Click to move or hide channel"</string>
+<string name="menu_channels_edit_hidden_hint">"Click to add channel to channel list"</string>
+<string name="menu_wizard_login">"Login"</string>
+<string name="menu_settings_profile_not_logged_in">"Not logged in"</string>
+<string name="menu_purchase_days_left">"days left"</string>
+<string name="menu_purchase_purchased_on_this_device">"purchased on this device"</string>
+<string name="menu_purchase_1_month_ad_free">"One month ad free"</string>
+<string name="menu_purchase_1_year_ad_free">"One year ad free"</string>
+<string name="menu_purchase_thank_you_level_1">"Donation, Level 1"</string>
+<string name="menu_purchase_thank_you_level_2">"Donation, Level 2"</string>
+<string name="menu_purchase_1_month_ad_free_description">"No pop-up ads for one month. Does not remove TV channels' video ads. Does not automatically rebill."</string>
+<string name="menu_purchase_1_year_ad_free_description">"No pop-up ads for a year. Does not remove TV channels' video ads. Does not automatically rebill."</string>
+<string name="menu_purchase_thank_you_level_1_description">"Feed the developers. Does nothing, but gives you a warm, fuzzy feeling inside."</string>
+<string name="menu_purchase_thank_you_level_2_description">"Feed the developers even more. Does nothing. We'll send you a warm thought and blow you a kiss :-)"</string>
 </resources>
