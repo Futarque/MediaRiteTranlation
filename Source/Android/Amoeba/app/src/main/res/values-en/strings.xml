@@ -51,9 +51,9 @@ Please confirm"</string>
 <string name="menu_wizard_cable">"Cable"</string>
 <string name="menu_wizard_satellite">"Satellite"</string>
 <string name="menu_wizard_terrestrial">"Terrestrial"</string>
-<string name="menu_wizard_cable_homing_freq">"Search Frequency (kHz):"</string>
-<string name="menu_wizard_cable_symbol_rate">"Symbolrate (kSym/s):"</string>
-<string name="menu_wizard_cable_network_id">"Network ID:"</string>
+<string name="menu_wizard_cable_homing_freq">"Search Frequency (kHz)"</string>
+<string name="menu_wizard_cable_symbol_rate">"Symbolrate (kSym/s)"</string>
+<string name="menu_wizard_cable_network_id">"Network ID"</string>
 <string name="menu_wizard_welcome">"Welcome"</string>
 <string name="menu_wizard_cable_sweep">"Full Scan"</string>
 <string name="menu_wizard_cable_homing">"Quick Scan"</string>
