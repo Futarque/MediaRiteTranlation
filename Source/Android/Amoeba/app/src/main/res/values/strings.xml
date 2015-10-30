@@ -118,4 +118,6 @@
     <string name="menu_purchase_1_year_ad_free_description">No pop-up ads for a year. Does not remove TV channels\' video ads. Does not automatically rebill.</string>
     <string name="menu_purchase_thank_you_level_1_description">Feed the developers. Does nothing, but gives you a warm, fuzzy feeling inside.</string>
     <string name="menu_purchase_thank_you_level_2_description">Feed the developers even more. Does nothing. We\'ll send you a warm thought and blow you a kiss :-)</string>
+    <string name="menu_wizard_tuner_select_already_selected">Type already selected</string>
+    <string name="menu_wizard_download_resources">Downloading Resources</string>
 </resources>
