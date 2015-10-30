@@ -30,7 +30,7 @@
 <string name="tuner_select">"Välj mottagarenheter"</string>
 <string name="hello_search_setup">"Inställning %s sökalternativ.
 Innan du gå vidare, vänligen se till att din antennkabeln är ansluten till mottagaren.
-Om du använder nätverks mottagare (FutarqueTvGateway, HDHomeRun, lör&gt; IP), måste dessa ställas in på rätt sätt och är ansluten till ditt nätverk."</string>
+Om du använder nätverks mottagare (FutarqueTvGateway, HDHomeRun, SAT&gt;IP), måste dessa ställas in på rätt sätt och är ansluten till ditt nätverk."</string>
 <string name="menu_initial_no_channels">"Ingen kanaler"</string>
 <string name="menu_initial_no_events">"Ingen händelser"</string>
 <string name="menu_no_channels_match">"Ingen match"</string>
