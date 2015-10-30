@@ -15,7 +15,7 @@
 <string name="button_reset">"Resetare"</string>
 <string name="wizard_welcome">"Următoarea wizardl vă va ajuta să setați contul dvs. Aurora Digital TV."</string>
 <string name="wizard_instruction">"Faceți clic pe \"următorul\" pentru a continua"</string>
-<string name="location_welcome">"Vă rugăm să selectați locația:"</string>
+<string name="location_welcome">"Vă rugăm să selectați locația"</string>
 <string name="language_audio_priority_1">"Audio (Prioritate principală)"</string>
 <string name="language_audio_priority_2">"Audio (Prioritate secundară)"</string>
 <string name="language_subtitle_priority_1">"Subtitrare (Prioritate principală)"</string>
@@ -51,9 +51,9 @@ Vă rugăm să confirmați"</string>
 <string name="menu_wizard_cable">"Cablu"</string>
 <string name="menu_wizard_satellite">"Satelit"</string>
 <string name="menu_wizard_terrestrial">"Terestru"</string>
-<string name="menu_wizard_cable_homing_freq">"Căutare Frecvență (kHz):"</string>
-<string name="menu_wizard_cable_symbol_rate">"Symbolrate (kSym / s):"</string>
-<string name="menu_wizard_cable_network_id">"Rețea ID:"</string>
+<string name="menu_wizard_cable_homing_freq">"Căutare Frecvență (kHz)"</string>
+<string name="menu_wizard_cable_symbol_rate">"Symbolrate (kSym/s)"</string>
+<string name="menu_wizard_cable_network_id">"Rețea ID"</string>
 <string name="menu_wizard_welcome">"Bine ați venit"</string>
 <string name="menu_wizard_cable_sweep">"Scanare completă"</string>
 <string name="menu_wizard_cable_homing">"Scanare rapidă"</string>
