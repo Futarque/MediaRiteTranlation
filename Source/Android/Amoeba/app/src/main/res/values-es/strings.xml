@@ -30,7 +30,7 @@
 <string name="tuner_select">"Seleccione sus dispositivos sintonizadores"</string>
 <string name="hello_search_setup">"Configuración %s opciones de búsqueda.
 Antes de continuar por favor asegúrese de que el cable de antena está conectada al sintonizador.
-Si está utilizando sintonizadores de red (FutarqueTvGateway, HDHomeRun, Sab&gt; IP), estos deben ser configurado correctamente y conectado a su red."</string>
+Si está utilizando sintonizadores de red (FutarqueTvGateway, HDHomeRun, SAT&gt;IP), estos deben ser configurado correctamente y conectado a su red."</string>
 <string name="menu_initial_no_channels">"No hay canales"</string>
 <string name="menu_initial_no_events">"No hay Eventos"</string>
 <string name="menu_no_channels_match">"No Match"</string>
