@@ -15,7 +15,7 @@
 <string name="button_reset">"Réinitialiser"</string>
 <string name="wizard_welcome">"Cet assistant va vous aider à configurer votre client Aurora pour TV numérique."</string>
 <string name="wizard_instruction">"Cliquez sur Suivant pour continuer"</string>
-<string name="location_welcome">"Veuillez sélectionner votre emplacement:"</string>
+<string name="location_welcome">"Veuillez sélectionner votre emplacement"</string>
 <string name="language_audio_priority_1">"Audio (1. Priorité)"</string>
 <string name="language_audio_priority_2">"Audio (2. Priorité)"</string>
 <string name="language_subtitle_priority_1">"Sous-titre (1. Priorité)"</string>
@@ -51,9 +51,9 @@ Veuillez confirmer"</string>
 <string name="menu_wizard_cable">"Câble"</string>
 <string name="menu_wizard_satellite">"Satellite"</string>
 <string name="menu_wizard_terrestrial">"Terrestre"</string>
-<string name="menu_wizard_cable_homing_freq">"Recherche Fréquence (kHz):"</string>
-<string name="menu_wizard_cable_symbol_rate">"Débit Symbole (Ksym / s):"</string>
-<string name="menu_wizard_cable_network_id">"Network ID:"</string>
+<string name="menu_wizard_cable_homing_freq">"Recherche Fréquence (kHz)"</string>
+<string name="menu_wizard_cable_symbol_rate">"Débit Symbole (kSym/s)"</string>
+<string name="menu_wizard_cable_network_id">"Network ID"</string>
 <string name="menu_wizard_welcome">"Bienvenue"</string>
 <string name="menu_wizard_cable_sweep">"Recherche complète"</string>
 <string name="menu_wizard_cable_homing">"Recherche rapide"</string>
