@@ -122,4 +122,6 @@ A kapott zip fájlt kell elemzi picons.zip és aljánál elhelyezett URL alább 
 <string name="menu_purchase_1_year_ad_free_description">"Nem pop-up hirdetéseket egy évre. Nem távolítja TV csatornák videó hirdetések. Nem jelenti automatikusan Rebill."</string>
 <string name="menu_purchase_thank_you_level_1_description">"Etesd meg a fejlesztők. Nem csinál semmit, de ad egy meleg, fuzzy érzés kerített hatalmába."</string>
 <string name="menu_purchase_thank_you_level_2_description">"Etesd meg a fejlesztők még. Nem csinál semmit. Küldünk Önnek egy meleg gondolat és fúj egy csók :-)"</string>
+<string name="menu_wizard_tuner_select_already_selected">"Írja már kiválasztott"</string>
+<string name="menu_wizard_download_resources">"Letöltésével Erőforrások"</string>
 </resources>

@@ -122,4 +122,6 @@ Den resulterende zip-filen må hete picons.zip og plassert ved basen URL angitt 
 <string name="menu_purchase_1_year_ad_free_description">"Ingen pop-up-annonser for et år. Fjerner ikke TV-kanalenes videoannonser. Ikke automatisk rebill."</string>
 <string name="menu_purchase_thank_you_level_1_description">"Mate utviklerne. Gjør ingenting, men gir deg en varm og god følelse inni."</string>
 <string name="menu_purchase_thank_you_level_2_description">"Mate utviklerne enda mer. Gjør ingenting. Vi sender deg en varm tanke og blåse deg et kyss :-)"</string>
+<string name="menu_wizard_tuner_select_already_selected">"Skriv allerede valgt"</string>
+<string name="menu_wizard_download_resources">"Nedlasting Resources"</string>
 </resources>

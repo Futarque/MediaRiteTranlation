@@ -122,4 +122,6 @@ Fișierul zip rezultat trebuie să fie numit picons.zip și plasat la  URL-ul de
 <string name="menu_purchase_1_year_ad_free_description">"Fară reclame de genul \"Pop-up\" pentru o lună. Nu elimină reclamele video ale canalelor TV.Nu se replătește automat."</string>
 <string name="menu_purchase_thank_you_level_1_description">"Hrănește developerii. Nu acționează nimic, dar vă ofera un sentiment de bine."</string>
 <string name="menu_purchase_thank_you_level_2_description">"Hrănește developerii și mai mult. Nu acționează nimic. Vă trimitem un gând bun și un pupic,"</string>
+<string name="menu_wizard_tuner_select_already_selected">"Tip deja selectată"</string>
+<string name="menu_wizard_download_resources">"Descărcarea Resurse"</string>
 </resources>

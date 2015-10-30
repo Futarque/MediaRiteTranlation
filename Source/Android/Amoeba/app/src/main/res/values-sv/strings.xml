@@ -123,4 +123,6 @@ mottaga uppdaterade kanallistor. Nya kanaler läggs till längst ned i listan."<
 <string name="menu_purchase_1_year_ad_free_description">"Inga popup-annonser för ett år. Ta inte bort tv-kanalernas videoannonser. Ingen automatisk återköp."</string>
 <string name="menu_purchase_thank_you_level_1_description">"Belöna utvecklarna. Gör ingenting, men ger dig en varm, mjuk känsla inuti."</string>
 <string name="menu_purchase_thank_you_level_2_description">"Belöna utvecklarna ännu mer. Gör ingenting. Vi kommer att skicka dig en varm tanka och skickar dig en kyss :-)"</string>
+<string name="menu_wizard_tuner_select_already_selected">"Skriv redan valts"</string>
+<string name="menu_wizard_download_resources">"Nedladdning av resurser"</string>
 </resources>

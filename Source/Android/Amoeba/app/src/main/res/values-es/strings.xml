@@ -122,4 +122,6 @@ El archivo zip resultante debe ser nombrado picons.zip y puesto a la URL base se
 <string name="menu_purchase_1_year_ad_free_description">"No hay anuncios pop-up de un año. No elimina los anuncios de vídeo canales de TV. No refacturación automáticamente."</string>
 <string name="menu_purchase_thank_you_level_1_description">"Alimentar a los desarrolladores. No hace nada, pero le da un cálido y sentirse mejor."</string>
 <string name="menu_purchase_thank_you_level_2_description">"Alimentar a los desarrolladores aún más. No hace nada. Te enviaremos un pensamiento cálido y se sopla un beso :-)"</string>
+<string name="menu_wizard_tuner_select_already_selected">"Escriba ya seleccionados"</string>
+<string name="menu_wizard_download_resources">"Descarga de Recursos"</string>
 </resources>
