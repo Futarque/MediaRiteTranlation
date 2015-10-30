@@ -13,24 +13,24 @@
 <string name="button_update">"Opdater"</string>
 <string name="button_edit">"Rediger"</string>
 <string name="button_reset">"Nulstil"</string>
-<string name="wizard_welcome">"Den følgende guide vil hjælpe dig med at indstille din Aurora Digitale TV modtager."</string>
+<string name="wizard_welcome">"Den følgende guide vil hjælpe dig med at indstille din Aurora digitale TV kilent."</string>
 <string name="wizard_instruction">"Tryk næste for at fortsætte"</string>
 <string name="location_welcome">"Vælg dit land"</string>
-<string name="language_audio_priority_1">"Lydspor (1. Prioritet)"</string>
-<string name="language_audio_priority_2">"Lydspor (2. Prioritet)"</string>
-<string name="language_subtitle_priority_1">"Undertekster (1. Prioritet)"</string>
-<string name="language_subtitle_priority_2">"Undertekster (2. Prioritet)"</string>
+<string name="language_audio_priority_1">"Lydspor (1. prioritet)"</string>
+<string name="language_audio_priority_2">"Lydspor (2. prioritet)"</string>
+<string name="language_subtitle_priority_1">"Undertekster (1. prioritet)"</string>
+<string name="language_subtitle_priority_2">"Undertekster (2. prioritet)"</string>
 <string name="language_application_language">"Programguide- og tekstsprog"</string>
 <string name="language_visually_impaired">"Synshæmmet"</string>
 <string name="language_hearing_impaired">"Hørehæmmet"</string>
 <string name="language_subtitles_shown_when">"Undertekster vist hvis"</string>
 <string name="language_subtitles_when_0">"Tilgængelig"</string>
-<string name="language_subtitles_when_1">"1. Prioritet lydspor er ikke tilgængelig
+<string name="language_subtitles_when_1">"1. prioritets lydspor er ikke tilgængelig
 "</string>
-<string name="language_subtitles_when_2">"1. eller 2. Prioritet lydspor er ikke tilgængelig"</string>
+<string name="language_subtitles_when_2">"1. eller 2. prioritets lydspor er ikke tilgængelig"</string>
 <string name="tuner_select">"Vælg dine tunere"</string>
 <string name="hello_search_setup">"Indstil %s søgeparametere.
-Før du fortsætter skal du sikre dig, at dit antennekabel er korrekt isat.
+Før du fortsætter skal du sikre dig, at dit antennekabel er korrekt tilsluttet.
 Hvis du bruger en netværkstuner (FutarqueTVGateway, HDHomeRun eller SAT&gt;IP) skal du sikre dig at disse er korrekt opsat og forbundet til netværket."</string>
 <string name="menu_initial_no_channels">"Ingen kanaler"</string>
 <string name="menu_initial_no_events">"Ingen programmer"</string>
@@ -52,9 +52,9 @@ Bekræft venligst."</string>
 <string name="menu_wizard_cable">"Kabel"</string>
 <string name="menu_wizard_satellite">"Satellit"</string>
 <string name="menu_wizard_terrestrial">"Terrestisk"</string>
-<string name="menu_wizard_cable_homing_freq">"Søgefrekvens (kHz):"</string>
+<string name="menu_wizard_cable_homing_freq">"Søgefrekvens (kHz)"</string>
 <string name="menu_wizard_cable_symbol_rate">"Symbolrate (kSym/s)"</string>
-<string name="menu_wizard_cable_network_id">"Network ID:"</string>
+<string name="menu_wizard_cable_network_id">"Network ID"</string>
 <string name="menu_wizard_welcome">"Velkommen"</string>
 <string name="menu_wizard_cable_sweep">"Fuld søgning"</string>
 <string name="menu_wizard_cable_homing">"Hurtig søgning"</string>
@@ -80,11 +80,11 @@ Den resulterende ZIP fil skal navngives picons.zip, og placeres så den kan tilg
 <string name="channels_list_editor">"Kanallisteredigering"</string>
 <string name="menu_settings_channels_edit">"Rediger kanalliste"</string>
 <string name="channels_reset_popup_title">"Nulstil kanallisten"</string>
-<string name="channels_reset_popup_message">"Du vil miste dine kanallistemodifikationer. Er du sikker?"</string>
+<string name="channels_reset_popup_message">"Du vil miste dine kanalliste ændringer. Er du sikker?"</string>
 <string name="channels_edit_popup_title">"Slå redigering til"</string>
 <string name="channels_edit_popup_message">"Hvis du redigere kanallisten, vil du ikke længere modtaget automatiske opdateringer. Nye kanaler vil blive tilføjet i bunden."</string>
 <string name="channels_move_popup_title">"Vælg handling"</string>
-<string name="channels_move_popup_message">"Vælg imellem flyt eller skjul kanal"</string>
+<string name="channels_move_popup_message">"Vælg flyt eller skjul kanal"</string>
 <string name="channels_edit_move">"Flyt"</string>
 <string name="channels_edit_hide">"Skjul"</string>
 <string name="channels_leave_title">"Forlad redigering"</string>
