@@ -30,7 +30,7 @@
 <string name="tuner_select">"Wählen Sie Ihre Tuner-Geräte"</string>
 <string name="hello_search_setup">"%s Setup-Suchoptionen.
 Bevor Sie fortfahren stellen Sie bitte sicher, dass Ihr Antennenkabel ist mit dem Tuner angeschlossen.
-Wenn Sie Netzwerk-Tuner (FutarqueTvGateway, HDHomeRun, Sat&gt; IP), so müssen diese korrekt eingerichtet sein und mit Ihnen verbunden Netzwerk."</string>
+Wenn Sie Netzwerk-Tuner (FutarqueTvGateway, HDHomeRun, Sat&gt;IP), so müssen diese korrekt eingerichtet sein und mit Ihnen verbunden Netzwerk."</string>
 <string name="menu_initial_no_channels">"Keine Kanäle"</string>
 <string name="menu_initial_no_events">"Keine Events"</string>
 <string name="menu_no_channels_match">"Keine Übereinstimmung"</string>
