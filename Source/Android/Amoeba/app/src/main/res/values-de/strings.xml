@@ -122,4 +122,6 @@ Die sich ergebende Zip-Datei muss picons.zip und benannt werden an die unten ang
 <string name="menu_purchase_1_year_ad_free_description">"Keine Pop-up-Anzeigen für ein Jahr. Hat Sender 'Video-Anzeigen nicht zu entfernen. Nicht automatisch rebill."</string>
 <string name="menu_purchase_thank_you_level_1_description">"Führen Sie die Entwickler. Tut nichts, sondern gibt Ihnen ein warmes, wohliges Gefühl im Inneren."</string>
 <string name="menu_purchase_thank_you_level_2_description">"Führen Sie die Entwickler noch mehr. Tut nichts. Registrieren Sie sich eine warme Gedanken zu senden und blase dir einen Kuss :-)"</string>
+<string name="menu_wizard_tuner_select_already_selected">"Typ bereits ausgewählt"</string>
+<string name="menu_wizard_download_resources">"Herunterladen von Ressourcen"</string>
 </resources>
