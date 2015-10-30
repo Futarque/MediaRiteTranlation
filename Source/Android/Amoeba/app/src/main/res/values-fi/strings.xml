@@ -122,4 +122,6 @@ Tuloksena zip-tiedosto on nimetty picons.zip ja sijoitettu pohjan URL alla mää
 <string name="menu_purchase_1_year_ad_free_description">"Ei ponnahdusikkunamainoksia vuodeksi. Ei poista TV-kanavien videomainoksia. Ei automaattisesti rebill."</string>
 <string name="menu_purchase_thank_you_level_1_description">"Feed kehittäjät. Ei tee mitään, mutta antaa sinulle lämmin, olo."</string>
 <string name="menu_purchase_thank_you_level_2_description">"Feed kehittäjät vieläkin. Ei tee mitään. Lähetämme sinulle lämmin ajatus ja räjäyttää sinut suudelma :-)"</string>
+<string name="menu_wizard_tuner_select_already_selected">"Tyyppi jo valittu"</string>
+<string name="menu_wizard_download_resources">"Lataaminen Resurssit"</string>
 </resources>
