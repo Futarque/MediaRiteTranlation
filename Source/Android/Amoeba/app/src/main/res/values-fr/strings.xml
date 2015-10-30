@@ -123,4 +123,6 @@ Le fichier zip résultant doit être nommé picons.zip et placé à l'URL de bas
 <string name="menu_purchase_1_year_ad_free_description">"Pas de pub dans l'application pendant un an, Ceci n'enlève pas les publicités dans les programmes TV. N'est pas renouvelé automatiquement."</string>
 <string name="menu_purchase_thank_you_level_1_description">"Nourrissez les développeurs. Ne fait rien, mais donne un sentiment de chaleur intérieure"</string>
 <string name="menu_purchase_thank_you_level_2_description">"Nourrissez les développeurs encore plus. Ne fait rien. Nous vous enverrons une pensée émue et un bisou."</string>
+<string name="menu_wizard_tuner_select_already_selected">"Tapez déjà sélectionné"</string>
+<string name="menu_wizard_download_resources">"Téléchargement Ressources"</string>
 </resources>
