@@ -30,7 +30,7 @@
 <string name="tuner_select">"Válassza ki a tuner eszközök"</string>
 <string name="hello_search_setup">"Beállítás %s keresési lehetőségeket.
 Mielőtt folytatja győződjön meg arról, hogy az antenna kábel csatlakozik a tuner.
-Ha a Network Hangolók (FutarqueTvGateway, HDHomeRun, Sat&gt; IP), akkor ezek a beállítása, és csatlakozik a hálózathoz Önnek."</string>
+Ha a Network Hangolók (FutarqueTvGateway, HDHomeRun, SAT&gt;IP), akkor ezek a beállítása, és csatlakozik a hálózathoz Önnek."</string>
 <string name="menu_initial_no_channels">"Nem Csatornák"</string>
 <string name="menu_initial_no_events">"Nincs esemény"</string>
 <string name="menu_no_channels_match">"Nem egyezik"</string>
