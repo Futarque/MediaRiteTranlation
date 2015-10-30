@@ -105,4 +105,21 @@ Fișierul zip rezultat trebuie să fie numit picons.zip și plasat la  URL-ul de
 <string name="signal_info_uncorrected_packets">"Pachete necorectate"</string>
 <string name="signal_info_signal_quality">"Calitate semnal"</string>
 <string name="signal_info_signal_strength">"Puterea semnalului"</string>
+<string name="menu_settings_purchase">"magazin"</string>
+<string name="menu_wizard_positions">"poziții"</string>
+<string name="menu_channels_edit_hidden">"canale ascunse"</string>
+<string name="menu_channels_edit_hint">"Click pentru a schimba sau ascunde canalul"</string>
+<string name="menu_channels_edit_hidden_hint">"Click pentru adaugarea canalului în listă"</string>
+<string name="menu_wizard_login">"Logare"</string>
+<string name="menu_settings_profile_not_logged_in">"Nu sunteți logfat"</string>
+<string name="menu_purchase_days_left">"zile rămase"</string>
+<string name="menu_purchase_purchased_on_this_device">"achiziționat pe acest dispozitiv"</string>
+<string name="menu_purchase_1_month_ad_free">"O lună fără reclame"</string>
+<string name="menu_purchase_1_year_ad_free">"Un an fără reclame"</string>
+<string name="menu_purchase_thank_you_level_1">"Danație, nivel 1"</string>
+<string name="menu_purchase_thank_you_level_2">"Donație, nivel 2"</string>
+<string name="menu_purchase_1_month_ad_free_description">"Fară reclame de genul \"Pop-up\" pentru o lună. Nu elimină reclamele video ale canalelor TV. Nu se replătește automat."</string>
+<string name="menu_purchase_1_year_ad_free_description">"Fară reclame de genul \"Pop-up\" pentru o lună. Nu elimină reclamele video ale canalelor TV.Nu se replătește automat."</string>
+<string name="menu_purchase_thank_you_level_1_description">"Hrănește developerii. Nu acționează nimic, dar vă ofera un sentiment de bine."</string>
+<string name="menu_purchase_thank_you_level_2_description">"Hrănește developerii și mai mult. Nu acționează nimic. Vă trimitem un gând bun și un pupic,"</string>
 </resources>
