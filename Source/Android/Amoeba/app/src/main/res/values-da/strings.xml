@@ -123,4 +123,6 @@ Den resulterende ZIP fil skal navngives picons.zip, og placeres så den kan tilg
 <string name="menu_purchase_1_year_ad_free_description">"Ingen pop-up reklamer i et år. Fjerner ikke TV kanalernes videoreklamer. Ingen automatisk genkøb."</string>
 <string name="menu_purchase_thank_you_level_1_description">"Belønner udviklerne. Gør ingenting, men giver dig en varm, blød følelse indeni."</string>
 <string name="menu_purchase_thank_you_level_2_description">"Belønner udviklerne endnu mere. Gør ingenting. Vi sender dig en varm tanke og sender dig et fingerkys :-)"</string>
+<string name="menu_wizard_tuner_select_already_selected">"Typen er allerede valgt"</string>
+<string name="menu_wizard_download_resources">"Henter ressourcer"</string>
 </resources>
