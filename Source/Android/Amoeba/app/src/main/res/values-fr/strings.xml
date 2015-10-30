@@ -65,10 +65,11 @@ Veuillez confirmer"</string>
 <string name="menu_wizard_download">"Télécharger"</string>
 <string name="menu_download_icon_url">"URL de base Picon "</string>
 <string name="menu_settings_download_nothing">"Aucun téléchargement trouvé"</string>
-<string name="menu_download_icon_description">"Logos de canaux peuvent être générés en utilisant le logiciel disponible à http://picons.github.io.
+<string name="menu_download_icon_description">"Les logos de canaux peuvent être générés en utilisant le logiciel disponible à http://picons.github.io.
 Le fichier zip résultant doit être nommé picons.zip et placé à l'URL de base indiqué ci-dessous"</string>
 <string name="menu_tuner_select_disabled">"désactivé"</string>
-<string name="tuner_select_none">"Aucun tuners réseau pris en charge trouvé. Veuillez vérifier votre connexion réseau"</string>
+<string name="tuner_select_none">"Aucun tuner
+ réseau pris en charge trouvé. Veuillez vérifier votre connexion réseau"</string>
 <string name="wizard_refresh">"Actualiser"</string>
 <string name="menu_wizard_tuner_select_sat_location">"Sélectionnez votre position de satellite"</string>
 <string name="context_menu_audio">"Audio"</string>
@@ -100,9 +101,26 @@ Le fichier zip résultant doit être nommé picons.zip et placé à l'URL de bas
 <string name="signal_info_frequency">"Fréquence"</string>
 <string name="signal_info_modulation">"Modulation"</string>
 <string name="signal_info_ber">"BER"</string>
-<string name="signal_info_c_n">"C / N"</string>
+<string name="signal_info_c_n">"S/B"</string>
 <string name="signal_info_rf_level">"Niveau RF"</string>
 <string name="signal_info_uncorrected_packets">"Les paquets non corrigées"</string>
-<string name="signal_info_signal_quality">"Qualité du signal"</string>
+<string name="signal_info_signal_quality">"Qualité de signal"</string>
 <string name="signal_info_signal_strength">"Force du signal"</string>
+<string name="menu_settings_purchase">"Magasin"</string>
+<string name="menu_wizard_positions">"Positions"</string>
+<string name="menu_channels_edit_hidden">"Chaines cachées"</string>
+<string name="menu_channels_edit_hint">"Cliquez pour déplacer ou cacher des chaines"</string>
+<string name="menu_channels_edit_hidden_hint">"Cliquez pour ajouter la chaine à la liste de chaines"</string>
+<string name="menu_wizard_login">"connexion"</string>
+<string name="menu_settings_profile_not_logged_in">"non connecté"</string>
+<string name="menu_purchase_days_left">"jours restants"</string>
+<string name="menu_purchase_purchased_on_this_device">"acheté sur cet appareil"</string>
+<string name="menu_purchase_1_month_ad_free">"Un mois sans pub"</string>
+<string name="menu_purchase_1_year_ad_free">"Un an sans pub"</string>
+<string name="menu_purchase_thank_you_level_1">"Donation, Niveau 1"</string>
+<string name="menu_purchase_thank_you_level_2">"Donation, Niveau 2"</string>
+<string name="menu_purchase_1_month_ad_free_description">"Pas de pub dans l'application pendant un mois, Ceci n'enlève pas les publicités dans les programmes TV. N'est pas renouvelé automatiquement."</string>
+<string name="menu_purchase_1_year_ad_free_description">"Pas de pub dans l'application pendant un an, Ceci n'enlève pas les publicités dans les programmes TV. N'est pas renouvelé automatiquement."</string>
+<string name="menu_purchase_thank_you_level_1_description">"Nourrissez les développeurs. Ne fait rien, mais donne un sentiment de chaleur intérieure"</string>
+<string name="menu_purchase_thank_you_level_2_description">"Nourrissez les développeurs encore plus. Ne fait rien. Nous vous enverrons une pensée émue et un bisou."</string>
 </resources>
