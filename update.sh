@@ -65,6 +65,7 @@ else
 	dirname="$(basename "${dir}")"    
 	$CMD ${SDIR}/Resource/Language/7702/locale/${dirname}/mediarite.po ${TDIR}/Resource/Language/7702/locale/${dirname}/mediarite.po
     done
+    make -C ${TDIR}/Resource/Language update_from_master
 fi
 if [ "$TDIR" == "." ] ; then
     $CMD ${SDIR}/Source/Android/Amoeba/app/src/main/res/values/strings.xml strings.tmp
