@@ -122,4 +122,6 @@
 <string name="menu_purchase_1_year_ad_free_description">"Нет всплывающие окна на год. Не удалить видео объявления телеканалов. Автоматически не ребилл."</string>
 <string name="menu_purchase_thank_you_level_1_description">"Поток разработчиков. Ничего не делает, но дает вам теплый, нечеткое чувство внутри."</string>
 <string name="menu_purchase_thank_you_level_2_description">"Поток разработчиков еще больше. Ничего не делает. Мы вышлем вам теплый мысль и взорвать вам поцелуй :-)"</string>
+<string name="menu_wizard_tuner_select_already_selected">"Уже выбранного типа"</string>
+<string name="menu_wizard_download_resources">"Загрузка ресурсов"</string>
 </resources>
