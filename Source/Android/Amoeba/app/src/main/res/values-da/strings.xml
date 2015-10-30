@@ -106,4 +106,21 @@ Den resulterende ZIP fil skal navngives picons.zip, og placeres så den kan tilg
 <string name="signal_info_uncorrected_packets">"Pakkefejl"</string>
 <string name="signal_info_signal_quality">"Signalkvalitet"</string>
 <string name="signal_info_signal_strength">"Signalstyrke"</string>
+<string name="menu_settings_purchase">"Butik"</string>
+<string name="menu_wizard_positions">"Positioner"</string>
+<string name="menu_channels_edit_hidden">"Skjulte kanaler"</string>
+<string name="menu_channels_edit_hint">"Klik her for at flytte eller skjule kanaler"</string>
+<string name="menu_channels_edit_hidden_hint">"Klik for at tilføje kanaler til kanallisten"</string>
+<string name="menu_wizard_login">"Log ind"</string>
+<string name="menu_settings_profile_not_logged_in">"Ikke logget ind"</string>
+<string name="menu_purchase_days_left">"dage tilbage"</string>
+<string name="menu_purchase_purchased_on_this_device">"købt på dette apparat"</string>
+<string name="menu_purchase_1_month_ad_free">"En måneds reklamefri"</string>
+<string name="menu_purchase_1_year_ad_free">"Et års reklamefri"</string>
+<string name="menu_purchase_thank_you_level_1">"Donation, Level 1"</string>
+<string name="menu_purchase_thank_you_level_2">"Donation, Level 2"</string>
+<string name="menu_purchase_1_month_ad_free_description">"Ingen pop-up reklamer i en måned. Fjerner ikke TV kanalernes videoreklamer. Ingen automatisk genkøb."</string>
+<string name="menu_purchase_1_year_ad_free_description">"Ingen pop-up reklamer i et år. Fjerner ikke TV kanalernes videoreklamer. Ingen automatisk genkøb."</string>
+<string name="menu_purchase_thank_you_level_1_description">"Belønner udviklerne. Gør ingenting, men giver dig en varm, blød følelse indeni."</string>
+<string name="menu_purchase_thank_you_level_2_description">"Belønner udviklerne endnu mere. Gør ingenting. Vi sender dig en varm tanke og sender dig et fingerkys :-)"</string>
 </resources>
