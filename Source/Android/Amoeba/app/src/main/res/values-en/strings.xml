@@ -124,4 +124,18 @@ The resulting zip file must be named picons.zip and placed at the base URL speci
 <string name="menu_purchase_thank_you_level_2_description">"Feed the developers even more. Does nothing. We'll send you a warm thought and blow you a kiss :-)"</string>
 <string name="menu_wizard_tuner_select_already_selected">"Type already selected"</string>
 <string name="menu_wizard_download_resources">"Downloading Resources"</string>
+<string name="success">"Success"</string>
+<string name="menu_settings_dvr">"DVR"</string>
+<string name="signal_info_name">"Tuner Name"</string>
+<string name="signal_info_ip_address">"IP Address"</string>
+<string name="signal_info_transfer_rate">"Network Transfer Rate"</string>
+<string name="signal_info_packets_loss">"Network Packet Loss"</string>
+<string name="program_title_for_no_information">"No information"</string>
+<string name="program_title_for_blocked_channel">"Blocked channel"</string>
+<string name="menu_wizard_tuner_select_search_filter">"Search Filter"</string>
+<string name="menu_wizard_search_filter_only_fta">"Only free channels"</string>
+<string name="menu_wizard_search_filter_search_all">"All channels"</string>
+<string name="menu_wizard_testing_homing_parameters">"Testing Homing Parameters"</string>
+<string name="menu_wizard_testing_homing_parameters_done_failed">"Unable to validate the supplied values. Please check your antenna cable or edit the values and try again."</string>
+<string name="menu_tuner_invalid_param">"invalid value"</string>
 </resources>
