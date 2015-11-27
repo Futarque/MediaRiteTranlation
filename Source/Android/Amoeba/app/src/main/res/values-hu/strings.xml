@@ -124,4 +124,18 @@ A kapott zip fájlt kell elemzi picons.zip és aljánál elhelyezett URL alább 
 <string name="menu_purchase_thank_you_level_2_description">"Etesd meg a fejlesztők még. Nem csinál semmit. Küldünk Önnek egy meleg gondolat és fúj egy csók :-)"</string>
 <string name="menu_wizard_tuner_select_already_selected">"Írja már kiválasztott"</string>
 <string name="menu_wizard_download_resources">"Letöltésével Erőforrások"</string>
+<string name="success">"siker"</string>
+<string name="menu_settings_dvr">"menu_settings_dvr"</string>
+<string name="signal_info_name">"signal_info_name"</string>
+<string name="signal_info_ip_address">"signal_info_ip_address"</string>
+<string name="signal_info_transfer_rate">"signal_info_transfer_rate"</string>
+<string name="signal_info_packets_loss">"signal_info_packets_loss"</string>
+<string name="program_title_for_no_information">"program_title_for_no_information"</string>
+<string name="program_title_for_blocked_channel">"program_title_for_blocked_channel"</string>
+<string name="menu_wizard_tuner_select_search_filter">"menu_wizard_tuner_select_search_filter"</string>
+<string name="menu_wizard_search_filter_only_fta">"menu_wizard_search_filter_only_fta"</string>
+<string name="menu_wizard_search_filter_search_all">"menu_wizard_search_filter_search_all"</string>
+<string name="menu_wizard_testing_homing_parameters">"menu_wizard_testing_homing_parameters"</string>
+<string name="menu_wizard_testing_homing_parameters_done_failed">"menu_wizard_testing_homing_parameters_done_failed"</string>
+<string name="menu_tuner_invalid_param">"menu_tuner_invalid_param"</string>
 </resources>
