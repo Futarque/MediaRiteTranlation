@@ -125,4 +125,18 @@ Den resulterende ZIP fil skal navngives picons.zip, og placeres så den kan tilg
 <string name="menu_purchase_thank_you_level_2_description">"Belønner udviklerne endnu mere. Gør ingenting. Vi sender dig en varm tanke og sender dig et fingerkys :-)"</string>
 <string name="menu_wizard_tuner_select_already_selected">"Typen er allerede valgt"</string>
 <string name="menu_wizard_download_resources">"Henter ressourcer"</string>
+<string name="success">"Succes"</string>
+<string name="menu_settings_dvr">"DVR"</string>
+<string name="signal_info_name">"Tunernavn"</string>
+<string name="signal_info_ip_address">"IP adresse"</string>
+<string name="signal_info_transfer_rate">"Netværkshastighed"</string>
+<string name="signal_info_packets_loss">"Netværkspakketab"</string>
+<string name="program_title_for_no_information">"Ingen information"</string>
+<string name="program_title_for_blocked_channel">"Låst kanal"</string>
+<string name="menu_wizard_tuner_select_search_filter">"Søgefilter"</string>
+<string name="menu_wizard_search_filter_only_fta">"Kun gratis kanaler"</string>
+<string name="menu_wizard_search_filter_search_all">"Alle Kanaler"</string>
+<string name="menu_wizard_testing_homing_parameters">"Tester søgeparametre"</string>
+<string name="menu_wizard_testing_homing_parameters_done_failed">"Kan ikke validere de givne værdier. Kontroller venligst din antenneforbindelse eller rediger værdierne og prøv igen."</string>
+<string name="menu_tuner_invalid_param">"ugyldig værdi"</string>
 </resources>
