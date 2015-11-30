@@ -7,13 +7,13 @@ msgstr ""
 "Project-Id-Version: MediaRite\n"
 "Language: ro\n"
 
-#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:417
-#: Core/Implementation/ChannelSearchController.cpp:2335
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:400
+#: Core/Implementation/ChannelSearchController.cpp:2334
 msgid "Analog"
 msgstr "Analog"
 
 #. Tuner
-#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:441
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:424
 msgid "Antenna Error"
 msgstr "Eroare antenă"
 
@@ -66,77 +66,77 @@ msgstr "Bulgară"
 msgid "CA|Checking Card"
 msgstr "Verificare Card"
 
+#: Core/Implementation/MediaHandlers/Analog/AnalogStreamHandler.cpp:308
 #: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:3226
 #: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:5333
-#: Core/Implementation/MediaHandlers/Analog/AnalogStreamHandler.cpp:308
 msgid "CHNAME|Default"
 msgstr "Implicit"
 
-#: Core/Implementation/ChannelSearchController.cpp:559
+#: Core/Implementation/ChannelSearchController.cpp:558
 msgid "CHSEARCH|Aborted"
 msgstr "Abandonată"
 
-#: Core/Implementation/ChannelSearchController.cpp:557
+#: Core/Implementation/ChannelSearchController.cpp:556
 msgid "CHSEARCH|Aborting"
 msgstr "Întreruperea"
 
-#: Core/Implementation/ChannelSearchController.cpp:561
+#: Core/Implementation/ChannelSearchController.cpp:560
 msgid "CHSEARCH|Finished"
 msgstr "Încheiat"
 
-#: Core/Implementation/ChannelSearchController.cpp:551
+#: Core/Implementation/ChannelSearchController.cpp:550
 msgid "CHSEARCH|Initializing"
 msgstr "Inițializarea"
 
-#: Core/Implementation/ChannelSearchController.cpp:565
+#: Core/Implementation/ChannelSearchController.cpp:564
 msgid "CHSEARCH|Interaction"
 msgstr "Interacțiune"
 
-#: Core/Implementation/ChannelSearchController.cpp:563
+#: Core/Implementation/ChannelSearchController.cpp:562
 msgid "CHSEARCH|Processing"
 msgstr "Prelucrare"
 
-#: Core/Implementation/ChannelSearchController.cpp:555
+#: Core/Implementation/ChannelSearchController.cpp:554
 msgid "CHSEARCH|Searching"
 msgstr "Căutare"
 
-#: Core/Implementation/ChannelSearchController.cpp:553
+#: Core/Implementation/ChannelSearchController.cpp:552
 msgid "CHSEARCH|Tuning"
 msgstr "Tuning"
 
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:267
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:280
 msgid "CONTENT|Commentary"
 msgstr "Comentariu"
 
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:264
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:277
 msgid "CONTENT|Dialogue"
 msgstr "Dialog"
 
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:270
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:283
 msgid "CONTENT|Emergency"
 msgstr "Urgență"
 
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:255
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:268
 msgid "CONTENT|HearingImpaired"
 msgstr "Pentru persoane cu handicap"
 
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:276
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:289
 msgid "CONTENT|Karaoke"
 msgstr "Karaoke"
 
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:261
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:274
 msgid "CONTENT|MusicAndEffects"
 msgstr "Muzică & Efecte"
 
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:252
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:265
 msgid "CONTENT|Normal"
 msgstr "Normal"
 
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:258
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:271
 msgid "CONTENT|VisuallyImpaired"
 msgstr "Deficiențe de vedere"
 
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:273
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:286
 msgid "CONTENT|VoiceOver"
 msgstr "Dublare"
 
@@ -144,9 +144,9 @@ msgstr "Dublare"
 msgid "COUNTRY|Other"
 msgstr "Alte"
 
-#: Core/Implementation/ChannelSearchController.cpp:780
-#: Core/Implementation/ChannelSearchController.cpp:1623
-#: Core/Implementation/ChannelSearchController.cpp:2332
+#: Core/Implementation/ChannelSearchController.cpp:779
+#: Core/Implementation/ChannelSearchController.cpp:1622
+#: Core/Implementation/ChannelSearchController.cpp:2331
 msgid "Cable"
 msgstr "Cablu"
 
@@ -186,7 +186,7 @@ msgid "Children's"
 msgstr "al copiilor"
 
 #. SettingsDBNetworkChangeType
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:396
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:409
 msgid "Coverage Changed"
 msgstr "Acoperire modificată"
 
@@ -244,8 +244,8 @@ msgstr "Dramă"
 msgid "Dutch"
 msgstr "Olandeză"
 
-#: Core/Implementation/ChannelSearchController.cpp:504
-#: MediaRiteApi/ChannelLists/ChannelListManager.cpp:410
+#: Core/Implementation/ChannelSearchController.cpp:503
+#: MediaRiteApi/ChannelLists/ChannelListManager.cpp:568
 msgid "East"
 msgstr "Est"
 
@@ -286,7 +286,7 @@ msgid "French"
 msgstr "Franceză"
 
 #. SettingsDBNetworkChangeType
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:400
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:413
 msgid "Frequency Changed"
 msgstr "Frecvența schimbată"
 
@@ -368,23 +368,23 @@ msgstr "Kannada"
 msgid "LANG|Original"
 msgstr "Original"
 
-#: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2728
+#: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2726
 msgid "LIST|All"
 msgstr "Toate"
 
-#: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2732
+#: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2730
 msgid "LIST|Favorite"
 msgstr "Favorit"
 
-#: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2730
+#: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2728
 msgid "LIST|Hidden"
 msgstr "Ascuns"
 
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:96
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:109
 msgid "LNB|SCIF"
 msgstr "SCIF"
 
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:80
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:93
 msgid "LNB|Universal"
 msgstr "Universal"
 
@@ -424,12 +424,12 @@ msgid "Maturity Locked"
 msgstr "Control parental"
 
 #. SettingsDBNetworkChangeType
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:390
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:403
 msgid "Message Only"
 msgstr "Doar mesaj"
 
 #. AudioMixType
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:287
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:300
 msgid "Mono"
 msgstr "Mono"
 
@@ -439,12 +439,12 @@ msgid "Movie"
 msgstr "Film"
 
 #. SettingsDBNetworkChangeType
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:392
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:405
 msgid "Multiplex Added"
 msgstr "Multiplex Adăugat"
 
 #. SettingsDBNetworkChangeType
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:394
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:407
 msgid "Multiplex Removed"
 msgstr "Multiplex Eliminat"
 
@@ -490,11 +490,11 @@ msgid "No Resources"
 msgstr "Lipsă resurse"
 
 #. Tuner
-#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:454
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:437
 msgid "No Signal"
 msgstr "Lipsă semnal"
 
-#: MediaRiteApi/Player/Player.cpp:461
+#: MediaRiteApi/Player/Player.cpp:674
 msgid "No Subtitles"
 msgstr "Lipsă Subtitrari"
 
@@ -636,8 +636,8 @@ msgstr "Sami"
 msgid "Sanskrit"
 msgstr "Sanscrită"
 
-#: Core/Implementation/ChannelSearchController.cpp:787
-#: Core/Implementation/ChannelSearchController.cpp:1620
+#: Core/Implementation/ChannelSearchController.cpp:786
+#: Core/Implementation/ChannelSearchController.cpp:1619
 msgid "Satellite"
 msgstr "Satelit"
 
@@ -651,7 +651,7 @@ msgid "Service <%u,%u,%u>"
 msgstr "Serviciu <% u, u%,% u>"
 
 #. SettingsDBNetworkChangeType
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:398
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:411
 msgid "Service Changed"
 msgstr "Serviciu schimbat"
 
@@ -678,12 +678,12 @@ msgid "Sport"
 msgstr "Sport"
 
 #. AudioMixType
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:290
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:303
 msgid "Stereo"
 msgstr "Stereo"
 
 #. AudioMixType
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:293
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:306
 msgid "SurroundSound"
 msgstr "Sunet surround"
 
@@ -701,178 +701,178 @@ msgstr "Suedeză"
 msgid "Switzerland"
 msgstr "Elveția"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1006
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1204
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1026
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1224
 msgid "TIME|Apr"
 msgstr "Aprilie"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1161
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1181
 msgid "TIME|April"
 msgstr "Aprilie"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1018
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1216
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1038
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1236
 msgid "TIME|Aug"
 msgstr "August"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1173
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1193
 msgid "TIME|August"
 msgstr "August"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1030
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1228
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1050
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1248
 msgid "TIME|Dec"
 msgstr "Decembrie"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1185
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1205
 msgid "TIME|December"
 msgstr "Decembrie"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1000
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1198
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1020
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1218
 msgid "TIME|Feb"
 msgstr "Februarie"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1155
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1175
 msgid "TIME|February"
 msgstr "Februarie"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1139
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1159
 msgid "TIME|Fri"
 msgstr "Vineri"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1054
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1111
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1074
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1131
 msgid "TIME|Friday"
 msgstr "Vineri"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:997
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1195
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1017
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1215
 msgid "TIME|Jan"
 msgstr "Jan"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1152
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1172
 msgid "TIME|January"
 msgstr "Ianuarie"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1015
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1213
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1035
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1233
 msgid "TIME|Jul"
 msgstr "Iulie"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1170
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1190
 msgid "TIME|July"
 msgstr "Iulie"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1012
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1210
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1032
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1230
 msgid "TIME|Jun"
 msgstr "Iunie"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1167
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1187
 msgid "TIME|June"
 msgstr "Iunie"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1003
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1201
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1023
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1221
 msgid "TIME|Mar"
 msgstr "Martie"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1158
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1178
 msgid "TIME|March"
 msgstr "Martie"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1009
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1207
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1029
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1227
 msgid "TIME|May"
 msgstr "Mai"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1164
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1184
 msgid "TIME|May_long"
 msgstr "Mai"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1127
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1147
 msgid "TIME|Mon"
 msgstr "Luni"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1042
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1099
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1062
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1119
 msgid "TIME|Monday"
 msgstr "Luni"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1027
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1225
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1047
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1245
 msgid "TIME|Nov"
 msgstr "Noiembrie"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1182
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1202
 msgid "TIME|November"
 msgstr "Noiembrie"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1024
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1222
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1044
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1242
 msgid "TIME|Oct"
 msgstr "Octombrie"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1179
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1199
 msgid "TIME|October"
 msgstr "Octombrie"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1142
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1162
 msgid "TIME|Sat"
 msgstr "Sâmbătă"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1057
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1114
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1077
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1134
 msgid "TIME|Saturday"
 msgstr "Sâmbătă"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1021
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1219
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1041
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1239
 msgid "TIME|Sep"
 msgstr "Septembrie"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1176
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1196
 msgid "TIME|September"
 msgstr "Septembrie"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1124
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1144
 msgid "TIME|Sun"
 msgstr "Duminică"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1039
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1096
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1059
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1116
 msgid "TIME|Sunday"
 msgstr "Duminică"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1136
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1156
 msgid "TIME|Thu"
 msgstr "Joi"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1051
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1108
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1071
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1128
 msgid "TIME|Thursday"
 msgstr "Joi"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1130
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1150
 msgid "TIME|Tue"
 msgstr "Marți"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1045
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1102
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1065
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1122
 msgid "TIME|Tuesday"
 msgstr "Marți"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1133
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1153
 msgid "TIME|Wed"
 msgstr "Miercuri"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1048
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1105
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1068
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1125
 msgid "TIME|Wednesday"
 msgstr "Miercuri"
 
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:366
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:379
 msgid "TUNER|Analog"
 msgstr "Analog"
 
@@ -889,17 +889,17 @@ msgid "TUNER|Horizontal"
 msgstr "Orizontală"
 
 #. Tuner
-#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:444
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:427
 msgid "TUNER|Locked"
 msgstr "Blocat"
 
 #. Tuner
-#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:447
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:430
 msgid "TUNER|Scanning"
 msgstr "Scanarea"
 
 #. Tuner
-#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:457
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:440
 msgid "TUNER|Unlocked"
 msgstr "Deblocat"
 
@@ -920,15 +920,15 @@ msgstr "Tamil"
 msgid "Telugu"
 msgstr "Telugu"
 
-#: Core/Implementation/ChannelSearchController.cpp:2329
+#: Core/Implementation/ChannelSearchController.cpp:2328
 msgid "Terrestrial"
 msgstr "Terestru"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:950
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:970
 msgid "Today"
 msgstr "Astăzi"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:958
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:978
 msgid "Tomorrow"
 msgstr "Mâine"
 
@@ -963,19 +963,19 @@ msgstr "Regatul Unit"
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:42
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:49
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:74
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:99
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:280
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:296
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:300
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:386
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:402
-#: Core/Implementation/Storage/Gio/CddaRipActivity.cpp:76
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:112
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:293
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:309
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:313
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:399
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:415
 #: Core/Implementation/SettingsDB/DynamicResource.cpp:46
+#: Core/Implementation/Storage/Local/Gio/CddaRipActivity.cpp:76
 msgid "Unknown"
 msgstr "Necunoscut"
 
 #. SettingsDBNetworkChangeType
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:388
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:401
 msgid "Unspecified"
 msgstr "Nespecificat"
 
@@ -988,8 +988,8 @@ msgstr "Sistem de criptare neacceptat"
 msgid "Welsh"
 msgstr "Galeză"
 
-#: Core/Implementation/ChannelSearchController.cpp:507
-#: MediaRiteApi/ChannelLists/ChannelListManager.cpp:413
+#: Core/Implementation/ChannelSearchController.cpp:506
+#: MediaRiteApi/ChannelLists/ChannelListManager.cpp:571
 msgid "West"
 msgstr "Vest"
 
@@ -998,11 +998,11 @@ msgstr "Vest"
 msgid "Wrong Card Version"
 msgstr "Versiune card necorespunzătoare"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:954
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:974
 msgid "Yesterday"
 msgstr "Ieri"
 
-#: Core/Implementation/Storage/Gio/GioVolumeMonitor.cpp:578
+#: Core/Implementation/Storage/Local/Gio/GioVolumeMonitor.cpp:578
 msgid "Audio CD"
 msgstr "CD Audio"
 
@@ -1018,9 +1018,9 @@ msgid "Error contacting update server"
 msgstr "Eraoare la conectarea serverului pentru actializare"
 
 #. OAD
+#: Core/Implementation/OverAirUpdateController.cpp:134
 #: Core/Implementation/SoftwareUpdateController.cpp:701
 #: Core/Implementation/SoftwareUpdateController.cpp:719
-#: Core/Implementation/OverAirUpdateController.cpp:134
 msgid "Error downloading update."
 msgstr "Eroare la descărcarea aplicației"
 
@@ -1033,11 +1033,11 @@ msgid "Error reading update file"
 msgstr "Eroare la citirea fișierului actualizat"
 
 #. newTuner.mFrontEndCapabilityMask;
-#: Core/Implementation/Stream/Modules/NetworkTunerManager/NetworkTunerManager.cpp:648
+#: Core/Implementation/Stream/Modules/NetworkTunerManager/NetworkTunerManager.cpp:680
 msgid "Internal"
 msgstr "Intern"
 
-#: Core/Implementation/Storage/Gio/GioVolumeMonitor.cpp:514
+#: Core/Implementation/Storage/Local/Gio/GioVolumeMonitor.cpp:514
 msgid "Internal HDD"
 msgstr "HDD intern"
 
@@ -1057,7 +1057,7 @@ msgid "No update found at URL"
 msgstr "Nu au fost găsite actualizări în URL"
 
 #. CDDA
-#: Core/Implementation/Storage/Gio/FutarqueCdda.cpp:115
+#: Core/Implementation/Storage/Local/Gio/FutarqueCdda.cpp:115
 msgid "Track"
 msgstr "Piesă"
 
@@ -1072,12 +1072,12 @@ msgid "Update corrupt."
 msgstr "Actualizare coruptă"
 
 #. OAD
-#: Core/Implementation/SoftwareUpdateController.cpp:819
-#: Core/Implementation/SoftwareUpdateController.cpp:1053
-#: Core/Implementation/SoftwareUpdateController.cpp:1167
 #: Core/Implementation/OverAirUpdateController.cpp:253
 #: Core/Implementation/OverAirUpdateController.cpp:261
 #: Core/Implementation/OverAirUpdateController.cpp:283
+#: Core/Implementation/SoftwareUpdateController.cpp:819
+#: Core/Implementation/SoftwareUpdateController.cpp:1053
+#: Core/Implementation/SoftwareUpdateController.cpp:1167
 msgid "Update failed"
 msgstr "Actualizare eșuată"
 
@@ -1105,4 +1105,16 @@ msgstr "Eroare la scriere"
 #: Core/Implementation/SoftwareUpdateController.cpp:992
 msgid "Your current version is newer."
 msgstr "Versiunea dvs. actuală este mai nouă"
+
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:82
+msgid "Automatic"
+msgstr "Automat"
+
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:84
+msgid "Manual"
+msgstr "Manual"
+
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:80
+msgid "Off"
+msgstr "De pe"
 
