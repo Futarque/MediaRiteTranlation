@@ -3,8 +3,6 @@
 <string name="app_name">"AuroraTV"</string>
 <string name="cancelled">"Afbrudt"</string>
 <string name="complete">"Færdig"</string>
-<string name="spinner_off">"Fra"</string>
-<string name="spinner_on">"Til"</string>
 <string name="button_next">"Næste"</string>
 <string name="button_apply">"Udfør"</string>
 <string name="button_ok">"OK"</string>
@@ -68,7 +66,6 @@ Bekræft venligst."</string>
 <string name="menu_settings_download_nothing">"Ingen opdatering fundet"</string>
 <string name="menu_download_icon_description">"Kanallogoer kan genereres ved hjælp af software, der kan hentes på http://picons.github.io
 Den resulterende ZIP fil skal navngives picons.zip, og placeres så den kan tilgåes på den base URL, der er specificeret nedenfor."</string>
-<string name="menu_tuner_select_disabled">"Slået fra"</string>
 <string name="tuner_select_none">"Ingen understøttede netværkstunere fundet. Kontroller din LAN forbindelse."</string>
 <string name="wizard_refresh">"Opdater"</string>
 <string name="menu_wizard_tuner_select_sat_location">"Vælg din satellitposition"</string>
@@ -139,4 +136,22 @@ Den resulterende ZIP fil skal navngives picons.zip, og placeres så den kan tilg
 <string name="menu_wizard_testing_homing_parameters">"Tester søgeparametre"</string>
 <string name="menu_wizard_testing_homing_parameters_done_failed">"Kan ikke validere de givne værdier. Kontroller venligst din antenneforbindelse eller rediger værdierne og prøv igen."</string>
 <string name="menu_tuner_invalid_param">"ugyldig værdi"</string>
+<string name="disabled">"Slået fra"</string>
+<string name="off">"Fra"</string>
+<string name="on">"Til"</string>
+<string name="menu_no_recordings_match">"Ingen Resultater"</string>
+<string name="info_no_channel">"Ingen kanal"</string>
+<string name="menu_initial_no_recordings">"Ingen optagelser"</string>
+<string name="menu_recordings">"Optagelser"</string>
+<string name="dvr_free">"Tilgængelig"</string>
+<string name="menu_settings_dvr_timeshift_length">"Timeshift længde"</string>
+<string name="menu_settings_dvr_timeshift_mode">"Timeshift indstilling"</string>
+<string name="menu_settings_dvr_timer_slack">"Timer slack"</string>
+<string name="menu_settings_dvr_device">"DVR lager"</string>
+<string name="menu_settings_dvr_timer_slack_help">"Den specificerede tid vil blive tilføjet før/efter den egentlige optagelse"</string>
+<string name="dvr_storage_removed">"Lager fjernet"</string>
+<string name="dvr_instant_recording">"Øjeblikkelig optagelse"</string>
+<string name="menu_settings_dvr_grant_permission">"Giv skriveadgang til lager"</string>
+<string name="menu_settings_dvr_grant_permission_description">"Vælg rodfolderen på dit lager"</string>
+<string name="menu_wizard_satellite_polarity">"Polaritet"</string>
 </resources>
