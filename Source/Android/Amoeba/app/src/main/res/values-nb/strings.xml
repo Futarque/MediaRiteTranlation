@@ -5,8 +5,6 @@
 
 <!-- as in done ? - then it should be Ferdig -->
 <string name="complete">"Ferdig"</string>
-<string name="spinner_off">"Av"</string>
-<string name="spinner_on">"På"</string>
 <string name="button_next">"Neste"</string>
 <string name="button_apply">"Aktiver"</string>
 <string name="button_ok">"Ok"</string>
@@ -69,7 +67,6 @@ Vennligst bekreft"</string>
 <string name="menu_settings_download_nothing">"Ingen nedlastinger funnet"</string>
 <string name="menu_download_icon_description">"Kanal logoene kan genereres ved hjelp av programvare som er tilgjengelig på http://picons.github.io
 Zip-filen må hete picons.zip og plasseres ved addressen angitt nedenfor"</string>
-<string name="menu_tuner_select_disabled">"Deaktivert"</string>
 <string name="tuner_select_none">"Ingen støttede nettverks tunere funnet. Sjekk nettverkstilkobling"</string>
 <string name="wizard_refresh">"Last på nytt"</string>
 <string name="menu_wizard_tuner_select_sat_location">"Velg satellittposisjon"</string>
@@ -140,4 +137,22 @@ Zip-filen må hete picons.zip og plasseres ved addressen angitt nedenfor"</strin
 <string name="menu_wizard_testing_homing_parameters">"Testing Homing Parametere"</string>
 <string name="menu_wizard_testing_homing_parameters_done_failed">"Kan ikke validere de medfølgende verdier. Vennligst sjekk antennekabelen eller redigere verdiene og prøv igjen."</string>
 <string name="menu_tuner_invalid_param">"ugyldig verdi"</string>
+<string name="disabled">"Funksjonshemmet"</string>
+<string name="off">"Av"</string>
+<string name="on">"På"</string>
+<string name="menu_no_recordings_match">"Ingen treff"</string>
+<string name="info_no_channel">"Ingen Channel"</string>
+<string name="menu_initial_no_recordings">"Ingen Recordings"</string>
+<string name="menu_recordings">"Innspillinger"</string>
+<string name="dvr_free">"Gratis"</string>
+<string name="menu_settings_dvr_timeshift_length">"Timeshift Lengde"</string>
+<string name="menu_settings_dvr_timeshift_mode">"Timeshift-modus"</string>
+<string name="menu_settings_dvr_timer_slack">"Tidsur Slack"</string>
+<string name="menu_settings_dvr_device">"DVR-enhet"</string>
+<string name="menu_settings_dvr_timer_slack_help">"Angitt tid vil bli lagt før og etter selve innspillingen"</string>
+<string name="dvr_storage_removed">"Lagring Fjernet"</string>
+<string name="dvr_instant_recording">"Instant opptak"</string>
+<string name="menu_settings_dvr_grant_permission">"Grant Storage Tilgang"</string>
+<string name="menu_settings_dvr_grant_permission_description">"Velg rotkatalogen på lagrings"</string>
+<string name="menu_wizard_satellite_polarity">"Polaritet"</string>
 </resources>
