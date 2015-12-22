@@ -3,8 +3,6 @@
 <string name="app_name">"AuroraTV"</string>
 <string name="cancelled">"Avbruten"</string>
 <string name="complete">"Avslutat"</string>
-<string name="spinner_off">"Av"</string>
-<string name="spinner_on">"På"</string>
 <string name="button_next">"Nästa"</string>
 <string name="button_apply">"Utför"</string>
 <string name="button_ok">"OK"</string>
@@ -67,7 +65,6 @@ Var god bekräfta"</string>
 <string name="menu_settings_download_nothing">"Inga nedladdningar funna"</string>
 <string name="menu_download_icon_description">"Kanal logotyper kan skapas med hjälp av programvaran finns på http://picons.github.io
 Den resulterande zip-filen måste namnges picons.zip och placeras vid baswebbadressen anges nedan"</string>
-<string name="menu_tuner_select_disabled">"Deaktiveret"</string>
 <string name="tuner_select_none">"Inga nätverks tuners hittades. Kontrollera din nätverksanslutning"</string>
 <string name="wizard_refresh">"Uppdatera"</string>
 <string name="menu_wizard_tuner_select_sat_location">"Välj din satellitposition"</string>
@@ -139,4 +136,22 @@ mottaga uppdaterade kanallistor. Nya kanaler läggs till längst ned i listan."<
 <string name="menu_wizard_testing_homing_parameters">"Testing Homing Parametrar"</string>
 <string name="menu_wizard_testing_homing_parameters_done_failed">"Det gick inte att validera de medföljande värden. Kontrollera din antennkabeln eller redigera värdena och försök igen."</string>
 <string name="menu_tuner_invalid_param">"ogiltigt värde"</string>
+<string name="disabled">"Funktionshindrade"</string>
+<string name="off">"Av"</string>
+<string name="on">"På"</string>
+<string name="menu_no_recordings_match">"Ingen match"</string>
+<string name="info_no_channel">"Ingen kanal"</string>
+<string name="menu_initial_no_recordings">"Inga Inspelningar"</string>
+<string name="menu_recordings">"Inspelningar"</string>
+<string name="dvr_free">"Fri"</string>
+<string name="menu_settings_dvr_timeshift_length">"Timeshift Längd"</string>
+<string name="menu_settings_dvr_timeshift_mode">"Timeshift-läge"</string>
+<string name="menu_settings_dvr_timer_slack">"Timer slack"</string>
+<string name="menu_settings_dvr_device">"DVR-enhet"</string>
+<string name="menu_settings_dvr_timer_slack_help">"Angiven tid kommer att läggas före och efter själva inspelningen"</string>
+<string name="dvr_storage_removed">"Lagring Avlägsnat"</string>
+<string name="dvr_instant_recording">"Direkt inspelning"</string>
+<string name="menu_settings_dvr_grant_permission">"Grant Lagring Öppna"</string>
+<string name="menu_settings_dvr_grant_permission_description">"Välj rotkatalogen på din lagrings"</string>
+<string name="menu_wizard_satellite_polarity">"Polaritet"</string>
 </resources>
