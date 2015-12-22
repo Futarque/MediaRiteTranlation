@@ -3,8 +3,9 @@
     <string name="app_name">AuroraTV</string>
     <string name="cancelled">Cancelled</string>
     <string name="complete">Complete</string>
-    <string name="spinner_off">Off</string>
-    <string name="spinner_on">On</string>
+    <string name="disabled">Disabled</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
     <string name="button_next">Next</string>
     <string name="button_apply">Apply</string>
     <string name="button_ok">OK</string>
@@ -36,6 +37,7 @@
     <string name="menu_initial_no_channels">No Channels</string>
     <string name="menu_initial_no_events">No Events</string>
     <string name="menu_no_channels_match">No Match</string>
+    <string name="menu_no_recordings_match">No Match</string>
     <string name="menu_no_events_match">No Match</string>
     <string name="card_channel_minutes">min</string>
     <string name="menu_channels">Channels</string>
@@ -69,7 +71,6 @@
     <string name="menu_download_icon_url">Picon base URL</string>
     <string name="menu_settings_download_nothing">No downloads found</string>
     <string name="menu_download_icon_description">Channel logos can be generated using the software available at http://picons.github.io\nThe resulting zip file must be named picons.zip and placed at the base URL specified below</string>
-    <string name="menu_tuner_select_disabled">Disabled</string>
     <string name="tuner_select_none">No supported network tuners found. Please check your network connection</string>
     <string name="wizard_refresh">Refresh</string>
     <string name="menu_wizard_tuner_select_sat_location">Select your satellite position</string>
@@ -126,6 +127,7 @@
     <string name="menu_purchase_thank_you_level_2_description">Feed the developers even more. Does nothing. We\'ll send you a warm thought and blow you a kiss :-)</string>
     <string name="menu_wizard_tuner_select_already_selected">Type already selected</string>
     <string name="menu_wizard_download_resources">Downloading Resources</string>
+    <string name="info_no_channel">No Channel</string>
     <string name="program_title_for_no_information">No information</string>
     <string name="program_title_for_blocked_channel">Blocked channel</string>
     <string name="menu_wizard_tuner_select_search_filter">Search Filter</string>
@@ -134,4 +136,17 @@
     <string name="menu_wizard_testing_homing_parameters">Testing Homing Parameters</string>
     <string name="menu_wizard_testing_homing_parameters_done_failed">Unable to validate the supplied values. Please check your antenna cable or edit the values and try again.</string>
     <string name="menu_tuner_invalid_param">invalid value</string>
+    <string name="menu_initial_no_recordings">No Recordings</string>
+    <string name="menu_recordings">Recordings</string>
+    <string name="dvr_free">Free</string>
+    <string name="menu_settings_dvr_timeshift_length">Timeshift Length</string>
+    <string name="menu_settings_dvr_timeshift_mode">Timeshift Mode</string>
+    <string name="menu_settings_dvr_timer_slack">Timer Slack</string>
+    <string name="menu_settings_dvr_device">DVR Device</string>
+    <string name="menu_settings_dvr_timer_slack_help">The specified time will be added before and after the actual recording</string>
+    <string name="dvr_storage_removed">Storage Removed</string>
+    <string name="dvr_instant_recording">Instant Recording</string>
+    <string name="menu_settings_dvr_grant_permission">Grant Storage Access</string>
+    <string name="menu_settings_dvr_grant_permission_description">Select the root folder of your storage</string>
+    <string name="menu_wizard_satellite_polarity">Polarity</string>
 </resources>

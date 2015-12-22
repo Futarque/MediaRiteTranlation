@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MediaRite\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-11-30 11:07+0100\n"
+"POT-Creation-Date: 2015-12-22 10:46+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:400
-#: Core/Implementation/ChannelSearchController.cpp:2334
+#: Core/Implementation/ChannelSearchController.cpp:2341
 msgid "Analog"
 msgstr ""
 
@@ -162,8 +162,8 @@ msgid "COUNTRY|Other"
 msgstr ""
 
 #: Core/Implementation/ChannelSearchController.cpp:779
-#: Core/Implementation/ChannelSearchController.cpp:1622
-#: Core/Implementation/ChannelSearchController.cpp:2331
+#: Core/Implementation/ChannelSearchController.cpp:1620
+#: Core/Implementation/ChannelSearchController.cpp:2338
 msgid "Cable"
 msgstr ""
 
@@ -559,7 +559,7 @@ msgstr ""
 msgid "No Signal"
 msgstr ""
 
-#: MediaRiteApi/Player/Player.cpp:674
+#: MediaRiteApi/Player/Player.cpp:768
 msgid "No Subtitles"
 msgstr ""
 
@@ -711,7 +711,7 @@ msgid "Sanskrit"
 msgstr ""
 
 #: Core/Implementation/ChannelSearchController.cpp:786
-#: Core/Implementation/ChannelSearchController.cpp:1619
+#: Core/Implementation/ChannelSearchController.cpp:1617
 msgid "Satellite"
 msgstr ""
 
@@ -996,7 +996,7 @@ msgstr ""
 msgid "Telugu"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:2328
+#: Core/Implementation/ChannelSearchController.cpp:2335
 msgid "Terrestrial"
 msgstr ""
 
