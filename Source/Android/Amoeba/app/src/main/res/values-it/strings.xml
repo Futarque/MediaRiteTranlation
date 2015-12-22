@@ -3,8 +3,6 @@
 <string name="app_name">"AuroraTV"</string>
 <string name="cancelled">"Annullato"</string>
 <string name="complete">"Completo"</string>
-<string name="spinner_off">"Spento"</string>
-<string name="spinner_on">"Su"</string>
 <string name="button_next">"Il prossimo"</string>
 <string name="button_apply">"Applicare"</string>
 <string name="button_ok">"ok"</string>
@@ -67,7 +65,6 @@ Si prega di confermare"</string>
 <string name="menu_settings_download_nothing">"Nessun download trovato"</string>
 <string name="menu_download_icon_description">"Loghi dei canali possono essere generati utilizzando il software disponibile a http://picons.github.io
 Il file zip risultante deve essere nominato picons.zip e posto alla URL di base specificato di seguito"</string>
-<string name="menu_tuner_select_disabled">"Disabilitato"</string>
 <string name="tuner_select_none">"Nessun sintonizzatori di rete supportati trovati. Si prega di verificare la connessione di rete"</string>
 <string name="wizard_refresh">"Rinfrescare"</string>
 <string name="menu_wizard_tuner_select_sat_location">"Seleziona la tua posizione del satellite"</string>
@@ -138,4 +135,22 @@ Il file zip risultante deve essere nominato picons.zip e posto alla URL di base 
 <string name="menu_wizard_testing_homing_parameters">"Test Homing Parametri"</string>
 <string name="menu_wizard_testing_homing_parameters_done_failed">"Impossibile convalidare i valori forniti. Controllate il vostro cavo antenna o modificare i valori e riprovare."</string>
 <string name="menu_tuner_invalid_param">"valore non valido"</string>
+<string name="disabled">"Disabilitato"</string>
+<string name="off">"Spento"</string>
+<string name="on">"In data"</string>
+<string name="menu_no_recordings_match">"Nessuna corrispondenza"</string>
+<string name="info_no_channel">"Nessun canale"</string>
+<string name="menu_initial_no_recordings">"No Recordings"</string>
+<string name="menu_recordings">"Registrazioni"</string>
+<string name="dvr_free">"Gratuito"</string>
+<string name="menu_settings_dvr_timeshift_length">"Timeshift Lunghezza"</string>
+<string name="menu_settings_dvr_timeshift_mode">"Modalità Timeshift"</string>
+<string name="menu_settings_dvr_timer_slack">"Timer Slack"</string>
+<string name="menu_settings_dvr_device">"Dispositivo DVR"</string>
+<string name="menu_settings_dvr_timer_slack_help">"Il tempo specificato verrà aggiunto prima e dopo la registrazione effettiva"</string>
+<string name="dvr_storage_removed">"Stoccaggio Rimosso"</string>
+<string name="dvr_instant_recording">"Registrazione istantanea"</string>
+<string name="menu_settings_dvr_grant_permission">"Accesso concessione di stoccaggio"</string>
+<string name="menu_settings_dvr_grant_permission_description">"Selezionare la cartella principale del vostro storage"</string>
+<string name="menu_wizard_satellite_polarity">"Polarità"</string>
 </resources>
