@@ -3,8 +3,6 @@
 <string name="app_name">"AuroraTV"</string>
 <string name="cancelled">"Отменен"</string>
 <string name="complete">"Полный"</string>
-<string name="spinner_off">"Выключить"</string>
-<string name="spinner_on">"На"</string>
 <string name="button_next">"Следующий"</string>
 <string name="button_apply">"Подать заявление"</string>
 <string name="button_ok">"Хорошо"</string>
@@ -67,7 +65,6 @@
 <string name="menu_settings_download_nothing">"Не найдено ни загрузок"</string>
 <string name="menu_download_icon_description">"Логотипы каналов могут быть получены с использованием программного обеспечения, доступного на http://picons.github.io
 В результате молнии файл должен быть назван picons.zip и помещены на базовой URL указанному ниже"</string>
-<string name="menu_tuner_select_disabled">"Отключено"</string>
 <string name="tuner_select_none">"Не найдено ни поддерживаемые сетевые тюнеры. Пожалуйста, проверьте подключение к сети"</string>
 <string name="wizard_refresh">"Обновление"</string>
 <string name="menu_wizard_tuner_select_sat_location">"Выберите позицию спутника"</string>
@@ -138,4 +135,22 @@
 <string name="menu_wizard_testing_homing_parameters">"Тестирование Наведение Параметры"</string>
 <string name="menu_wizard_testing_homing_parameters_done_failed">"Не удалось проверить поставляемые значения. Пожалуйста, проверьте антенный кабель или отредактировать значения и повторите попытку."</string>
 <string name="menu_tuner_invalid_param">"Неверное значение"</string>
+<string name="disabled">"Отключено"</string>
+<string name="off">"Выключить"</string>
+<string name="on">"На"</string>
+<string name="menu_no_recordings_match">"Не совпадает"</string>
+<string name="info_no_channel">"Нет канала"</string>
+<string name="menu_initial_no_recordings">"Нет записей"</string>
+<string name="menu_recordings">"Записи"</string>
+<string name="dvr_free">"Свободно"</string>
+<string name="menu_settings_dvr_timeshift_length">"Timeshift Длина"</string>
+<string name="menu_settings_dvr_timeshift_mode">"Режим Timeshift"</string>
+<string name="menu_settings_dvr_timer_slack">"Таймер вялый"</string>
+<string name="menu_settings_dvr_device">"Устройство DVR"</string>
+<string name="menu_settings_dvr_timer_slack_help">"Указанное время будут добавлены перед и после съемкой"</string>
+<string name="dvr_storage_removed">"Хранение Удалены"</string>
+<string name="dvr_instant_recording">"Мгновенная запись"</string>
+<string name="menu_settings_dvr_grant_permission">"Доступ Грант хранения"</string>
+<string name="menu_settings_dvr_grant_permission_description">"Выберите корневую папку вашего хранения"</string>
+<string name="menu_wizard_satellite_polarity">"Полярность"</string>
 </resources>
