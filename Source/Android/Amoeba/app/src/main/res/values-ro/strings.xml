@@ -3,8 +3,6 @@
 <string name="app_name">"AuroraTV"</string>
 <string name="cancelled">"Anulat"</string>
 <string name="complete">"Complet"</string>
-<string name="spinner_off">"Închis"</string>
-<string name="spinner_on">"Deschis"</string>
 <string name="button_next">"Următorul"</string>
 <string name="button_apply">"Aplică"</string>
 <string name="button_ok">"Ok"</string>
@@ -67,7 +65,6 @@ Vă rugăm să confirmați"</string>
 <string name="menu_settings_download_nothing">"Nu au fost găsite descărcări"</string>
 <string name="menu_download_icon_description">"Logo-uri de canal pot fi generate utilizând software-ul disponibil la http://picons.github.io
 Fișierul zip rezultat trebuie să fie numit picons.zip și plasat la  URL-ul de bază specificat mai jos"</string>
-<string name="menu_tuner_select_disabled">"Dezactivat"</string>
 <string name="tuner_select_none">"Nu au fost găsite tunere de rețea corespunzătoare. Vă rugăm să verificați conexiunea la rețea"</string>
 <string name="wizard_refresh">"Reîmprospătare"</string>
 <string name="menu_wizard_tuner_select_sat_location">"Selectați poziția de satelit"</string>
@@ -138,4 +135,22 @@ Fișierul zip rezultat trebuie să fie numit picons.zip și plasat la  URL-ul de
 <string name="menu_wizard_testing_homing_parameters">"Testarea Homing Parametrii"</string>
 <string name="menu_wizard_testing_homing_parameters_done_failed">"Nu se poate valida valorile furnizate. Vă rugăm să verificați cablul de antenă sau edita valorile și încercați din nou."</string>
 <string name="menu_tuner_invalid_param">"Valoare Invalidă"</string>
+<string name="disabled">"Pentru persoane cu handicap"</string>
+<string name="off">"De pe"</string>
+<string name="on">"Pe"</string>
+<string name="menu_no_recordings_match">"Nu se potrivesc"</string>
+<string name="info_no_channel">"Nici un canal"</string>
+<string name="menu_initial_no_recordings">"Nu există Înregistrări"</string>
+<string name="menu_recordings">"Înregistrări"</string>
+<string name="dvr_free">"Gratuit"</string>
+<string name="menu_settings_dvr_timeshift_length">"Timeshift Lungime"</string>
+<string name="menu_settings_dvr_timeshift_mode">"Mod Timeshift"</string>
+<string name="menu_settings_dvr_timer_slack">"Timer Slack"</string>
+<string name="menu_settings_dvr_device">"DVR Dispozitiv"</string>
+<string name="menu_settings_dvr_timer_slack_help">"Timpul specificat va fi adăugat înainte și după înregistrarea efectivă"</string>
+<string name="dvr_storage_removed">"Depozitare Eliminat"</string>
+<string name="dvr_instant_recording">"Înregistrare Instant"</string>
+<string name="menu_settings_dvr_grant_permission">"Accesul Grant de stocare"</string>
+<string name="menu_settings_dvr_grant_permission_description">"Selectați directorul rădăcină de stocare"</string>
+<string name="menu_wizard_satellite_polarity">"Polaritate"</string>
 </resources>
