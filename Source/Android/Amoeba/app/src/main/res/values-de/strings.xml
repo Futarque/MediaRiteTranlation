@@ -3,8 +3,6 @@
 <string name="app_name">"AuroraTV"</string>
 <string name="cancelled">"Abgebrochen"</string>
 <string name="complete">"Vollständig"</string>
-<string name="spinner_off">"Aus"</string>
-<string name="spinner_on">"An"</string>
 <string name="button_next">"Weiter"</string>
 <string name="button_apply">"Anwenden
 "</string>
@@ -72,7 +70,6 @@ Bitte bestätigen"</string>
 über http://picons.github.io erzeugt werden.
 Die erzeugte Zip-Datei muss in picons.zip benannt 
 und an der unten angegebenen URL platziert werden."</string>
-<string name="menu_tuner_select_disabled">"Deaktiviert"</string>
 <string name="tuner_select_none">"Keine unterstützten Netzwerk-Empfangsgeräte gefunden. Bitte überprüfen Sie Ihre Netzwerkverbindung"</string>
 <string name="wizard_refresh">"Aktualisieren"</string>
 <string name="menu_wizard_tuner_select_sat_location">"Wählen Sie Ihre Satellitenposition"</string>
@@ -154,4 +151,22 @@ Ein dickes Dankeschön für und ein (K)üsschen für Dich :)"</string>
 <string name="menu_wizard_testing_homing_parameters">"Testing Homing Parameter"</string>
 <string name="menu_wizard_testing_homing_parameters_done_failed">"Unfähig, die gelieferten Werte zu validieren. Bitte überprüfen Sie Ihre Antennenkabel oder die Werte bearbeiten und erneut versuchen."</string>
 <string name="menu_tuner_invalid_param">"ungültiger Wert"</string>
+<string name="disabled">"Behindert"</string>
+<string name="off">"Aus"</string>
+<string name="on">"Am"</string>
+<string name="menu_no_recordings_match">"Keine Übereinstimmung"</string>
+<string name="info_no_channel">"Kein Kanal"</string>
+<string name="menu_initial_no_recordings">"Keine Recordings"</string>
+<string name="menu_recordings">"Recordings"</string>
+<string name="dvr_free">"Frei"</string>
+<string name="menu_settings_dvr_timeshift_length">"Timeshift Länge"</string>
+<string name="menu_settings_dvr_timeshift_mode">"Timeshift-Modus"</string>
+<string name="menu_settings_dvr_timer_slack">"Timer Slack"</string>
+<string name="menu_settings_dvr_device">"DVR-Gerät"</string>
+<string name="menu_settings_dvr_timer_slack_help">"Die festgelegte Zeit vor und nach der eigentlichen Aufnahme aufgenommen werden,"</string>
+<string name="dvr_storage_removed">"Lagerung entfernt"</string>
+<string name="dvr_instant_recording">"Sofortaufnahme"</string>
+<string name="menu_settings_dvr_grant_permission">"Zuschuss Speicherzugang"</string>
+<string name="menu_settings_dvr_grant_permission_description">"Wählen Sie den Stammordner der Speicher"</string>
+<string name="menu_wizard_satellite_polarity">"Polarität"</string>
 </resources>
