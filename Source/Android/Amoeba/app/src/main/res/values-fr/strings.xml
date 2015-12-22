@@ -3,8 +3,6 @@
 <string name="app_name">"AuroraTV"</string>
 <string name="cancelled">"Annulé"</string>
 <string name="complete">"Terminé"</string>
-<string name="spinner_off">"Arrêt"</string>
-<string name="spinner_on">"Marche"</string>
 <string name="button_next">"Suivant"</string>
 <string name="button_apply">"Appliquer"</string>
 <string name="button_ok">"OK"</string>
@@ -67,7 +65,6 @@ Veuillez confirmer"</string>
 <string name="menu_settings_download_nothing">"Aucun téléchargement trouvé"</string>
 <string name="menu_download_icon_description">"Les logos de canaux peuvent être générés en utilisant le logiciel disponible à http://picons.github.io.
 Le fichier zip résultant doit être nommé picons.zip et placé à l'URL de base indiqué ci-dessous"</string>
-<string name="menu_tuner_select_disabled">"désactivé"</string>
 <string name="tuner_select_none">"Aucun tuner
  réseau pris en charge trouvé. Veuillez vérifier votre connexion réseau"</string>
 <string name="wizard_refresh">"Actualiser"</string>
@@ -139,4 +136,22 @@ Le fichier zip résultant doit être nommé picons.zip et placé à l'URL de bas
 <string name="menu_wizard_testing_homing_parameters">"Test Homing Paramètres"</string>
 <string name="menu_wizard_testing_homing_parameters_done_failed">"Impossible de valider les valeurs fournies. S'il vous plaît vérifier votre câble d'antenne ou de modifier les valeurs et essayez à nouveau."</string>
 <string name="menu_tuner_invalid_param">"valeur invalide"</string>
+<string name="disabled">"désactivé"</string>
+<string name="off">"De"</string>
+<string name="on">"Sur"</string>
+<string name="menu_no_recordings_match">"Aucune concordance"</string>
+<string name="info_no_channel">"Aucun canal"</string>
+<string name="menu_initial_no_recordings">"Aucun enregistrement"</string>
+<string name="menu_recordings">"Enregistrements"</string>
+<string name="dvr_free">"gratuite"</string>
+<string name="menu_settings_dvr_timeshift_length">"Timeshift Longueur"</string>
+<string name="menu_settings_dvr_timeshift_mode">"Mode TimeShift"</string>
+<string name="menu_settings_dvr_timer_slack">"Slack minuterie"</string>
+<string name="menu_settings_dvr_device">"Dispositif DVR"</string>
+<string name="menu_settings_dvr_timer_slack_help">"L'heure spécifiée sera ajoutée avant et après l'enregistrement réel"</string>
+<string name="dvr_storage_removed">"Stockage supprimé"</string>
+<string name="dvr_instant_recording">"Enregistrement instantané"</string>
+<string name="menu_settings_dvr_grant_permission">"Subvention de stockage"</string>
+<string name="menu_settings_dvr_grant_permission_description">"Sélectionnez le dossier racine de votre espace de stockage"</string>
+<string name="menu_wizard_satellite_polarity">"Polarité"</string>
 </resources>
