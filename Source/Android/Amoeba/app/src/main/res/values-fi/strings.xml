@@ -3,8 +3,6 @@
 <string name="app_name">"AuroraTV"</string>
 <string name="cancelled">"Peruutettu"</string>
 <string name="complete">"Täydellinen"</string>
-<string name="spinner_off">"Pois"</string>
-<string name="spinner_on">"Päällä"</string>
 <string name="button_next">"Seuraava"</string>
 <string name="button_apply">"Käyttää"</string>
 <string name="button_ok">"OK"</string>
@@ -67,7 +65,6 @@ Ole hyvä ja vahvista"</string>
 <string name="menu_settings_download_nothing">"Ei lataukset löytynyt"</string>
 <string name="menu_download_icon_description">"Logot voidaan tuottaa käyttämällä ohjelmistoa saatavilla http://picons.github.io
 Tuloksena zip-tiedosto on nimetty picons.zip ja sijoitettu pohjan URL alla määritellyssä"</string>
-<string name="menu_tuner_select_disabled">"Vammaiset"</string>
 <string name="tuner_select_none">"Ei tuettu verkko viritintä löytynyt. Tarkista verkkoyhteys"</string>
 <string name="wizard_refresh">"Virkistää"</string>
 <string name="menu_wizard_tuner_select_sat_location">"Valitse satelliitti asema"</string>
@@ -138,4 +135,22 @@ Tuloksena zip-tiedosto on nimetty picons.zip ja sijoitettu pohjan URL alla mää
 <string name="menu_wizard_testing_homing_parameters">"Testaus Homing parametrit"</string>
 <string name="menu_wizard_testing_homing_parameters_done_failed">"Voi vahvistaa mukana arvoja. Tarkista antennikaapeli tai muokata arvoja ja yritä uudelleen."</string>
 <string name="menu_tuner_invalid_param">"virheellinen arvo"</string>
+<string name="disabled">"Vammaiset"</string>
+<string name="off">"Pois"</string>
+<string name="on">"Päällä"</string>
+<string name="menu_no_recordings_match">"Ei osumia"</string>
+<string name="info_no_channel">"Ei Channel"</string>
+<string name="menu_initial_no_recordings">"Ei tallenteita"</string>
+<string name="menu_recordings">"Äänitykset"</string>
+<string name="dvr_free">"Ilmaiseksi"</string>
+<string name="menu_settings_dvr_timeshift_length">"Ajansiirto Pituus"</string>
+<string name="menu_settings_dvr_timeshift_mode">"Viivästystilassa"</string>
+<string name="menu_settings_dvr_timer_slack">"Ajastin Slack"</string>
+<string name="menu_settings_dvr_device">"DVR-laite"</string>
+<string name="menu_settings_dvr_timer_slack_help">"Tietyn ajan lisätään ennen ja jälkeen varsinaisen tallennuksen"</string>
+<string name="dvr_storage_removed">"Varastointi Poistettu"</string>
+<string name="dvr_instant_recording">"Pikatallennus"</string>
+<string name="menu_settings_dvr_grant_permission">"Grant Storage Access"</string>
+<string name="menu_settings_dvr_grant_permission_description">"Valitse pääkansioon varastointi"</string>
+<string name="menu_wizard_satellite_polarity">"Vastakkaisuus"</string>
 </resources>
