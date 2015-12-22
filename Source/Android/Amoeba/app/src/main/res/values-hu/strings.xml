@@ -3,8 +3,6 @@
 <string name="app_name">"AuroraTV"</string>
 <string name="cancelled">"Törölt"</string>
 <string name="complete">"teljes"</string>
-<string name="spinner_off">"Le"</string>
-<string name="spinner_on">"Be"</string>
 <string name="button_next">"Következő"</string>
 <string name="button_apply">"Alkalmazza"</string>
 <string name="button_ok">"oké"</string>
@@ -67,7 +65,6 @@ Kérem erősítse meg"</string>
 <string name="menu_settings_download_nothing">"Nem találtam letöltések"</string>
 <string name="menu_download_icon_description">"Csatorna logók lehet alkalmazásával a szoftver elérhető http://picons.github.io
 A kapott zip fájlt kell elemzi picons.zip és aljánál elhelyezett URL alább megadott"</string>
-<string name="menu_tuner_select_disabled">"Tiltva"</string>
 <string name="tuner_select_none">"Nem támogatott hálózati tuner található. Kérjük, ellenőrizze a hálózati kapcsolatot"</string>
 <string name="wizard_refresh">"Felfrissít"</string>
 <string name="menu_wizard_tuner_select_sat_location">"Válassza ki a műhold helyzetét"</string>
@@ -138,4 +135,22 @@ A kapott zip fájlt kell elemzi picons.zip és aljánál elhelyezett URL alább 
 <string name="menu_wizard_testing_homing_parameters">"Tesztelés Homing paraméterek"</string>
 <string name="menu_wizard_testing_homing_parameters_done_failed">"Nem lehet érvényesíteni a mellékelt értékeket. Kérjük, ellenőrizze a antenna kábelt vagy az értékeknek a szerkesztéséhez, és próbálja újra."</string>
 <string name="menu_tuner_invalid_param">"Érvénytelen érték"</string>
+<string name="disabled">"Tiltva"</string>
+<string name="off">"Le"</string>
+<string name="on">"On"</string>
+<string name="menu_no_recordings_match">"Nincs egyezés"</string>
+<string name="info_no_channel">"Nem Channel"</string>
+<string name="menu_initial_no_recordings">"Nem Felvételek"</string>
+<string name="menu_recordings">"Felvételek"</string>
+<string name="dvr_free">"Ingyenes"</string>
+<string name="menu_settings_dvr_timeshift_length">"Timeshift Hosszúság"</string>
+<string name="menu_settings_dvr_timeshift_mode">"Timeshift"</string>
+<string name="menu_settings_dvr_timer_slack">"Időzített Slack"</string>
+<string name="menu_settings_dvr_device">"DVR készülék"</string>
+<string name="menu_settings_dvr_timer_slack_help">"A megadott idő kell hozzá, előtt és után a tényleges felvétel"</string>
+<string name="dvr_storage_removed">"Tárolás eltávolítva"</string>
+<string name="dvr_instant_recording">"Azonnali felvétel"</string>
+<string name="menu_settings_dvr_grant_permission">"Grant Storage Access"</string>
+<string name="menu_settings_dvr_grant_permission_description">"Válassza ki a gyökér mappában a tárolási"</string>
+<string name="menu_wizard_satellite_polarity">"Polaritás"</string>
 </resources>
