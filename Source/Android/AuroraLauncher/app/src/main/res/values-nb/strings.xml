@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_name">"AuroraLauncher"</string>
+<string name="app_name">"AuroraOppstart"</string>
 <string name="home_featured">"Utvalgt"</string>
 <string name="home_launcher_settings">"Konfigurasjon"</string>
 <string name="home_leanback">"TV Apps"</string>
@@ -8,14 +8,21 @@
 <string name="home_settings">"Innstillinger"</string>
 <string name="home_standard">"Apps"</string>
 <string name="home_system">"System"</string>
+
+<!-- A noun - the screen, not "to display" -->
 <string name="home_system_display">"Skjerm"</string>
-<string name="home_system_manage_applications">"Manage Applications"</string>
-<string name="home_system_power">"Skru av"</string>
+<string name="home_system_manage_applications">"Styre Applikasjoner"</string>
+<string name="home_system_power">"Avslutt"</string>
 <string name="home_system_settings">"Systeminnstillinger"</string>
 <string name="home_system_sound">"Lyd"</string>
-<string name="preferences_applications">"Søknader"</string>
+<string name="preferences_applications">"Applikasjoner "</string>
 <string name="preferences_country">"Land"</string>
 <string name="preferences_groups">"Grupper"</string>
-<string name="preferences_preferences">"Preferanser"</string>
-<string name="search_result">"Søkeresultat:"</string>
+<string name="preferences_preferences">"Innstillinger"</string>
+<string name="search_result">"Søke resultat:"</string>
+<string name="home_system_update">"Oppdatering tilgjengelig"</string>
+<string name="system_update_available">"En systemoppdatering er tilgjengelig."</string>
+<string name="new_version">"Ny verson"</string>
+<string name="later">"Seinere"</string>
+<string name="install">"Installere"</string>
 </resources>
