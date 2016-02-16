@@ -169,4 +169,27 @@ Ein dickes Dankeschön für und ein (K)üsschen für Dich :)"</string>
 <string name="menu_settings_dvr_grant_permission">"Zuschuss Speicherzugang"</string>
 <string name="menu_settings_dvr_grant_permission_description">"Wählen Sie den Stammordner der Speicher"</string>
 <string name="menu_wizard_satellite_polarity">"Polarität"</string>
+<string name="auto">"Auto"</string>
+<string name="unknown">"Unbekannt"</string>
+<string name="menu_wizard_atsc">"ATSC"</string>
+<string name="menu_wizard_atsc_carrier">"Träger"</string>
+<string name="menu_wizard_tuner_select_signal_carrier">"Signalträger"</string>
+<string name="context_menu_prg_info">"Programminfo"</string>
+<string name="bookings">"Buchungen"</string>
+<string name="recordings">"Recordings"</string>
+<string name="bookings_next_event">"Nächste Veranstaltung:"</string>
+<string name="menu_settings_settings">"AV-Einstellungen"</string>
+<string name="menu_settings_hdmi_refresh">"HDMI Bildwiederholrate"</string>
+<string name="menu_settings_follow_content">"Folgen Sie Inhalt"</string>
+<string name="menu_settings_system_default">"Verwenden Sie die Systemstandard"</string>
+<string name="otr_recording_started">"Aufzeichnung gestartet"</string>
+<string name="otr_recording_failed">"Aufnahmefehler"</string>
+<string name="menu_settings_dvr_max_tuners">"Anzahl der Tuners"</string>
+<string name="menu_settings_dvr_max_tuners_help">"Geben Sie die Anzahl der Tuner AuroraTV verwenden. Die angegebene Zahl muss in allen Ihren Träger zur Verfügung stehen (z. B. DVB-T, DVB-C, DVB-S)."</string>
+<string name="about_build_number">"Build-Nummer"</string>
+<string name="about_opensource_licenses">"Open-Source-Lizenzen"</string>
+<string name="debug">"Debuggen"</string>
+<string name="about_debug_options">"Konfigurieren Debug-Optionen"</string>
+<string name="about_secret_message">"Geheime Debug Revealed"</string>
+<string name="menu_settings_audio_output_engine">"Audio-Ausgabemodus"</string>
 </resources>
