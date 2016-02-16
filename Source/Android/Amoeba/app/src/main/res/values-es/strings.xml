@@ -153,4 +153,27 @@ El archivo zip resultante debe ser nombrado picons.zip y puesto a la URL base se
 <string name="menu_settings_dvr_grant_permission">"Otorgar acceso de almacenamiento"</string>
 <string name="menu_settings_dvr_grant_permission_description">"Seleccione la carpeta raíz de su almacenamiento"</string>
 <string name="menu_wizard_satellite_polarity">"Polaridad"</string>
+<string name="auto">"Auto"</string>
+<string name="unknown">"Desconocido"</string>
+<string name="menu_wizard_atsc">"ATSC"</string>
+<string name="menu_wizard_atsc_carrier">"Portador"</string>
+<string name="menu_wizard_tuner_select_signal_carrier">"señal portadora"</string>
+<string name="context_menu_prg_info">"Información del programa"</string>
+<string name="bookings">"reservas"</string>
+<string name="recordings">"grabaciones"</string>
+<string name="bookings_next_event">"Próximo evento:"</string>
+<string name="menu_settings_settings">"Ajustes de AV"</string>
+<string name="menu_settings_hdmi_refresh">"HDMI Frecuencia de actualización"</string>
+<string name="menu_settings_follow_content">"siga contenido"</string>
+<string name="menu_settings_system_default">"El uso del sistema por defecto"</string>
+<string name="otr_recording_started">"inició la grabación"</string>
+<string name="otr_recording_failed">"Error de grabación"</string>
+<string name="menu_settings_dvr_max_tuners">"Número de sintonizadores"</string>
+<string name="menu_settings_dvr_max_tuners_help">"Especifique el número de sintonizadores AuroraTV puede utilizar. El número especificado debe estar disponible en todos sus soportes (por ejemplo. DVB-T, DVB-C, DVB-S)."</string>
+<string name="about_build_number">"número de compilación"</string>
+<string name="about_opensource_licenses">"Licencias de código abierto"</string>
+<string name="debug">"Depurar"</string>
+<string name="about_debug_options">"Configurar las opciones de depuración"</string>
+<string name="about_secret_message">"Secreto Revelado de depuración"</string>
+<string name="menu_settings_audio_output_engine">"Método de salida de audio"</string>
 </resources>
