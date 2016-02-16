@@ -8,6 +8,25 @@
 <string name="wizard_timezone_description">"S'il vous plaît sélectionnez votre fuseau horaire"</string>
 <string name="wizard_complete">"Assistant terminé"</string>
 <string name="wizard_complete_ok">"OK"</string>
-<string name="wizard_wifi_description">"S'il vous plaît sélectionnez votre point d'accès Wifi"</string>
-<string name="wizard_wifi">"Wifi"</string>
+<string name="wizard_network_description">"S'il vous plaît sélectionnez votre connexion réseau préféré"</string>
+<string name="wizard_network">"Réseau"</string>
+<string name="wizard_network_wifi">"Wifi"</string>
+<string name="wizard_network_wifi_description">"S'il vous plaît sélectionnez votre point d'accès"</string>
+<string name="wifi_security_type_wep">"WEP"</string>
+<string name="wifi_security_type_wpa">"WPA / WPA2 PSK"</string>
+<string name="wifi_security_type_eap">"802.1x EAP"</string>
+<string name="wifi_security_type_none">"Aucun"</string>
+<string name="network_wifi_password_title">"Entrer le mot de passe"</string>
+<string name="network_ethernet_connect_title">"S'il vous plaît connecter votre Ethernet"</string>
+<string name="network_not_connected">"Pas connecté"</string>
+<string name="network_connected">"Connecté"</string>
+<string name="network_connecting">"De liaison"</string>
+<string name="network_available">"Disponible"</string>
+<string name="network_wifi_scanning">"Balayage..."</string>
+<string name="network_ethernet">"Ethernet"</string>
+<string name="network_wifi_click_enable">"Cliquez pour activer"</string>
+<string name="network_wifi_enabling">"Permettant ..."</string>
+<string name="network_success">"le succès"</string>
+<string name="network_no_ethernet">"Aucune Ethernet détecté"</string>
+<string name="network_skip">"Sauter"</string>
 </resources>
