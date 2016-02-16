@@ -4,7 +4,14 @@ git pull
 # Copy Translation base from mediarite source
 ./update.sh -update ~/source/mediarite/trunk
 
+# check changes
+git diff
 
+
+# commit locally
+git commit -a
+
+# commit to server
 git push -u origin master
 
 
