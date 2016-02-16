@@ -153,4 +153,27 @@
 <string name="menu_settings_dvr_grant_permission">"Доступ Грант хранения"</string>
 <string name="menu_settings_dvr_grant_permission_description">"Выберите корневую папку вашего хранения"</string>
 <string name="menu_wizard_satellite_polarity">"Полярность"</string>
+<string name="auto">"Авто"</string>
+<string name="unknown">"неизвестный"</string>
+<string name="menu_wizard_atsc">"ATSC"</string>
+<string name="menu_wizard_atsc_carrier">"Перевозчик"</string>
+<string name="menu_wizard_tuner_select_signal_carrier">"Сигнал несущей"</string>
+<string name="context_menu_prg_info">"Программа информация"</string>
+<string name="bookings">"Заказы"</string>
+<string name="recordings">"Записи"</string>
+<string name="bookings_next_event">"Следующее событие:"</string>
+<string name="menu_settings_settings">"AV Настройки"</string>
+<string name="menu_settings_hdmi_refresh">"Частота обновления HDMI"</string>
+<string name="menu_settings_follow_content">"Следуйте Содержимое"</string>
+<string name="menu_settings_system_default">"Использование системы по умолчанию"</string>
+<string name="otr_recording_started">"Запись началась"</string>
+<string name="otr_recording_failed">"Запись удалось"</string>
+<string name="menu_settings_dvr_max_tuners">"Количество тюнеров"</string>
+<string name="menu_settings_dvr_max_tuners_help">"Укажите количество тюнеров AuroraTV может использовать. Указанное число должно быть доступно во всех ваших носителей (например. DVB-T, DVB-C, DVB-S)."</string>
+<string name="about_build_number">"Номер сборки"</string>
+<string name="about_opensource_licenses">"Лицензии открытого"</string>
+<string name="debug">"Отлаживать"</string>
+<string name="about_debug_options">"Настройка отладки Функции"</string>
+<string name="about_secret_message">"Секрет отладки раскрыты"</string>
+<string name="menu_settings_audio_output_engine">"Аудио Метод вывода"</string>
 </resources>
