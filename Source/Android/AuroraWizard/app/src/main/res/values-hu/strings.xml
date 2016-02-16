@@ -8,6 +8,25 @@
 <string name="wizard_timezone_description">"Kérjük, válassza ki az időzónát"</string>
 <string name="wizard_complete">"Varázsló befejeződött"</string>
 <string name="wizard_complete_ok">"OK"</string>
-<string name="wizard_wifi_description">"Kérjük, válassza ki a WiFi hozzáférési pont"</string>
-<string name="wizard_wifi">"Wifi"</string>
+<string name="wizard_network_description">"Kérjük, válassza ki a kívánt hálózati kapcsolat"</string>
+<string name="wizard_network">"Hálózat"</string>
+<string name="wizard_network_wifi">"wifi"</string>
+<string name="wizard_network_wifi_description">"Kérjük, válassza ki a hozzáférési pontot"</string>
+<string name="wifi_security_type_wep">"WEP"</string>
+<string name="wifi_security_type_wpa">"WPA / WPA2 PSK"</string>
+<string name="wifi_security_type_eap">"802.1x EAP"</string>
+<string name="wifi_security_type_none">"Egyik sem"</string>
+<string name="network_wifi_password_title">"Írd be a jelszót"</string>
+<string name="network_ethernet_connect_title">"Kérjük, csatlakoztassa az Ethernet"</string>
+<string name="network_not_connected">"Nem kapcsolódik"</string>
+<string name="network_connected">"összefüggő"</string>
+<string name="network_connecting">"Csatlakozó"</string>
+<string name="network_available">"Elérhető"</string>
+<string name="network_wifi_scanning">"Scanning ..."</string>
+<string name="network_ethernet">"Ethernet"</string>
+<string name="network_wifi_click_enable">"Kattints, hogy"</string>
+<string name="network_wifi_enabling">"Engedélyezése ..."</string>
+<string name="network_success">"Siker"</string>
+<string name="network_no_ethernet">"Nincs Ethernet észlelt"</string>
+<string name="network_skip">"Skip"</string>
 </resources>
