@@ -153,4 +153,27 @@ Tuloksena zip-tiedosto on nimetty picons.zip ja sijoitettu pohjan URL alla mää
 <string name="menu_settings_dvr_grant_permission">"Grant Storage Access"</string>
 <string name="menu_settings_dvr_grant_permission_description">"Valitse pääkansioon varastointi"</string>
 <string name="menu_wizard_satellite_polarity">"Vastakkaisuus"</string>
+<string name="auto">"Auto"</string>
+<string name="unknown">"Tuntematon"</string>
+<string name="menu_wizard_atsc">"ATSC"</string>
+<string name="menu_wizard_atsc_carrier">"kantaja"</string>
+<string name="menu_wizard_tuner_select_signal_carrier">"Signal Carrier"</string>
+<string name="context_menu_prg_info">"ohjelma Info"</string>
+<string name="bookings">"varaukset"</string>
+<string name="recordings">"Tallenteet"</string>
+<string name="bookings_next_event">"Seuraava kilpailu:"</string>
+<string name="menu_settings_settings">"AV-asetukset"</string>
+<string name="menu_settings_hdmi_refresh">"HDMI virkistystaajuus"</string>
+<string name="menu_settings_follow_content">"Seuraa sisältö"</string>
+<string name="menu_settings_system_default">"Käytä Järjestelmän oletus"</string>
+<string name="otr_recording_started">"tallennus alkoi"</string>
+<string name="otr_recording_failed">"tallennus epäonnistui"</string>
+<string name="menu_settings_dvr_max_tuners">"Määrä virittimet"</string>
+<string name="menu_settings_dvr_max_tuners_help">"Määritä määrä virittimet AuroraTV voi käyttää. Tietty määrä on oltava käytettävissä kaikissa oman harjoittajien (esim. DVB-T, DVB-C, DVB-S)."</string>
+<string name="about_build_number">"Build numero"</string>
+<string name="about_opensource_licenses">"Open Source lisenssit"</string>
+<string name="debug">"debug"</string>
+<string name="about_debug_options">"Määritä Debug Vaihtoehdot"</string>
+<string name="about_secret_message">"Secret Debug Revealed"</string>
+<string name="menu_settings_audio_output_engine">"Audio Output Method"</string>
 </resources>
