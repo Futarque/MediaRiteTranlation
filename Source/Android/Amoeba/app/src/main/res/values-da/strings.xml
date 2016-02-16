@@ -154,4 +154,27 @@ Den resulterende ZIP fil skal navngives picons.zip, og placeres så den kan tilg
 <string name="menu_settings_dvr_grant_permission">"Giv skriveadgang til lager"</string>
 <string name="menu_settings_dvr_grant_permission_description">"Vælg rodfolderen på dit lager"</string>
 <string name="menu_wizard_satellite_polarity">"Polaritet"</string>
+<string name="auto">"Automatisk"</string>
+<string name="unknown">"Ukendt"</string>
+<string name="menu_wizard_atsc">"ATSC"</string>
+<string name="menu_wizard_atsc_carrier">"Transmissionsform"</string>
+<string name="menu_wizard_tuner_select_signal_carrier">"Signaltransmission"</string>
+<string name="context_menu_prg_info">"Programinformation"</string>
+<string name="bookings">"Bookings"</string>
+<string name="recordings">"Optagelser"</string>
+<string name="bookings_next_event">"Næste program:"</string>
+<string name="menu_settings_settings">"AV indstillinger"</string>
+<string name="menu_settings_hdmi_refresh">"HDMI opdateringsfrekvens"</string>
+<string name="menu_settings_follow_content">"Følg indhold"</string>
+<string name="menu_settings_system_default">"Brug systemets indstilling"</string>
+<string name="otr_recording_started">"Optagelse startet"</string>
+<string name="otr_recording_failed">"Optagelse fejlede"</string>
+<string name="menu_settings_dvr_max_tuners">"Antal tunere"</string>
+<string name="menu_settings_dvr_max_tuners_help">"Specificer antallet af tunere AuroraTV må bruge. Dette antal skal være tilgængelig for alle tilsluttede signalkilder. (DVB-T, DVB-C, DVB-S)"</string>
+<string name="about_build_number">"Byggeversion"</string>
+<string name="about_opensource_licenses">"Open Source licenser"</string>
+<string name="debug">"Fejlfinding"</string>
+<string name="about_debug_options">"Konfigurer fejlfindingsindstillinger"</string>
+<string name="about_secret_message">"Hemmelige indstillinger åbnet"</string>
+<string name="menu_settings_audio_output_engine">"Audioudgangsmetode"</string>
 </resources>
