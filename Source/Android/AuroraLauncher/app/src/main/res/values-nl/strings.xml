@@ -18,4 +18,9 @@
 <string name="preferences_groups">"Groepen"</string>
 <string name="preferences_preferences">"Voorkeuren"</string>
 <string name="search_result">"Zoekresultaat:"</string>
+<string name="home_system_update">"Update beschikbaar"</string>
+<string name="system_update_available">"Een systeem update beschikbaar is."</string>
+<string name="new_version">"Nieuwe versie"</string>
+<string name="later">"Later"</string>
+<string name="install">"Installeren"</string>
 </resources>
