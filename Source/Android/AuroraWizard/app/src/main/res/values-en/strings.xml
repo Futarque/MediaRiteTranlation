@@ -8,6 +8,25 @@
 <string name="wizard_timezone_description">"Please select your time zone"</string>
 <string name="wizard_complete">"Wizard completed"</string>
 <string name="wizard_complete_ok">"OK"</string>
-<string name="wizard_wifi_description">"Please select your Wifi access point"</string>
-<string name="wizard_wifi">"Wifi"</string>
+<string name="wizard_network_description">"Please select your preferred network connection"</string>
+<string name="wizard_network">"Network"</string>
+<string name="wizard_network_wifi">"Wifi"</string>
+<string name="wizard_network_wifi_description">"Please select your access point"</string>
+<string name="wifi_security_type_wep">"WEP"</string>
+<string name="wifi_security_type_wpa">"WPA/WPA2 PSK"</string>
+<string name="wifi_security_type_eap">"802.1x EAP"</string>
+<string name="wifi_security_type_none">"None"</string>
+<string name="network_wifi_password_title">"Enter password"</string>
+<string name="network_ethernet_connect_title">"Please connect your Ethernet"</string>
+<string name="network_not_connected">"Not connected"</string>
+<string name="network_connected">"Connected"</string>
+<string name="network_connecting">"Connecting"</string>
+<string name="network_available">"Available"</string>
+<string name="network_wifi_scanning">"Scanning..."</string>
+<string name="network_ethernet">"Ethernet"</string>
+<string name="network_wifi_click_enable">"Click to enable"</string>
+<string name="network_wifi_enabling">"Enabling..."</string>
+<string name="network_success">"Success"</string>
+<string name="network_no_ethernet">"No Ethernet detected"</string>
+<string name="network_skip">"Skip"</string>
 </resources>
