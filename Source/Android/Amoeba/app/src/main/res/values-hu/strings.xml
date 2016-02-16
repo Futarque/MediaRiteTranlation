@@ -153,4 +153,27 @@ A kapott zip fájlt kell elemzi picons.zip és aljánál elhelyezett URL alább 
 <string name="menu_settings_dvr_grant_permission">"Grant Storage Access"</string>
 <string name="menu_settings_dvr_grant_permission_description">"Válassza ki a gyökér mappában a tárolási"</string>
 <string name="menu_wizard_satellite_polarity">"Polaritás"</string>
+<string name="auto">"kocsi"</string>
+<string name="unknown">"Ismeretlen"</string>
+<string name="menu_wizard_atsc">"ATSC"</string>
+<string name="menu_wizard_atsc_carrier">"Hordozó"</string>
+<string name="menu_wizard_tuner_select_signal_carrier">"Signal Carrier"</string>
+<string name="context_menu_prg_info">"Program Info"</string>
+<string name="bookings">"szobafoglalás"</string>
+<string name="recordings">"felvételek"</string>
+<string name="bookings_next_event">"Következő esemény:"</string>
+<string name="menu_settings_settings">"AV beállítások"</string>
+<string name="menu_settings_hdmi_refresh">"HDMI Refresh Rate"</string>
+<string name="menu_settings_follow_content">"Kövesse tartalom"</string>
+<string name="menu_settings_system_default">"Use System Default"</string>
+<string name="otr_recording_started">"A felvétel kezdeti"</string>
+<string name="otr_recording_failed">"A felvétel sikertelen"</string>
+<string name="menu_settings_dvr_max_tuners">"Száma tunerek"</string>
+<string name="menu_settings_dvr_max_tuners_help">"Adja meg a számát tunerek AuroraTV használhatja. A megadott szám nem elérhető az Ön összes hordozók (pl. DVB-T, DVB-C, DVB-S)."</string>
+<string name="about_build_number">"Build száma"</string>
+<string name="about_opensource_licenses">"Nyílt forráskódú licencek"</string>
+<string name="debug">"Debug"</string>
+<string name="about_debug_options">"Konfigurálása hibakeresési lehetőségek"</string>
+<string name="about_secret_message">"Secret Revealed Debug"</string>
+<string name="menu_settings_audio_output_engine">"Audio Output Method"</string>
 </resources>
