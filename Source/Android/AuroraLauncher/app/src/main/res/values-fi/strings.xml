@@ -18,4 +18,9 @@
 <string name="preferences_groups">"Ryhmät"</string>
 <string name="preferences_preferences">"Asetukset"</string>
 <string name="search_result">"Tulos:"</string>
+<string name="home_system_update">"Päivitys saatavilla"</string>
+<string name="system_update_available">"Järjestelmä on saatavilla."</string>
+<string name="new_version">"Uusi versio"</string>
+<string name="later">"Myöhemmin"</string>
+<string name="install">"Asentaa"</string>
 </resources>
