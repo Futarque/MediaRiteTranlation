@@ -154,4 +154,27 @@ Le fichier zip résultant doit être nommé picons.zip et placé à l'URL de bas
 <string name="menu_settings_dvr_grant_permission">"Subvention de stockage"</string>
 <string name="menu_settings_dvr_grant_permission_description">"Sélectionnez le dossier racine de votre espace de stockage"</string>
 <string name="menu_wizard_satellite_polarity">"Polarité"</string>
+<string name="auto">"Auto"</string>
+<string name="unknown">"Inconnu"</string>
+<string name="menu_wizard_atsc">"ATSC"</string>
+<string name="menu_wizard_atsc_carrier">"Transporteur"</string>
+<string name="menu_wizard_tuner_select_signal_carrier">"signal porteur"</string>
+<string name="context_menu_prg_info">"Informations sur le programme"</string>
+<string name="bookings">"réservations"</string>
+<string name="recordings">"Recordings"</string>
+<string name="bookings_next_event">"Prochain événement:"</string>
+<string name="menu_settings_settings">"Paramètres AV"</string>
+<string name="menu_settings_hdmi_refresh">"HDMI Taux de Rafraîchissement"</string>
+<string name="menu_settings_follow_content">"Suivez contenu"</string>
+<string name="menu_settings_system_default">"Utilisation par défaut du système"</string>
+<string name="otr_recording_started">"enregistrement a commencé"</string>
+<string name="otr_recording_failed">"Échec de l'enregistrement"</string>
+<string name="menu_settings_dvr_max_tuners">"Nombre de tuners"</string>
+<string name="menu_settings_dvr_max_tuners_help">"Indiquez le nombre de tuners AuroraTV peut utiliser. Le nombre spécifié doit être disponible sur tous vos supports (par exemple. DVB-T, DVB-C, DVB-S)."</string>
+<string name="about_build_number">"le numéro de build"</string>
+<string name="about_opensource_licenses">"Licences Open Source"</string>
+<string name="debug">"Déboguer"</string>
+<string name="about_debug_options">"Configurer les options de débogage"</string>
+<string name="about_secret_message">"Secret Debug Revealed"</string>
+<string name="menu_settings_audio_output_engine">"Méthode de sortie audio"</string>
 </resources>
