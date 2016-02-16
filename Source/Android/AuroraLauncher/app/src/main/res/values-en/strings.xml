@@ -18,4 +18,9 @@
 <string name="preferences_groups">"Groups"</string>
 <string name="preferences_preferences">"Preferences"</string>
 <string name="search_result">"Search Result:"</string>
+<string name="home_system_update">"Update Available"</string>
+<string name="system_update_available">"A system update is available."</string>
+<string name="new_version">"New version"</string>
+<string name="later">"Later"</string>
+<string name="install">"Install"</string>
 </resources>
