@@ -18,4 +18,9 @@
 <string name="preferences_groups">"Группы"</string>
 <string name="preferences_preferences">"Предпочтения"</string>
 <string name="search_result">"Результат поиска:"</string>
+<string name="home_system_update">"Доступно обновление"</string>
+<string name="system_update_available">"Обновление системы доступно."</string>
+<string name="new_version">"Новая версия"</string>
+<string name="later">"Позже"</string>
+<string name="install">"устанавливать"</string>
 </resources>
