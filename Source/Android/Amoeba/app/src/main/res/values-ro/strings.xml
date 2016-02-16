@@ -153,4 +153,29 @@ Fișierul zip rezultat trebuie să fie numit picons.zip și plasat la  URL-ul de
 <string name="menu_settings_dvr_grant_permission">"Accesul Grant de stocare"</string>
 <string name="menu_settings_dvr_grant_permission_description">"Selectați directorul rădăcină de stocare"</string>
 <string name="menu_wizard_satellite_polarity">"Polaritate"</string>
+<string name="auto">"Automat"</string>
+<string name="unknown">"Necunoscut"</string>
+<string name="menu_wizard_atsc">"ATSC"</string>
+<string name="menu_wizard_atsc_carrier">"Purtător"</string>
+<string name="menu_wizard_tuner_select_signal_carrier">"Purtător de semnal"</string>
+<string name="context_menu_prg_info">"Informații Program"</string>
+<string name="bookings">"Rezervări"</string>
+<string name="recordings">"Înregistrări"</string>
+<string name="bookings_next_event">"Următorul eveniment"</string>
+<string name="menu_settings_settings">"Setări"</string>
+<string name="menu_settings_hdmi_refresh">"Rată de reîmprospătare HDMI"</string>
+<string name="menu_settings_follow_content">"Urmează conținut"</string>
+<string name="menu_settings_system_default">"Folosește sistemul predefinit"</string>
+<string name="otr_recording_started">"Înregistrarea a început"</string>
+<string name="otr_recording_failed">"Înregistrare eșuată"</string>
+<string name="menu_settings_dvr_max_tuners">"Număr de tunere"</string>
+<string name="menu_settings_dvr_max_tuners_help">"Specifică numărul de tunuere alocabile de către recorder-ul DVR. Numărul specificat trebuie sa fie disponibil pentru toate purtătoarele (ex: ATSC, DVB-C, DVB-S)"</string>
+
+<!-- Fuzzy -->
+<string name="about_build_number">"Număr construit"</string>
+<string name="about_opensource_licenses">"Licențe sursă deschisă"</string>
+<string name="debug">"Depanare"</string>
+<string name="about_debug_options">"Configurează opțiunea de depanare"</string>
+<string name="about_secret_message">"Depanare secretă dezvăluită"</string>
+<string name="menu_settings_audio_output_engine">"Metodă de ieșire audio"</string>
 </resources>
