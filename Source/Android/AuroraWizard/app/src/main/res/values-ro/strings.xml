@@ -8,6 +8,25 @@
 <string name="wizard_timezone_description">"Vă rugăm să selectați fusul orar"</string>
 <string name="wizard_complete">"Wizard finalizat"</string>
 <string name="wizard_complete_ok">"OK"</string>
-<string name="wizard_wifi_description">"Vă rugăm să selectați punctul de acces Wi-Fi"</string>
-<string name="wizard_wifi">"Wifi"</string>
+<string name="wizard_network_description">"Vă rugăm selectați conexiunea de rețea preferată"</string>
+<string name="wizard_network">"Rețea"</string>
+<string name="wizard_network_wifi">"Wifi"</string>
+<string name="wizard_network_wifi_description">"Vă rugăm selectați punctul de acces"</string>
+<string name="wifi_security_type_wep">"WEP"</string>
+<string name="wifi_security_type_wpa">"WPA/WPA2 PSK"</string>
+<string name="wifi_security_type_eap">"802.1x EAP"</string>
+<string name="wifi_security_type_none">"Necunoscut"</string>
+<string name="network_wifi_password_title">"Introduceți parola"</string>
+<string name="network_ethernet_connect_title">"Vă rugăm conectați legătura Ethernet"</string>
+<string name="network_not_connected">"Nu sunteți conectat"</string>
+<string name="network_connected">"Sunteți conectat"</string>
+<string name="network_connecting">"Conectare în curs"</string>
+<string name="network_available">"Disponibil"</string>
+<string name="network_wifi_scanning">"Scanare"</string>
+<string name="network_ethernet">"Conexiune Ethernet"</string>
+<string name="network_wifi_click_enable">"Click pentru activare"</string>
+<string name="network_wifi_enabling">"Activare"</string>
+<string name="network_success">"Succes"</string>
+<string name="network_no_ethernet">"Nu a fost detectată nicio conexiune Ethernet"</string>
+<string name="network_skip">"Sari peste "</string>
 </resources>
