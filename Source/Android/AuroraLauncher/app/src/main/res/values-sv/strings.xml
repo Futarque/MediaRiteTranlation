@@ -18,4 +18,9 @@
 <string name="preferences_groups">"Grupper"</string>
 <string name="preferences_preferences">"Inställningar"</string>
 <string name="search_result">"Sökresultat:"</string>
+<string name="home_system_update">"Uppdatering tillgänglig"</string>
+<string name="system_update_available">"En systemuppdatering är tillgänglig."</string>
+<string name="new_version">"Ny version"</string>
+<string name="later">"Senare"</string>
+<string name="install">"Installera"</string>
 </resources>
