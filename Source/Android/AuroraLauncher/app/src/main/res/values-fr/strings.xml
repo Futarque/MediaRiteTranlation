@@ -18,4 +18,9 @@
 <string name="preferences_groups">"Groupes"</string>
 <string name="preferences_preferences">"Préférences"</string>
 <string name="search_result">"Résultat de la recherche:"</string>
+<string name="home_system_update">"Mise à jour disponible"</string>
+<string name="system_update_available">"Une mise à jour du système est disponible."</string>
+<string name="new_version">"Nouvelle version"</string>
+<string name="later">"Plus tard"</string>
+<string name="install">"Installer"</string>
 </resources>
