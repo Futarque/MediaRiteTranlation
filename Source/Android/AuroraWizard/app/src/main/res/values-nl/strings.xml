@@ -8,6 +8,25 @@
 <string name="wizard_timezone_description">"Selecteer uw tijdzone"</string>
 <string name="wizard_complete">"Wizard voltooid"</string>
 <string name="wizard_complete_ok">"OK"</string>
-<string name="wizard_wifi_description">"Selecteer uw Wifi-toegangspunt"</string>
-<string name="wizard_wifi">"Wifi"</string>
+<string name="wizard_network_description">"Selecteer de gewenste netwerkverbinding"</string>
+<string name="wizard_network">"Netwerk"</string>
+<string name="wizard_network_wifi">"Wifi"</string>
+<string name="wizard_network_wifi_description">"Selecteer uw toegangspunt"</string>
+<string name="wifi_security_type_wep">"WEP"</string>
+<string name="wifi_security_type_wpa">"WPA / WPA2-PSK"</string>
+<string name="wifi_security_type_eap">"802.1x EAP"</string>
+<string name="wifi_security_type_none">"Geen"</string>
+<string name="network_wifi_password_title">"Voer wachtwoord in"</string>
+<string name="network_ethernet_connect_title">"Sluit uw Ethernet"</string>
+<string name="network_not_connected">"Niet verbonden"</string>
+<string name="network_connected">"Aangesloten"</string>
+<string name="network_connecting">"Aansluiten"</string>
+<string name="network_available">"Beschikbaar"</string>
+<string name="network_wifi_scanning">"Scanning ..."</string>
+<string name="network_ethernet">"Ethernet"</string>
+<string name="network_wifi_click_enable">"Klik hier om in te schakelen"</string>
+<string name="network_wifi_enabling">"Inschakelen ..."</string>
+<string name="network_success">"Succes"</string>
+<string name="network_no_ethernet">"Geen Ethernet gedetecteerd"</string>
+<string name="network_skip">"Overspringen"</string>
 </resources>
