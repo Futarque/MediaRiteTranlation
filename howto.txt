@@ -1,0 +1,12 @@
+# Update from git
+git pull
+
+# Copy Translation base from mediarite source
+./update.sh -update ~/source/mediarite/trunk
+
+
+git push -u origin master
+
+
+
+

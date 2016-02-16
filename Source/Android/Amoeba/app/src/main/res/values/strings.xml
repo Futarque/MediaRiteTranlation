@@ -4,8 +4,10 @@
     <string name="cancelled">Cancelled</string>
     <string name="complete">Complete</string>
     <string name="disabled">Disabled</string>
+    <string name="auto">Auto</string>
     <string name="off">Off</string>
     <string name="on">On</string>
+    <string name="unknown">Unknown</string>
     <string name="button_next">Next</string>
     <string name="button_apply">Apply</string>
     <string name="button_ok">OK</string>
@@ -60,6 +62,9 @@
     <string name="menu_wizard_cable_symbol_rate">Symbolrate (kSym/s)</string>
     <string name="menu_wizard_cable_network_id">Network ID</string>
     <string name="menu_wizard_welcome">Welcome</string>
+    <string name="menu_wizard_atsc">ATSC</string>
+    <string name="menu_wizard_atsc_carrier">Carrier</string>
+    <string name="menu_wizard_tuner_select_signal_carrier">Signal Carrier</string>
     <string name="menu_wizard_cable_sweep">Full Scan</string>
     <string name="menu_wizard_cable_homing">Quick Scan</string>
     <string name="menu_wizard_tuner_select_cable_search">Search Method</string>
@@ -149,4 +154,22 @@
     <string name="menu_settings_dvr_grant_permission">Grant Storage Access</string>
     <string name="menu_settings_dvr_grant_permission_description">Select the root folder of your storage</string>
     <string name="menu_wizard_satellite_polarity">Polarity</string>
+    <string name="context_menu_prg_info">Program Info</string>
+    <string name="bookings">Bookings</string>
+    <string name="recordings">Recordings</string>
+    <string name="bookings_next_event">Next Event:</string>
+    <string name="menu_settings_settings">AV Settings</string>
+    <string name="menu_settings_hdmi_refresh">HDMI Refresh Rate</string>
+    <string name="menu_settings_follow_content">Follow Content</string>
+    <string name="menu_settings_system_default">Use System Default</string>
+    <string name="otr_recording_started">Recording Started</string>
+    <string name="otr_recording_failed">Recording Failed</string>
+    <string name="menu_settings_dvr_max_tuners">Number of Tuners</string>
+    <string name="menu_settings_dvr_max_tuners_help">Specify the number of tuners allocatable by the DVR recorder. The specified number must be available across all of your carriers (eg. ATSC, DVB-C, DVB-S).</string>
+    <string name="about_build_number">Build number</string>
+    <string name="about_opensource_licenses">Open Source Licenses</string>
+    <string name="debug">Debug</string>
+    <string name="about_debug_options">Configure Debug Options</string>
+    <string name="about_secret_message">Secret Debug Revealed</string>
+    <string name="menu_settings_audio_output_engine">Audio Output Method</string>
 </resources>
