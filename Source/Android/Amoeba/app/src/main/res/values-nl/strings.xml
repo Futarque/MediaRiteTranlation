@@ -153,4 +153,27 @@ De resulterende zip-bestand moet worden genoemd picons.zip en geplaatst op de ba
 <string name="menu_settings_dvr_grant_permission">"Grant Storage Access"</string>
 <string name="menu_settings_dvr_grant_permission_description">"Selecteer de hoofdmap van uw opslagruimte"</string>
 <string name="menu_wizard_satellite_polarity">"Polariteit"</string>
+<string name="auto">"Auto"</string>
+<string name="unknown">"Onbekend"</string>
+<string name="menu_wizard_atsc">"ATSC"</string>
+<string name="menu_wizard_atsc_carrier">"Carrier"</string>
+<string name="menu_wizard_tuner_select_signal_carrier">"signaal Carrier"</string>
+<string name="context_menu_prg_info">"programma-info"</string>
+<string name="bookings">"boekingen"</string>
+<string name="recordings">"Recordings"</string>
+<string name="bookings_next_event">"Next Event:"</string>
+<string name="menu_settings_settings">"AV-instellingen"</string>
+<string name="menu_settings_hdmi_refresh">"HDMI Refresh Rate"</string>
+<string name="menu_settings_follow_content">"Volg Content"</string>
+<string name="menu_settings_system_default">"Gebruik System Default"</string>
+<string name="otr_recording_started">"opname Gestart"</string>
+<string name="otr_recording_failed">"opname mislukt"</string>
+<string name="menu_settings_dvr_max_tuners">"Aantal Tuners"</string>
+<string name="menu_settings_dvr_max_tuners_help">"Geef het aantal tuners AuroraTV mag gebruiken. moet het opgegeven aantal beschikbare in al uw dragers (bijv. DVB-T, DVB-C, DVB-S) zijn."</string>
+<string name="about_build_number">"Buildnummer"</string>
+<string name="about_opensource_licenses">"Open Source Licenties"</string>
+<string name="debug">"debug"</string>
+<string name="about_debug_options">"Configureren Debug Opties"</string>
+<string name="about_secret_message">"Secret Debug Revealed"</string>
+<string name="menu_settings_audio_output_engine">"Audio Output Method"</string>
 </resources>
