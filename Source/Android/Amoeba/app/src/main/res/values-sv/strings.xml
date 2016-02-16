@@ -154,4 +154,27 @@ mottaga uppdaterade kanallistor. Nya kanaler läggs till längst ned i listan."<
 <string name="menu_settings_dvr_grant_permission">"Grant Lagring Öppna"</string>
 <string name="menu_settings_dvr_grant_permission_description">"Välj rotkatalogen på din lagrings"</string>
 <string name="menu_wizard_satellite_polarity">"Polaritet"</string>
+<string name="auto">"Bil"</string>
+<string name="unknown">"Okänd"</string>
+<string name="menu_wizard_atsc">"ATSC"</string>
+<string name="menu_wizard_atsc_carrier">"Bärare"</string>
+<string name="menu_wizard_tuner_select_signal_carrier">"signalen Carrier"</string>
+<string name="context_menu_prg_info">"programmet info"</string>
+<string name="bookings">"bokningar"</string>
+<string name="recordings">"inspelningar"</string>
+<string name="bookings_next_event">"Nästa händelse:"</string>
+<string name="menu_settings_settings">"AV-inställningar"</string>
+<string name="menu_settings_hdmi_refresh">"HDMI uppdateringshastighet"</string>
+<string name="menu_settings_follow_content">"Följ innehåll"</string>
+<string name="menu_settings_system_default">"Använd Systemstandard"</string>
+<string name="otr_recording_started">"inspelning igång"</string>
+<string name="otr_recording_failed">"Inspelningsfel"</string>
+<string name="menu_settings_dvr_max_tuners">"Antal tuners"</string>
+<string name="menu_settings_dvr_max_tuners_help">"Ange antalet tuners AuroraTV får använda. Det angivna antalet måste vara tillgänglig för alla dina bärare (t.ex.. DVB-T, DVB-C, DVB-S)."</string>
+<string name="about_build_number">"bygga nummer"</string>
+<string name="about_opensource_licenses">"Open Source licenser"</string>
+<string name="debug">"debug"</string>
+<string name="about_debug_options">"Konfigurera felsöknings Val"</string>
+<string name="about_secret_message">"Hemliga Debug Revealed"</string>
+<string name="menu_settings_audio_output_engine">"Ljudutmatningsmetoden"</string>
 </resources>
