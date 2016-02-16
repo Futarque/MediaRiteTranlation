@@ -16,4 +16,20 @@ git push -u origin master
 
 
 
+# Go to poediter. For each project import terms from your github checkout dir.
+# In Android project import terms in to the English translations
+# for MediaRite or other .pot projects. Import term only - go to English and translate.
 
+# Translatater the other languages
+
+# Push the translated files to github from the poeditor tool
+
+
+# Get translations
+git pull
+
+# Copy changes back to mediarite
+./update.sh  -push ~/source/mediarite/trunk/
+
+
+# commit relevat files in mediarite
