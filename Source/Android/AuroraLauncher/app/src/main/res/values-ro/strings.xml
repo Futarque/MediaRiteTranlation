@@ -18,4 +18,9 @@
 <string name="preferences_groups">"Grupuri"</string>
 <string name="preferences_preferences">"Preferințe"</string>
 <string name="search_result">"Rezultatul căutării:"</string>
+<string name="home_system_update">"Actualizare disponibilă"</string>
+<string name="system_update_available">"Actualizare de sistem disponibilă"</string>
+<string name="new_version">"Versiune nouă"</string>
+<string name="later">"Ulterior"</string>
+<string name="install">"Instalează"</string>
 </resources>
