@@ -18,4 +18,9 @@
 <string name="preferences_groups">"Grupper"</string>
 <string name="preferences_preferences">"Foretrukne"</string>
 <string name="search_result">"Søgeresultater:"</string>
+<string name="home_system_update">"Opdatering er tilgængelig"</string>
+<string name="system_update_available">"En systemopdatering er tilgængelig."</string>
+<string name="new_version">"Ny version"</string>
+<string name="later">"Senere"</string>
+<string name="install">"Installér"</string>
 </resources>
