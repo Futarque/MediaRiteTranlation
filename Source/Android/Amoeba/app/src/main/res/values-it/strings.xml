@@ -153,4 +153,27 @@ Il file zip risultante deve essere nominato picons.zip e posto alla URL di base 
 <string name="menu_settings_dvr_grant_permission">"Accesso concessione di stoccaggio"</string>
 <string name="menu_settings_dvr_grant_permission_description">"Selezionare la cartella principale del vostro storage"</string>
 <string name="menu_wizard_satellite_polarity">"Polarità"</string>
+<string name="auto">"Auto"</string>
+<string name="unknown">"Sconosciuto"</string>
+<string name="menu_wizard_atsc">"ATSC"</string>
+<string name="menu_wizard_atsc_carrier">"Vettore"</string>
+<string name="menu_wizard_tuner_select_signal_carrier">"portante del segnale"</string>
+<string name="context_menu_prg_info">"Info programma"</string>
+<string name="bookings">"Prenotazioni"</string>
+<string name="recordings">"registrazioni"</string>
+<string name="bookings_next_event">"Prossimo evento:"</string>
+<string name="menu_settings_settings">"Impostazioni AV"</string>
+<string name="menu_settings_hdmi_refresh">"HDMI Frequenza di aggiornamento"</string>
+<string name="menu_settings_follow_content">"seguire contenuti"</string>
+<string name="menu_settings_system_default">"Uso del sistema di default"</string>
+<string name="otr_recording_started">"registrazione avviata"</string>
+<string name="otr_recording_failed">"registrazione non riuscita"</string>
+<string name="menu_settings_dvr_max_tuners">"Numero di sintonizzatori"</string>
+<string name="menu_settings_dvr_max_tuners_help">"Specificare il numero di sintonizzatori AuroraTV può utilizzare. Il numero specificato deve essere disponibile in tutti i vostri elementi portanti (ad es. DVB-T, DVB-C, DVB-S)."</string>
+<string name="about_build_number">"numero di build"</string>
+<string name="about_opensource_licenses">"Le licenze Open Source"</string>
+<string name="debug">"mettere a punto"</string>
+<string name="about_debug_options">"Configurare le opzioni di debug"</string>
+<string name="about_secret_message">"Segreto di debug rivelato"</string>
+<string name="menu_settings_audio_output_engine">"Metodo di uscita audio"</string>
 </resources>
