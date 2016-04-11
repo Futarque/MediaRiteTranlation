@@ -176,4 +176,38 @@ Il file zip risultante deve essere nominato picons.zip e posto alla URL di base 
 <string name="about_debug_options">"Configurare le opzioni di debug"</string>
 <string name="about_secret_message">"Segreto di debug rivelato"</string>
 <string name="menu_settings_audio_output_engine">"Metodo di uscita audio"</string>
+<string name="menu_purchase_ad_free_is_include_in_premium">"Annuncio gratuito è incluso nel premio"</string>
+<string name="dialog_continue">"proseguire"</string>
+<string name="dialog_purchase">"Acquista"</string>
+<string name="dialog_premium_feature_title">"funzionalità limitate"</string>
+<string name="dialog_premium_feature_message">"La funzionalità è limitata. Si prega di acquistare Premium per rimuovere questa limitazione"</string>
+<string name="rho_ad_title">"Supporto AuroraTV"</string>
+<string name="rho_ad_subtitle">"Acquista il nostro nuovo set-top box SmartTV"</string>
+<string name="rho_ad_counter">"%d giorni sinistra"</string>
+<string name="rho_ad_bullets">"• Kitkat Android
+• Google Play Store
+• Remote Mouse Air
+• Costruito in DVB-T2 / C
+• TV Stream al tablet o telefono
+• Tutte le caratteristiche premium AuroraTV inclusi
+• Nuova funzione DVR incluso"</string>
+<string name="rho_ad_visit">"Visita"</string>
+<string name="rho_ad_shorturl">"https://goo.gl/cTjPMc"</string>
+<string name="menu_purchase_1_month_premium">"premio di un mese"</string>
+<string name="menu_purchase_1_year_premium">"premio di un anno"</string>
+<string name="menu_purchase_1_month_premium_description">"Un mese di premium. Include DVR e Ad-free"</string>
+<string name="menu_purchase_1_year_premium_description">"Un anno di premio. Include DVR e Ad-free"</string>
+<string name="menu_tuner_none_description">"sintonizzatori supportati sono Sat&gt; IP e HDHomeRun"</string>
+<string name="menu_tuner_none_title">"Nessun sintonizzatori trovato"</string>
+<string name="context_menu_prev_channel">"Precedente Canale"</string>
+<string name="button_skip">"Salta"</string>
+<string name="menu_wizard_tuners_description">"Verificare che sono stati rilevati i tuoi sintonizzatori"</string>
+<string name="tuner_analog">"Analogico"</string>
+<string name="button_resume">"Curriculum vitae"</string>
+<string name="button_delete">"cancellare"</string>
+<string name="button_suspend">"Sospendere"</string>
+<string name="button_play">"Giocare"</string>
+<string name="menu_settings_dvr_premium_message">"Si prega di acquistare Premium per sbloccare la piena funzionalità DVR"</string>
+<string name="bookings_keep_all_episodes">"Tenere tutti gli episodi"</string>
+<string name="bookings_keep_last_episodes">"Mantenere gli ultimi %d episodi"</string>
 </resources>
