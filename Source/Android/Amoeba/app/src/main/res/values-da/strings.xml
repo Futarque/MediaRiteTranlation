@@ -160,7 +160,7 @@ Den resulterende ZIP fil skal navngives picons.zip, og placeres så den kan tilg
 <string name="menu_wizard_atsc_carrier">"Transmissionsform"</string>
 <string name="menu_wizard_tuner_select_signal_carrier">"Signaltransmission"</string>
 <string name="context_menu_prg_info">"Programinformation"</string>
-<string name="bookings">"Bookings"</string>
+<string name="bookings">"Timeroptagelser"</string>
 <string name="recordings">"Optagelser"</string>
 <string name="bookings_next_event">"Næste program:"</string>
 <string name="menu_settings_settings">"AV indstillinger"</string>
@@ -177,4 +177,38 @@ Den resulterende ZIP fil skal navngives picons.zip, og placeres så den kan tilg
 <string name="about_debug_options">"Konfigurer fejlfindingsindstillinger"</string>
 <string name="about_secret_message">"Hemmelige indstillinger åbnet"</string>
 <string name="menu_settings_audio_output_engine">"Audioudgangsmetode"</string>
+<string name="menu_purchase_ad_free_is_include_in_premium">"Reklamefri er inkluderet i premium"</string>
+<string name="dialog_continue">"Fortsæt"</string>
+<string name="dialog_purchase">"Køb"</string>
+<string name="dialog_premium_feature_title">"Begrænset funktion"</string>
+<string name="dialog_premium_feature_message">"Funktionen er begrænset. Køb Premium for at fjerne denne begrænsning"</string>
+<string name="rho_ad_title">"Support AuroraTV"</string>
+<string name="rho_ad_subtitle">"Buy our new SmartTV set-top box"</string>
+<string name="rho_ad_counter">"%d days left"</string>
+<string name="rho_ad_bullets">"• Android Kitkat
+• Google Play store
+• Air mouse remote
+• Built in DVB-T2/C
+• Stream TV to your tablet or phone
+• All premium AuroraTV features included
+• New DVR feature included"</string>
+<string name="rho_ad_visit">"Visit"</string>
+<string name="rho_ad_shorturl">"https://goo.gl/cTjPMc"</string>
+<string name="menu_purchase_1_month_premium">"En måneds premium"</string>
+<string name="menu_purchase_1_year_premium">"Et års premium"</string>
+<string name="menu_purchase_1_month_premium_description">"En måneds premium. Inkludere DVR og reklamefri"</string>
+<string name="menu_purchase_1_year_premium_description">"En års premium. Inkludere DVR og reklamefri"</string>
+<string name="menu_tuner_none_description">"Understøttede tuner er Sat&gt;IP og HDHomeRun"</string>
+<string name="menu_tuner_none_title">"Ingen tunere fundet"</string>
+<string name="context_menu_prev_channel">"Forrige kanal"</string>
+<string name="button_skip">"Spring over"</string>
+<string name="menu_wizard_tuners_description">"Kontroller at alle tunere er fundet"</string>
+<string name="tuner_analog">"Analog"</string>
+<string name="button_resume">"Fortsæt"</string>
+<string name="button_delete">"Slet"</string>
+<string name="button_suspend">"Pause"</string>
+<string name="button_play">"Afspil"</string>
+<string name="menu_settings_dvr_premium_message">"Køb Premium for ubegrænset DVR funktion"</string>
+<string name="bookings_keep_all_episodes">"Gem alle afsnit"</string>
+<string name="bookings_keep_last_episodes">"Gem de seneste %d afsnit"</string>
 </resources>
