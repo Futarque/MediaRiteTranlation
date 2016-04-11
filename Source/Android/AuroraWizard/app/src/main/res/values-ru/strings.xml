@@ -8,25 +8,7 @@
 <string name="wizard_timezone_description">"Пожалуйста, выберите ваш часовой пояс"</string>
 <string name="wizard_complete">"Мастер завершил"</string>
 <string name="wizard_complete_ok">"OK"</string>
-<string name="wizard_network_description">"Выберите нужный сетевое подключение"</string>
 <string name="wizard_network">"сеть"</string>
-<string name="wizard_network_wifi">"вай-фай"</string>
-<string name="wizard_network_wifi_description">"Пожалуйста, выберите точку доступа"</string>
-<string name="wifi_security_type_wep">"WEP"</string>
-<string name="wifi_security_type_wpa">"WPA / WPA2 PSK"</string>
-<string name="wifi_security_type_eap">"802.1x EAP"</string>
-<string name="wifi_security_type_none">"Никто"</string>
-<string name="network_wifi_password_title">"Введите пароль"</string>
-<string name="network_ethernet_connect_title">"Пожалуйста, подключите Ethernet"</string>
-<string name="network_not_connected">"Не подключен"</string>
-<string name="network_connected">"Связанный"</string>
 <string name="network_connecting">"соединяющий"</string>
-<string name="network_available">"Доступный"</string>
-<string name="network_wifi_scanning">"Сканирование ..."</string>
-<string name="network_ethernet">"Ethernet"</string>
-<string name="network_wifi_click_enable">"Нажмите, чтобы включить"</string>
-<string name="network_wifi_enabling">"Включение ..."</string>
-<string name="network_success">"успех"</string>
-<string name="network_no_ethernet">"Не обнаружено Ethernet"</string>
 <string name="network_skip">"Пропускать"</string>
 </resources>
