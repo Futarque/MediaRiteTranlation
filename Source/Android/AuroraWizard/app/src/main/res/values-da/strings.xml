@@ -8,25 +8,7 @@
 <string name="wizard_timezone_description">"Vælg venligst din tidszone"</string>
 <string name="wizard_complete">"Guiden er færdig"</string>
 <string name="wizard_complete_ok">"OK"</string>
-<string name="wizard_network_description">"Vælg din foretrukne netværksforbindelse"</string>
 <string name="wizard_network">"Netværk"</string>
-<string name="wizard_network_wifi">"Wifi"</string>
-<string name="wizard_network_wifi_description">"Vælg dit adgangspunkt"</string>
-<string name="wifi_security_type_wep">"WEP"</string>
-<string name="wifi_security_type_wpa">"WPA/WPA2 PSK"</string>
-<string name="wifi_security_type_eap">"802.1x EAP"</string>
-<string name="wifi_security_type_none">"Ingen"</string>
-<string name="network_wifi_password_title">"Indtast adgangskode"</string>
-<string name="network_ethernet_connect_title">"Isæt venligt dit netværkskabel"</string>
-<string name="network_not_connected">"Ikke forbundet"</string>
-<string name="network_connected">"Forbundet"</string>
 <string name="network_connecting">"Opretter forbindelse"</string>
-<string name="network_available">"Tilstede"</string>
-<string name="network_wifi_scanning">"Søger..."</string>
-<string name="network_ethernet">"Ethernet"</string>
-<string name="network_wifi_click_enable">"Tryk for at aktivere"</string>
-<string name="network_wifi_enabling">"Aktivere..."</string>
-<string name="network_success">"Succes"</string>
-<string name="network_no_ethernet">"Ingen Ethernet fundet"</string>
 <string name="network_skip">"Spring over"</string>
 </resources>
