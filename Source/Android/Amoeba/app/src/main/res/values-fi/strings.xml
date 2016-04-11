@@ -176,4 +176,38 @@ Tuloksena zip-tiedosto on nimetty picons.zip ja sijoitettu pohjan URL alla mää
 <string name="about_debug_options">"Määritä Debug Vaihtoehdot"</string>
 <string name="about_secret_message">"Secret Debug Revealed"</string>
 <string name="menu_settings_audio_output_engine">"Audio Output Method"</string>
+<string name="menu_purchase_ad_free_is_include_in_premium">"Ad vapaa sisältyy palkkio"</string>
+<string name="dialog_continue">"Jatkaa"</string>
+<string name="dialog_purchase">"Ostaa"</string>
+<string name="dialog_premium_feature_title">"toiminnallisuus rajoitettu"</string>
+<string name="dialog_premium_feature_message">"Toiminnallisuus on rajoitettu. Hanki Premium poistaa tämän rajoituksen"</string>
+<string name="rho_ad_title">"Tuki AuroraTV"</string>
+<string name="rho_ad_subtitle">"Osta uusi SmartTV digisovitin"</string>
+<string name="rho_ad_counter">"%d päivää jäljellä"</string>
+<string name="rho_ad_bullets">"• Android Kitkat
+• Google Play Store
+• Air hiiri kauko
+• Sisäänrakennettu DVB-T2 / C
+• Stream TV tablet tai puhelimen
+• Kaikki premium-AuroraTV ominaisuuksilla
+• Uusi DVR ominaisuus sisältyy"</string>
+<string name="rho_ad_visit">"Vierailla"</string>
+<string name="rho_ad_shorturl">"https://goo.gl/cTjPMc"</string>
+<string name="menu_purchase_1_month_premium">"Kuukausi Premium"</string>
+<string name="menu_purchase_1_year_premium">"Vuoden palkkio"</string>
+<string name="menu_purchase_1_month_premium_description">"Yhden kuukauden palkkio. Sisältää DVR ja Ad-ilmaiseksi"</string>
+<string name="menu_purchase_1_year_premium_description">"Yksi vuosi palkkio. Sisältää DVR ja Ad-ilmaiseksi"</string>
+<string name="menu_tuner_none_description">"Tuetut virittimet ovat la&gt; IP ja HDHomeRun"</string>
+<string name="menu_tuner_none_title">"Ei viritintä löytynyt"</string>
+<string name="context_menu_prev_channel">"Edellinen Channel"</string>
+<string name="button_skip">"hyppiä"</string>
+<string name="menu_wizard_tuners_description">"Varmista, että virittimet havaittujen"</string>
+<string name="tuner_analog">"Analoginen"</string>
+<string name="button_resume">"Jatkaa"</string>
+<string name="button_delete">"Poistaa"</string>
+<string name="button_suspend">"Keskeyttää"</string>
+<string name="button_play">"Pelata"</string>
+<string name="menu_settings_dvr_premium_message">"Hanki Premium avata koko DVR-toiminnot"</string>
+<string name="bookings_keep_all_episodes">"Pidä kaikki jaksot"</string>
+<string name="bookings_keep_last_episodes">"Pidä %d viimeistä jaksoa"</string>
 </resources>
