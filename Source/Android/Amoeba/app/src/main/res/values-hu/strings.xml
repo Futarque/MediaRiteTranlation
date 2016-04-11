@@ -176,4 +176,38 @@ A kapott zip fájlt kell elemzi picons.zip és aljánál elhelyezett URL alább 
 <string name="about_debug_options">"Konfigurálása hibakeresési lehetőségek"</string>
 <string name="about_secret_message">"Secret Revealed Debug"</string>
 <string name="menu_settings_audio_output_engine">"Audio Output Method"</string>
+<string name="menu_purchase_ad_free_is_include_in_premium">"Ad ingyenes szerepel prémium"</string>
+<string name="dialog_continue">"folytatódik"</string>
+<string name="dialog_purchase">"Vásárlás"</string>
+<string name="dialog_premium_feature_title">"funkcionalitás korlátozott"</string>
+<string name="dialog_premium_feature_message">"Funkcionalitás korlátozott. Kérjük, vásárolja Premium eltávolítani ezt a korlátozást"</string>
+<string name="rho_ad_title">"Támogatás AuroraTV"</string>
+<string name="rho_ad_subtitle">"Vásárlás új SmartTV set-top box"</string>
+<string name="rho_ad_counter">"%d nap van hátra"</string>
+<string name="rho_ad_bullets">"• Android Kitkat-
+• A Google Play áruház
+• Air egér távirányító
+• Beépített DVB-T2 / C
+• Áramlat TV a tabletta vagy telefon
+• Minden prémium AuroraTV funkciókat tartalmazza
+• Új DVR funkció benne"</string>
+<string name="rho_ad_visit">"Látogatás"</string>
+<string name="rho_ad_shorturl">"https://goo.gl/cTjPMc"</string>
+<string name="menu_purchase_1_month_premium">"Egy hónap prémium"</string>
+<string name="menu_purchase_1_year_premium">"Egy év prémium"</string>
+<string name="menu_purchase_1_month_premium_description">"Egy hónap prémium. Tartalmazza a DVR és Ad-mentes"</string>
+<string name="menu_purchase_1_year_premium_description">"Egy év prémium. Tartalmazza a DVR és Ad-mentes"</string>
+<string name="menu_tuner_none_description">"Támogatott tunerek Sat&gt; IP és HDHomeRun"</string>
+<string name="menu_tuner_none_title">"Nem talált tunerek"</string>
+<string name="context_menu_prev_channel">"Előző Channel"</string>
+<string name="button_skip">"Skip"</string>
+<string name="menu_wizard_tuners_description">"Ellenőrizze, hogy a tunerek észlelt"</string>
+<string name="tuner_analog">"analóg"</string>
+<string name="button_resume">"Önéletrajz"</string>
+<string name="button_delete">"Töröl"</string>
+<string name="button_suspend">"Felfüggesztés"</string>
+<string name="button_play">"Játék"</string>
+<string name="menu_settings_dvr_premium_message">"Kérjük, vásárolja Premium kinyit teljes DVR funkcionalitás"</string>
+<string name="bookings_keep_all_episodes">"Tartsa az összes epizódot"</string>
+<string name="bookings_keep_last_episodes">"Tartsuk az utolsó %d epizódok"</string>
 </resources>
