@@ -176,4 +176,38 @@ El archivo zip resultante debe ser nombrado picons.zip y puesto a la URL base se
 <string name="about_debug_options">"Configurar las opciones de depuración"</string>
 <string name="about_secret_message">"Secreto Revelado de depuración"</string>
 <string name="menu_settings_audio_output_engine">"Método de salida de audio"</string>
+<string name="menu_purchase_ad_free_is_include_in_premium">"Anuncio gratuito está incluido en la prima"</string>
+<string name="dialog_continue">"Continuar"</string>
+<string name="dialog_purchase">"Compra"</string>
+<string name="dialog_premium_feature_title">"una funcionalidad limitada"</string>
+<string name="dialog_premium_feature_message">"La funcionalidad es limitada. Por favor, compra la cobertura de eliminar esta limitación"</string>
+<string name="rho_ad_title">"Soporte AuroraTV"</string>
+<string name="rho_ad_subtitle">"Comprar nuestro nuevo decodificador SmartTV"</string>
+<string name="rho_ad_counter">"%d días a la izquierda"</string>
+<string name="rho_ad_bullets">"• Kitkat Android
+• tienda de Google Play
+• remoto del ratón Aire
+• Construido en DVB-T2 / C
+• Corriente del televisor a su tableta o teléfono
+• Todas las características premium incluyen AuroraTV
+• Nueva función DVR incluido"</string>
+<string name="rho_ad_visit">"Visitar"</string>
+<string name="rho_ad_shorturl">"https://goo.gl/cTjPMc"</string>
+<string name="menu_purchase_1_month_premium">"prima de un mes"</string>
+<string name="menu_purchase_1_year_premium">"prima durante un año"</string>
+<string name="menu_purchase_1_month_premium_description">"Un mes de suscripción. Incluye DVR y sin anuncios"</string>
+<string name="menu_purchase_1_year_premium_description">"Un año de suscripción. Incluye DVR y sin anuncios"</string>
+<string name="menu_tuner_none_description">"sintonizadores compatibles son Sat&gt; IP y HDHomeRun"</string>
+<string name="menu_tuner_none_title">"No se encontraron sintonizadores"</string>
+<string name="context_menu_prev_channel">"Canal anterior"</string>
+<string name="button_skip">"Omitir"</string>
+<string name="menu_wizard_tuners_description">"Compruebe que se han detectado sus sintonizadores"</string>
+<string name="tuner_analog">"Cosa análoga"</string>
+<string name="button_resume">"Currículum"</string>
+<string name="button_delete">"Borrar"</string>
+<string name="button_suspend">"Suspender"</string>
+<string name="button_play">"Jugar"</string>
+<string name="menu_settings_dvr_premium_message">"Por favor, compra de primera calidad para desbloquear la funcionalidad completa DVR"</string>
+<string name="bookings_keep_all_episodes">"Mantenga todos los episodios"</string>
+<string name="bookings_keep_last_episodes">"Mantenga los últimos %d episodios"</string>
 </resources>
