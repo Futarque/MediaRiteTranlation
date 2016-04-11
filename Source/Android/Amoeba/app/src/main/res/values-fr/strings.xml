@@ -177,4 +177,38 @@ Le fichier zip résultant doit être nommé picons.zip et placé à l'URL de bas
 <string name="about_debug_options">"Configurer les options de débogage"</string>
 <string name="about_secret_message">"Secret Debug Revealed"</string>
 <string name="menu_settings_audio_output_engine">"Méthode de sortie audio"</string>
+<string name="menu_purchase_ad_free_is_include_in_premium">"Annonce gratuite est incluse dans la prime"</string>
+<string name="dialog_continue">"Continuer"</string>
+<string name="dialog_purchase">"Achat"</string>
+<string name="dialog_premium_feature_title">"Fonctionnalité limitée"</string>
+<string name="dialog_premium_feature_message">"La fonctionnalité est limitée. S'il vous plaît acheter Premium pour supprimer cette limitation"</string>
+<string name="rho_ad_title">"Soutien AuroraTV"</string>
+<string name="rho_ad_subtitle">"Achetez notre nouveau set-top box SmartTV"</string>
+<string name="rho_ad_counter">"%d jours à gauche"</string>
+<string name="rho_ad_bullets">"• Android Kitkat
+• Google Play Store
+• à distance de la souris de l'air
+• Construit en DVB-T2 / C
+• Stream TV à votre tablette ou téléphone
+• Toutes les fonctions de AuroraTV premium inclus
+• Nouvelle fonctionnalité DVR inclus"</string>
+<string name="rho_ad_visit">"Visite"</string>
+<string name="rho_ad_shorturl">"https://goo.gl/cTjPMc"</string>
+<string name="menu_purchase_1_month_premium">"Un mois premium"</string>
+<string name="menu_purchase_1_year_premium">"prime pour un an"</string>
+<string name="menu_purchase_1_month_premium_description">"Un mois de prime. Comprend DVR et Ad-free"</string>
+<string name="menu_purchase_1_year_premium_description">"Un an de prime. Comprend DVR et Ad-free"</string>
+<string name="menu_tuner_none_description">"tuners supportés sont Sat&gt; IP et HDHomeRun"</string>
+<string name="menu_tuner_none_title">"Aucun tuners trouvé"</string>
+<string name="context_menu_prev_channel">"Chaîne précédente"</string>
+<string name="button_skip">"Sauter"</string>
+<string name="menu_wizard_tuners_description">"Vérifiez que vos tuners ont été détectés"</string>
+<string name="tuner_analog">"Analogique"</string>
+<string name="button_resume">"CV"</string>
+<string name="button_delete">"Effacer"</string>
+<string name="button_suspend">"Suspendre"</string>
+<string name="button_play">"Jouer"</string>
+<string name="menu_settings_dvr_premium_message">"S'il vous plaît acheter Premium pour déverrouiller la fonctionnalité DVR complète"</string>
+<string name="bookings_keep_all_episodes">"Gardez tous les épisodes"</string>
+<string name="bookings_keep_last_episodes">"Gardez les %d épisodes de dernière"</string>
 </resources>
