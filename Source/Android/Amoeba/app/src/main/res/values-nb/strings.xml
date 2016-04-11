@@ -178,4 +178,38 @@ Zip-filen må hete picons.zip og plasseres ved addressen angitt nedenfor"</strin
 <string name="about_debug_options">"Konfigurer Debug Options"</string>
 <string name="about_secret_message">"Secret Debug Avdekket"</string>
 <string name="menu_settings_audio_output_engine">"Audio Output Method"</string>
+<string name="menu_purchase_ad_free_is_include_in_premium">"Ad gratis er inkludert i premie"</string>
+<string name="dialog_continue">"Fortsette"</string>
+<string name="dialog_purchase">"Kjøpe"</string>
+<string name="dialog_premium_feature_title">"funksjonalitet begrenset"</string>
+<string name="dialog_premium_feature_message">"Funksjonalitet er begrenset. Vennligst kjøp Premium for å fjerne denne begrensningen"</string>
+<string name="rho_ad_title">"Support AuroraTV"</string>
+<string name="rho_ad_subtitle">"Kjøp vår nye SmartTV set-top-boks"</string>
+<string name="rho_ad_counter">"%d dager igjen"</string>
+<string name="rho_ad_bullets">"• Android Kitkat
+• Google Play-butikken
+• Luft mus fjern
+• Innebygd DVB-T2 / C
+• Stream TV på nettbrettet eller telefonen
+• Alle premium AuroraTV funksjoner inkludert
+• Ny DVR funksjon som inkluderes"</string>
+<string name="rho_ad_visit">"Besøk"</string>
+<string name="rho_ad_shorturl">"https://goo.gl/cTjPMc"</string>
+<string name="menu_purchase_1_month_premium">"En måned premium"</string>
+<string name="menu_purchase_1_year_premium">"Ett års premie"</string>
+<string name="menu_purchase_1_month_premium_description">"En måned av premie. Inkluderer DVR og Ad-fri"</string>
+<string name="menu_purchase_1_year_premium_description">"Ett år med premie. Inkluderer DVR og Ad-fri"</string>
+<string name="menu_tuner_none_description">"Støttede tunere er lø&gt; IP og HDHomeRun"</string>
+<string name="menu_tuner_none_title">"Ingen tunere funnet"</string>
+<string name="context_menu_prev_channel">"Forrige Channel"</string>
+<string name="button_skip">"Hopp"</string>
+<string name="menu_wizard_tuners_description">"Kontroller at tunere har blitt oppdaget"</string>
+<string name="tuner_analog">"analog"</string>
+<string name="button_resume">"Gjenoppta"</string>
+<string name="button_delete">"Slett"</string>
+<string name="button_suspend">"Henge"</string>
+<string name="button_play">"Spille"</string>
+<string name="menu_settings_dvr_premium_message">"Vennligst kjøp Premium for å låse opp fulle DVR-funksjonalitet"</string>
+<string name="bookings_keep_all_episodes">"Hold alle episodene"</string>
+<string name="bookings_keep_last_episodes">"Hold siste %d episoder"</string>
 </resources>
