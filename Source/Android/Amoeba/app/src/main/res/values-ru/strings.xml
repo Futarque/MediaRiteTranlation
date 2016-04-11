@@ -176,4 +176,38 @@
 <string name="about_debug_options">"Настройка отладки Функции"</string>
 <string name="about_secret_message">"Секрет отладки раскрыты"</string>
 <string name="menu_settings_audio_output_engine">"Аудио Метод вывода"</string>
+<string name="menu_purchase_ad_free_is_include_in_premium">"Объявление бесплатно входит в премии"</string>
+<string name="dialog_continue">"Продолжать"</string>
+<string name="dialog_purchase">"покупка"</string>
+<string name="dialog_premium_feature_title">"Функциональные возможности ограничены"</string>
+<string name="dialog_premium_feature_message">"Функциональные возможности ограничены. Пожалуйста, приобрести премиум убрать это ограничение"</string>
+<string name="rho_ad_title">"Поддержка AuroraTV"</string>
+<string name="rho_ad_subtitle">"Купите наш новый SmartTV телеприставки"</string>
+<string name="rho_ad_counter">"%d дней осталось"</string>
+<string name="rho_ad_bullets">"• Android Kitkat
+• Google Play магазин
+• дистанционная мышь воздуха
+• Встроенный в DVB-T2 / C
+• Стрим ТВ на планшет или телефон
+• включены все функции премиум AuroraTV
+• Новая функция DVR включена"</string>
+<string name="rho_ad_visit">"Посещение"</string>
+<string name="rho_ad_shorturl">"https://goo.gl/cTjPMc"</string>
+<string name="menu_purchase_1_month_premium">"Один месяц премиум"</string>
+<string name="menu_purchase_1_year_premium">"Один год премиум"</string>
+<string name="menu_purchase_1_month_premium_description">"Один месяц премии. Включает DVR и Ad-Free"</string>
+<string name="menu_purchase_1_year_premium_description">"Один год премии. Включает DVR и Ad-Free"</string>
+<string name="menu_tuner_none_description">"Поддерживаемые блоки настройки Сб&gt; IP и HDHomeRun"</string>
+<string name="menu_tuner_none_title">"Не найдено ни тюнеров"</string>
+<string name="context_menu_prev_channel">"Предыдущий канал"</string>
+<string name="button_skip">"Пропускать"</string>
+<string name="menu_wizard_tuners_description">"Убедитесь, что ваши тюнеры были обнаружены"</string>
+<string name="tuner_analog">"аналоговый"</string>
+<string name="button_resume">"Продолжить"</string>
+<string name="button_delete">"Удалить"</string>
+<string name="button_suspend">"приостановить"</string>
+<string name="button_play">"Играть"</string>
+<string name="menu_settings_dvr_premium_message">"Пожалуйста, купите премиум, чтобы разблокировать полную функциональность DVR"</string>
+<string name="bookings_keep_all_episodes">"Держите все эпизоды"</string>
+<string name="bookings_keep_last_episodes">"Держите последние %d эпизодов"</string>
 </resources>
