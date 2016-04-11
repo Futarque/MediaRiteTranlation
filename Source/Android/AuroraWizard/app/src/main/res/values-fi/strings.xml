@@ -8,25 +8,7 @@
 <string name="wizard_timezone_description">"Valitse aikavyöhyke"</string>
 <string name="wizard_complete">"Wizard valmistunut"</string>
 <string name="wizard_complete_ok">"OK"</string>
-<string name="wizard_network_description">"Valitse ensisijainen verkkoyhteys"</string>
 <string name="wizard_network">"verkko"</string>
-<string name="wizard_network_wifi">"wifi"</string>
-<string name="wizard_network_wifi_description">"Valitse tukiaseman"</string>
-<string name="wifi_security_type_wep">"WEP"</string>
-<string name="wifi_security_type_wpa">"WPA / WPA2 PSK"</string>
-<string name="wifi_security_type_eap">"802.1x EAP"</string>
-<string name="wifi_security_type_none">"Ei mitään"</string>
-<string name="network_wifi_password_title">"Kirjoita salasana"</string>
-<string name="network_ethernet_connect_title">"Liitä Ethernet"</string>
-<string name="network_not_connected">"Ei yhteyttä"</string>
-<string name="network_connected">"kytketty"</string>
 <string name="network_connecting">"Yhteyden"</string>
-<string name="network_available">"saatavissa"</string>
-<string name="network_wifi_scanning">"Skannaus ..."</string>
-<string name="network_ethernet">"Ethernet"</string>
-<string name="network_wifi_click_enable">"Ota käyttöön napsauttamalla"</string>
-<string name="network_wifi_enabling">"Mahdollistaa..."</string>
-<string name="network_success">"Menestys"</string>
-<string name="network_no_ethernet">"Ei Ethernet havaittu"</string>
 <string name="network_skip">"hyppiä"</string>
 </resources>
