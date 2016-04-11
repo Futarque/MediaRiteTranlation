@@ -178,4 +178,38 @@ Fișierul zip rezultat trebuie să fie numit picons.zip și plasat la  URL-ul de
 <string name="about_debug_options">"Configurează opțiunea de depanare"</string>
 <string name="about_secret_message">"Depanare secretă dezvăluită"</string>
 <string name="menu_settings_audio_output_engine">"Metodă de ieșire audio"</string>
+<string name="menu_purchase_ad_free_is_include_in_premium">"Ad-free este inclusă în primă"</string>
+<string name="dialog_continue">"Continua"</string>
+<string name="dialog_purchase">"Cumpărare"</string>
+<string name="dialog_premium_feature_title">"funcționalitate limitată"</string>
+<string name="dialog_premium_feature_message">"Funcționalitate este limitată. Vă rugăm să achiziționați Premium pentru a elimina această limitare"</string>
+<string name="rho_ad_title">"suport AuroraTV"</string>
+<string name="rho_ad_subtitle">"Cumpăra noul nostru SmartTV set-top box"</string>
+<string name="rho_ad_counter">"%d zile rămase"</string>
+<string name="rho_ad_bullets">"• Android KitKat
+• Magazin Google Play
+• la distanță al mouse-ului Air
+• Construit în DVB-T2 / C
+• TV Stream pentru tableta sau telefonul
+• Toate caracteristicile AuroraTV premium incluse
+• Noua facilitate DVR inclus"</string>
+<string name="rho_ad_visit">"Vizita"</string>
+<string name="rho_ad_shorturl">"https://goo.gl/cTjPMc"</string>
+<string name="menu_purchase_1_month_premium">"premium de o lună"</string>
+<string name="menu_purchase_1_year_premium">"Un an premium"</string>
+<string name="menu_purchase_1_month_premium_description">"La o lună de premium. Include DVR și Ad-free"</string>
+<string name="menu_purchase_1_year_premium_description">"Un an premium. Include DVR și Ad-free"</string>
+<string name="menu_tuner_none_description">"tunere acceptate sunt Sat&gt; IP și HDHomeRun"</string>
+<string name="menu_tuner_none_title">"Nu există tuneri găsite"</string>
+<string name="context_menu_prev_channel">"Canalul precedent"</string>
+<string name="button_skip">"sări"</string>
+<string name="menu_wizard_tuners_description">"Verificați dacă că tuneri dvs. au fost detectate"</string>
+<string name="tuner_analog">"analog"</string>
+<string name="button_resume">"Relua"</string>
+<string name="button_delete">"Șterge"</string>
+<string name="button_suspend">"Suspenda"</string>
+<string name="button_play">"Joaca"</string>
+<string name="menu_settings_dvr_premium_message">"Vă rugăm să achiziționați Premium pentru a debloca funcționalitatea completă DVR"</string>
+<string name="bookings_keep_all_episodes">"Păstrați toate episoadele"</string>
+<string name="bookings_keep_last_episodes">"A se păstra ultimul %d episoade"</string>
 </resources>
