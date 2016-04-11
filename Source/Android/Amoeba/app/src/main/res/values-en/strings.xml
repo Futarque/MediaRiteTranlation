@@ -18,7 +18,7 @@
 <string name="language_audio_priority_2">"Audio (2. Priority)"</string>
 <string name="language_subtitle_priority_1">"Subtitle (1. Priority)"</string>
 <string name="language_subtitle_priority_2">"Subtitle (2. Priority)"</string>
-<string name="language_application_language">"Guide and Text Language"</string>
+<string name="language_application_language">"EPG and Text Language"</string>
 <string name="language_visually_impaired">"Visually Impaired"</string>
 <string name="language_hearing_impaired">"Hearing Impaired"</string>
 <string name="language_subtitles_shown_when">"Subtitles shown when"</string>
@@ -45,7 +45,7 @@ If you are using Network Tuners (FutarqueTvGateway, HDHomeRun, Sat&gt;IP), these
 <string name="settings_factory_reset_text">"You are about to reset all data.
 Please confirm"</string>
 <string name="today">"Today"</string>
-<string name="menu_wizard_tuners">"Tuners"</string>
+<string name="menu_wizard_tuners">"Available Tuners"</string>
 <string name="menu_wizard_cable">"Cable"</string>
 <string name="menu_wizard_satellite">"Satellite"</string>
 <string name="menu_wizard_terrestrial">"Terrestrial"</string>
@@ -169,11 +169,45 @@ The resulting zip file must be named picons.zip and placed at the base URL speci
 <string name="otr_recording_started">"Recording Started"</string>
 <string name="otr_recording_failed">"Recording Failed"</string>
 <string name="menu_settings_dvr_max_tuners">"Number of Tuners"</string>
-<string name="menu_settings_dvr_max_tuners_help">"Specify the number of tuners AuroraTV may use. The specified number must be available across all of your carriers (eg. DVB-T, DVB-C, DVB-S)."</string>
+<string name="menu_settings_dvr_max_tuners_help">"Specify the number of tuners allocatable by the DVR recorder. The specified number must be available across all of your carriers (eg. ATSC, DVB-C, DVB-S)."</string>
 <string name="about_build_number">"Build number"</string>
 <string name="about_opensource_licenses">"Open Source Licenses"</string>
 <string name="debug">"Debug"</string>
 <string name="about_debug_options">"Configure Debug Options"</string>
 <string name="about_secret_message">"Secret Debug Revealed"</string>
 <string name="menu_settings_audio_output_engine">"Audio Output Method"</string>
+<string name="menu_purchase_ad_free_is_include_in_premium">"Ad free is included in premium"</string>
+<string name="dialog_continue">"Continue"</string>
+<string name="dialog_purchase">"Purchase"</string>
+<string name="dialog_premium_feature_title">"Functionality limited"</string>
+<string name="dialog_premium_feature_message">"Functionality is limited. Please purchase Premium to remove this limitation"</string>
+<string name="rho_ad_title">"Support AuroraTV"</string>
+<string name="rho_ad_subtitle">"Buy our new SmartTV set-top box"</string>
+<string name="rho_ad_counter">"%d days left"</string>
+<string name="rho_ad_bullets">"• Android Kitkat
+• Google Play store
+• Air mouse remote
+• Built in DVB-T2/C
+• Stream TV to your tablet or phone
+• All premium AuroraTV features included
+• New DVR feature included"</string>
+<string name="rho_ad_visit">"Visit"</string>
+<string name="rho_ad_shorturl">"https://goo.gl/cTjPMc"</string>
+<string name="menu_purchase_1_month_premium">"One month premium"</string>
+<string name="menu_purchase_1_year_premium">"One year premium"</string>
+<string name="menu_purchase_1_month_premium_description">"One month of premium. Includes DVR and Ad-free"</string>
+<string name="menu_purchase_1_year_premium_description">"One year of premium. Includes DVR and Ad-free"</string>
+<string name="menu_tuner_none_description">"Supported tuners are Sat&gt;IP and HDHomeRun"</string>
+<string name="menu_tuner_none_title">"No tuners found"</string>
+<string name="context_menu_prev_channel">"Previous Channel"</string>
+<string name="button_skip">"Skip"</string>
+<string name="menu_wizard_tuners_description">"Verify that your tuners have been detected"</string>
+<string name="tuner_analog">"Analog"</string>
+<string name="button_resume">"Resume"</string>
+<string name="button_delete">"Delete"</string>
+<string name="button_suspend">"Suspend"</string>
+<string name="button_play">"Play"</string>
+<string name="menu_settings_dvr_premium_message">"Please purchase Premium to unlock full DVR functionality"</string>
+<string name="bookings_keep_all_episodes">"Keep all episodes"</string>
+<string name="bookings_keep_last_episodes">"Keep the last %d episodes"</string>
 </resources>
