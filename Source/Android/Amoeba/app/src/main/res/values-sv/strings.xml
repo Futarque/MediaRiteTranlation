@@ -177,4 +177,38 @@ mottaga uppdaterade kanallistor. Nya kanaler läggs till längst ned i listan."<
 <string name="about_debug_options">"Konfigurera felsöknings Val"</string>
 <string name="about_secret_message">"Hemliga Debug Revealed"</string>
 <string name="menu_settings_audio_output_engine">"Ljudutmatningsmetoden"</string>
+<string name="menu_purchase_ad_free_is_include_in_premium">"Ad fri ingår i premien"</string>
+<string name="dialog_continue">"Fortsätt"</string>
+<string name="dialog_purchase">"Inköp"</string>
+<string name="dialog_premium_feature_title">"funktionalitet begränsad"</string>
+<string name="dialog_premium_feature_message">"Funktionalitet är begränsad. Vänligen köp Premium för att ta bort denna begränsning"</string>
+<string name="rho_ad_title">"support AuroraTV"</string>
+<string name="rho_ad_subtitle">"Köp vår nya SmartTV set-top-box"</string>
+<string name="rho_ad_counter">"%d dagar kvar"</string>
+<string name="rho_ad_bullets">"• Android Kitkat
+• Google Play-butiken
+• Luft mus fjärrkontroll
+• Inbyggd DVB-T2 / C
+• Stream TV till din surfplatta eller telefon
+• Alla premium AuroraTV funktioner som ingår
+• Ny DVR-funktionen ingår"</string>
+<string name="rho_ad_visit">"Besök"</string>
+<string name="rho_ad_shorturl">"https://goo.gl/cTjPMc"</string>
+<string name="menu_purchase_1_month_premium">"En månad premie"</string>
+<string name="menu_purchase_1_year_premium">"Ett års premium"</string>
+<string name="menu_purchase_1_month_premium_description">"En månad av premie. Inkluderar DVR och Ad-fri"</string>
+<string name="menu_purchase_1_year_premium_description">"Ett års premie. Inkluderar DVR och Ad-fri"</string>
+<string name="menu_tuner_none_description">"tuners som stöds är lör&gt; IP och HDHomeRun"</string>
+<string name="menu_tuner_none_title">"Inga tuners hittades"</string>
+<string name="context_menu_prev_channel">"Föregående kanal"</string>
+<string name="button_skip">"Hoppa"</string>
+<string name="menu_wizard_tuners_description">"Kontrollera att dina mottagare har upptäckts"</string>
+<string name="tuner_analog">"analog"</string>
+<string name="button_resume">"Återuppta"</string>
+<string name="button_delete">"Radera"</string>
+<string name="button_suspend">"Uppskjuta"</string>
+<string name="button_play">"Spela"</string>
+<string name="menu_settings_dvr_premium_message">"Vänligen köp Premium för att låsa upp hela DVR-funktionalitet"</string>
+<string name="bookings_keep_all_episodes">"Behåll alla avsnitt"</string>
+<string name="bookings_keep_last_episodes">"Håll sista %d episoder"</string>
 </resources>
