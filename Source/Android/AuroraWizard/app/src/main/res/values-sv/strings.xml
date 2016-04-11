@@ -8,25 +8,7 @@
 <string name="wizard_timezone_description">"Välj din tidszon"</string>
 <string name="wizard_complete">"Guiden färdig"</string>
 <string name="wizard_complete_ok">"OK"</string>
-<string name="wizard_network_description">"Välj önskad nätverksanslutning"</string>
 <string name="wizard_network">"Nätverk"</string>
-<string name="wizard_network_wifi">"wifi"</string>
-<string name="wizard_network_wifi_description">"Välj din åtkomstpunkt"</string>
-<string name="wifi_security_type_wep">"WEP"</string>
-<string name="wifi_security_type_wpa">"WPA / WPA2 PSK"</string>
-<string name="wifi_security_type_eap">"802.1x EAP"</string>
-<string name="wifi_security_type_none">"Ingen"</string>
-<string name="network_wifi_password_title">"Skriv in lösenord"</string>
-<string name="network_ethernet_connect_title">"Anslut Ethernet"</string>
-<string name="network_not_connected">"Ej ansluten"</string>
-<string name="network_connected">"Ansluten"</string>
 <string name="network_connecting">"Anslut"</string>
-<string name="network_available">"Tillgängliga"</string>
-<string name="network_wifi_scanning">"Läser in..."</string>
-<string name="network_ethernet">"ethernet"</string>
-<string name="network_wifi_click_enable">"Klicka för att aktivera"</string>
-<string name="network_wifi_enabling">"Aktivera ..."</string>
-<string name="network_success">"Framgång"</string>
-<string name="network_no_ethernet">"Ingen Ethernet upptäckt"</string>
 <string name="network_skip">"Hoppa"</string>
 </resources>
