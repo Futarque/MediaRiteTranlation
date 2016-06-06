@@ -13,14 +13,18 @@
 <string name="home_system_power">"Lekapcsol"</string>
 <string name="home_system_settings">"Rendszer beállítások"</string>
 <string name="home_system_sound">"Hangzik"</string>
-<string name="preferences_applications">"Alkalmazások"</string>
-<string name="preferences_country">"Ország"</string>
-<string name="preferences_groups">"Csoportok"</string>
-<string name="preferences_preferences">"Preferenciák"</string>
 <string name="search_result">"Keresés eredménye:"</string>
 <string name="home_system_update">"Frissítés elérhető"</string>
 <string name="system_update_available">"A rendszerfrissítés."</string>
 <string name="new_version">"Új verzió"</string>
 <string name="later">"A későbbiekben"</string>
 <string name="install">"felszerel"</string>
+<string name="home_system_help">"Segítség"</string>
+<string name="home_storage">"Cserélhető tároló"</string>
+<string name="sd_card">"SD kártya"</string>
+<string name="home_screen_share">"Képernyő tükrözés"</string>
+<string name="share_wifi_enable">"Engedélyezése Wifi, Kérjük, várjon"</string>
+<string name="auto_detect_language">"Nem lehet automatikusan észleli ország"</string>
+<string name="share_wifi_unable">"Nem lehet, hogy Wifi"</string>
+<string name="onlinehelp_error_loading_url">"Nem sikerült megnyitni a súgót"</string>
 </resources>
