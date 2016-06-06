@@ -15,14 +15,18 @@
 <string name="home_system_power">"Herunterfahren"</string>
 <string name="home_system_settings">"Systemeinstellungen"</string>
 <string name="home_system_sound">"Ton"</string>
-<string name="preferences_applications">"Anwendungen"</string>
-<string name="preferences_country">"Land"</string>
-<string name="preferences_groups">"Gruppen"</string>
-<string name="preferences_preferences">"Einstellungen"</string>
 <string name="search_result">"Suchergebnis:"</string>
 <string name="home_system_update">"Update verfügbar"</string>
 <string name="system_update_available">"Ein System-Update verfügbar ist."</string>
 <string name="new_version">"Neue Version"</string>
 <string name="later">"Später"</string>
 <string name="install">"Installieren"</string>
+<string name="home_system_help">"Hilfe"</string>
+<string name="home_storage">"Wechselspeicher"</string>
+<string name="sd_card">"SD-Karte"</string>
+<string name="home_screen_share">"Bildschirmspiegelung"</string>
+<string name="share_wifi_enable">"Aktivieren der Wireless-LAN, bitte warten"</string>
+<string name="auto_detect_language">"Kann nicht automatisch Land entdecken"</string>
+<string name="share_wifi_unable">"Kann nicht Wifi zu ermöglichen"</string>
+<string name="onlinehelp_error_loading_url">"Hilfe kann nicht öffnen"</string>
 </resources>
