@@ -210,4 +210,23 @@ Il file zip risultante deve essere nominato picons.zip e posto alla URL di base 
 <string name="menu_settings_dvr_premium_message">"Si prega di acquistare Premium per sbloccare la piena funzionalità DVR"</string>
 <string name="bookings_keep_all_episodes">"Tenere tutti gli episodi"</string>
 <string name="bookings_keep_last_episodes">"Mantenere gli ultimi %d episodi"</string>
+<string name="open_source_licenses">"licenze open source:"</string>
+<string name="intro_channels_description">"Premere &lt;b&gt;SELECT&lt;/b&gt; per entrare nella lista dei canali"</string>
+<string name="intro_change_channel_title">"Surf Canale"</string>
+<string name="intro_change_channel_description">"Premere &lt;b&gt;UP&lt;/b&gt; / &lt;b&gt;DOWN&lt;/b&gt; per cambiare i canali"</string>
+<string name="intro_context_title">"Menù contestuale"</string>
+<string name="intro_context_description">"Premere &lt;b&gt;LEFT&lt;/b&gt; per mostrare Context Menu"</string>
+<string name="intro_guide_title">"Program Guide"</string>
+<string name="intro_guide_description">"Premere &lt;b&gt;RIGHT&lt;/ b&gt; per mostrare Program Guide"</string>
+<string name="intro_done_button">"Iniziare"</string>
+<string name="intro_done_title">"Intro Completato"</string>
+<string name="intro_reset">"Ripristino Introduzione"</string>
+<string name="intro_dvr_timeshift_title">"Pause Live TV"</string>
+<string name="intro_dvr_timeshift_description">"Tenere premuto &lt;b&gt;SELECT&lt;/b&gt; per mettere in pausa"</string>
+<string name="intro_dvr_schedule_title">"Registrazioni programmate"</string>
+<string name="intro_dvr_schedule_description">"Pianifica le registrazioni utilizzando la Guida TV"</string>
+<string name="intro_menu_title">"Menu principale"</string>
+<string name="intro_menu_description_1">"Premere &lt;b&gt;BACK&lt;/b&gt; per accedere al menu principale.
+Premere di nuovo per tornare a schermo intero"</string>
+<string name="intro_menu_description_2">"Premere a lungo per l'applicazione uscita"</string>
 </resources>
