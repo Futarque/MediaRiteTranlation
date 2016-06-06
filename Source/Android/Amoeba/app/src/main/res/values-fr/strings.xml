@@ -211,4 +211,23 @@ Le fichier zip résultant doit être nommé picons.zip et placé à l'URL de bas
 <string name="menu_settings_dvr_premium_message">"S'il vous plaît acheter Premium pour déverrouiller la fonctionnalité DVR complète"</string>
 <string name="bookings_keep_all_episodes">"Gardez tous les épisodes"</string>
 <string name="bookings_keep_last_episodes">"Gardez les %d épisodes de dernière"</string>
+<string name="open_source_licenses">"licences open source:"</string>
+<string name="intro_channels_description">"Appuyez sur &lt;b&gt;SELECT&lt;/ b&gt; pour entrer dans la liste des chaînes"</string>
+<string name="intro_change_channel_title">"Surf Channel"</string>
+<string name="intro_change_channel_description">"Appuyez sur &lt;b&gt;UP&lt;/b&gt; / &lt;b&gt;DOWN&lt;/b&gt; pour changer de canal"</string>
+<string name="intro_context_title">"Menu contextuel"</string>
+<string name="intro_context_description">"Appuyez sur &lt;b&gt;LEFT&lt;/b&gt; pour afficher le menu contextuel"</string>
+<string name="intro_guide_title">"Guide du programme"</string>
+<string name="intro_guide_description">"Appuyez sur &lt;b&gt;RIGHT&lt;/b&gt; pour afficher Guide du programme"</string>
+<string name="intro_done_button">"Commencer"</string>
+<string name="intro_done_title">"Intro Terminé"</string>
+<string name="intro_reset">"réinitialiser Présentation"</string>
+<string name="intro_dvr_timeshift_title">"Pause Live TV"</string>
+<string name="intro_dvr_timeshift_description">"Appuyez sur la touche &lt;b&gt;SELECT&lt;/b&gt; pour faire une pause"</string>
+<string name="intro_dvr_schedule_title">"Enregistrements programmés"</string>
+<string name="intro_dvr_schedule_description">"Programmez vos enregistrements en utilisant le Guide des programmes"</string>
+<string name="intro_menu_title">"Menu principal"</string>
+<string name="intro_menu_description_1">"Appuyez sur &lt;b&gt;BACK&lt;/b&gt; pour accéder au menu principal.
+Appuyez à nouveau pour revenir à fullscreen"</string>
+<string name="intro_menu_description_2">"Appuyez longuement pour quitter l'application"</string>
 </resources>
