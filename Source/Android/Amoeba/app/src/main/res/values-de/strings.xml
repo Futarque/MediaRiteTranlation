@@ -151,7 +151,7 @@ Ein dickes Dankeschön für und ein (K)üsschen für Dich :)"</string>
 <string name="menu_wizard_testing_homing_parameters">"Testing Homing Parameter"</string>
 <string name="menu_wizard_testing_homing_parameters_done_failed">"Unfähig, die gelieferten Werte zu validieren. Bitte überprüfen Sie Ihre Antennenkabel oder die Werte bearbeiten und erneut versuchen."</string>
 <string name="menu_tuner_invalid_param">"ungültiger Wert"</string>
-<string name="disabled">"Behindert"</string>
+<string name="disabled">"Nicht aktiv"</string>
 <string name="off">"Aus"</string>
 <string name="on">"Am"</string>
 <string name="menu_no_recordings_match">"Keine Übereinstimmung"</string>
@@ -226,4 +226,23 @@ Ein dickes Dankeschön für und ein (K)üsschen für Dich :)"</string>
 <string name="menu_settings_dvr_premium_message">"Bitte kaufen Sie Premium-volle DVR-Funktionalität zu entsperren"</string>
 <string name="bookings_keep_all_episodes">"Halten Sie alle Episoden"</string>
 <string name="bookings_keep_last_episodes">"Halten Sie die letzten %d Episoden"</string>
+<string name="open_source_licenses">"Open-Source-Lizenzen:"</string>
+<string name="intro_channels_description">"Drücken Sie &lt;b&gt;SELECT&lt;/b&gt; Kanalliste eingeben"</string>
+<string name="intro_change_channel_title">"Kanal-Surfen"</string>
+<string name="intro_change_channel_description">"Drücken Sie &lt;b&gt;UP&lt;/b&gt; / &lt;b&gt;DOWN&lt;/b&gt; zu ändern Kanäle"</string>
+<string name="intro_context_title">"Kontextmenü"</string>
+<string name="intro_context_description">"Drücken Sie &lt;b&gt;LEFT&lt;/b&gt; Kontextmenü anzuzeigen"</string>
+<string name="intro_guide_title">"Programm"</string>
+<string name="intro_guide_description">"Drücken Sie &lt;b&gt;RIGHT&lt;/b&gt; zu zeigen Program Guide"</string>
+<string name="intro_done_button">"Sich aufmachen"</string>
+<string name="intro_done_title">"Intro abgeschlossen"</string>
+<string name="intro_reset">"Zurücksetzen Einführung"</string>
+<string name="intro_dvr_timeshift_title">"Pause Live TV"</string>
+<string name="intro_dvr_timeshift_description">"Drücken und halten Sie &lt;b&gt;SELECT&lt;/b&gt; zu pausieren"</string>
+<string name="intro_dvr_schedule_title">"geplante Aufnahmen"</string>
+<string name="intro_dvr_schedule_description">"Planen Sie Aufnahmen das TV-Programm mit"</string>
+<string name="intro_menu_title">"Hauptmenü"</string>
+<string name="intro_menu_description_1">"Drücken Sie &lt;b&gt;BACK&lt;/b&gt; Hauptmenü zu gelangen.
+Drücken Sie erneut zurück in den Vollbild"</string>
+<string name="intro_menu_description_2">"Lange drücken zum Beenden Anwendung"</string>
 </resources>
