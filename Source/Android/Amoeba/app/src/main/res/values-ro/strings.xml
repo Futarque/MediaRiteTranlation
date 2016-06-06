@@ -212,4 +212,23 @@ Fișierul zip rezultat trebuie să fie numit picons.zip și plasat la  URL-ul de
 <string name="menu_settings_dvr_premium_message">"Vă rugăm să achiziționați Premium pentru a debloca funcționalitatea completă DVR"</string>
 <string name="bookings_keep_all_episodes">"Păstrați toate episoadele"</string>
 <string name="bookings_keep_last_episodes">"A se păstra ultimul %d episoade"</string>
+<string name="open_source_licenses">"Licențe open source:"</string>
+<string name="intro_channels_description">"Apăsați pe &lt;b&gt;SELECT&lt;/b&gt; pentru a intra in lista de canale"</string>
+<string name="intro_change_channel_title">"Surf canal"</string>
+<string name="intro_change_channel_description">"Apăsați pe &lt;b&gt;UP&lt;/b&gt; / &lt;b&gt;DOWN&lt;/b&gt; pentru a schimba canalele"</string>
+<string name="intro_context_title">"Meniul contextual"</string>
+<string name="intro_context_description">"Apăsați pe &lt;b&gt;LEFT&lt;/b&gt; pentru a afișa meniul contextual"</string>
+<string name="intro_guide_title">"Ghidul programului"</string>
+<string name="intro_guide_description">"Apăsați pe &lt;b&gt;RIGHT&lt;/b&gt; pentru a afișa Ghidul programului"</string>
+<string name="intro_done_button">"Incepe"</string>
+<string name="intro_done_title">"Intro Finalizat"</string>
+<string name="intro_reset">"Introducere reinițializa"</string>
+<string name="intro_dvr_timeshift_title">"Pause Live TV"</string>
+<string name="intro_dvr_timeshift_description">"Apăsați și țineți apăsat &lt;b&gt;SELECT&lt;/b&gt; pentru a întrerupe"</string>
+<string name="intro_dvr_schedule_title">"Înregistrări programate"</string>
+<string name="intro_dvr_schedule_description">"Înregistrări de program folosind Program Guide"</string>
+<string name="intro_menu_title">"Meniul principal"</string>
+<string name="intro_menu_description_1">"Apăsați pe &lt;b&gt;BACK&lt;/b&gt; pentru a intra în meniul principal.
+Apăsați din nou pentru a reveni la ecranul complet"</string>
+<string name="intro_menu_description_2">"apăsați lung pentru aplicație de ieșire"</string>
 </resources>
