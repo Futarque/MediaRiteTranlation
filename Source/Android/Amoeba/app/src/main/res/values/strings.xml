@@ -202,7 +202,6 @@
     <string name="bookings_keep_last_episodes">Keep the last %d episodes</string>
     <string name="open_source_licenses">Open source licenses:</string>
 
-    <string name="intro_channels_title">@string/menu_channels</string>
     <string name="intro_channels_description">Press <b>SELECT</b> to enter channel list</string>
     <string name="intro_change_channel_title">Channel Surfing</string>
     <string name="intro_change_channel_description">Press <b>UP</b>/<b>DOWN</b> to change channels</string>
