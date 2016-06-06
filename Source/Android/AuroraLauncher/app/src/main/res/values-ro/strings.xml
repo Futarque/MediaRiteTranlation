@@ -13,14 +13,18 @@
 <string name="home_system_power">"Închide"</string>
 <string name="home_system_settings">"Setari de sistem"</string>
 <string name="home_system_sound">"Sunet"</string>
-<string name="preferences_applications">"Aplicații"</string>
-<string name="preferences_country">"Țară"</string>
-<string name="preferences_groups">"Grupuri"</string>
-<string name="preferences_preferences">"Preferințe"</string>
 <string name="search_result">"Rezultatul căutării:"</string>
 <string name="home_system_update">"Actualizare disponibilă"</string>
 <string name="system_update_available">"Actualizare de sistem disponibilă"</string>
 <string name="new_version">"Versiune nouă"</string>
 <string name="later">"Ulterior"</string>
 <string name="install">"Instalează"</string>
+<string name="home_system_help">"Ajutor"</string>
+<string name="home_storage">"Depozitare detașabil"</string>
+<string name="sd_card">"Card SD"</string>
+<string name="home_screen_share">"Ecranul Mirroring"</string>
+<string name="share_wifi_enable">"Dacă activați WiFi, Vă rugăm să așteptați"</string>
+<string name="auto_detect_language">"Nu se poate detecta automat țară"</string>
+<string name="share_wifi_unable">"Nu se poate activa Wi-Fi"</string>
+<string name="onlinehelp_error_loading_url">"Nu se poate deschide ajutorul"</string>
 </resources>
