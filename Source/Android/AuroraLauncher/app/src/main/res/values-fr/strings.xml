@@ -13,14 +13,18 @@
 <string name="home_system_power">"Fermer"</string>
 <string name="home_system_settings">"Les paramètres du système"</string>
 <string name="home_system_sound">"Sonner"</string>
-<string name="preferences_applications">"Applications"</string>
-<string name="preferences_country">"Pays"</string>
-<string name="preferences_groups">"Groupes"</string>
-<string name="preferences_preferences">"Préférences"</string>
 <string name="search_result">"Résultat de la recherche:"</string>
 <string name="home_system_update">"Mise à jour disponible"</string>
 <string name="system_update_available">"Une mise à jour du système est disponible."</string>
 <string name="new_version">"Nouvelle version"</string>
 <string name="later">"Plus tard"</string>
 <string name="install">"Installer"</string>
+<string name="home_system_help">"Aidez-moi"</string>
+<string name="home_storage">"Stockage amovible"</string>
+<string name="sd_card">"Carte SD"</string>
+<string name="home_screen_share">"Miroir de l'écran"</string>
+<string name="share_wifi_enable">"Activation Wifi, S'il vous plaît attendre"</string>
+<string name="auto_detect_language">"Impossible de détecter automatiquement le pays"</string>
+<string name="share_wifi_unable">"Impossible d'activer Wifi"</string>
+<string name="onlinehelp_error_loading_url">"Impossible d'ouvrir l'aide"</string>
 </resources>
