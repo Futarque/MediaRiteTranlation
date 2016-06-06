@@ -210,4 +210,23 @@ El archivo zip resultante debe ser nombrado picons.zip y puesto a la URL base se
 <string name="menu_settings_dvr_premium_message">"Por favor, compra de primera calidad para desbloquear la funcionalidad completa DVR"</string>
 <string name="bookings_keep_all_episodes">"Mantenga todos los episodios"</string>
 <string name="bookings_keep_last_episodes">"Mantenga los últimos %d episodios"</string>
+<string name="open_source_licenses">"licencias de código abierto:"</string>
+<string name="intro_channels_description">"Pulse &lt;b&gt;SELECT&lt;/b&gt; para entrar en la lista de canales"</string>
+<string name="intro_change_channel_title">"Surf Channel"</string>
+<string name="intro_change_channel_description">"Pulse &lt;b&gt;UP&lt;/​​b&gt; / &lt;b&gt;DOWN&lt;/b&gt; para cambiar los canales"</string>
+<string name="intro_context_title">"Menú de contexto"</string>
+<string name="intro_context_description">"Pulse &lt;b&gt;LEFT&lt;/b&gt; para mostrar el menú contextual"</string>
+<string name="intro_guide_title">"Guía de programas"</string>
+<string name="intro_guide_description">"Pulse &lt;b&gt;RIGHT&lt;/b&gt; para mostrar Guía de Programación"</string>
+<string name="intro_done_button">"Empieza"</string>
+<string name="intro_done_title">"Introducción Completado"</string>
+<string name="intro_reset">"Restablecer Introducción"</string>
+<string name="intro_dvr_timeshift_title">"Pause Live TV"</string>
+<string name="intro_dvr_timeshift_description">"Mantenga pulsado el botón &lt;b&gt;SELECT&lt;/b&gt; para hacer una pausa"</string>
+<string name="intro_dvr_schedule_title">"Las grabaciones programadas"</string>
+<string name="intro_dvr_schedule_description">"Programar grabaciones utilizando la Guía de Programación"</string>
+<string name="intro_menu_title">"Menú principal"</string>
+<string name="intro_menu_description_1">"Pulse &lt;b&gt;BACK&lt;/b&gt; para entrar en el Menú Principal.
+Pulse de nuevo para volver a pantalla completa"</string>
+<string name="intro_menu_description_2">"Pulsación larga de la aplicación de salida"</string>
 </resources>
