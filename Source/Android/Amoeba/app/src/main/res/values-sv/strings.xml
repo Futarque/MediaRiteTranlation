@@ -211,4 +211,23 @@ mottaga uppdaterade kanallistor. Nya kanaler läggs till längst ned i listan."<
 <string name="menu_settings_dvr_premium_message">"Vänligen köp Premium för att låsa upp hela DVR-funktionalitet"</string>
 <string name="bookings_keep_all_episodes">"Behåll alla avsnitt"</string>
 <string name="bookings_keep_last_episodes">"Håll sista %d episoder"</string>
+<string name="open_source_licenses">"Öppen källkod licenser:"</string>
+<string name="intro_channels_description">"Tryck på &lt;b&gt;SELECT&lt;/b&gt; för att öppna kanallistan"</string>
+<string name="intro_change_channel_title">"kanal Surfing"</string>
+<string name="intro_change_channel_description">"Tryck på &lt;b&gt;UP&lt;/b&gt; / &lt;b&gt;DOWN&lt;/b&gt; för att byta kanal"</string>
+<string name="intro_context_title">"Innehålls meny"</string>
+<string name="intro_context_description">"Tryck på &lt;b&gt;LEFT&lt;/b&gt; för att visa snabbvalsmeny"</string>
+<string name="intro_guide_title">"program guide"</string>
+<string name="intro_guide_description">"Tryck på &lt;b&gt;RIGHT&lt;/b&gt; för att visa programguiden"</string>
+<string name="intro_done_button">"Komma igång"</string>
+<string name="intro_done_title">"Introduktion Avslutade"</string>
+<string name="intro_reset">"Återställ Introduktion"</string>
+<string name="intro_dvr_timeshift_title">"Pause Live TV"</string>
+<string name="intro_dvr_timeshift_description">"Tryck och håll &lt;b&gt;SELECT&lt;/b&gt; för att pausa"</string>
+<string name="intro_dvr_schedule_title">"Schemalagda inspelningar"</string>
+<string name="intro_dvr_schedule_description">"Schemalägga inspelningar med hjälp av programguiden"</string>
+<string name="intro_menu_title">"Huvudmeny"</string>
+<string name="intro_menu_description_1">"Tryck på &lt;b&gt;BACK&lt;/b&gt; för att öppna huvudmenyn.
+Tryck igen för att återgå till fullskärmsläge"</string>
+<string name="intro_menu_description_2">"Långt tryck för att avsluta programmet"</string>
 </resources>
