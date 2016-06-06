@@ -13,14 +13,18 @@
 <string name="home_system_power">"Sammuttaa"</string>
 <string name="home_system_settings">"Järjestelmäasetukset"</string>
 <string name="home_system_sound">"Ääni"</string>
-<string name="preferences_applications">"Sovellukset"</string>
-<string name="preferences_country">"Maa"</string>
-<string name="preferences_groups">"Ryhmät"</string>
-<string name="preferences_preferences">"Asetukset"</string>
 <string name="search_result">"Tulos:"</string>
 <string name="home_system_update">"Päivitys saatavilla"</string>
 <string name="system_update_available">"Järjestelmä on saatavilla."</string>
 <string name="new_version">"Uusi versio"</string>
 <string name="later">"Myöhemmin"</string>
 <string name="install">"Asentaa"</string>
+<string name="home_system_help">"Auttaa"</string>
+<string name="home_storage">"irrotettava Storage"</string>
+<string name="sd_card">"Sd kortti"</string>
+<string name="home_screen_share">"Näytön peilaus"</string>
+<string name="share_wifi_enable">"Ottaminen Wifi, Odota"</string>
+<string name="auto_detect_language">"Pysty tunnistamaan automaattisesti maahan"</string>
+<string name="share_wifi_unable">"Enää ottaa Wifi"</string>
+<string name="onlinehelp_error_loading_url">"Ei voitu avata ohjeen"</string>
 </resources>
