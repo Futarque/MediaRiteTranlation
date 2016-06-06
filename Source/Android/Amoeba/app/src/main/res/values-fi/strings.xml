@@ -210,4 +210,23 @@ Tuloksena zip-tiedosto on nimetty picons.zip ja sijoitettu pohjan URL alla mää
 <string name="menu_settings_dvr_premium_message">"Hanki Premium avata koko DVR-toiminnot"</string>
 <string name="bookings_keep_all_episodes">"Pidä kaikki jaksot"</string>
 <string name="bookings_keep_last_episodes">"Pidä %d viimeistä jaksoa"</string>
+<string name="open_source_licenses">"Avoimen lähdekoodin lisenssejä:"</string>
+<string name="intro_channels_description">"Paina &lt;b&gt;SELECT&lt;/b&gt; Syötä kanavaluettelon"</string>
+<string name="intro_change_channel_title">"kanavan selaus"</string>
+<string name="intro_change_channel_description">"Paina &lt;b&gt;UP&lt;/b&gt; / &lt;b&gt;DOWN&lt;/ b&gt; vaihtaa kanavaa"</string>
+<string name="intro_context_title">"Context Menu"</string>
+<string name="intro_context_description">"Paina &lt;b&gt;LEFT&lt;/b&gt; näyttää Context Menu"</string>
+<string name="intro_guide_title">"ohjelmaopas"</string>
+<string name="intro_guide_description">"Paina &lt;b&gt;RIGHT&lt;/b&gt; näyttää ohjelmaopas"</string>
+<string name="intro_done_button">"Aloittaa"</string>
+<string name="intro_done_title">"Johdanto Valmiit"</string>
+<string name="intro_reset">"Nollaa Johdanto"</string>
+<string name="intro_dvr_timeshift_title">"Pause Live TV"</string>
+<string name="intro_dvr_timeshift_description">"Paina pitkään &lt;b&gt;SELECT&lt;/b&gt; Keskeytä"</string>
+<string name="intro_dvr_schedule_title">"Aikataulun tallenteet"</string>
+<string name="intro_dvr_schedule_description">"Aikataulu tallenteita käyttäen ohjelmaopas"</string>
+<string name="intro_menu_title">"Päävalikko"</string>
+<string name="intro_menu_description_1">"Paina &lt;b&gt;BACK&lt;/b&gt; Syötä päävalikkoon.
+Paina uudelleen palata koko näytön"</string>
+<string name="intro_menu_description_2">"Pitkä painallus poistua sovelluksen"</string>
 </resources>
