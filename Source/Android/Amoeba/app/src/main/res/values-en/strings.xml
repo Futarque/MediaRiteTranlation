@@ -210,4 +210,23 @@ The resulting zip file must be named picons.zip and placed at the base URL speci
 <string name="menu_settings_dvr_premium_message">"Please purchase Premium to unlock full DVR functionality"</string>
 <string name="bookings_keep_all_episodes">"Keep all episodes"</string>
 <string name="bookings_keep_last_episodes">"Keep the last %d episodes"</string>
+<string name="open_source_licenses">"Open source licenses:"</string>
+<string name="intro_channels_description">"Press &lt;b&gt;SELECT&lt;/b&gt; to enter channel list"</string>
+<string name="intro_change_channel_title">"Channel Surfing"</string>
+<string name="intro_change_channel_description">"Press &lt;b&gt;UP&lt;/b&gt;/&lt;b&gt;DOWN&lt;/b&gt; to change channels"</string>
+<string name="intro_context_title">"Context Menu"</string>
+<string name="intro_context_description">"Press &lt;b&gt;LEFT&lt;/b&gt; to show Context Menu"</string>
+<string name="intro_guide_title">"Program Guide"</string>
+<string name="intro_guide_description">"Press &lt;b&gt;RIGHT&lt;/b&gt; to show Program Guide"</string>
+<string name="intro_done_button">"Get Started"</string>
+<string name="intro_done_title">"Intro Completed"</string>
+<string name="intro_reset">"Reset Introduction"</string>
+<string name="intro_dvr_timeshift_title">"Pause Live TV"</string>
+<string name="intro_dvr_timeshift_description">"Press and hold &lt;b&gt;SELECT&lt;/b&gt; to pause"</string>
+<string name="intro_dvr_schedule_title">"Scheduled Recordings"</string>
+<string name="intro_dvr_schedule_description">"Schedule recordings using the Program Guide"</string>
+<string name="intro_menu_title">"Main Menu"</string>
+<string name="intro_menu_description_1">"Press &lt;b&gt;BACK&lt;/b&gt; to enter Main Menu.
+Press again to return to fullscreen"</string>
+<string name="intro_menu_description_2">"Long press to exit application"</string>
 </resources>
