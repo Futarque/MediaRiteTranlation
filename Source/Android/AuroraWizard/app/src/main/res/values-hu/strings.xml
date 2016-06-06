@@ -11,4 +11,8 @@
 <string name="wizard_network">"Hálózat"</string>
 <string name="network_connecting">"Csatlakozó"</string>
 <string name="network_skip">"Skip"</string>
+<string name="eula_title">"Végfelhasználói licencszerződés"</string>
+<string name="eula_continue">"TOVÁBB"</string>
+<string name="eula_view">"View License Agreement"</string>
+<string name="eula_description">"A folytatással elfogadja, hogy a végfelhasználói licencszerződés."</string>
 </resources>
