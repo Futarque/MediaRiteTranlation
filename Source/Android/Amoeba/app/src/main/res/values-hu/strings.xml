@@ -210,4 +210,23 @@ A kapott zip fájlt kell elemzi picons.zip és aljánál elhelyezett URL alább 
 <string name="menu_settings_dvr_premium_message">"Kérjük, vásárolja Premium kinyit teljes DVR funkcionalitás"</string>
 <string name="bookings_keep_all_episodes">"Tartsa az összes epizódot"</string>
 <string name="bookings_keep_last_episodes">"Tartsuk az utolsó %d epizódok"</string>
+<string name="open_source_licenses">"Nyílt forráskódú licencek:"</string>
+<string name="intro_channels_description">"Nyomja meg a &lt;b&gt;SELECT&lt;/b&gt; gombot csatorna lista"</string>
+<string name="intro_change_channel_title">"Channel Surfing"</string>
+<string name="intro_change_channel_description">"Nyomja meg a &lt;b&gt;UP&lt;/b&gt; / &lt;b&gt;DOWN&lt;/b&gt; csatornát váltani"</string>
+<string name="intro_context_title">"Helyi menü"</string>
+<string name="intro_context_description">"Nyomja meg a &lt;b&gt;LEFT&lt;/b&gt; Helyi menü megjelenítése"</string>
+<string name="intro_guide_title">"Program Guide"</string>
+<string name="intro_guide_description">"Nyomja meg a &lt;b&gt;RIGHT&lt;/b&gt; megjeleníthető Program Guide"</string>
+<string name="intro_done_button">"Fogj neki"</string>
+<string name="intro_done_title">"Intro Befejezett"</string>
+<string name="intro_reset">"visszaállítása Bevezetés"</string>
+<string name="intro_dvr_timeshift_title">"Pause Live TV"</string>
+<string name="intro_dvr_timeshift_description">"Tartsa nyomva a &lt;b&gt;SELECT&lt;/b&gt;, hogy szüneteltesse"</string>
+<string name="intro_dvr_schedule_title">"ütemezett Recordings"</string>
+<string name="intro_dvr_schedule_description">"Menetrend felvételeket a Programajánló"</string>
+<string name="intro_menu_title">"Főmenü"</string>
+<string name="intro_menu_description_1">"Nyomja meg a &lt;b&gt;BACK&lt;/b&gt; a főmenübe való belépéshez.
+Nyomja meg ismét, hogy visszatérjen a teljes képernyős"</string>
+<string name="intro_menu_description_2">"Hosszan nyomja meg a kilépés alkalmazás"</string>
 </resources>

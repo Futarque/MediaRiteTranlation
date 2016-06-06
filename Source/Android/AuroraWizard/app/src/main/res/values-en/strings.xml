@@ -10,5 +10,9 @@
 <string name="wizard_complete_ok">"OK"</string>
 <string name="wizard_network">"Network"</string>
 <string name="network_connecting">"Connecting"</string>
-<string name="network_skip">"Skip"</string>
+<string name="network_skip">"SKIP"</string>
+<string name="eula_title">"End User License Agreement"</string>
+<string name="eula_continue">"CONTINUE"</string>
+<string name="eula_view">"VIEW LICENSE AGREEMENT"</string>
+<string name="eula_description">"By continuing, you are agreeing to the End User License Agreement."</string>
 </resources>

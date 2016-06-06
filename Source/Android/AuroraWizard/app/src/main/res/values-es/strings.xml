@@ -11,4 +11,8 @@
 <string name="wizard_network">"Red"</string>
 <string name="network_connecting">"Conexión"</string>
 <string name="network_skip">"Omitir"</string>
+<string name="eula_title">"Acuerdo de licencia de usuario final"</string>
+<string name="eula_continue">"CONTINUAR"</string>
+<string name="eula_view">"Acuerdo de licencia"</string>
+<string name="eula_description">"Al continuar, usted acepta el acuerdo de licencia de usuario final."</string>
 </resources>

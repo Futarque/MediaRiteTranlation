@@ -13,14 +13,18 @@
 <string name="home_system_power">"Stäng ner"</string>
 <string name="home_system_settings">"Systeminställningar"</string>
 <string name="home_system_sound">"Ljud"</string>
-<string name="preferences_applications">"Tillämpningar"</string>
-<string name="preferences_country">"Land"</string>
-<string name="preferences_groups">"Grupper"</string>
-<string name="preferences_preferences">"Inställningar"</string>
 <string name="search_result">"Sökresultat:"</string>
 <string name="home_system_update">"Uppdatering tillgänglig"</string>
 <string name="system_update_available">"En systemuppdatering är tillgänglig."</string>
 <string name="new_version">"Ny version"</string>
 <string name="later">"Senare"</string>
 <string name="install">"Installera"</string>
+<string name="home_system_help">"Hjälp"</string>
+<string name="home_storage">"flyttbara lagringsmedia"</string>
+<string name="sd_card">"SD-kort"</string>
+<string name="home_screen_share">"Skärmspegling"</string>
+<string name="share_wifi_enable">"Aktivera WiFi, Vänta"</string>
+<string name="auto_detect_language">"Det går inte att automatiskt upptäcka land"</string>
+<string name="share_wifi_unable">"Det går inte att aktivera WiFi"</string>
+<string name="onlinehelp_error_loading_url">"Det går inte att öppna hjälp"</string>
 </resources>

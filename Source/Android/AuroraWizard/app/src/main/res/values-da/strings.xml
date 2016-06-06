@@ -11,4 +11,8 @@
 <string name="wizard_network">"Netværk"</string>
 <string name="network_connecting">"Opretter forbindelse"</string>
 <string name="network_skip">"Spring over"</string>
+<string name="eula_title">"Slutbrugeraftale"</string>
+<string name="eula_continue">"FORTSÆT"</string>
+<string name="eula_view">"Se licensaftale"</string>
+<string name="eula_description">"Ved at fortsætte, godkender du slutbrugeraftalen"</string>
 </resources>

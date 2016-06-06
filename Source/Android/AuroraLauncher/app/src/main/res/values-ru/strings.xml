@@ -13,14 +13,18 @@
 <string name="home_system_power">"Закрыть"</string>
 <string name="home_system_settings">"Настройки системы"</string>
 <string name="home_system_sound">"Звук"</string>
-<string name="preferences_applications">"Приложения"</string>
-<string name="preferences_country">"Страна"</string>
-<string name="preferences_groups">"Группы"</string>
-<string name="preferences_preferences">"Предпочтения"</string>
 <string name="search_result">"Результат поиска:"</string>
 <string name="home_system_update">"Доступно обновление"</string>
 <string name="system_update_available">"Обновление системы доступно."</string>
 <string name="new_version">"Новая версия"</string>
 <string name="later">"Позже"</string>
 <string name="install">"устанавливать"</string>
+<string name="home_system_help">"Помогите"</string>
+<string name="home_storage">"Съемные ЗУ"</string>
+<string name="sd_card">"SD Card"</string>
+<string name="home_screen_share">"Дублирование экрана"</string>
+<string name="share_wifi_enable">"Включение Wi-Fi, Пожалуйста, подождите"</string>
+<string name="auto_detect_language">"Невозможно автоматически определить страну"</string>
+<string name="share_wifi_unable">"Невозможно включить Wi-Fi"</string>
+<string name="onlinehelp_error_loading_url">"Невозможно открыть помощь"</string>
 </resources>

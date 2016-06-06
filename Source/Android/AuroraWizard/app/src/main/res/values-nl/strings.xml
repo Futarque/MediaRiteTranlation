@@ -11,4 +11,8 @@
 <string name="wizard_network">"Netwerk"</string>
 <string name="network_connecting">"Aansluiten"</string>
 <string name="network_skip">"Overspringen"</string>
+<string name="eula_title">"Licentieovereenkomst voor eindgebruikers"</string>
+<string name="eula_continue">"DOORGAAN"</string>
+<string name="eula_view">"VIEW LICENTIEOVEREENKOMST"</string>
+<string name="eula_description">"Door verder te gaan, gaat u akkoord met de End User License Agreement."</string>
 </resources>

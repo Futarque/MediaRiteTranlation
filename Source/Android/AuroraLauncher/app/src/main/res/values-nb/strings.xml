@@ -15,14 +15,18 @@
 <string name="home_system_power">"Avslutt"</string>
 <string name="home_system_settings">"Systeminnstillinger"</string>
 <string name="home_system_sound">"Lyd"</string>
-<string name="preferences_applications">"Applikasjoner "</string>
-<string name="preferences_country">"Land"</string>
-<string name="preferences_groups">"Grupper"</string>
-<string name="preferences_preferences">"Innstillinger"</string>
 <string name="search_result">"Søke resultat:"</string>
 <string name="home_system_update">"Oppdatering tilgjengelig"</string>
 <string name="system_update_available">"En systemoppdatering er tilgjengelig."</string>
 <string name="new_version">"Ny verson"</string>
 <string name="later">"Seinere"</string>
 <string name="install">"Installere"</string>
+<string name="home_system_help">"Hjelp"</string>
+<string name="home_storage">"flyttbare lagringsmedier"</string>
+<string name="sd_card">"SD kort"</string>
+<string name="home_screen_share">"Skjermspeiling"</string>
+<string name="share_wifi_enable">"Aktivering av Wifi, Vent"</string>
+<string name="auto_detect_language">"Kan ikke automatisk oppdage landet"</string>
+<string name="share_wifi_unable">"Kan ikke aktivere Wifi"</string>
+<string name="onlinehelp_error_loading_url">"Kan ikke åpne hjelpen"</string>
 </resources>

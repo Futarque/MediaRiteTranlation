@@ -11,4 +11,8 @@
 <string name="wizard_network">"Network"</string>
 <string name="network_connecting">"Tilkobling"</string>
 <string name="network_skip">"Hopp"</string>
+<string name="eula_title">"End User License Agreement"</string>
+<string name="eula_continue">"FORTSETTE"</string>
+<string name="eula_view">"View License Agreement"</string>
+<string name="eula_description">"Ved å fortsette, samtykker du til lisensavtalen for sluttbrukere."</string>
 </resources>

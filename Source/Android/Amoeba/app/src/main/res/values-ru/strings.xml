@@ -210,4 +210,23 @@
 <string name="menu_settings_dvr_premium_message">"Пожалуйста, купите премиум, чтобы разблокировать полную функциональность DVR"</string>
 <string name="bookings_keep_all_episodes">"Держите все эпизоды"</string>
 <string name="bookings_keep_last_episodes">"Держите последние %d эпизодов"</string>
+<string name="open_source_licenses">"лицензии с открытым исходным кодом:"</string>
+<string name="intro_channels_description">"Нажмите &lt;b&gt;SELECT&lt;/b&gt; для ввода списка каналов"</string>
+<string name="intro_change_channel_title">"Серфинг канала"</string>
+<string name="intro_change_channel_description">"Нажмите кнопку &lt;b&gt;UP&lt;/b&gt; / &lt;b&gt;DOWN&lt;/b&gt; для переключения каналов"</string>
+<string name="intro_context_title">"Контекстное меню"</string>
+<string name="intro_context_description">"Нажмите &lt;b&gt;LEFT&lt;/b&gt;, чтобы показать меню Контекст"</string>
+<string name="intro_guide_title">"программа передач"</string>
+<string name="intro_guide_description">"Нажмите &lt;b&gt;RIGHT&lt;/b&gt;, чтобы показать, направляющий выступ программы"</string>
+<string name="intro_done_button">"Начать"</string>
+<string name="intro_done_title">"Введение Завершено"</string>
+<string name="intro_reset">"Сброс Введение"</string>
+<string name="intro_dvr_timeshift_title">"Pause Live TV"</string>
+<string name="intro_dvr_timeshift_description">"Нажмите и удерживайте кнопку &lt;b&gt;SELECT&lt;/b&gt;, чтобы приостановить"</string>
+<string name="intro_dvr_schedule_title">"Запланированные Записи"</string>
+<string name="intro_dvr_schedule_description">"Расписание записи с помощью программы передач"</string>
+<string name="intro_menu_title">"Главное меню"</string>
+<string name="intro_menu_description_1">"Нажмите &lt;b&gt;BACK&lt;/b&gt;, чтобы войти в главное меню.
+Нажмите еще раз, чтобы вернуться в полноэкранном режиме"</string>
+<string name="intro_menu_description_2">"Длительное нажатие приложения выхода"</string>
 </resources>

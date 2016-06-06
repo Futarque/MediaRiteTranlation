@@ -11,4 +11,8 @@
 <string name="wizard_network">"сеть"</string>
 <string name="network_connecting">"соединяющий"</string>
 <string name="network_skip">"Пропускать"</string>
+<string name="eula_title">"Лицензионное соглашение конечного пользователя"</string>
+<string name="eula_continue">"ПРОДОЛЖАТЬ"</string>
+<string name="eula_view">"VIEW ЛИЦЕНЗИОННОЕ СОГЛАШЕНИЕ"</string>
+<string name="eula_description">"Продолжая, вы соглашаетесь с условиями лицензионного соглашения с конечным пользователем."</string>
 </resources>

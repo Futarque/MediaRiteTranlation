@@ -11,4 +11,8 @@
 <string name="wizard_network">"Réseau"</string>
 <string name="network_connecting">"De liaison"</string>
 <string name="network_skip">"Sauter"</string>
+<string name="eula_title">"Contrat de licence de l'utilisateur final"</string>
+<string name="eula_continue">"CONTINUER"</string>
+<string name="eula_view">"CONTRAT DE LICENCE DE VUE"</string>
+<string name="eula_description">"En continuant, vous acceptez le contrat de licence de l'utilisateur final."</string>
 </resources>

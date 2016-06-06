@@ -13,14 +13,18 @@
 <string name="home_system_power">"Afsluiten"</string>
 <string name="home_system_settings">"Systeem instellingen"</string>
 <string name="home_system_sound">"Klinken"</string>
-<string name="preferences_applications">"Toepassingen"</string>
-<string name="preferences_country">"Land"</string>
-<string name="preferences_groups">"Groepen"</string>
-<string name="preferences_preferences">"Voorkeuren"</string>
 <string name="search_result">"Zoekresultaat:"</string>
 <string name="home_system_update">"Update beschikbaar"</string>
 <string name="system_update_available">"Een systeem update beschikbaar is."</string>
 <string name="new_version">"Nieuwe versie"</string>
 <string name="later">"Later"</string>
 <string name="install">"Installeren"</string>
+<string name="home_system_help">"Hulp"</string>
+<string name="home_storage">"Verwijderbare opslag"</string>
+<string name="sd_card">"SD-kaart"</string>
+<string name="home_screen_share">"screen Mirroring"</string>
+<string name="share_wifi_enable">"Het inschakelen van Wifi, even geduld aub"</string>
+<string name="auto_detect_language">"Niet in staat om automatisch te detecteren land"</string>
+<string name="share_wifi_unable">"Kan geen Wifi in te schakelen"</string>
+<string name="onlinehelp_error_loading_url">"Niet in staat om hulp te openen"</string>
 </resources>

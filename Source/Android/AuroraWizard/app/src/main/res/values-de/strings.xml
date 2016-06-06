@@ -11,4 +11,8 @@
 <string name="wizard_network">"Netzwerk"</string>
 <string name="network_connecting">"Anschließen"</string>
 <string name="network_skip">"Überspringen"</string>
+<string name="eula_title">"Endbenutzer-Lizenzvereinbarung"</string>
+<string name="eula_continue">"FORTSETZEN"</string>
+<string name="eula_view">"VIEW-LIZENZVEREINBARUNG"</string>
+<string name="eula_description">"Sie fortfahren, stimmen Sie dem Endbenutzer-Lizenzvertrag."</string>
 </resources>

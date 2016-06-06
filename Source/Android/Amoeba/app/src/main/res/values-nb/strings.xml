@@ -212,4 +212,23 @@ Zip-filen må hete picons.zip og plasseres ved addressen angitt nedenfor"</strin
 <string name="menu_settings_dvr_premium_message">"Vennligst kjøp Premium for å låse opp fulle DVR-funksjonalitet"</string>
 <string name="bookings_keep_all_episodes">"Hold alle episodene"</string>
 <string name="bookings_keep_last_episodes">"Hold siste %d episoder"</string>
+<string name="open_source_licenses">"kildekode-lisenser i går:"</string>
+<string name="intro_channels_description">"Trykk på &lt;b&gt;SELECT&lt;/ b&gt; for å angi kanallisten"</string>
+<string name="intro_change_channel_title">"Channel Surfing"</string>
+<string name="intro_change_channel_description">"Trykk på &lt;b&gt;UP&lt;/b&gt; / &lt;b&gt;DOWN&lt;/b&gt; for å endre kanaler"</string>
+<string name="intro_context_title">"Context Menu"</string>
+<string name="intro_context_description">"Trykk på &lt;b&gt;LEFT&lt;/ b&gt; for å vise Context Menu"</string>
+<string name="intro_guide_title">"program guide"</string>
+<string name="intro_guide_description">"Tryk på &lt;b&gt;RIGHT&lt;/b&gt; for å vise Program guide "</string>
+<string name="intro_done_button">"Kom i gang"</string>
+<string name="intro_done_title">"Intro Fullført"</string>
+<string name="intro_reset">"Tilbake Innledning"</string>
+<string name="intro_dvr_timeshift_title">"Pause Live TV"</string>
+<string name="intro_dvr_timeshift_description">"Trykk og hold &lt;b&gt;SELECT&lt;/ b&gt; for å ta pause"</string>
+<string name="intro_dvr_schedule_title">"planlagte opptak"</string>
+<string name="intro_dvr_schedule_description">"Planlegg opptak ved hjelp av Program Guide"</string>
+<string name="intro_menu_title">"Hovedmeny"</string>
+<string name="intro_menu_description_1">"Trykk på &lt;b&gt;BACK&lt;/b&gt; for å gå inn i hovedmenyen.
+Trykk igjen for å gå tilbake til fullskjerm"</string>
+<string name="intro_menu_description_2">"Langt trykk for å avslutte applikasjonen"</string>
 </resources>
