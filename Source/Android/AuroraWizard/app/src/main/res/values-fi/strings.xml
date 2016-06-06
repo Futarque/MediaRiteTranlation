@@ -11,4 +11,8 @@
 <string name="wizard_network">"verkko"</string>
 <string name="network_connecting">"Yhteyden"</string>
 <string name="network_skip">"hyppiä"</string>
+<string name="eula_title">"Loppukäyttäjän lisenssisopimus"</string>
+<string name="eula_continue">"JATKAA"</string>
+<string name="eula_view">"VIEW LISENSSISOPIMUS"</string>
+<string name="eula_description">"Jatkamalla hyväksyt käyttöoikeussopimus."</string>
 </resources>
