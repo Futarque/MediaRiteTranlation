@@ -11,4 +11,8 @@
 <string name="wizard_network">"Rețea"</string>
 <string name="network_connecting">"Conectare în curs"</string>
 <string name="network_skip">"Sari peste "</string>
+<string name="eula_title">"Final acord de licență utilizator"</string>
+<string name="eula_continue">"CONTINUA"</string>
+<string name="eula_view">"VEZI ACORD DE LICENȚĂ"</string>
+<string name="eula_description">"Continuând, sunteți de acord cu Acordul de licență pentru utilizatorul final."</string>
 </resources>
