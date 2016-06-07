@@ -28,7 +28,7 @@
 <string name="tuner_select">"Válassza ki a tuner eszközök"</string>
 <string name="hello_search_setup">"Beállítás %s keresési lehetőségeket.
 Mielőtt folytatja győződjön meg arról, hogy az antenna kábel csatlakozik a tuner.
-Ha a Network Hangolók (FutarqueTvGateway, HDHomeRun, SAT&gt;IP), akkor ezek a beállítása, és csatlakozik a hálózathoz Önnek."</string>
+Ha a Network Hangolók (FutarqueTvGateway, HDHomeRun, Sat&gt;IP), akkor ezek a beállítása, és csatlakozik a hálózathoz Önnek."</string>
 <string name="menu_initial_no_channels">"Nem Csatornák"</string>
 <string name="menu_initial_no_events">"Nincs esemény"</string>
 <string name="menu_no_channels_match">"Nem egyezik"</string>
@@ -135,7 +135,7 @@ A kapott zip fájlt kell elemzi picons.zip és aljánál elhelyezett URL alább 
 <string name="menu_wizard_testing_homing_parameters">"Tesztelés Homing paraméterek"</string>
 <string name="menu_wizard_testing_homing_parameters_done_failed">"Nem lehet érvényesíteni a mellékelt értékeket. Kérjük, ellenőrizze a antenna kábelt vagy az értékeknek a szerkesztéséhez, és próbálja újra."</string>
 <string name="menu_tuner_invalid_param">"Érvénytelen érték"</string>
-<string name="disabled">"Tiltva"</string>
+<string name="disabled">"Ki"</string>
 <string name="off">"Le"</string>
 <string name="on">"On"</string>
 <string name="menu_no_recordings_match">"Nincs egyezés"</string>
@@ -197,7 +197,7 @@ A kapott zip fájlt kell elemzi picons.zip és aljánál elhelyezett URL alább 
 <string name="menu_purchase_1_year_premium">"Egy év prémium"</string>
 <string name="menu_purchase_1_month_premium_description">"Egy hónap prémium. Tartalmazza a DVR és Ad-mentes"</string>
 <string name="menu_purchase_1_year_premium_description">"Egy év prémium. Tartalmazza a DVR és Ad-mentes"</string>
-<string name="menu_tuner_none_description">"Támogatott tunerek Sat&gt; IP és HDHomeRun"</string>
+<string name="menu_tuner_none_description">"Támogatott tunerek Sat&gt;IP és HDHomeRun"</string>
 <string name="menu_tuner_none_title">"Nem talált tunerek"</string>
 <string name="context_menu_prev_channel">"Előző Channel"</string>
 <string name="button_skip">"Skip"</string>
