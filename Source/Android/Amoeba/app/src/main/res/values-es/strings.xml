@@ -28,7 +28,7 @@
 <string name="tuner_select">"Seleccione sus dispositivos sintonizadores"</string>
 <string name="hello_search_setup">"Configuración %s opciones de búsqueda.
 Antes de continuar por favor asegúrese de que el cable de antena está conectada al sintonizador.
-Si está utilizando sintonizadores de red (FutarqueTvGateway, HDHomeRun, SAT&gt;IP), estos deben ser configurado correctamente y conectado a su red."</string>
+Si está utilizando sintonizadores de red (FutarqueTvGateway, HDHomeRun, Sat&gt;IP), estos deben ser configurado correctamente y conectado a su red."</string>
 <string name="menu_initial_no_channels">"No hay canales"</string>
 <string name="menu_initial_no_events">"No hay Eventos"</string>
 <string name="menu_no_channels_match">"No Match"</string>
@@ -135,7 +135,7 @@ El archivo zip resultante debe ser nombrado picons.zip y puesto a la URL base se
 <string name="menu_wizard_testing_homing_parameters">"Parámetros Homing Testing"</string>
 <string name="menu_wizard_testing_homing_parameters_done_failed">"No se puede validar los valores suministrados. Por favor revise el cable de antena o editar los valores y vuelva a intentarlo."</string>
 <string name="menu_tuner_invalid_param">"valor inválido"</string>
-<string name="disabled">"Incapacitado"</string>
+<string name="disabled">"Apagado"</string>
 <string name="off">"Apagado"</string>
 <string name="on">"En"</string>
 <string name="menu_no_recordings_match">"No Match"</string>
@@ -197,7 +197,7 @@ El archivo zip resultante debe ser nombrado picons.zip y puesto a la URL base se
 <string name="menu_purchase_1_year_premium">"prima durante un año"</string>
 <string name="menu_purchase_1_month_premium_description">"Un mes de suscripción. Incluye DVR y sin anuncios"</string>
 <string name="menu_purchase_1_year_premium_description">"Un año de suscripción. Incluye DVR y sin anuncios"</string>
-<string name="menu_tuner_none_description">"sintonizadores compatibles son Sat&gt; IP y HDHomeRun"</string>
+<string name="menu_tuner_none_description">"sintonizadores compatibles son Sat&gt;IP y HDHomeRun"</string>
 <string name="menu_tuner_none_title">"No se encontraron sintonizadores"</string>
 <string name="context_menu_prev_channel">"Canal anterior"</string>
 <string name="button_skip">"Omitir"</string>
