@@ -30,7 +30,7 @@
 <string name="tuner_select">"Velg tunere"</string>
 <string name="hello_search_setup">"Oppsett %s søkealternativer.
 Før du fortsetter må du sørge for at din antennekabelen er koblet til tuneren.
-Hvis du bruker Network tunere (FutarqueTvGateway, HDHomeRun, SAT&gt;IP), må disse settes opp riktig og være koblet til nettverk."</string>
+Hvis du bruker Network tunere (FutarqueTvGateway, HDHomeRun, Sat&gt;IP), må disse settes opp riktig og være koblet til nettverk."</string>
 <string name="menu_initial_no_channels">"Ingen kanaler"</string>
 <string name="menu_initial_no_events">"Ingen hendelser"</string>
 <string name="menu_no_channels_match">"Ingen treff"</string>
@@ -137,7 +137,7 @@ Zip-filen må hete picons.zip og plasseres ved addressen angitt nedenfor"</strin
 <string name="menu_wizard_testing_homing_parameters">"Testing Homing Parametere"</string>
 <string name="menu_wizard_testing_homing_parameters_done_failed">"Kan ikke validere de medfølgende verdier. Vennligst sjekk antennekabelen eller redigere verdiene og prøv igjen."</string>
 <string name="menu_tuner_invalid_param">"ugyldig verdi"</string>
-<string name="disabled">"Funksjonshemmet"</string>
+<string name="disabled">"Slått av"</string>
 <string name="off">"Av"</string>
 <string name="on">"På"</string>
 <string name="menu_no_recordings_match">"Ingen treff"</string>
@@ -199,7 +199,7 @@ Zip-filen må hete picons.zip og plasseres ved addressen angitt nedenfor"</strin
 <string name="menu_purchase_1_year_premium">"Ett års premie"</string>
 <string name="menu_purchase_1_month_premium_description">"En måned av premie. Inkluderer DVR og Ad-fri"</string>
 <string name="menu_purchase_1_year_premium_description">"Ett år med premie. Inkluderer DVR og Ad-fri"</string>
-<string name="menu_tuner_none_description">"Støttede tunere er lø&gt; IP og HDHomeRun"</string>
+<string name="menu_tuner_none_description">"Støttede tunere er Sat&gt;IP og HDHomeRun"</string>
 <string name="menu_tuner_none_title">"Ingen tunere funnet"</string>
 <string name="context_menu_prev_channel">"Forrige Channel"</string>
 <string name="button_skip">"Hopp"</string>
