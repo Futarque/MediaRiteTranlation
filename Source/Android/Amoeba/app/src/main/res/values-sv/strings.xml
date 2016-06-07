@@ -28,7 +28,7 @@
 <string name="tuner_select">"Välj mottagarenheter"</string>
 <string name="hello_search_setup">"Inställning %s sökalternativ.
 Innan du gå vidare, vänligen se till att din antennkabeln är ansluten till mottagaren.
-Om du använder nätverks mottagare (FutarqueTvGateway, HDHomeRun, SAT&gt;IP), måste dessa ställas in på rätt sätt och är ansluten till ditt nätverk."</string>
+Om du använder nätverks mottagare (FutarqueTvGateway, HDHomeRun, Sat&gt;IP), måste dessa ställas in på rätt sätt och är ansluten till ditt nätverk."</string>
 <string name="menu_initial_no_channels">"Ingen kanaler"</string>
 <string name="menu_initial_no_events">"Ingen händelser"</string>
 <string name="menu_no_channels_match">"Ingen match"</string>
@@ -136,7 +136,7 @@ mottaga uppdaterade kanallistor. Nya kanaler läggs till längst ned i listan."<
 <string name="menu_wizard_testing_homing_parameters">"Testing Homing Parametrar"</string>
 <string name="menu_wizard_testing_homing_parameters_done_failed">"Det gick inte att validera de medföljande värden. Kontrollera din antennkabeln eller redigera värdena och försök igen."</string>
 <string name="menu_tuner_invalid_param">"ogiltigt värde"</string>
-<string name="disabled">"Funktionshindrade"</string>
+<string name="disabled">"Avstängd"</string>
 <string name="off">"Av"</string>
 <string name="on">"På"</string>
 <string name="menu_no_recordings_match">"Ingen match"</string>
@@ -198,7 +198,7 @@ mottaga uppdaterade kanallistor. Nya kanaler läggs till längst ned i listan."<
 <string name="menu_purchase_1_year_premium">"Ett års premium"</string>
 <string name="menu_purchase_1_month_premium_description">"En månad av premie. Inkluderar DVR och Ad-fri"</string>
 <string name="menu_purchase_1_year_premium_description">"Ett års premie. Inkluderar DVR och Ad-fri"</string>
-<string name="menu_tuner_none_description">"tuners som stöds är lör&gt; IP och HDHomeRun"</string>
+<string name="menu_tuner_none_description">"tuners som stöds är Sat&gt;IP och HDHomeRun"</string>
 <string name="menu_tuner_none_title">"Inga tuners hittades"</string>
 <string name="context_menu_prev_channel">"Föregående kanal"</string>
 <string name="button_skip">"Hoppa"</string>

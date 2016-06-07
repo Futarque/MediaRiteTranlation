@@ -28,7 +28,7 @@
 <string name="tuner_select">"Selectați dispozitivele tuner"</string>
 <string name="hello_search_setup">"Configurare %s opțiuni de căutare.
 Înainte de a începe, asigurați-vă, că , cablul de antenă este conectat la tuner.
-Dacă utilizați Tunere Rețea (FutarqueTvGateway, HDHomeRun, Sat&gt; IP), acestea trebuie să fie configurate în mod corespunzător și conectate la rețea."</string>
+Dacă utilizați Tunere Rețea (FutarqueTvGateway, HDHomeRun, Sat&gt;IP), acestea trebuie să fie configurate în mod corespunzător și conectate la rețea."</string>
 <string name="menu_initial_no_channels">"Lipsă canale"</string>
 <string name="menu_initial_no_events">"Lipsă evenimente"</string>
 <string name="menu_no_channels_match">"Niciun corespondent"</string>
@@ -199,7 +199,7 @@ Fișierul zip rezultat trebuie să fie numit picons.zip și plasat la  URL-ul de
 <string name="menu_purchase_1_year_premium">"Un an premium"</string>
 <string name="menu_purchase_1_month_premium_description">"La o lună de premium. Include DVR și Ad-free"</string>
 <string name="menu_purchase_1_year_premium_description">"Un an premium. Include DVR și Ad-free"</string>
-<string name="menu_tuner_none_description">"tunere acceptate sunt Sat&gt; IP și HDHomeRun"</string>
+<string name="menu_tuner_none_description">"tunere acceptate sunt Sat&gt;IP și HDHomeRun"</string>
 <string name="menu_tuner_none_title">"Nu există tuneri găsite"</string>
 <string name="context_menu_prev_channel">"Canalul precedent"</string>
 <string name="button_skip">"sări"</string>

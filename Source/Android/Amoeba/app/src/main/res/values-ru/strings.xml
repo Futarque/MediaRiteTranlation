@@ -28,7 +28,7 @@
 <string name="tuner_select">"Выберите Ваш тюнер устройства"</string>
 <string name="hello_search_setup">"Установку %s параметры поиска.
 Прежде чем продолжить, пожалуйста, убедитесь, что, что ваша антенна кабель подключен к тюнеру.
-Если вы используете сети тюнерами (FutarqueTvGateway, HDHomeRun, SAT&gt;IP), это должен быть настроен правильно и подключен к сети вам."</string>
+Если вы используете сети тюнерами (FutarqueTvGateway, HDHomeRun, Sat&gt;IP), это должен быть настроен правильно и подключен к сети вам."</string>
 <string name="menu_initial_no_channels">"Нет каналы"</string>
 <string name="menu_initial_no_events">"Событий нет"</string>
 <string name="menu_no_channels_match">"Не совпадает"</string>
@@ -135,7 +135,7 @@
 <string name="menu_wizard_testing_homing_parameters">"Тестирование Наведение Параметры"</string>
 <string name="menu_wizard_testing_homing_parameters_done_failed">"Не удалось проверить поставляемые значения. Пожалуйста, проверьте антенный кабель или отредактировать значения и повторите попытку."</string>
 <string name="menu_tuner_invalid_param">"Неверное значение"</string>
-<string name="disabled">"Отключено"</string>
+<string name="disabled">"Выключен"</string>
 <string name="off">"Выключить"</string>
 <string name="on">"На"</string>
 <string name="menu_no_recordings_match">"Не совпадает"</string>
@@ -197,7 +197,7 @@
 <string name="menu_purchase_1_year_premium">"Один год премиум"</string>
 <string name="menu_purchase_1_month_premium_description">"Один месяц премии. Включает DVR и Ad-Free"</string>
 <string name="menu_purchase_1_year_premium_description">"Один год премии. Включает DVR и Ad-Free"</string>
-<string name="menu_tuner_none_description">"Поддерживаемые блоки настройки Сб&gt; IP и HDHomeRun"</string>
+<string name="menu_tuner_none_description">"Поддерживаемые блоки настройки Sat&gt;IP и HDHomeRun"</string>
 <string name="menu_tuner_none_title">"Не найдено ни тюнеров"</string>
 <string name="context_menu_prev_channel">"Предыдущий канал"</string>
 <string name="button_skip">"Пропускать"</string>
