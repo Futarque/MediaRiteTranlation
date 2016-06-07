@@ -28,7 +28,7 @@
 <string name="tuner_select">"Valitse viritinlaitteista"</string>
 <string name="hello_search_setup">"Asetukset %s hakuvaihtoehtoja.
 Ennen kuin jatkat varmista, että antennijohto on liitetty virittimen.
-Jos käytät Network virittimet (FutarqueTvGateway, HDHomeRun, SAT&gt;IP), niiden on oltava määritetty oikein ja kytketty teille verkkoon."</string>
+Jos käytät Network virittimet (FutarqueTvGateway, HDHomeRun, Sat&gt;IP), niiden on oltava määritetty oikein ja kytketty teille verkkoon."</string>
 <string name="menu_initial_no_channels">"Ei Kanavat"</string>
 <string name="menu_initial_no_events">"Ei tapahtumia"</string>
 <string name="menu_no_channels_match">"Ei osumia"</string>
@@ -135,7 +135,7 @@ Tuloksena zip-tiedosto on nimetty picons.zip ja sijoitettu pohjan URL alla mää
 <string name="menu_wizard_testing_homing_parameters">"Testaus Homing parametrit"</string>
 <string name="menu_wizard_testing_homing_parameters_done_failed">"Voi vahvistaa mukana arvoja. Tarkista antennikaapeli tai muokata arvoja ja yritä uudelleen."</string>
 <string name="menu_tuner_invalid_param">"virheellinen arvo"</string>
-<string name="disabled">"Vammaiset"</string>
+<string name="disabled">"Pois"</string>
 <string name="off">"Pois"</string>
 <string name="on">"Päällä"</string>
 <string name="menu_no_recordings_match">"Ei osumia"</string>
@@ -197,7 +197,7 @@ Tuloksena zip-tiedosto on nimetty picons.zip ja sijoitettu pohjan URL alla mää
 <string name="menu_purchase_1_year_premium">"Vuoden palkkio"</string>
 <string name="menu_purchase_1_month_premium_description">"Yhden kuukauden palkkio. Sisältää DVR ja Ad-ilmaiseksi"</string>
 <string name="menu_purchase_1_year_premium_description">"Yksi vuosi palkkio. Sisältää DVR ja Ad-ilmaiseksi"</string>
-<string name="menu_tuner_none_description">"Tuetut virittimet ovat la&gt; IP ja HDHomeRun"</string>
+<string name="menu_tuner_none_description">"Tuetut virittimet ovat Sat&gt;IP ja HDHomeRun"</string>
 <string name="menu_tuner_none_title">"Ei viritintä löytynyt"</string>
 <string name="context_menu_prev_channel">"Edellinen Channel"</string>
 <string name="button_skip">"hyppiä"</string>
