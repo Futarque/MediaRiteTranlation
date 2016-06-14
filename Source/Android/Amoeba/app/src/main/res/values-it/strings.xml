@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_name">"AuroraTV"</string>
 <string name="cancelled">"Annullato"</string>
 <string name="complete">"Completo"</string>
 <string name="button_next">"Il prossimo"</string>
@@ -229,4 +228,8 @@ Il file zip risultante deve essere nominato picons.zip e posto alla URL di base 
 <string name="intro_menu_description_1">"Premere &lt;b&gt;BACK&lt;/b&gt; per accedere al menu principale.
 Premere di nuovo per tornare a schermo intero"</string>
 <string name="intro_menu_description_2">"Premere a lungo per l'applicazione uscita"</string>
+<string name="intro_channels_touch_description">"Swipe in dal &lt;b&gt;LEFT&lt;/b&gt; per vedere i canali"</string>
+<string name="intro_change_channel_touch_description">"Swipe &lt;b&gt;UP&lt;/b&gt; o &lt;b&gt;DOWN&lt;/b&gt; per cambiare canale"</string>
+<string name="intro_context_touch_description">"Swipe in dal &lt;b&gt;RIGHT&lt;/b&gt; per visualizzare il menu contestuale"</string>
+<string name="intro_dvr_timeshift_touch_description">"Toccare due volte il video per mettere in pausa"</string>
 </resources>
