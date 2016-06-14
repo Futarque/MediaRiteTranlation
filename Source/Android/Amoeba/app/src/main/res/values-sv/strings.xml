@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_name">"AuroraTV"</string>
 <string name="cancelled">"Avbruten"</string>
 <string name="complete">"Avslutat"</string>
 <string name="button_next">"Nästa"</string>
@@ -230,4 +229,8 @@ mottaga uppdaterade kanallistor. Nya kanaler läggs till längst ned i listan."<
 <string name="intro_menu_description_1">"Tryck på &lt;b&gt;BACK&lt;/b&gt; för att öppna huvudmenyn.
 Tryck igen för att återgå till fullskärmsläge"</string>
 <string name="intro_menu_description_2">"Långt tryck för att avsluta programmet"</string>
+<string name="intro_channels_touch_description">"Svep in från &lt;b&gt;LEFT&lt;/b&gt; för att visa listan kanalen"</string>
+<string name="intro_change_channel_touch_description">"Svep &lt;b&gt;UP&lt;/b&gt; eller &lt;b&gt;DOWN&lt;/b&gt; för att ändra kanal"</string>
+<string name="intro_context_touch_description">"Svep in från &lt;b&gt;RIGHT&lt;/b&gt; för att visa snabbmenyn"</string>
+<string name="intro_dvr_timeshift_touch_description">"Dubbeltryck på videon för att pausa"</string>
 </resources>
