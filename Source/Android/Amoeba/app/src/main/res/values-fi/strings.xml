@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_name">"AuroraTV"</string>
 <string name="cancelled">"Peruutettu"</string>
 <string name="complete">"Täydellinen"</string>
 <string name="button_next">"Seuraava"</string>
@@ -229,4 +228,8 @@ Tuloksena zip-tiedosto on nimetty picons.zip ja sijoitettu pohjan URL alla mää
 <string name="intro_menu_description_1">"Paina &lt;b&gt;BACK&lt;/b&gt; Syötä päävalikkoon.
 Paina uudelleen palata koko näytön"</string>
 <string name="intro_menu_description_2">"Pitkä painallus poistua sovelluksen"</string>
+<string name="intro_channels_touch_description">"Pyyhkäise sisään &lt;b&gt;LEFT&lt;/b&gt; näyttää kanavaluettelon"</string>
+<string name="intro_change_channel_touch_description">"Pyyhkäisemällä &lt;b&gt;UP&lt;/b&gt; tai &lt;b&gt;DOWN&lt;/b&gt; vaihtaa kanavaa"</string>
+<string name="intro_context_touch_description">"Pyyhkäise sisään &lt;b&gt;RIGHT&lt;/b&gt; näyttää Context menu"</string>
+<string name="intro_dvr_timeshift_touch_description">"Kaksoisnapauttamalla videota keskeyttää"</string>
 </resources>
