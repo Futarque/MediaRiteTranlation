@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_name">"AuroraTV"</string>
 <string name="cancelled">"Abgebrochen"</string>
 <string name="complete">"Vollständig"</string>
 <string name="button_next">"Weiter"</string>
@@ -245,4 +244,8 @@ Ein dickes Dankeschön für und ein (K)üsschen für Dich :)"</string>
 <string name="intro_menu_description_1">"Drücken Sie &lt;b&gt;BACK&lt;/b&gt; Hauptmenü zu gelangen.
 Drücken Sie erneut zurück in den Vollbild"</string>
 <string name="intro_menu_description_2">"Lange drücken zum Beenden Anwendung"</string>
+<string name="intro_channels_touch_description">"Swipe in der &lt;b&gt;LEFT&lt;/b&gt; der Kanalliste zeigen"</string>
+<string name="intro_change_channel_touch_description">"Swipe &lt;b&gt;UP&lt;/b&gt; oder &lt;b&gt;DOWN&lt;/b&gt; Kanal zu wechseln"</string>
+<string name="intro_context_touch_description">"Swipe in der &lt;b&gt;RIGHT&lt;/b&gt;, um das Kontextmenü anzuzeigen"</string>
+<string name="intro_dvr_timeshift_touch_description">"Doppeltippen Sie auf das Video anzuhalten"</string>
 </resources>
