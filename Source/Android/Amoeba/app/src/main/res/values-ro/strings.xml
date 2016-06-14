@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_name">"AuroraTV"</string>
 <string name="cancelled">"Anulat"</string>
 <string name="complete">"Complet"</string>
 <string name="button_next">"Următorul"</string>
@@ -231,4 +230,8 @@ Fișierul zip rezultat trebuie să fie numit picons.zip și plasat la  URL-ul de
 <string name="intro_menu_description_1">"Apăsați pe &lt;b&gt;BACK&lt;/b&gt; pentru a intra în meniul principal.
 Apăsați din nou pentru a reveni la ecranul complet"</string>
 <string name="intro_menu_description_2">"apăsați lung pentru aplicație de ieșire"</string>
+<string name="intro_channels_touch_description">"De pe glisați spre &lt;b&gt;LEFT&lt;/b&gt; pentru a afișa lista de canale"</string>
+<string name="intro_change_channel_touch_description">"Glisează &lt;b&gt;UP&lt;/b&gt; sau &lt;b&gt;DOWN&lt;/b&gt; pentru a schimba canalul"</string>
+<string name="intro_context_touch_description">"De pe glisați spre &lt;b&gt;RIGHT&lt;/b&gt; pentru a afișa meniul contextual"</string>
+<string name="intro_dvr_timeshift_touch_description">"robinet dublu video pentru a întrerupe"</string>
 </resources>
