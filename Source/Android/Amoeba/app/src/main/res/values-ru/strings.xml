@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_name">"AuroraTV"</string>
 <string name="cancelled">"Отменен"</string>
 <string name="complete">"Полный"</string>
 <string name="button_next">"Следующий"</string>
@@ -229,4 +228,8 @@
 <string name="intro_menu_description_1">"Нажмите &lt;b&gt;BACK&lt;/b&gt;, чтобы войти в главное меню.
 Нажмите еще раз, чтобы вернуться в полноэкранном режиме"</string>
 <string name="intro_menu_description_2">"Длительное нажатие приложения выхода"</string>
+<string name="intro_channels_touch_description">"Проведите пальцем по экрану в из &lt;b&gt;LEFT&lt;/b&gt;, чтобы показать список каналов"</string>
+<string name="intro_change_channel_touch_description">"Размах &lt;b&gt;UP&lt;/b&gt; или &lt;b&gt;DOWN&lt;/b&gt;, чтобы изменить канал"</string>
+<string name="intro_context_touch_description">"Проведите пальцем по экрану в от &lt;b&gt;RIGHT&lt;/b&gt;, чтобы показать контекстное меню"</string>
+<string name="intro_dvr_timeshift_touch_description">"Дважды нажмите на видео, чтобы приостановить"</string>
 </resources>
