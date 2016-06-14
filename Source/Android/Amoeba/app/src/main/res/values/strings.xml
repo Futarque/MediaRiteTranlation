@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">AuroraTV</string>
     <string name="cancelled">Cancelled</string>
     <string name="complete">Complete</string>
     <string name="disabled">Disabled</string>
@@ -219,5 +218,9 @@
     <string name="intro_menu_title">Main Menu</string>
     <string name="intro_menu_description_1">Press <b>BACK</b> to enter Main Menu.\nPress again to return to fullscreen</string>
     <string name="intro_menu_description_2">Long press to exit application</string>
+    <string name="intro_channels_touch_description">Swipe in from the <b>LEFT</b> to show the channel list</string>
+    <string name="intro_change_channel_touch_description">Swipe <b>UP</b> or <b>DOWN</b> to change channel</string>
+    <string name="intro_context_touch_description">Swipe in from the <b>RIGHT</b> to show the Context menu</string>
+    <string name="intro_dvr_timeshift_touch_description">Double tap the video to pause</string>
 
 </resources>
