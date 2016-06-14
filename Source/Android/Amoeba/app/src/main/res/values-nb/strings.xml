@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_name">"AuroraTV"</string>
 <string name="cancelled">"Avbrutt"</string>
 
 <!-- as in done ? - then it should be Ferdig -->
@@ -231,4 +230,8 @@ Zip-filen må hete picons.zip og plasseres ved addressen angitt nedenfor"</strin
 <string name="intro_menu_description_1">"Trykk på &lt;b&gt;BACK&lt;/b&gt; for å gå inn i hovedmenyen.
 Trykk igjen for å gå tilbake til fullskjerm"</string>
 <string name="intro_menu_description_2">"Langt trykk for å avslutte applikasjonen"</string>
+<string name="intro_channels_touch_description">"Sveip inn fra &lt;b&gt;LEFT&lt;/b&gt; for å vise kanallisten"</string>
+<string name="intro_change_channel_touch_description">"Sveip &lt;b&gt;UP&lt;/b&gt; eller &lt;b&gt;DOWN&lt;/b&gt; for å endre kanal"</string>
+<string name="intro_context_touch_description">"Sveip inn fra &lt;b&gt;RIGHT&lt;/b&gt; for å vise kontekstmenyen"</string>
+<string name="intro_dvr_timeshift_touch_description">"Dobbelttrykk på videoen for å ta en pause"</string>
 </resources>
