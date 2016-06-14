@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_name">"AuroraTV"</string>
 <string name="cancelled">"Törölt"</string>
 <string name="complete">"teljes"</string>
 <string name="button_next">"Következő"</string>
@@ -229,4 +228,8 @@ A kapott zip fájlt kell elemzi picons.zip és aljánál elhelyezett URL alább 
 <string name="intro_menu_description_1">"Nyomja meg a &lt;b&gt;BACK&lt;/b&gt; a főmenübe való belépéshez.
 Nyomja meg ismét, hogy visszatérjen a teljes képernyős"</string>
 <string name="intro_menu_description_2">"Hosszan nyomja meg a kilépés alkalmazás"</string>
+<string name="intro_channels_touch_description">"Ellop a &lt;b&gt;LEFT&lt;/b&gt; rá a csatorna lista"</string>
+<string name="intro_change_channel_touch_description">"Swipe &lt;b&gt;UP&lt;/b&gt; vagy &lt;b&gt;DOWN&lt;/b&gt; lehet váltani"</string>
+<string name="intro_context_touch_description">"Ellop a &lt;b&gt;RIGHT&lt;/b&gt;, hogy bemutassák a helyi menü"</string>
+<string name="intro_dvr_timeshift_touch_description">"Koppintson duplán a videó szüneteltetéséhez"</string>
 </resources>
