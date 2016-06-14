@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_name">"AuroraTV"</string>
 <string name="cancelled">"Geannuleerde"</string>
 <string name="complete">"Compleet"</string>
 <string name="button_next">"Volgende"</string>
@@ -225,8 +224,12 @@ De resulterende zip-bestand moet worden genoemd picons.zip en geplaatst op de ba
 <string name="intro_dvr_timeshift_description">"Houd &lt;b&gt;SELECT&lt;/b&gt; om te pauzeren"</string>
 <string name="intro_dvr_schedule_title">"geplande opnamen"</string>
 <string name="intro_dvr_schedule_description">"Schedule opnamen met behulp van de programmagids"</string>
-<string name="intro_menu_title"></string>
+<string name="intro_menu_title">"Hoofdmenu"</string>
 <string name="intro_menu_description_1">"Druk &lt;b&gt;BACK&lt;/b&gt; naar het hoofdmenu te openen.
 Druk nogmaals op om terug te keren naar fullscreen"</string>
 <string name="intro_menu_description_2">"Lang indrukken om af te sluiten toepassing"</string>
+<string name="intro_channels_touch_description">"Veeg in de &lt;b&gt;LEFT&lt;/b&gt; om te laten zien de zenderlijst"</string>
+<string name="intro_change_channel_touch_description">"Swipe &lt;b&gt;UP&lt;/ b&gt; of &lt;b&gt;DOWN&lt;/b&gt; om te veranderen kanaal"</string>
+<string name="intro_context_touch_description">"Veeg in de &lt;b&gt;RIGHT&lt;/b&gt; om het contextmenu te tonen"</string>
+<string name="intro_dvr_timeshift_touch_description">"Dubbele tik de video te pauzeren"</string>
 </resources>
