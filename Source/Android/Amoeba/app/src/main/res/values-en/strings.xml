@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_name">"AuroraTV"</string>
 <string name="cancelled">"Cancelled"</string>
 <string name="complete">"Complete"</string>
 <string name="button_next">"Next"</string>
@@ -229,4 +228,8 @@ The resulting zip file must be named picons.zip and placed at the base URL speci
 <string name="intro_menu_description_1">"Press &lt;b&gt;BACK&lt;/b&gt; to enter Main Menu.
 Press again to return to fullscreen"</string>
 <string name="intro_menu_description_2">"Long press to exit application"</string>
+<string name="intro_channels_touch_description">"Swipe in from the &lt;b&gt;LEFT&lt;/b&gt; to show the channel list"</string>
+<string name="intro_change_channel_touch_description">"Swipe &lt;b&gt;UP&lt;/b&gt; or &lt;b&gt;DOWN&lt;/b&gt; to change channel"</string>
+<string name="intro_context_touch_description">"Swipe in from the &lt;b&gt;RIGHT&lt;/b&gt; to show the Context menu"</string>
+<string name="intro_dvr_timeshift_touch_description">"Double tap the video to pause"</string>
 </resources>
