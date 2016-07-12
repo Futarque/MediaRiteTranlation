@@ -232,4 +232,11 @@ Nyomja meg ismét, hogy visszatérjen a teljes képernyős"</string>
 <string name="intro_change_channel_touch_description">"Swipe &lt;b&gt;UP&lt;/b&gt; vagy &lt;b&gt;DOWN&lt;/b&gt; lehet váltani"</string>
 <string name="intro_context_touch_description">"Ellop a &lt;b&gt;RIGHT&lt;/b&gt;, hogy bemutassák a helyi menü"</string>
 <string name="intro_dvr_timeshift_touch_description">"Koppintson duplán a videó szüneteltetéséhez"</string>
+<string name="error">"Hiba"</string>
+<string name="dvr_export_select_destination">"Select Destination tárolás"</string>
+<string name="button_export">"Export"</string>
+<string name="menu_purchase_no_account">"Nincs Google-fiók csatlakoztatva"</string>
+<string name="wizard_timeout">"Timeout újraindítása varázsló"</string>
+<string name="dvr_export_exporting">"exportálása"</string>
+<string name="dvr_export_failed">"export sikertelen"</string>
 </resources>
