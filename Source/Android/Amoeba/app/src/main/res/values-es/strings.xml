@@ -232,4 +232,11 @@ Pulse de nuevo para volver a pantalla completa"</string>
 <string name="intro_change_channel_touch_description">"Flagelo &lt;b&gt;UP&lt;/​​b&gt; o &lt;b&gt;DOWN&lt;/b&gt; para cambiar de canal"</string>
 <string name="intro_context_touch_description">"Ves el mosaico &lt;b&gt;RIGHT&lt;/b&gt; para mostrar el menú contextual"</string>
 <string name="intro_dvr_timeshift_touch_description">"Doble toque el video para hacer una pausa"</string>
+<string name="error">"Error"</string>
+<string name="dvr_export_select_destination">"Seleccione Destino de almacenamiento"</string>
+<string name="button_export">"Exportar"</string>
+<string name="menu_purchase_no_account">"No se cuenta Google conectado"</string>
+<string name="wizard_timeout">"Tiempo de espera, asistente de reiniciar"</string>
+<string name="dvr_export_exporting">"Exportador"</string>
+<string name="dvr_export_failed">"Fallo de Exportación"</string>
 </resources>
