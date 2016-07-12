@@ -234,4 +234,11 @@ Trykk igjen for å gå tilbake til fullskjerm"</string>
 <string name="intro_change_channel_touch_description">"Sveip &lt;b&gt;UP&lt;/b&gt; eller &lt;b&gt;DOWN&lt;/b&gt; for å endre kanal"</string>
 <string name="intro_context_touch_description">"Sveip inn fra &lt;b&gt;RIGHT&lt;/b&gt; for å vise kontekstmenyen"</string>
 <string name="intro_dvr_timeshift_touch_description">"Dobbelttrykk på videoen for å ta en pause"</string>
+<string name="error">"Feil"</string>
+<string name="dvr_export_select_destination">"Velg Destinasjon Storage"</string>
+<string name="button_export">"Eksport"</string>
+<string name="menu_purchase_no_account">"Ingen Google-konto koblet"</string>
+<string name="wizard_timeout">"Timeout, starte wizard"</string>
+<string name="dvr_export_exporting">"Eksportere"</string>
+<string name="dvr_export_failed">"eksport mislyktes"</string>
 </resources>
