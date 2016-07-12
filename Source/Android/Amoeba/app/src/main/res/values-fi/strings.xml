@@ -232,4 +232,11 @@ Paina uudelleen palata koko näytön"</string>
 <string name="intro_change_channel_touch_description">"Pyyhkäisemällä &lt;b&gt;UP&lt;/b&gt; tai &lt;b&gt;DOWN&lt;/b&gt; vaihtaa kanavaa"</string>
 <string name="intro_context_touch_description">"Pyyhkäise sisään &lt;b&gt;RIGHT&lt;/b&gt; näyttää Context menu"</string>
 <string name="intro_dvr_timeshift_touch_description">"Kaksoisnapauttamalla videota keskeyttää"</string>
+<string name="error">"Virhe"</string>
+<string name="dvr_export_select_destination">"Valitse määränpää Storage"</string>
+<string name="button_export">"Viedä"</string>
+<string name="menu_purchase_no_account">"Ei Google-tili liitetty"</string>
+<string name="wizard_timeout">"Timeout, uudelleenkäynnistyksen velho"</string>
+<string name="dvr_export_exporting">"vieminen"</string>
+<string name="dvr_export_failed">"vienti epäonnistui"</string>
 </resources>
