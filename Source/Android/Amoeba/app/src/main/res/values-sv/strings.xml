@@ -233,4 +233,11 @@ Tryck igen för att återgå till fullskärmsläge"</string>
 <string name="intro_change_channel_touch_description">"Svep &lt;b&gt;UP&lt;/b&gt; eller &lt;b&gt;DOWN&lt;/b&gt; för att ändra kanal"</string>
 <string name="intro_context_touch_description">"Svep in från &lt;b&gt;RIGHT&lt;/b&gt; för att visa snabbmenyn"</string>
 <string name="intro_dvr_timeshift_touch_description">"Dubbeltryck på videon för att pausa"</string>
+<string name="error">"Fel"</string>
+<string name="dvr_export_select_destination">"Välj destination Förvaring"</string>
+<string name="button_export">"Exportera"</string>
+<string name="menu_purchase_no_account">"Ingen Google-konto ansluten"</string>
+<string name="wizard_timeout">"Timeout, starta guiden"</string>
+<string name="dvr_export_exporting">"exportera"</string>
+<string name="dvr_export_failed">"export misslyckades"</string>
 </resources>
