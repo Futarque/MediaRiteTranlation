@@ -232,4 +232,11 @@ Premere di nuovo per tornare a schermo intero"</string>
 <string name="intro_change_channel_touch_description">"Swipe &lt;b&gt;UP&lt;/b&gt; o &lt;b&gt;DOWN&lt;/b&gt; per cambiare canale"</string>
 <string name="intro_context_touch_description">"Swipe in dal &lt;b&gt;RIGHT&lt;/b&gt; per visualizzare il menu contestuale"</string>
 <string name="intro_dvr_timeshift_touch_description">"Toccare due volte il video per mettere in pausa"</string>
+<string name="error">"Errore"</string>
+<string name="dvr_export_select_destination">"Selezionare bagagli destinazione"</string>
+<string name="button_export">"Esportare"</string>
+<string name="menu_purchase_no_account">"Nessun account Google collegato"</string>
+<string name="wizard_timeout">"Timeout, guidata riavvio"</string>
+<string name="dvr_export_exporting">"Esportazione"</string>
+<string name="dvr_export_failed">"Export fallita"</string>
 </resources>
