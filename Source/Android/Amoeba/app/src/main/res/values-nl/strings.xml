@@ -232,4 +232,11 @@ Druk nogmaals op om terug te keren naar fullscreen"</string>
 <string name="intro_change_channel_touch_description">"Swipe &lt;b&gt;UP&lt;/ b&gt; of &lt;b&gt;DOWN&lt;/b&gt; om te veranderen kanaal"</string>
 <string name="intro_context_touch_description">"Veeg in de &lt;b&gt;RIGHT&lt;/b&gt; om het contextmenu te tonen"</string>
 <string name="intro_dvr_timeshift_touch_description">"Dubbele tik de video te pauzeren"</string>
+<string name="error">"Fout"</string>
+<string name="dvr_export_select_destination">"Select Destination Storage"</string>
+<string name="button_export">"Exporteren"</string>
+<string name="menu_purchase_no_account">"Geen Google-account verbonden"</string>
+<string name="wizard_timeout">"Time-out, het herstarten van de wizard"</string>
+<string name="dvr_export_exporting">"exporteren"</string>
+<string name="dvr_export_failed">"export is mislukt"</string>
 </resources>
