@@ -234,4 +234,11 @@ Apăsați din nou pentru a reveni la ecranul complet"</string>
 <string name="intro_change_channel_touch_description">"Glisează &lt;b&gt;UP&lt;/b&gt; sau &lt;b&gt;DOWN&lt;/b&gt; pentru a schimba canalul"</string>
 <string name="intro_context_touch_description">"De pe glisați spre &lt;b&gt;RIGHT&lt;/b&gt; pentru a afișa meniul contextual"</string>
 <string name="intro_dvr_timeshift_touch_description">"robinet dublu video pentru a întrerupe"</string>
+<string name="error">"Eroare"</string>
+<string name="dvr_export_select_destination">"Selectați Stocare Destinație"</string>
+<string name="button_export">"Export"</string>
+<string name="menu_purchase_no_account">"Nu ai cont Google conectat"</string>
+<string name="wizard_timeout">"Timeout, expertul repornirea"</string>
+<string name="dvr_export_exporting">"Exportator"</string>
+<string name="dvr_export_failed">"export nu a reușit"</string>
 </resources>
