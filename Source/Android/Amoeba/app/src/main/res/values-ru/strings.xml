@@ -232,4 +232,11 @@
 <string name="intro_change_channel_touch_description">"Размах &lt;b&gt;UP&lt;/b&gt; или &lt;b&gt;DOWN&lt;/b&gt;, чтобы изменить канал"</string>
 <string name="intro_context_touch_description">"Проведите пальцем по экрану в от &lt;b&gt;RIGHT&lt;/b&gt;, чтобы показать контекстное меню"</string>
 <string name="intro_dvr_timeshift_touch_description">"Дважды нажмите на видео, чтобы приостановить"</string>
+<string name="error">"ошибка"</string>
+<string name="dvr_export_select_destination">"Выбор целевого хранения"</string>
+<string name="button_export">"экспорт"</string>
+<string name="menu_purchase_no_account">"Нет учетной записи Google подключен"</string>
+<string name="wizard_timeout">"Тайм-аут, перезапуск мастер"</string>
+<string name="dvr_export_exporting">"Экспорт"</string>
+<string name="dvr_export_failed">"Не удалось выполнить экспорт"</string>
 </resources>
