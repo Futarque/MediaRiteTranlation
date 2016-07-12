@@ -248,4 +248,11 @@ Drücken Sie erneut zurück in den Vollbild"</string>
 <string name="intro_change_channel_touch_description">"Swipe &lt;b&gt;UP&lt;/b&gt; oder &lt;b&gt;DOWN&lt;/b&gt; Kanal zu wechseln"</string>
 <string name="intro_context_touch_description">"Swipe in der &lt;b&gt;RIGHT&lt;/b&gt;, um das Kontextmenü anzuzeigen"</string>
 <string name="intro_dvr_timeshift_touch_description">"Doppeltippen Sie auf das Video anzuhalten"</string>
+<string name="error">"Fehler"</string>
+<string name="dvr_export_select_destination">"Wählen Sie Zielspeicher"</string>
+<string name="button_export">"Export"</string>
+<string name="menu_purchase_no_account">"Kein Google-Konto verbunden"</string>
+<string name="wizard_timeout">"Timeout, einen Neustart Assistenten"</string>
+<string name="dvr_export_exporting">"Exportieren"</string>
+<string name="dvr_export_failed">"Export fehlgeschlagen"</string>
 </resources>
