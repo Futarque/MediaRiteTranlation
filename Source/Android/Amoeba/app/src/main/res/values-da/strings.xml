@@ -233,4 +233,11 @@ Tryk igen for at komme tilbage til fuldskærm"</string>
 <string name="intro_change_channel_touch_description">"Swipe &lt;b&gt;OP&lt;/b&gt; eller &lt;b&gt;NED&lt;/b&gt; for at skifte kanal"</string>
 <string name="intro_context_touch_description">"Swipe ind fra &lt;b&gt;HØJRE&lt;/b&gt; for at vise kontekstmenuen"</string>
 <string name="intro_dvr_timeshift_touch_description">"Dobbelt tryk på videoen for at pause"</string>
+<string name="error">"Fejl"</string>
+<string name="dvr_export_select_destination">"Vælg placering"</string>
+<string name="button_export">"Eksporter"</string>
+<string name="menu_purchase_no_account">"Ingen Googlekonto forbundet"</string>
+<string name="wizard_timeout">"Genstarter Wizard"</string>
+<string name="dvr_export_exporting">"Eksportere"</string>
+<string name="dvr_export_failed">"Eksportering er fejlet"</string>
 </resources>
