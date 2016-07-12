@@ -8,7 +8,7 @@ msgstr ""
 "Language: nb\n"
 
 #: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:400
-#: Core/Implementation/ChannelSearchController.cpp:2334
+#: Core/Implementation/ChannelSearchController.cpp:2341
 msgid "Analog"
 msgstr "Analog"
 
@@ -36,7 +36,7 @@ msgid "Austria"
 msgstr "Østerrike"
 
 #. Conditional Access
-#: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:180
+#: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:231
 msgid "Bad Card"
 msgstr "Dårlig kort"
 
@@ -61,13 +61,13 @@ msgstr "Bengali"
 msgid "Bulgarian"
 msgstr "Bulgarian"
 
-#: Core/Implementation/MediaHandlers/Mpeg2Ts/Modules/CaManager/CaModule/CommonInterface/CaCardSlotCommonInterface.cpp:131
+#: Core/Implementation/MediaHandlers/Mpeg2Ts/Modules/CaManager/CaModule/CommonInterface/CaCardSlotCommonInterface.cpp:133
 msgid "CA|Checking Card"
 msgstr "Kontroll-kort"
 
 #: Core/Implementation/MediaHandlers/Analog/AnalogStreamHandler.cpp:308
-#: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:3226
-#: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:5333
+#: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:3234
+#: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:5340
 msgid "CHNAME|Default"
 msgstr "Standard"
 
@@ -144,23 +144,23 @@ msgid "COUNTRY|Other"
 msgstr "Andre"
 
 #: Core/Implementation/ChannelSearchController.cpp:779
-#: Core/Implementation/ChannelSearchController.cpp:1622
-#: Core/Implementation/ChannelSearchController.cpp:2331
+#: Core/Implementation/ChannelSearchController.cpp:1620
+#: Core/Implementation/ChannelSearchController.cpp:2338
 msgid "Cable"
 msgstr "Kabel"
 
 #. Conditional Access
-#: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:172
+#: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:223
 msgid "Card Accepted"
 msgstr "Kort Akseptert"
 
 #. Conditional Access
-#: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:178
+#: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:229
 msgid "Card Not Responding"
 msgstr "Kort Svarer ikke"
 
 #. Conditional Access
-#: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:176
+#: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:227
 msgid "Card Not Supported"
 msgstr "Kort støttes ikke"
 
@@ -169,7 +169,7 @@ msgid "Catalan"
 msgstr "Catalan"
 
 #. Conditional Access
-#: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:170
+#: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:221
 msgid "Checking Card"
 msgstr "Kontrollerer kort"
 
@@ -196,31 +196,31 @@ msgstr "Kroatisk"
 msgid "Czech"
 msgstr "Czech"
 
-#: Core/Implementation/SettingsDB/DynamicResource.cpp:34
+#: Core/Implementation/SettingsDB/DynamicResource.cpp:35
 msgid "DYNUP|Checking"
 msgstr "Kontrollere"
 
-#: Core/Implementation/SettingsDB/DynamicResource.cpp:40
+#: Core/Implementation/SettingsDB/DynamicResource.cpp:41
 msgid "DYNUP|Deleting"
 msgstr "Slette"
 
-#: Core/Implementation/SettingsDB/DynamicResource.cpp:38
+#: Core/Implementation/SettingsDB/DynamicResource.cpp:39
 msgid "DYNUP|Deploying"
 msgstr "Distribuere"
 
-#: Core/Implementation/SettingsDB/DynamicResource.cpp:36
+#: Core/Implementation/SettingsDB/DynamicResource.cpp:37
 msgid "DYNUP|Downloading"
 msgstr "Nedlasting"
 
-#: Core/Implementation/SettingsDB/DynamicResource.cpp:44
+#: Core/Implementation/SettingsDB/DynamicResource.cpp:45
 msgid "DYNUP|Failed"
 msgstr "Mislyktes"
 
-#: Core/Implementation/SettingsDB/DynamicResource.cpp:32
+#: Core/Implementation/SettingsDB/DynamicResource.cpp:33
 msgid "DYNUP|Idle"
 msgstr "Inaktiv"
 
-#: Core/Implementation/SettingsDB/DynamicResource.cpp:42
+#: Core/Implementation/SettingsDB/DynamicResource.cpp:43
 msgid "DYNUP|Success"
 msgstr "Suksess"
 
@@ -243,7 +243,7 @@ msgid "Dutch"
 msgstr "nederlandsk"
 
 #: Core/Implementation/ChannelSearchController.cpp:503
-#: MediaRiteApi/ChannelLists/ChannelListManager.cpp:568
+#: MediaRiteApi/ChannelLists/ChannelListManager.cpp:572
 msgid "East"
 msgstr "Øst"
 
@@ -366,15 +366,15 @@ msgstr "Kannada"
 msgid "LANG|Original"
 msgstr "Original"
 
-#: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2726
+#: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2729
 msgid "LIST|All"
 msgstr "Alt"
 
-#: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2730
+#: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2733
 msgid "LIST|Favorite"
 msgstr "Favoritt"
 
-#: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2728
+#: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2731
 msgid "LIST|Hidden"
 msgstr "Skjult"
 
@@ -468,7 +468,7 @@ msgid "No Access"
 msgstr "Ingen adgang"
 
 #. Conditional Access
-#: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:167
+#: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:218
 msgid "No Card"
 msgstr "Ingen kort"
 
@@ -492,11 +492,11 @@ msgstr "Ingen ressurser"
 msgid "No Signal"
 msgstr "Intet signal"
 
-#: MediaRiteApi/Player/Player.cpp:674
+#: MediaRiteApi/Player/Player.cpp:888
 msgid "No Subtitles"
 msgstr "Ingen Teksting"
 
-#: MediaRiteApi/Settings/SettingsManager.cpp:340
+#: MediaRiteApi/Settings/SettingsManager.cpp:342
 msgid "None"
 msgstr "Ingen"
 
@@ -543,15 +543,15 @@ msgstr "Russian"
 msgid "STATUS|Capture resource already in use"
 msgstr "Opptaks ressursen er allerede er i bruk"
 
-#: Core/Implementation/Core/CoreInterfaceTypes.cpp:140
+#: Core/Implementation/Core/CoreInterfaceTypes.cpp:141
 msgid "STATUS|Codec Not Supported"
 msgstr "Kodek støttes ikke"
 
-#: Core/Implementation/Core/CoreInterfaceTypes.cpp:168
+#: Core/Implementation/Core/CoreInterfaceTypes.cpp:169
 msgid "STATUS|Generic Error"
 msgstr "Generisk feil"
 
-#: Core/Implementation/Core/CoreInterfaceTypes.cpp:106
+#: Core/Implementation/Core/CoreInterfaceTypes.cpp:107
 msgid "STATUS|Insufficient output protection"
 msgstr "Utilstrekkelig utgangs beskyttelse"
 
@@ -560,7 +560,7 @@ msgstr "Utilstrekkelig utgangs beskyttelse"
 msgid "STATUS|Low or No Signal"
 msgstr "Lavt eller ingen signal"
 
-#: Core/Implementation/Core/CoreInterfaceTypes.cpp:136
+#: Core/Implementation/Core/CoreInterfaceTypes.cpp:137
 msgid "STATUS|Missing Data"
 msgstr "Manglende data"
 
@@ -568,11 +568,11 @@ msgstr "Manglende data"
 msgid "STATUS|No Resource"
 msgstr "Ingen Resource"
 
-#: Core/Implementation/Core/CoreInterfaceTypes.cpp:116
+#: Core/Implementation/Core/CoreInterfaceTypes.cpp:117
 msgid "STATUS|No capture signal"
 msgstr "Ikke opptaks signal"
 
-#: Core/Implementation/Core/CoreInterfaceTypes.cpp:123
+#: Core/Implementation/Core/CoreInterfaceTypes.cpp:124
 msgid "STATUS|No space left to record on"
 msgstr "Ingen plass igjen for å spille inn på"
 
@@ -589,11 +589,11 @@ msgid "STATUS|Player Error"
 msgstr "Spiller Feil"
 
 #: Core/Implementation/Core/CoreInterfaceTypes.cpp:41
-#: Core/Implementation/Core/CoreInterfaceTypes.cpp:102
+#: Core/Implementation/Core/CoreInterfaceTypes.cpp:103
 msgid "STATUS|Service Error"
 msgstr "Service Feil"
 
-#: Core/Implementation/Core/CoreInterfaceTypes.cpp:95
+#: Core/Implementation/Core/CoreInterfaceTypes.cpp:96
 msgid "STATUS|Service Locked"
 msgstr "Tjenesten Låst"
 
@@ -606,7 +606,7 @@ msgid "STATUS|Storage resource not available"
 msgstr "Lagring ressurs ikke tilgjengelig"
 
 #: Core/Implementation/Core/CoreInterfaceTypes.cpp:76
-#: Core/Implementation/Core/CoreInterfaceTypes.cpp:99
+#: Core/Implementation/Core/CoreInterfaceTypes.cpp:100
 msgid "STATUS|Stream Error"
 msgstr "Stream Feil"
 
@@ -618,11 +618,11 @@ msgstr "Stream Resource utilgjengelig"
 msgid "STATUS|Tuner Params Out Of Range"
 msgstr "Tuner Params Out Of Range"
 
-#: Core/Implementation/Core/CoreInterfaceTypes.cpp:113
+#: Core/Implementation/Core/CoreInterfaceTypes.cpp:114
 msgid "STATUS|Unable to decode"
 msgstr "Kan ikke dekode"
 
-#: Core/Implementation/Core/CoreInterfaceTypes.cpp:131
+#: Core/Implementation/Core/CoreInterfaceTypes.cpp:132
 msgid "STATUS|Unable to record"
 msgstr "Kan ikke ta opp"
 
@@ -635,7 +635,7 @@ msgid "Sanskrit"
 msgstr "Sanskrit"
 
 #: Core/Implementation/ChannelSearchController.cpp:786
-#: Core/Implementation/ChannelSearchController.cpp:1619
+#: Core/Implementation/ChannelSearchController.cpp:1617
 msgid "Satellite"
 msgstr "Satellit"
 
@@ -643,8 +643,8 @@ msgstr "Satellit"
 msgid "Service %d.%d MHz"
 msgstr "Tjenesten% d.% D MHz"
 
-#: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:3223
-#: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:5335
+#: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:3231
+#: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:5342
 msgid "Service <%u,%u,%u>"
 msgstr "Tjenesten <% u,% u,% u>"
 
@@ -700,173 +700,197 @@ msgid "Switzerland"
 msgstr "Sveits"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1026
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1224
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1234
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1448
 msgid "TIME|Apr"
 msgstr "April"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1181
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1276
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1405
 msgid "TIME|April"
 msgstr "April"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1038
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1236
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1246
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1460
 msgid "TIME|Aug"
 msgstr "August"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1193
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1288
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1417
 msgid "TIME|August"
 msgstr "August"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1050
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1248
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1258
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1472
 msgid "TIME|Dec"
 msgstr "Desember"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1205
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1300
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1429
 msgid "TIME|December"
 msgstr "Desember"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1020
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1218
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1228
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1442
 msgid "TIME|Feb"
 msgstr "Februar"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1175
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1270
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1399
 msgid "TIME|February"
 msgstr "Februar"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1159
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1383
 msgid "TIME|Fri"
 msgstr "Fr"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1074
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1131
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1355
 msgid "TIME|Friday"
 msgstr "Fredag"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1017
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1215
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1225
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1439
 msgid "TIME|Jan"
 msgstr "Jan"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1172
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1267
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1396
 msgid "TIME|January"
 msgstr "Januar"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1035
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1233
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1243
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1457
 msgid "TIME|Jul"
 msgstr "Juli"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1190
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1285
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1414
 msgid "TIME|July"
 msgstr "Juli"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1032
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1230
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1240
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1454
 msgid "TIME|Jun"
 msgstr "Juni"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1187
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1282
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1411
 msgid "TIME|June"
 msgstr "Juni"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1023
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1221
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1231
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1445
 msgid "TIME|Mar"
 msgstr "Mar"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1178
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1273
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1402
 msgid "TIME|March"
 msgstr "Mars"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1029
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1227
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1237
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1279
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1451
 msgid "TIME|May"
 msgstr "Kan"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1184
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1408
 msgid "TIME|May_long"
 msgstr "Kan"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1147
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1371
 msgid "TIME|Mon"
 msgstr "Man"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1062
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1119
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1343
 msgid "TIME|Monday"
 msgstr "Mandag"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1047
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1245
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1255
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1469
 msgid "TIME|Nov"
 msgstr "November"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1202
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1297
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1426
 msgid "TIME|November"
 msgstr "November"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1044
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1242
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1252
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1466
 msgid "TIME|Oct"
 msgstr "Oktober"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1199
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1294
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1423
 msgid "TIME|October"
 msgstr "Oktober"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1162
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1386
 msgid "TIME|Sat"
 msgstr "Lør"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1077
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1134
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1358
 msgid "TIME|Saturday"
 msgstr "Lørdag"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1041
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1239
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1249
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1463
 msgid "TIME|Sep"
 msgstr "September"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1196
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1291
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1420
 msgid "TIME|September"
 msgstr "September"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1144
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1368
 msgid "TIME|Sun"
 msgstr "Sol"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1059
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1116
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1340
 msgid "TIME|Sunday"
 msgstr "Søndag"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1156
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1380
 msgid "TIME|Thu"
 msgstr "To"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1071
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1128
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1352
 msgid "TIME|Thursday"
 msgstr "Torsdag"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1150
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1374
 msgid "TIME|Tue"
 msgstr "Ti"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1065
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1122
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1346
 msgid "TIME|Tuesday"
 msgstr "Tirsdag"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1153
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1377
 msgid "TIME|Wed"
 msgstr "Wed"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1068
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1125
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1349
 msgid "TIME|Wednesday"
 msgstr "Onsdag"
 
@@ -918,7 +942,7 @@ msgstr "Tamil"
 msgid "Telugu"
 msgstr "Telugu"
 
-#: Core/Implementation/ChannelSearchController.cpp:2328
+#: Core/Implementation/ChannelSearchController.cpp:2335
 msgid "Terrestrial"
 msgstr "Bakkenett"
 
@@ -927,6 +951,7 @@ msgid "Today"
 msgstr "I dag"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:978
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1118
 msgid "Tomorrow"
 msgstr "I morgen"
 
@@ -967,7 +992,7 @@ msgstr "Storbritannia"
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:313
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:399
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:415
-#: Core/Implementation/SettingsDB/DynamicResource.cpp:46
+#: Core/Implementation/SettingsDB/DynamicResource.cpp:47
 #: Core/Implementation/Storage/Local/Gio/CddaRipActivity.cpp:76
 msgid "Unknown"
 msgstr "Ukjent"
@@ -987,16 +1012,17 @@ msgid "Welsh"
 msgstr "Welsh"
 
 #: Core/Implementation/ChannelSearchController.cpp:506
-#: MediaRiteApi/ChannelLists/ChannelListManager.cpp:571
+#: MediaRiteApi/ChannelLists/ChannelListManager.cpp:575
 msgid "West"
 msgstr "Vest"
 
 #. Conditional Access
-#: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:174
+#: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:225
 msgid "Wrong Card Version"
 msgstr "Feil kort versjon"
 
 #: Basic/FutarqueStdLib/src/FutarqueTime.cpp:974
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1112
 msgid "Yesterday"
 msgstr "I går"
 
@@ -1031,7 +1057,7 @@ msgid "Error reading update file"
 msgstr "Feil ved lesing av oppdateringsfilen"
 
 #. newTuner.mFrontEndCapabilityMask;
-#: Core/Implementation/Stream/Modules/NetworkTunerManager/NetworkTunerManager.cpp:680
+#: Core/Implementation/Stream/Modules/NetworkTunerManager/NetworkTunerManager.cpp:745
 msgid "Internal"
 msgstr "Intern"
 
@@ -1115,4 +1141,43 @@ msgstr "Håndbok"
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:80
 msgid "Off"
 msgstr "Av"
+
+#. Conditional Access
+#: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:216
+msgid "Card Reader Initializing"
+msgstr "Kortleser Initialiserer"
+
+#. Conditional Access
+#: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:214
+msgid "Card Reader No Access"
+msgstr "Card Reader Ingen tilgang"
+
+#: MediaRiteApi/Dvr/DvrStorage.cpp:66
+msgid "DVREXPORT|Aborted"
+msgstr "Abortert"
+
+#: MediaRiteApi/Dvr/DvrStorage.cpp:64
+msgid "DVREXPORT|Aborting"
+msgstr "Avbryter"
+
+#: MediaRiteApi/Dvr/DvrStorage.cpp:68
+msgid "DVREXPORT|Done"
+msgstr "Ferdig"
+
+#: MediaRiteApi/Dvr/DvrStorage.cpp:58
+msgid "DVREXPORT|Idle"
+msgstr "Tomgang"
+
+#: MediaRiteApi/Dvr/DvrStorage.cpp:60
+msgid "DVREXPORT|Preparing"
+msgstr "Forbereder"
+
+#: MediaRiteApi/Dvr/DvrStorage.cpp:62
+msgid "DVREXPORT|Running"
+msgstr "Løping"
+
+#. Conditional Access
+#: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:212
+msgid "No Card Reader"
+msgstr "No Card Reader"
 
