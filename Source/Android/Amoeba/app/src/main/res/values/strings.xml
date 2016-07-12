@@ -6,6 +6,7 @@
     <string name="auto">Auto</string>
     <string name="off">Off</string>
     <string name="on">On</string>
+    <string name="error">Error</string>
     <string name="unknown">Unknown</string>
     <string name="button_next">Next</string>
     <string name="button_apply">Apply</string>
@@ -144,6 +145,7 @@
     <string name="menu_initial_no_recordings">No Recordings</string>
     <string name="menu_recordings">Recordings</string>
     <string name="dvr_free">Free</string>
+    <string name="dvr_export_select_destination">Select Destination Storage</string>
     <string name="menu_settings_dvr_timeshift_length">Timeshift Length</string>
     <string name="menu_settings_dvr_timeshift_mode">Timeshift Mode</string>
     <string name="menu_settings_dvr_timer_slack">Timer Slack</string>
@@ -175,7 +177,7 @@
     <string name="dialog_continue">Continue</string>
     <string name="dialog_purchase">Purchase</string>
     <string name="dialog_premium_feature_title">Functionality limited</string>
-    <string name="dialog_premium_feature_message">Functionality is limited. Please purchase Premium to remove this limitation</string>
+    <string name="dialog_premium_feature_message">Playback of recordings is limited to the first ten minutes. Please purchase Premium to remove this limitation</string>
     <string name="rho_ad_title">Support AuroraTV</string>
     <string name="rho_ad_subtitle">Buy our new SmartTV set-top box</string>
     <string name="rho_ad_counter">%d days left</string>
@@ -184,8 +186,8 @@
     <string name="rho_ad_shorturl">https://goo.gl/cTjPMc</string>
     <string name="menu_purchase_1_month_premium">One month premium</string>
     <string name="menu_purchase_1_year_premium">One year premium</string>
-    <string name="menu_purchase_1_month_premium_description">One month of premium. Includes DVR and Ad-free</string>
-    <string name="menu_purchase_1_year_premium_description">One year of premium. Includes DVR and Ad-free</string>
+    <string name="menu_purchase_1_month_premium_description">One month of premium. Includes full DVR and Ad-free</string>
+    <string name="menu_purchase_1_year_premium_description">One year of premium. Includes full DVR and Ad-free</string>
     <string name="menu_tuner_none_description">Supported tuners are Sat>IP and HDHomeRun</string>
     <string name="menu_tuner_none_title">No tuners found</string>
     <string name="context_menu_prev_channel">Previous Channel</string>
@@ -194,6 +196,7 @@
     <string name="tuner_analog">Analog</string>
     <string name="button_resume">Resume</string>
     <string name="button_delete">Delete</string>
+    <string name="button_export">Export</string>
     <string name="button_suspend">Suspend</string>
     <string name="button_play">Play</string>
     <string name="menu_settings_dvr_premium_message">Please purchase Premium to unlock full DVR functionality</string>
@@ -222,5 +225,9 @@
     <string name="intro_change_channel_touch_description">Swipe <b>UP</b> or <b>DOWN</b> to change channel</string>
     <string name="intro_context_touch_description">Swipe in from the <b>RIGHT</b> to show the Context menu</string>
     <string name="intro_dvr_timeshift_touch_description">Double tap the video to pause</string>
+    <string name="menu_purchase_no_account">No Google account connected</string>
+    <string name="wizard_timeout">Timeout, restarting wizard</string>
+    <string name="dvr_export_exporting">Exporting</string>
+    <string name="dvr_export_failed">Export failed</string>
 
 </resources>

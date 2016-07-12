@@ -76,7 +76,9 @@ else
 	[ -d "${dir}" ] || continue # if not a directory, skip
 	dirname="$(basename "${dir}")"    
 	mkdir -p ${TDIR}/Source/Android/Amoeba/app/src/main/res/${dirname}
-	$CMD ${SDIR}/Source/Android/Amoeba/app/src/main/res/${dirname}/strings.xml ${TDIR}/Source/Android/Amoeba/app/src/main/res/${dirname}/strings.xml
+	cat ${SDIR}/Source/Android/Amoeba/app/src/main/res/${dirname}/strings.xml | sed 's/&lt;b&gt;/<b>/'| sed 's/&lt;\/b&gt;/<\/b>/' > ${SDIR}/Source/Android/Amoeba/app/src/main/res/${dirname}/strings.xml.tmp
+	$CMD ${SDIR}/Source/Android/Amoeba/app/src/main/res/${dirname}/strings.xml.tmp ${TDIR}/Source/Android/Amoeba/app/src/main/res/${dirname}/strings.xml
+	rm -f ${SDIR}/Source/Android/Amoeba/app/src/main/res/${dirname}/strings.xml.tmp
     done
 fi
 if [ "$TDIR" == "." ] ; then
