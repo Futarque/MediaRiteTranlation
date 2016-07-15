@@ -11,7 +11,7 @@
 <string name="button_update">"Aktualisieren"</string>
 <string name="button_edit">"Bearbeiten"</string>
 <string name="button_reset">"Zurücksetzen"</string>
-<string name="wizard_welcome">"Der folgende Assistent unterstützt Sie bei der Einrichtung von Aurora TV."</string>
+<string name="wizard_welcome">"Der folgende Assistent führt Sie Setup Ihre digitale TV-Kanäle zu helfen."</string>
 <string name="wizard_instruction">"Klicken Sie auf Weiter, um fortzufahren"</string>
 <string name="location_welcome">"Bitte wählen Sie Ihr Land"</string>
 <string name="language_audio_priority_1">"Tonspur (1. Priorität)"</string>
@@ -255,4 +255,15 @@ Drücken Sie erneut zurück in den Vollbild"</string>
 <string name="wizard_timeout">"Timeout, einen Neustart Assistenten"</string>
 <string name="dvr_export_exporting">"Exportieren"</string>
 <string name="dvr_export_failed">"Export fehlgeschlagen"</string>
+<string name="enabled">"Aktiviert"</string>
+<string name="key_text">"Text"</string>
+<string name="key_red">"Rot"</string>
+<string name="key_green">"Grün"</string>
+<string name="key_yellow">"Gelb"</string>
+<string name="key_blue">"Blau"</string>
+<string name="context_menu_teletext">"Videotext"</string>
+<string name="menu_tuner_select_tuner">"Wählen Sie Tuner"</string>
+<string name="menu_tuner_input_select_title">"Tuner-Eingang"</string>
+<string name="menu_tuner_tuner_not_selected_help">"Mindestens eine Tuner muss ausgewählt werden, um fortzufahren"</string>
+<string name="inputkey_prohibited_msg">"Key verboten!"</string>
 </resources>
