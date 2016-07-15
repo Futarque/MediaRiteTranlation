@@ -10,7 +10,7 @@
 <string name="button_update">"Bijwerken"</string>
 <string name="button_edit">"Bewerk"</string>
 <string name="button_reset">"Reset"</string>
-<string name="wizard_welcome">"De volgende wizard zal u helpen bij het opzetten van je Aurora Digital TV cliënt."</string>
+<string name="wizard_welcome">"De volgende wizard zal u het opzetten van je digitale tv-kanalen te helpen."</string>
 <string name="wizard_instruction">"Klik op Volgende om door te gaan"</string>
 <string name="location_welcome">"Selecteer uw locatie"</string>
 <string name="language_audio_priority_1">"Audio (1. Prioritaire)"</string>
@@ -239,4 +239,15 @@ Druk nogmaals op om terug te keren naar fullscreen"</string>
 <string name="wizard_timeout">"Time-out, het herstarten van de wizard"</string>
 <string name="dvr_export_exporting">"exporteren"</string>
 <string name="dvr_export_failed">"export is mislukt"</string>
+<string name="enabled">"Ingeschakeld"</string>
+<string name="key_text">"Tekst"</string>
+<string name="key_red">"Rood"</string>
+<string name="key_green">"Groen"</string>
+<string name="key_yellow">"Geel"</string>
+<string name="key_blue">"Blauw"</string>
+<string name="context_menu_teletext">"teletekst"</string>
+<string name="menu_tuner_select_tuner">"Selecteer Tuner"</string>
+<string name="menu_tuner_input_select_title">"tuner Input"</string>
+<string name="menu_tuner_tuner_not_selected_help">"Ten minste één ontvanger worden geselecteerd doorgaan"</string>
+<string name="inputkey_prohibited_msg">"Key Verboden!"</string>
 </resources>
