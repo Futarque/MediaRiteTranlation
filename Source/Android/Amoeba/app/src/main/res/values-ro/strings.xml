@@ -10,7 +10,7 @@
 <string name="button_update">"Actualizare"</string>
 <string name="button_edit">"Edita"</string>
 <string name="button_reset">"Resetare"</string>
-<string name="wizard_welcome">"Următoarea wizardl vă va ajuta să setați contul dvs. Aurora Digital TV."</string>
+<string name="wizard_welcome">"Următor Expertul vă configurare canale TV digitale vor ajuta."</string>
 <string name="wizard_instruction">"Faceți clic pe \"următorul\" pentru a continua"</string>
 <string name="location_welcome">"Vă rugăm să selectați locația"</string>
 <string name="language_audio_priority_1">"Audio (Prioritate principală)"</string>
@@ -241,4 +241,15 @@ Apăsați din nou pentru a reveni la ecranul complet"</string>
 <string name="wizard_timeout">"Timeout, expertul repornirea"</string>
 <string name="dvr_export_exporting">"Exportator"</string>
 <string name="dvr_export_failed">"export nu a reușit"</string>
+<string name="enabled">"Activat"</string>
+<string name="key_text">"Text"</string>
+<string name="key_red">"roșu"</string>
+<string name="key_green">"Verde"</string>
+<string name="key_yellow">"Galben"</string>
+<string name="key_blue">"Albastru"</string>
+<string name="context_menu_teletext">"teletext"</string>
+<string name="menu_tuner_select_tuner">"Selectați Tuner"</string>
+<string name="menu_tuner_input_select_title">"tuner de intrare"</string>
+<string name="menu_tuner_tuner_not_selected_help">"Cel puțin un tuner trebuie să fie selectate pentru a continua"</string>
+<string name="inputkey_prohibited_msg">"Cheie interzise!"</string>
 </resources>
