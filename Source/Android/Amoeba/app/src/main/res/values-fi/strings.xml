@@ -10,7 +10,7 @@
 <string name="button_update">"Päivitys"</string>
 <string name="button_edit">"Muokata"</string>
 <string name="button_reset">"Asettaa uudelleen"</string>
-<string name="wizard_welcome">"Seuraavat Ohjattu toiminto auttaa setup Aurora Digital TV asiakas."</string>
+<string name="wizard_welcome">"Seuraavat ohjatun toiminnon avulla setup digitaalisia kanavia."</string>
 <string name="wizard_instruction">"Klikkaa Seuraava jatkaaksesi"</string>
 <string name="location_welcome">"Valitse sijainti"</string>
 <string name="language_audio_priority_1">"Audio (1 Priority)"</string>
@@ -239,4 +239,15 @@ Paina uudelleen palata koko näytön"</string>
 <string name="wizard_timeout">"Timeout, uudelleenkäynnistyksen velho"</string>
 <string name="dvr_export_exporting">"vieminen"</string>
 <string name="dvr_export_failed">"vienti epäonnistui"</string>
+<string name="enabled">"käytössä"</string>
+<string name="key_text">"Teksti"</string>
+<string name="key_red">"Punainen"</string>
+<string name="key_green">"Vihreä"</string>
+<string name="key_yellow">"Keltainen"</string>
+<string name="key_blue">"Sininen"</string>
+<string name="context_menu_teletext">"tekstitelevisio"</string>
+<string name="menu_tuner_select_tuner">"Valitse viritin"</string>
+<string name="menu_tuner_input_select_title">"Viritintulo"</string>
+<string name="menu_tuner_tuner_not_selected_help">"Vähintään yksi viritin on valittava jatkaa"</string>
+<string name="inputkey_prohibited_msg">"Key Kielletyt!"</string>
 </resources>
