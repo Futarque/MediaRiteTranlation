@@ -10,7 +10,7 @@
 <string name="button_update">"Opdater"</string>
 <string name="button_edit">"Rediger"</string>
 <string name="button_reset">"Nulstil"</string>
-<string name="wizard_welcome">"Den følgende guide vil hjælpe dig med at indstille din Aurora digitale TV klient."</string>
+<string name="wizard_welcome">"Den følgende guide vil hjælpe dig med at indstille dine digitale kanaler."</string>
 <string name="wizard_instruction">"Tryk næste for at fortsætte"</string>
 <string name="location_welcome">"Vælg dit land"</string>
 <string name="language_audio_priority_1">"Lydspor (1. prioritet)"</string>
@@ -240,4 +240,15 @@ Tryk igen for at komme tilbage til fuldskærm"</string>
 <string name="wizard_timeout">"Genstarter Wizard"</string>
 <string name="dvr_export_exporting">"Eksportere"</string>
 <string name="dvr_export_failed">"Eksportering er fejlet"</string>
+<string name="enabled">"Slået til"</string>
+<string name="key_text">"Text"</string>
+<string name="key_red">"Rød"</string>
+<string name="key_green">"Grøn"</string>
+<string name="key_yellow">"Gul"</string>
+<string name="key_blue">"Blå"</string>
+<string name="context_menu_teletext">"Tekst TV"</string>
+<string name="menu_tuner_select_tuner">"Vælg tuner"</string>
+<string name="menu_tuner_input_select_title">"Tuner input"</string>
+<string name="menu_tuner_tuner_not_selected_help">"Mindst en tuner skal vælges for at fortsætte"</string>
+<string name="inputkey_prohibited_msg">"Tast ikke understøttet"</string>
 </resources>
