@@ -10,7 +10,7 @@
 <string name="button_update">"Обновить"</string>
 <string name="button_edit">"редактировать"</string>
 <string name="button_reset">"Сброс"</string>
-<string name="wizard_welcome">"В следующем мастер поможет вам настроить ваш клиент Аврора Цифровое телевидение."</string>
+<string name="wizard_welcome">"Следующий мастер поможет вам настроить ваши цифровые телевизионные каналы."</string>
 <string name="wizard_instruction">"Нажмите Далее, чтобы продолжить"</string>
 <string name="location_welcome">"Пожалуйста, выберите ваше местоположение"</string>
 <string name="language_audio_priority_1">"Аудио (1. Приоритет)"</string>
@@ -239,4 +239,15 @@
 <string name="wizard_timeout">"Тайм-аут, перезапуск мастер"</string>
 <string name="dvr_export_exporting">"Экспорт"</string>
 <string name="dvr_export_failed">"Не удалось выполнить экспорт"</string>
+<string name="enabled">"Включено"</string>
+<string name="key_text">"Текст"</string>
+<string name="key_red">"красный"</string>
+<string name="key_green">"зеленый"</string>
+<string name="key_yellow">"желтый"</string>
+<string name="key_blue">"синий"</string>
+<string name="context_menu_teletext">"телетекст"</string>
+<string name="menu_tuner_select_tuner">"Выбор тюнера"</string>
+<string name="menu_tuner_input_select_title">"тюнер Входной"</string>
+<string name="menu_tuner_tuner_not_selected_help">"По крайней мере, один тюнер должен быть выбран, чтобы продолжить"</string>
+<string name="inputkey_prohibited_msg">"Ключ Запрещено!"</string>
 </resources>
