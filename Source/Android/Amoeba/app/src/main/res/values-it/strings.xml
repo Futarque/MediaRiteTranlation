@@ -10,7 +10,7 @@
 <string name="button_update">"Aggiornamento"</string>
 <string name="button_edit">"Modifica"</string>
 <string name="button_reset">"Azzerare"</string>
-<string name="wizard_welcome">"La seguente procedura guidata consente di configurare il client Aurora TV digitale."</string>
+<string name="wizard_welcome">"La seguente procedura guidata vi aiuterà a configurare i canali TV digitali."</string>
 <string name="wizard_instruction">"Fare clic su Avanti per continuare"</string>
 <string name="location_welcome">"Si prega di selezionare la località"</string>
 <string name="language_audio_priority_1">"Audio (1. Priorità)"</string>
@@ -239,4 +239,15 @@ Premere di nuovo per tornare a schermo intero"</string>
 <string name="wizard_timeout">"Timeout, guidata riavvio"</string>
 <string name="dvr_export_exporting">"Esportazione"</string>
 <string name="dvr_export_failed">"Export fallita"</string>
+<string name="enabled">"Abilitato"</string>
+<string name="key_text">"Testo"</string>
+<string name="key_red">"Rosso"</string>
+<string name="key_green">"verde"</string>
+<string name="key_yellow">"Giallo"</string>
+<string name="key_blue">"Blu"</string>
+<string name="context_menu_teletext">"Televideo"</string>
+<string name="menu_tuner_select_tuner">"Selezionare Tuner"</string>
+<string name="menu_tuner_input_select_title">"ingresso Tuner"</string>
+<string name="menu_tuner_tuner_not_selected_help">"Almeno un sintonizzatore deve essere selezionato per continuare"</string>
+<string name="inputkey_prohibited_msg">"Chiave proibiti!"</string>
 </resources>
