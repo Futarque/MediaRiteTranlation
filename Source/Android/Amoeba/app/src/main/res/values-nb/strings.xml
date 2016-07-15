@@ -12,7 +12,7 @@
 <string name="button_update">"Oppdatering"</string>
 <string name="button_edit">"Redigere"</string>
 <string name="button_reset">"Tilbakestill"</string>
-<string name="wizard_welcome">"Følgende veiviseren vil hjelpe deg å sette opp din Aurora Digital TV-klient."</string>
+<string name="wizard_welcome">"Følgende veiviseren vil hjelpe deg oppsettet ditt digitale TV-kanaler."</string>
 <string name="wizard_instruction">"Klikk på Neste for å fortsette"</string>
 <string name="location_welcome">"Vennligst velg lokasjon"</string>
 <string name="language_audio_priority_1">"Audio (1. prioritet)"</string>
@@ -241,4 +241,15 @@ Trykk igjen for å gå tilbake til fullskjerm"</string>
 <string name="wizard_timeout">"Timeout, starte wizard"</string>
 <string name="dvr_export_exporting">"Eksportere"</string>
 <string name="dvr_export_failed">"eksport mislyktes"</string>
+<string name="enabled">"aktivert"</string>
+<string name="key_text">"Tekst"</string>
+<string name="key_red">"rød"</string>
+<string name="key_green">"Grønn"</string>
+<string name="key_yellow">"Gul"</string>
+<string name="key_blue">"Blå"</string>
+<string name="context_menu_teletext">"Tekst-TV"</string>
+<string name="menu_tuner_select_tuner">"Velg Tuner"</string>
+<string name="menu_tuner_input_select_title">"tuner Input"</string>
+<string name="menu_tuner_tuner_not_selected_help">"I det minste en mottaker må velges for å fortsette"</string>
+<string name="inputkey_prohibited_msg">"Key forbudt!"</string>
 </resources>
