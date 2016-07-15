@@ -10,7 +10,7 @@
 <string name="button_update">"Update"</string>
 <string name="button_edit">"Edit"</string>
 <string name="button_reset">"Reset"</string>
-<string name="wizard_welcome">"The following wizard will help you setup your Aurora Digital TV client."</string>
+<string name="wizard_welcome">"The following wizard will help you setup your Digital TV Channels."</string>
 <string name="wizard_instruction">"Click Next to proceed"</string>
 <string name="location_welcome">"Please select your location:"</string>
 <string name="language_audio_priority_1">"Audio (1. Priority)"</string>
@@ -179,7 +179,7 @@ The resulting zip file must be named picons.zip and placed at the base URL speci
 <string name="dialog_continue">"Continue"</string>
 <string name="dialog_purchase">"Purchase"</string>
 <string name="dialog_premium_feature_title">"Functionality limited"</string>
-<string name="dialog_premium_feature_message">"Functionality is limited. Please purchase Premium to remove this limitation"</string>
+<string name="dialog_premium_feature_message">"Playback of recordings is limited to the first ten minutes. Please purchase Premium to remove this limitation"</string>
 <string name="rho_ad_title">"Support AuroraTV"</string>
 <string name="rho_ad_subtitle">"Buy our new SmartTV set-top box"</string>
 <string name="rho_ad_counter">"%d days left"</string>
@@ -194,8 +194,8 @@ The resulting zip file must be named picons.zip and placed at the base URL speci
 <string name="rho_ad_shorturl">"https://goo.gl/cTjPMc"</string>
 <string name="menu_purchase_1_month_premium">"One month premium"</string>
 <string name="menu_purchase_1_year_premium">"One year premium"</string>
-<string name="menu_purchase_1_month_premium_description">"One month of premium. Includes DVR and Ad-free"</string>
-<string name="menu_purchase_1_year_premium_description">"One year of premium. Includes DVR and Ad-free"</string>
+<string name="menu_purchase_1_month_premium_description">"One month of premium. Includes full DVR and Ad-free"</string>
+<string name="menu_purchase_1_year_premium_description">"One year of premium. Includes full DVR and Ad-free"</string>
 <string name="menu_tuner_none_description">"Supported tuners are Sat&gt;IP and HDHomeRun"</string>
 <string name="menu_tuner_none_title">"No tuners found"</string>
 <string name="context_menu_prev_channel">"Previous Channel"</string>
@@ -239,4 +239,15 @@ Press again to return to fullscreen"</string>
 <string name="wizard_timeout">"Timeout, restarting wizard"</string>
 <string name="dvr_export_exporting">"Exporting"</string>
 <string name="dvr_export_failed">"Export failed"</string>
+<string name="enabled">"Enabled"</string>
+<string name="key_text">"Text"</string>
+<string name="key_red">"Red"</string>
+<string name="key_green">"Green"</string>
+<string name="key_yellow">"Yellow"</string>
+<string name="key_blue">"Blue"</string>
+<string name="context_menu_teletext">"Teletext"</string>
+<string name="menu_tuner_select_tuner">"Select Tuner"</string>
+<string name="menu_tuner_input_select_title">"Tuner Input"</string>
+<string name="menu_tuner_tuner_not_selected_help">"At least one tuner must be selected to continue"</string>
+<string name="inputkey_prohibited_msg">"Key Prohibited!"</string>
 </resources>
