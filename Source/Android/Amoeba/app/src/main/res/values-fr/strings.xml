@@ -10,7 +10,7 @@
 <string name="button_update">"Mettre à jour"</string>
 <string name="button_edit">"Modifier"</string>
 <string name="button_reset">"Réinitialiser"</string>
-<string name="wizard_welcome">"Cet assistant va vous aider à configurer votre client Aurora pour TV numérique."</string>
+<string name="wizard_welcome">"L'assistant suivant vous configurer vos chaînes de télévision numérique aider."</string>
 <string name="wizard_instruction">"Cliquez sur Suivant pour continuer"</string>
 <string name="location_welcome">"Veuillez sélectionner votre emplacement"</string>
 <string name="language_audio_priority_1">"Audio (1. Priorité)"</string>
@@ -240,4 +240,15 @@ Appuyez à nouveau pour revenir à fullscreen"</string>
 <string name="wizard_timeout">"Timeout, assistant redémarrage"</string>
 <string name="dvr_export_exporting">"Exportation"</string>
 <string name="dvr_export_failed">"Échec de l'exportation"</string>
+<string name="enabled">"Activée"</string>
+<string name="key_text">"Texte"</string>
+<string name="key_red">"rouge"</string>
+<string name="key_green">"vert"</string>
+<string name="key_yellow">"Jaune"</string>
+<string name="key_blue">"Bleu"</string>
+<string name="context_menu_teletext">"Télétexte"</string>
+<string name="menu_tuner_select_tuner">"Sélectionnez Tuner"</string>
+<string name="menu_tuner_input_select_title">"Tuner Input"</string>
+<string name="menu_tuner_tuner_not_selected_help">"Au moins un tuner doit être sélectionné pour continuer"</string>
+<string name="inputkey_prohibited_msg">"Clé interdite!"</string>
 </resources>
