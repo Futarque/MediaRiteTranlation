@@ -10,7 +10,7 @@
 <string name="button_update">"Uppdatera"</string>
 <string name="button_edit">"Redigera"</string>
 <string name="button_reset">"Återställ"</string>
-<string name="wizard_welcome">"Följande guiden kommer att hjälpa dig ställa in din Aurora digital tv klient."</string>
+<string name="wizard_welcome">"Följande Guiden hjälper dig ställa in dina digitala TV-kanaler."</string>
 <string name="wizard_instruction">"Klicka på nästa för att gå vidare"</string>
 <string name="location_welcome">"Välj ditt land"</string>
 <string name="language_audio_priority_1">"Ljudspår (1. prioritet)"</string>
@@ -240,4 +240,15 @@ Tryck igen för att återgå till fullskärmsläge"</string>
 <string name="wizard_timeout">"Timeout, starta guiden"</string>
 <string name="dvr_export_exporting">"exportera"</string>
 <string name="dvr_export_failed">"export misslyckades"</string>
+<string name="enabled">"Aktiverad"</string>
+<string name="key_text">"Text"</string>
+<string name="key_red">"Röd"</string>
+<string name="key_green">"Grön"</string>
+<string name="key_yellow">"Gul"</string>
+<string name="key_blue">"Blå"</string>
+<string name="context_menu_teletext">"text-TV"</string>
+<string name="menu_tuner_select_tuner">"Välj Tuner"</string>
+<string name="menu_tuner_input_select_title">"tuner Input"</string>
+<string name="menu_tuner_tuner_not_selected_help">"Minst en mottagare måste väljas för att fortsätta"</string>
+<string name="inputkey_prohibited_msg">"Nyckel förbjuden!"</string>
 </resources>
