@@ -10,7 +10,7 @@
 <string name="button_update">"Actualización"</string>
 <string name="button_edit">"Editar"</string>
 <string name="button_reset">"Reiniciar"</string>
-<string name="wizard_welcome">"El siguiente asistente le ayudará a configurar su cliente Aurora Digital TV."</string>
+<string name="wizard_welcome">"El siguiente asistente le ayudará a configurar sus canales de televisión digital."</string>
 <string name="wizard_instruction">"Haga clic en Siguiente para continuar"</string>
 <string name="location_welcome">"Por favor seleccione su ubicación"</string>
 <string name="language_audio_priority_1">"Audio (1. Prioridad)"</string>
@@ -239,4 +239,15 @@ Pulse de nuevo para volver a pantalla completa"</string>
 <string name="wizard_timeout">"Tiempo de espera, asistente de reiniciar"</string>
 <string name="dvr_export_exporting">"Exportador"</string>
 <string name="dvr_export_failed">"Fallo de Exportación"</string>
+<string name="enabled">"habilitado"</string>
+<string name="key_text">"Texto"</string>
+<string name="key_red">"rojo"</string>
+<string name="key_green">"Verde"</string>
+<string name="key_yellow">"Amarillo"</string>
+<string name="key_blue">"Azul"</string>
+<string name="context_menu_teletext">"teletexto"</string>
+<string name="menu_tuner_select_tuner">"Selección sintonizador"</string>
+<string name="menu_tuner_input_select_title">"entrada de sintonizador"</string>
+<string name="menu_tuner_tuner_not_selected_help">"Al menos un sintonizador se debe seleccionar para continuar"</string>
+<string name="inputkey_prohibited_msg">"Clave Prohibida!"</string>
 </resources>
