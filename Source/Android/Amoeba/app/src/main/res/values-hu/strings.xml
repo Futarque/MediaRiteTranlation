@@ -10,7 +10,7 @@
 <string name="button_update">"Frissítés"</string>
 <string name="button_edit">"Szerkesztés"</string>
 <string name="button_reset">"Visszaállítása"</string>
-<string name="wizard_welcome">"A következő varázsló segít beállítani a Aurora Digitális TV ügyfél."</string>
+<string name="wizard_welcome">"A következő varázsló segít beállítani a digitális TV-csatornák."</string>
 <string name="wizard_instruction">"Kattintson a Tovább gombra"</string>
 <string name="location_welcome">"Kérjük, válassza ki a helyet"</string>
 <string name="language_audio_priority_1">"Audio (1. prioritás)"</string>
@@ -239,4 +239,15 @@ Nyomja meg ismét, hogy visszatérjen a teljes képernyős"</string>
 <string name="wizard_timeout">"Timeout újraindítása varázsló"</string>
 <string name="dvr_export_exporting">"exportálása"</string>
 <string name="dvr_export_failed">"export sikertelen"</string>
+<string name="enabled">"Engedélyezett"</string>
+<string name="key_text">"Szöveg"</string>
+<string name="key_red">"Piros"</string>
+<string name="key_green">"Zöld"</string>
+<string name="key_yellow">"Sárga"</string>
+<string name="key_blue">"Kék"</string>
+<string name="context_menu_teletext">"Teletext"</string>
+<string name="menu_tuner_select_tuner">"Select Tuner"</string>
+<string name="menu_tuner_input_select_title">"Tuner bemenet"</string>
+<string name="menu_tuner_tuner_not_selected_help">"Legalább egy tuner kell kiválasztani, hogy továbbra"</string>
+<string name="inputkey_prohibited_msg">"Key tilos!"</string>
 </resources>
