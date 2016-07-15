@@ -3,11 +3,17 @@
     <string name="cancelled">Cancelled</string>
     <string name="complete">Complete</string>
     <string name="disabled">Disabled</string>
+    <string name="enabled">Enabled</string>
     <string name="auto">Auto</string>
     <string name="off">Off</string>
     <string name="on">On</string>
     <string name="error">Error</string>
     <string name="unknown">Unknown</string>
+    <string name="key_text">Text</string>
+    <string name="key_red">Red</string>
+    <string name="key_green">Green</string>
+    <string name="key_yellow">Yellow</string>
+    <string name="key_blue">Blue</string>
     <string name="button_next">Next</string>
     <string name="button_apply">Apply</string>
     <string name="button_ok">OK</string>
@@ -16,7 +22,7 @@
     <string name="button_update">Update</string>
     <string name="button_edit">Edit</string>
     <string name="button_reset">Reset</string>
-    <string name="wizard_welcome">The following wizard will help you setup your Aurora Digital TV client.</string>
+    <string name="wizard_welcome">The following wizard will help you setup your Digital TV Channels.</string>
     <string name="wizard_instruction">Click Next to proceed</string>
     <string name="location_welcome">Please select your location:</string>
     <string name="close">Close</string>
@@ -81,6 +87,7 @@
     <string name="menu_wizard_tuner_select_sat_location">Select your satellite position</string>
     <string name="context_menu_audio">Audio</string>
     <string name="context_menu_subtitles">Subtitles</string>
+    <string name="context_menu_teletext">Teletext</string>
     <string name="context_menu_signal_info">Signal Info</string>
     <string name="menu_settings_channels">Channels</string>
     <string name="channels_number_allocation">Channel Number Allocation</string>
@@ -229,5 +236,9 @@
     <string name="wizard_timeout">Timeout, restarting wizard</string>
     <string name="dvr_export_exporting">Exporting</string>
     <string name="dvr_export_failed">Export failed</string>
+    <string name="menu_tuner_select_tuner">Select Tuner</string>
+    <string name="menu_tuner_input_select_title">Tuner Input</string>
+    <string name="menu_tuner_tuner_not_selected_help">At least one tuner must be selected to continue</string>
+    <string name="inputkey_prohibited_msg">Key Prohibited!</string>
 
 </resources>
