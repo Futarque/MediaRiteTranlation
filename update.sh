@@ -66,6 +66,9 @@ else
 	$CMD ${SDIR}/Resource/Language/7702/locale/${dirname}/mediarite.po ${TDIR}/Resource/Language/7702/locale/${dirname}/mediarite.po
     done
     make -C ${TDIR}/Resource/Language update_from_master
+    echo "Processing Web Translations"
+    ./webtrans.pl 7702
+    $CMD ${SDIR}/Resource/Gui/7702/tv-gateway-web/bundle/* ${TDIR}/Resource/Gui/7702/tv-gateway-web/bundle/
 fi
 if [ "$TDIR" == "." ] ; then
     $CMD ${SDIR}/Source/Android/Amoeba/app/src/main/res/values/strings.xml strings.tmp
