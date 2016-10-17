@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 <string name="app_name">"AuroraLauncher"</string>
-<string name="home_featured">"Featured"</string>
+<string name="home_featured">"Featured Apps"</string>
 <string name="home_launcher_settings">"Configuration"</string>
 <string name="home_leanback">"TV Apps"</string>
 <string name="home_recent">"Recent"</string>
@@ -27,4 +27,5 @@
 <string name="auto_detect_language">"Unable to automatically detect country"</string>
 <string name="share_wifi_unable">"Unable to enable Wifi"</string>
 <string name="onlinehelp_error_loading_url">"Unable to open help"</string>
+<string name="home_bookmarks">"Featured Sites"</string>
 </resources>
