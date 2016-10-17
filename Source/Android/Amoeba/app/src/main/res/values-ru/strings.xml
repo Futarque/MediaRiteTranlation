@@ -250,4 +250,19 @@
 <string name="menu_tuner_input_select_title">"тюнер Входной"</string>
 <string name="menu_tuner_tuner_not_selected_help">"По крайней мере, один тюнер должен быть выбран, чтобы продолжить"</string>
 <string name="inputkey_prohibited_msg">"Ключ Запрещено!"</string>
+<string name="menu_wizard_cable_sweep_start_freq">"Начальная частота (кГц)"</string>
+<string name="menu_wizard_cable_sweep_end_freq">"Конечная частота (кГц)"</string>
+<string name="menu_wizard_connection_type">"Тип установки"</string>
+<string name="menu_wizard_connection_type_remote_description">"Подключение к одному из доступных серверов ZapsterTV"</string>
+<string name="menu_wizard_connection_type_standalone">"Локальная установка"</string>
+<string name="menu_wizard_connection_type_standalone_description">"Настройка этого устройства независимо друг от друга"</string>
+<string name="menu_wizard_tvgateway_title">"ZapsterTV сервера"</string>
+<string name="menu_wizard_tvgateway_description">"Выберите сервер для использования"</string>
+<string name="menu_wizard_tvgateway_connecting">"Присоединенный к"</string>
+<string name="menu_wizard_tvgateway_upgradefirmware">"Старый микропрограммного сервер найден. Пожалуйста, обновите первый"</string>
+<string name="menu_wizard_tvgateway_upgradeapplication">"Старый клиент версия найдено. Пожалуйста, обновите первый"</string>
+<string name="menu_wizard_tvgateway_channelsfound">"Каналы доступны:"</string>
+<string name="menu_wizard_tvgateway_not_configured">"Не настроено"</string>
+<string name="menu_wizard_searching_for_devices">"Обнаружения сетевых устройств"</string>
+<string name="wizard_please_wait">"пожалуйста, подождите"</string>
 </resources>
