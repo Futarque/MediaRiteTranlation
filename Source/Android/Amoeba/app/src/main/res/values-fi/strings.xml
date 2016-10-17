@@ -250,4 +250,19 @@ Paina uudelleen palata koko näytön"</string>
 <string name="menu_tuner_input_select_title">"Viritintulo"</string>
 <string name="menu_tuner_tuner_not_selected_help">"Vähintään yksi viritin on valittava jatkaa"</string>
 <string name="inputkey_prohibited_msg">"Key Kielletyt!"</string>
+<string name="menu_wizard_cable_sweep_start_freq">"Start (kHz)"</string>
+<string name="menu_wizard_cable_sweep_end_freq">"End (kHz)"</string>
+<string name="menu_wizard_connection_type">"asennuksen tyyppi"</string>
+<string name="menu_wizard_connection_type_remote_description">"Yhdistä yhden käytettävissä olevista ZapsterTV palvelimet"</string>
+<string name="menu_wizard_connection_type_standalone">"paikallinen asennus"</string>
+<string name="menu_wizard_connection_type_standalone_description">"Määritä tämä laite itsenäisesti"</string>
+<string name="menu_wizard_tvgateway_title">"ZapsterTV Server"</string>
+<string name="menu_wizard_tvgateway_description">"Valitse palvelin käyttää"</string>
+<string name="menu_wizard_tvgateway_connecting">"liittäminen"</string>
+<string name="menu_wizard_tvgateway_upgradefirmware">"Vanha palvelin firmware löytynyt. Päivitä ensin"</string>
+<string name="menu_wizard_tvgateway_upgradeapplication">"Vanha client version löydetty. Päivitä ensin"</string>
+<string name="menu_wizard_tvgateway_channelsfound">"Kanavat saatavissa:"</string>
+<string name="menu_wizard_tvgateway_not_configured">"ei määritetty"</string>
+<string name="menu_wizard_searching_for_devices">"Löytää verkkolaitteet"</string>
+<string name="wizard_please_wait">"Odota"</string>
 </resources>
