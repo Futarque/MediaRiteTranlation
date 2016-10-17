@@ -252,4 +252,19 @@ Apăsați din nou pentru a reveni la ecranul complet"</string>
 <string name="menu_tuner_input_select_title">"tuner de intrare"</string>
 <string name="menu_tuner_tuner_not_selected_help">"Cel puțin un tuner trebuie să fie selectate pentru a continua"</string>
 <string name="inputkey_prohibited_msg">"Cheie interzise!"</string>
+<string name="menu_wizard_cable_sweep_start_freq">"Frecventa Start (kHz)"</string>
+<string name="menu_wizard_cable_sweep_end_freq">"Sfârșitul de frecvență (kHz)"</string>
+<string name="menu_wizard_connection_type">"tipul de instalare"</string>
+<string name="menu_wizard_connection_type_remote_description">"Conectați-vă la unul dintre serverele ZapsterTV disponibile"</string>
+<string name="menu_wizard_connection_type_standalone">"instalare locală"</string>
+<string name="menu_wizard_connection_type_standalone_description">"Configurați acest dispozitiv independent"</string>
+<string name="menu_wizard_tvgateway_title">"ZapsterTV Server"</string>
+<string name="menu_wizard_tvgateway_description">"Selectați server pentru a utiliza"</string>
+<string name="menu_wizard_tvgateway_connecting">"conectarea la"</string>
+<string name="menu_wizard_tvgateway_upgradefirmware">"server de firmware vechi găsite. Vă rugăm să actualizați mai întâi"</string>
+<string name="menu_wizard_tvgateway_upgradeapplication">"Versiunea veche client găsită. Vă rugăm să actualizați mai întâi"</string>
+<string name="menu_wizard_tvgateway_channelsfound">"Canale disponibile:"</string>
+<string name="menu_wizard_tvgateway_not_configured">"nu este configurată"</string>
+<string name="menu_wizard_searching_for_devices">"Descoperind dispozitive de rețea"</string>
+<string name="wizard_please_wait">"Te rog asteapta"</string>
 </resources>
