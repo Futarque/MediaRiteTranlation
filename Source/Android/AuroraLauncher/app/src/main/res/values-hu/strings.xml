@@ -27,4 +27,5 @@
 <string name="auto_detect_language">"Nem lehet automatikusan észleli ország"</string>
 <string name="share_wifi_unable">"Nem lehet, hogy Wifi"</string>
 <string name="onlinehelp_error_loading_url">"Nem sikerült megnyitni a súgót"</string>
+<string name="home_bookmarks">"Kiemelt oldalak"</string>
 </resources>
