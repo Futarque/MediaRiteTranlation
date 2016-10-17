@@ -250,4 +250,19 @@ Nyomja meg ismét, hogy visszatérjen a teljes képernyős"</string>
 <string name="menu_tuner_input_select_title">"Tuner bemenet"</string>
 <string name="menu_tuner_tuner_not_selected_help">"Legalább egy tuner kell kiválasztani, hogy továbbra"</string>
 <string name="inputkey_prohibited_msg">"Key tilos!"</string>
+<string name="menu_wizard_cable_sweep_start_freq">"Induló frekvencia (kHz)"</string>
+<string name="menu_wizard_cable_sweep_end_freq">"Záró frekvencia (kHz)"</string>
+<string name="menu_wizard_connection_type">"telepítés típusa"</string>
+<string name="menu_wizard_connection_type_remote_description">"Csatlakozás az egyik elérhető ZapsterTV szerverek"</string>
+<string name="menu_wizard_connection_type_standalone">"helyi telepítés"</string>
+<string name="menu_wizard_connection_type_standalone_description">"Az eszköz konfigurálásához függetlenül"</string>
+<string name="menu_wizard_tvgateway_title">"ZapsterTV Server"</string>
+<string name="menu_wizard_tvgateway_description">"Válassza szerver használata"</string>
+<string name="menu_wizard_tvgateway_connecting">"Csatlakozás"</string>
+<string name="menu_wizard_tvgateway_upgradefirmware">"Régi szerver firmware található. Kérjük, frissítse az első"</string>
+<string name="menu_wizard_tvgateway_upgradeapplication">"Régi kliens verzió található. Kérjük, frissítse az első"</string>
+<string name="menu_wizard_tvgateway_channelsfound">"Csatornák:"</string>
+<string name="menu_wizard_tvgateway_not_configured">"nincs beállítva"</string>
+<string name="menu_wizard_searching_for_devices">"Felfedezése hálózati eszközök"</string>
+<string name="wizard_please_wait">"Kérlek várj"</string>
 </resources>
