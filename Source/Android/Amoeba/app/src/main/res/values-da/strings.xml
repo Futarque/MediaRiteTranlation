@@ -251,4 +251,19 @@ Tryk igen for at komme tilbage til fuldskærm"</string>
 <string name="menu_tuner_input_select_title">"Tuner input"</string>
 <string name="menu_tuner_tuner_not_selected_help">"Mindst en tuner skal vælges for at fortsætte"</string>
 <string name="inputkey_prohibited_msg">"Tast ikke understøttet"</string>
+<string name="menu_wizard_cable_sweep_start_freq">"Start frekvens"</string>
+<string name="menu_wizard_cable_sweep_end_freq">"Slut frekvens"</string>
+<string name="menu_wizard_connection_type">"Installationstype"</string>
+<string name="menu_wizard_connection_type_remote_description">"Forbind til en af de tilgængelige ZapsterTV servere"</string>
+<string name="menu_wizard_connection_type_standalone">"Lokal installation"</string>
+<string name="menu_wizard_connection_type_standalone_description">"Opsæt kun denne enhed"</string>
+<string name="menu_wizard_tvgateway_title">"ZapsterTV Server"</string>
+<string name="menu_wizard_tvgateway_description">"Vælg server"</string>
+<string name="menu_wizard_tvgateway_connecting">"Forbind til "</string>
+<string name="menu_wizard_tvgateway_upgradefirmware">"Gammel server software fundet. Opdater først"</string>
+<string name="menu_wizard_tvgateway_upgradeapplication">"Gammel klient version fundet. Opdater først"</string>
+<string name="menu_wizard_tvgateway_channelsfound">"Tilgængelige kanaler: "</string>
+<string name="menu_wizard_tvgateway_not_configured">"Ikke konfigureret"</string>
+<string name="menu_wizard_searching_for_devices">"Søger efter netværksenheder"</string>
+<string name="wizard_please_wait">"Vent venligst"</string>
 </resources>
