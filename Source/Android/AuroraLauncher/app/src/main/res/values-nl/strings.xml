@@ -27,4 +27,5 @@
 <string name="auto_detect_language">"Niet in staat om automatisch te detecteren land"</string>
 <string name="share_wifi_unable">"Kan geen Wifi in te schakelen"</string>
 <string name="onlinehelp_error_loading_url">"Niet in staat om hulp te openen"</string>
+<string name="home_bookmarks">"Aanbevolen sites"</string>
 </resources>
