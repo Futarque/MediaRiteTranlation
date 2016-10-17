@@ -91,6 +91,10 @@ GetOptions("debug=i" => \$genDebug,
 
 my $prodNr = $ARGV[0];
 
+if(!$prodNr || $prodNr eq ""){
+    Usage();
+}
+
 if ($help) {
     Usage();
 }
@@ -199,7 +203,7 @@ sub writeJson(){
     $code .= "{\n";
     $code .= "        \"languages\": [\n";
     my $doSep = 0;
-    foreach my $lang (@LANGS) {       
+    foreach my $lang (sort @LANGS) {       
 	if($doSep){
 	    $code .= ",\n";
 	}

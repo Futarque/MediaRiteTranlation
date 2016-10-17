@@ -1,17 +1,17 @@
 {
         "languages": [
-                "fi",
-                "it",
-                "en",
-                "de",
-                "ru",
-                "fr",
-                "sv",
                 "da",
-                "nb",
-                "ro",
-                "nl",
+                "de",
+                "en",
+                "es",
+                "fi",
+                "fr",
                 "hu",
-                "es"
+                "it",
+                "nb",
+                "nl",
+                "ro",
+                "ru",
+                "sv"
         ]
 }
