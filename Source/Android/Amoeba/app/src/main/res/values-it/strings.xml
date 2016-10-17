@@ -250,4 +250,19 @@ Premere di nuovo per tornare a schermo intero"</string>
 <string name="menu_tuner_input_select_title">"ingresso Tuner"</string>
 <string name="menu_tuner_tuner_not_selected_help">"Almeno un sintonizzatore deve essere selezionato per continuare"</string>
 <string name="inputkey_prohibited_msg">"Chiave proibiti!"</string>
+<string name="menu_wizard_cable_sweep_start_freq">"Inizio Frequenza (kHz)"</string>
+<string name="menu_wizard_cable_sweep_end_freq">"Frequenza finale (kHz)"</string>
+<string name="menu_wizard_connection_type">"tipo di installazione"</string>
+<string name="menu_wizard_connection_type_remote_description">"Connettersi a uno dei server disponibili ZapsterTV"</string>
+<string name="menu_wizard_connection_type_standalone">"installazione locale"</string>
+<string name="menu_wizard_connection_type_standalone_description">"Configurare il dispositivo in modo indipendente"</string>
+<string name="menu_wizard_tvgateway_title">"ZapsterTV Server"</string>
+<string name="menu_wizard_tvgateway_description">"Selezionare server da utilizzare"</string>
+<string name="menu_wizard_tvgateway_connecting">"Collegamento a"</string>
+<string name="menu_wizard_tvgateway_upgradefirmware">"Vecchio firmware del server trovato. Si prega di aggiornare prima"</string>
+<string name="menu_wizard_tvgateway_upgradeapplication">"Vecchio versione client trovato. Si prega di aggiornare prima"</string>
+<string name="menu_wizard_tvgateway_channelsfound">"Canali disponibili:"</string>
+<string name="menu_wizard_tvgateway_not_configured">"Non configurato"</string>
+<string name="menu_wizard_searching_for_devices">"Alla scoperta di dispositivi di rete"</string>
+<string name="wizard_please_wait">"attendere prego"</string>
 </resources>
