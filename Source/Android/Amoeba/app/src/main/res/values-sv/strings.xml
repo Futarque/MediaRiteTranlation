@@ -251,4 +251,19 @@ Tryck igen för att återgå till fullskärmsläge"</string>
 <string name="menu_tuner_input_select_title">"tuner Input"</string>
 <string name="menu_tuner_tuner_not_selected_help">"Minst en mottagare måste väljas för att fortsätta"</string>
 <string name="inputkey_prohibited_msg">"Nyckel förbjuden!"</string>
+<string name="menu_wizard_cable_sweep_start_freq">"Startfrekvens (kHz)"</string>
+<string name="menu_wizard_cable_sweep_end_freq">"Slutfrekvens (kHz)"</string>
+<string name="menu_wizard_connection_type">"installations~~POS=TRUNC"</string>
+<string name="menu_wizard_connection_type_remote_description">"Anslut till en av de tillgängliga ZapsterTV servrar"</string>
+<string name="menu_wizard_connection_type_standalone">"lokal installation"</string>
+<string name="menu_wizard_connection_type_standalone_description">"Konfigurera enheten oberoende"</string>
+<string name="menu_wizard_tvgateway_title">"ZapsterTV Server"</string>
+<string name="menu_wizard_tvgateway_description">"Välj server för att använda"</string>
+<string name="menu_wizard_tvgateway_connecting">"Ansluter till"</string>
+<string name="menu_wizard_tvgateway_upgradefirmware">"Gamla servern firmware hittas. Uppgradera först"</string>
+<string name="menu_wizard_tvgateway_upgradeapplication">"Gamla klienten version hittades. Uppgradera först"</string>
+<string name="menu_wizard_tvgateway_channelsfound">"Kanaler tillgängliga:"</string>
+<string name="menu_wizard_tvgateway_not_configured">"inte konfigurerad"</string>
+<string name="menu_wizard_searching_for_devices">"Upptäcka nätverksenheter"</string>
+<string name="wizard_please_wait">"Vänta"</string>
 </resources>
