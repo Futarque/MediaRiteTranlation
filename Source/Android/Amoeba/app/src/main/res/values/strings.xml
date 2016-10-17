@@ -64,6 +64,8 @@
     <string name="menu_wizard_cable">Cable</string>
     <string name="menu_wizard_satellite">Satellite</string>
     <string name="menu_wizard_terrestrial">Terrestrial</string>
+    <string name="menu_wizard_cable_sweep_start_freq">Start Frequency (kHz)</string>
+    <string name="menu_wizard_cable_sweep_end_freq">End Frequency (kHz)</string>
     <string name="menu_wizard_cable_homing_freq">Search Frequency (kHz)</string>
     <string name="menu_wizard_cable_symbol_rate">Symbolrate (kSym/s)</string>
     <string name="menu_wizard_cable_network_id">Network ID</string>
@@ -240,5 +242,18 @@
     <string name="menu_tuner_input_select_title">Tuner Input</string>
     <string name="menu_tuner_tuner_not_selected_help">At least one tuner must be selected to continue</string>
     <string name="inputkey_prohibited_msg">Key Prohibited!</string>
-
+    <string name="menu_wizard_connection_type">Installation type</string>
+    <string name="menu_wizard_connection_type_description"></string>
+    <string name="menu_wizard_connection_type_remote_description">Connect to one of the available ZapsterTV servers</string>
+    <string name="menu_wizard_connection_type_standalone">Local installation</string>
+    <string name="menu_wizard_connection_type_standalone_description">Configure this device independently</string>
+    <string name="menu_wizard_tvgateway_title">ZapsterTV Server</string>
+    <string name="menu_wizard_tvgateway_description">Select server to use</string>
+    <string name="menu_wizard_tvgateway_connecting">"Connecting to "</string>
+    <string name="menu_wizard_tvgateway_upgradefirmware">Old server firmware found. Please upgrade first</string>
+    <string name="menu_wizard_tvgateway_upgradeapplication">Old client version found. Please upgrade first</string>
+    <string name="menu_wizard_tvgateway_channelsfound">"Channels available: "</string>
+    <string name="menu_wizard_tvgateway_not_configured">Not configured</string>
+    <string name="menu_wizard_searching_for_devices">Discovering network devices</string>
+    <string name="wizard_please_wait">Please wait</string>
 </resources>

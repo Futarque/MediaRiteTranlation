@@ -27,4 +27,5 @@
 <string name="auto_detect_language">"Kan ikke automatisk finde land"</string>
 <string name="share_wifi_unable">"Kan ikke tænde Wifi"</string>
 <string name="onlinehelp_error_loading_url">"Kan ikke åbne hjælp"</string>
+<string name="home_bookmarks">"Anbefalede sider"</string>
 </resources>

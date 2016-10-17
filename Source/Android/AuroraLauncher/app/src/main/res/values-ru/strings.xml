@@ -27,4 +27,5 @@
 <string name="auto_detect_language">"Невозможно автоматически определить страну"</string>
 <string name="share_wifi_unable">"Невозможно включить Wi-Fi"</string>
 <string name="onlinehelp_error_loading_url">"Невозможно открыть помощь"</string>
+<string name="home_bookmarks">"Интересные сайты"</string>
 </resources>

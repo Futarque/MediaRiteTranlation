@@ -27,4 +27,5 @@
 <string name="auto_detect_language">"Det går inte att automatiskt upptäcka land"</string>
 <string name="share_wifi_unable">"Det går inte att aktivera WiFi"</string>
 <string name="onlinehelp_error_loading_url">"Det går inte att öppna hjälp"</string>
+<string name="home_bookmarks">"Utvalda platser"</string>
 </resources>

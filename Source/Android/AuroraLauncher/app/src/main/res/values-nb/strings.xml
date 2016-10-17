@@ -29,4 +29,5 @@
 <string name="auto_detect_language">"Kan ikke automatisk oppdage landet"</string>
 <string name="share_wifi_unable">"Kan ikke aktivere Wifi"</string>
 <string name="onlinehelp_error_loading_url">"Kan ikke åpne hjelpen"</string>
+<string name="home_bookmarks">"Utvalgte nettsteder"</string>
 </resources>

@@ -250,4 +250,19 @@ Druk nogmaals op om terug te keren naar fullscreen"</string>
 <string name="menu_tuner_input_select_title">"tuner Input"</string>
 <string name="menu_tuner_tuner_not_selected_help">"Ten minste één ontvanger worden geselecteerd doorgaan"</string>
 <string name="inputkey_prohibited_msg">"Key Verboden!"</string>
+<string name="menu_wizard_cable_sweep_start_freq">"Start frequentie (kHz)"</string>
+<string name="menu_wizard_cable_sweep_end_freq">"End frequentie (kHz)"</string>
+<string name="menu_wizard_connection_type">"Type installatie"</string>
+<string name="menu_wizard_connection_type_remote_description">"Verbinding maken met een van de beschikbare ZapsterTV servers"</string>
+<string name="menu_wizard_connection_type_standalone">"lokale installatie"</string>
+<string name="menu_wizard_connection_type_standalone_description">"Configureren dit apparaat onafhankelijk"</string>
+<string name="menu_wizard_tvgateway_title">"ZapsterTV Server"</string>
+<string name="menu_wizard_tvgateway_description">"Selecteer server te gebruiken"</string>
+<string name="menu_wizard_tvgateway_connecting">"Verbinden met"</string>
+<string name="menu_wizard_tvgateway_upgradefirmware">"Oude server firmware gevonden. Upgrade nu eerst"</string>
+<string name="menu_wizard_tvgateway_upgradeapplication">"Oude client-versie gevonden. Upgrade nu eerst"</string>
+<string name="menu_wizard_tvgateway_channelsfound">"Kanalen beschikbaar:"</string>
+<string name="menu_wizard_tvgateway_not_configured">"Niet ingesteld"</string>
+<string name="menu_wizard_searching_for_devices">"Het ontdekken van netwerkapparaten"</string>
+<string name="wizard_please_wait">"Even geduld aub"</string>
 </resources>

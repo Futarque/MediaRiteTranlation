@@ -27,4 +27,5 @@
 <string name="auto_detect_language">"No se puede detectar automáticamente país"</string>
 <string name="share_wifi_unable">"No se puede permitir Wifi"</string>
 <string name="onlinehelp_error_loading_url">"No se puede abrir la ayuda"</string>
+<string name="home_bookmarks">"Sitios destacados"</string>
 </resources>
