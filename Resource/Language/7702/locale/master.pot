@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MediaRite\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-10-14 11:02+0200\n"
+"POT-Creation-Date: 2016-11-04 10:13+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,12 +18,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:367
-#: Core/Implementation/ChannelSearchController.cpp:2341
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:405
+#: Core/Implementation/ChannelSearchController.cpp:2347
 msgid "Analog"
 msgstr ""
 
 #. Tuner
-#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:391
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:429
 msgid "Antenna Error"
 msgstr ""
 
@@ -89,35 +90,35 @@ msgstr ""
 msgid "CHNAME|Default"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:558
+#: Core/Implementation/ChannelSearchController.cpp:564
 msgid "CHSEARCH|Aborted"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:556
+#: Core/Implementation/ChannelSearchController.cpp:562
 msgid "CHSEARCH|Aborting"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:560
+#: Core/Implementation/ChannelSearchController.cpp:566
 msgid "CHSEARCH|Finished"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:550
+#: Core/Implementation/ChannelSearchController.cpp:556
 msgid "CHSEARCH|Initializing"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:564
+#: Core/Implementation/ChannelSearchController.cpp:570
 msgid "CHSEARCH|Interaction"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:562
+#: Core/Implementation/ChannelSearchController.cpp:568
 msgid "CHSEARCH|Processing"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:554
+#: Core/Implementation/ChannelSearchController.cpp:560
 msgid "CHSEARCH|Searching"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:552
+#: Core/Implementation/ChannelSearchController.cpp:558
 msgid "CHSEARCH|Tuning"
 msgstr ""
 
@@ -161,9 +162,9 @@ msgstr ""
 msgid "COUNTRY|Other"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:779
-#: Core/Implementation/ChannelSearchController.cpp:1620
-#: Core/Implementation/ChannelSearchController.cpp:2338
+#: Core/Implementation/ChannelSearchController.cpp:785
+#: Core/Implementation/ChannelSearchController.cpp:1626
+#: Core/Implementation/ChannelSearchController.cpp:2344
 msgid "Cable"
 msgstr ""
 
@@ -281,13 +282,28 @@ msgid "Danish"
 msgstr ""
 
 #. OAD
-#: Core/Implementation/SoftwareUpdateController.cpp:1167
+#: Core/Implementation/SoftwareUpdateController.cpp:1228
 msgid "Decryption error"
 msgstr ""
 
 #. DENMARK
 #: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:382
 msgid "Denmark"
+msgstr ""
+
+#. Software Update
+#: Basic/FutarqueInfo/src/FutarqueSWDownloadInfo.cpp:54
+msgid "Detecting Size"
+msgstr ""
+
+#. Software Update
+#: Basic/FutarqueInfo/src/FutarqueSWDownloadInfo.cpp:72
+msgid "Done"
+msgstr ""
+
+#. Software Update
+#: Basic/FutarqueInfo/src/FutarqueSWDownloadInfo.cpp:58
+msgid "Downloading"
 msgstr ""
 
 #. FutarqueEpgGenre
@@ -299,8 +315,8 @@ msgstr ""
 msgid "Dutch"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:503
-#: MediaRiteApi/Channels/ChannelManager.cpp:579
+#: Core/Implementation/ChannelSearchController.cpp:509
+#: MediaRiteApi/Channels/ChannelManager.cpp:586
 msgid "East"
 msgstr ""
 
@@ -319,28 +335,33 @@ msgid "Entertainment"
 msgstr ""
 
 #. OAD
-#: Core/Implementation/SoftwareUpdateController.cpp:665
-#: Core/Implementation/SoftwareUpdateController.cpp:1017
+#: Core/Implementation/SoftwareUpdateController.cpp:725
+#: Core/Implementation/SoftwareUpdateController.cpp:1078
 msgid "Error contacting update server"
 msgstr ""
 
 #. OAD
 #: Core/Implementation/OverAirUpdateController.cpp:134
-#: Core/Implementation/SoftwareUpdateController.cpp:701
-#: Core/Implementation/SoftwareUpdateController.cpp:719
+#: Core/Implementation/SoftwareUpdateController.cpp:761
+#: Core/Implementation/SoftwareUpdateController.cpp:779
 msgid "Error downloading update."
 msgstr ""
 
 #. OAD
-#: Core/Implementation/SoftwareUpdateController.cpp:674
-#: Core/Implementation/SoftwareUpdateController.cpp:681
-#: Core/Implementation/SoftwareUpdateController.cpp:1144
-#: Core/Implementation/SoftwareUpdateController.cpp:1153
+#: Core/Implementation/SoftwareUpdateController.cpp:734
+#: Core/Implementation/SoftwareUpdateController.cpp:741
+#: Core/Implementation/SoftwareUpdateController.cpp:1205
+#: Core/Implementation/SoftwareUpdateController.cpp:1214
 msgid "Error reading update file"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:171
 msgid "Estonian"
+msgstr ""
+
+#. Software Update
+#: Basic/FutarqueInfo/src/FutarqueSWDownloadInfo.cpp:99
+msgid "Failed"
 msgstr ""
 
 #. FINLAND
@@ -419,8 +440,8 @@ msgid "India"
 msgstr ""
 
 #. newTuner.mFrontEndCapabilityMask;
-#: Core/Implementation/Stream/Modules/NetworkTunerManager/NetworkTunerManager.cpp:876
-#: Core/Implementation/Stream/Modules/NetworkTunerManager/NetworkTunerManager.cpp:926
+#: Core/Implementation/Stream/Modules/NetworkTunerManager/NetworkTunerManager.cpp:887
+#: Core/Implementation/Stream/Modules/NetworkTunerManager/NetworkTunerManager.cpp:937
 msgid "Internal"
 msgstr ""
 
@@ -429,12 +450,12 @@ msgid "Internal HDD"
 msgstr ""
 
 #. OAD
-#: Core/Implementation/SoftwareUpdateController.cpp:1053
+#: Core/Implementation/SoftwareUpdateController.cpp:1114
 msgid "Invalid index file"
 msgstr ""
 
 #. OAD
-#: Core/Implementation/SoftwareUpdateController.cpp:983
+#: Core/Implementation/SoftwareUpdateController.cpp:1044
 msgid "Invalid product."
 msgstr ""
 
@@ -595,20 +616,20 @@ msgid "No Resources"
 msgstr ""
 
 #. Tuner
-#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:404
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:442
 msgid "No Signal"
 msgstr ""
 
-#: MediaRiteApi/Player/Player.cpp:897
+#: MediaRiteApi/Player/Player.cpp:903
 msgid "No Subtitles"
 msgstr ""
 
 #. OAD
-#: Core/Implementation/SoftwareUpdateController.cpp:1032
+#: Core/Implementation/SoftwareUpdateController.cpp:1093
 msgid "No update found at URL"
 msgstr ""
 
-#: MediaRiteApi/Settings/SettingsManager.cpp:342
+#: MediaRiteApi/Settings/SettingsManager.cpp:394
 msgid "None"
 msgstr ""
 
@@ -645,6 +666,11 @@ msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:234
 msgid "Portuguese"
+msgstr ""
+
+#. Software Update
+#: Basic/FutarqueInfo/src/FutarqueSWDownloadInfo.cpp:95
+msgid "Rebooting"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:237
@@ -750,8 +776,8 @@ msgstr ""
 msgid "Sanskrit"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:786
-#: Core/Implementation/ChannelSearchController.cpp:1617
+#: Core/Implementation/ChannelSearchController.cpp:792
+#: Core/Implementation/ChannelSearchController.cpp:1623
 msgid "Satellite"
 msgstr ""
 
@@ -1029,17 +1055,17 @@ msgid "TUNER|Horizontal"
 msgstr ""
 
 #. Tuner
-#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:394
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:432
 msgid "TUNER|Locked"
 msgstr ""
 
 #. Tuner
-#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:397
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:435
 msgid "TUNER|Scanning"
 msgstr ""
 
 #. Tuner
-#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:407
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:445
 msgid "TUNER|Unlocked"
 msgstr ""
 
@@ -1060,7 +1086,7 @@ msgstr ""
 msgid "Telugu"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:2335
+#: Core/Implementation/ChannelSearchController.cpp:2341
 msgid "Terrestrial"
 msgstr ""
 
@@ -1092,7 +1118,7 @@ msgid "Ukrainian"
 msgstr ""
 
 #. OAD
-#: Core/Implementation/SoftwareUpdateController.cpp:997
+#: Core/Implementation/SoftwareUpdateController.cpp:1058
 msgid "Unable to burn update."
 msgstr ""
 
@@ -1136,7 +1162,7 @@ msgid "Unsupported encryption system"
 msgstr ""
 
 #. OAD
-#: Core/Implementation/SoftwareUpdateController.cpp:980
+#: Core/Implementation/SoftwareUpdateController.cpp:1041
 msgid "Update corrupt."
 msgstr ""
 
@@ -1144,20 +1170,25 @@ msgstr ""
 #: Core/Implementation/OverAirUpdateController.cpp:253
 #: Core/Implementation/OverAirUpdateController.cpp:261
 #: Core/Implementation/OverAirUpdateController.cpp:283
-#: Core/Implementation/SoftwareUpdateController.cpp:819
-#: Core/Implementation/SoftwareUpdateController.cpp:1053
-#: Core/Implementation/SoftwareUpdateController.cpp:1167
+#: Core/Implementation/SoftwareUpdateController.cpp:879
+#: Core/Implementation/SoftwareUpdateController.cpp:1114
+#: Core/Implementation/SoftwareUpdateController.cpp:1228
 msgid "Update failed"
 msgstr ""
 
 #. OAD
-#: Core/Implementation/SoftwareUpdateController.cpp:986
+#: Core/Implementation/SoftwareUpdateController.cpp:1047
 msgid "Update invalid."
 msgstr ""
 
 #. OAD
-#: Core/Implementation/SoftwareUpdateController.cpp:989
+#: Core/Implementation/SoftwareUpdateController.cpp:1050
 msgid "Update requirements not met."
+msgstr ""
+
+#. Software Update
+#: Basic/FutarqueInfo/src/FutarqueSWDownloadInfo.cpp:80
+msgid "Validating"
 msgstr ""
 
 #. OAD
@@ -1165,18 +1196,31 @@ msgstr ""
 msgid "Verify error"
 msgstr ""
 
+#: Basic/FutarqueInfo/src/FutarqueSWDownloadInfo.cpp:86
+msgid ""
+"Warning!\n"
+"Upgrading Software.\n"
+"Do NOT turn off your device."
+msgstr ""
+
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:273
 msgid "Welsh"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:506
-#: MediaRiteApi/Channels/ChannelManager.cpp:582
+#: Core/Implementation/ChannelSearchController.cpp:512
+#: MediaRiteApi/Channels/ChannelManager.cpp:589
 msgid "West"
 msgstr ""
 
 #. OAD
-#: Core/Implementation/SoftwareUpdateController.cpp:819
+#: Core/Implementation/SoftwareUpdateController.cpp:879
 msgid "Write error"
+msgstr ""
+
+#. Software Update
+#: Basic/FutarqueInfo/src/FutarqueSWDownloadInfo.cpp:85
+#: Basic/FutarqueInfo/src/FutarqueSWDownloadInfo.cpp:90
+msgid "Writing Update"
 msgstr ""
 
 #. Conditional Access
@@ -1190,6 +1234,6 @@ msgid "Yesterday"
 msgstr ""
 
 #. OAD
-#: Core/Implementation/SoftwareUpdateController.cpp:992
+#: Core/Implementation/SoftwareUpdateController.cpp:1053
 msgid "Your current version is newer."
 msgstr ""

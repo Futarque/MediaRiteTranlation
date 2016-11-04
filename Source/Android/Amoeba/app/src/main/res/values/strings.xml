@@ -53,6 +53,7 @@
     <string name="menu_settings">Settings</string>
     <string name="menu_settings_language">Language</string>
     <string name="menu_settings_reset">Reset</string>
+    <string name="menu_settings_reset_server_or_local">Server or Local Settings</string>
     <string name="menu_settings_dvr">DVR</string>
     <string name="menu_settings_purchase">Store</string>
     <string name="menu_settings_about">About</string>
@@ -212,7 +213,6 @@
     <string name="bookings_keep_all_episodes">Keep all episodes</string>
     <string name="bookings_keep_last_episodes">Keep the last %d episodes</string>
     <string name="open_source_licenses">Open source licenses:</string>
-
     <string name="intro_channels_description">Press <b>SELECT</b> to enter channel list</string>
     <string name="intro_change_channel_title">Channel Surfing</string>
     <string name="intro_change_channel_description">Press <b>UP</b>/<b>DOWN</b> to change channels</string>
@@ -243,11 +243,9 @@
     <string name="menu_tuner_tuner_not_selected_help">At least one tuner must be selected to continue</string>
     <string name="inputkey_prohibited_msg">Key Prohibited!</string>
     <string name="menu_wizard_connection_type">Installation type</string>
-    <string name="menu_wizard_connection_type_description"></string>
-    <string name="menu_wizard_connection_type_remote_description">Connect to one of the available ZapsterTV servers</string>
+    <string name="menu_wizard_connection_type_remote_description">Connect to one of the available servers</string>
     <string name="menu_wizard_connection_type_standalone">Local installation</string>
     <string name="menu_wizard_connection_type_standalone_description">Configure this device independently</string>
-    <string name="menu_wizard_tvgateway_title">ZapsterTV Server</string>
     <string name="menu_wizard_tvgateway_description">Select server to use</string>
     <string name="menu_wizard_tvgateway_connecting">"Connecting to "</string>
     <string name="menu_wizard_tvgateway_upgradefirmware">Old server firmware found. Please upgrade first</string>
@@ -256,4 +254,43 @@
     <string name="menu_wizard_tvgateway_not_configured">Not configured</string>
     <string name="menu_wizard_searching_for_devices">Discovering network devices</string>
     <string name="wizard_please_wait">Please wait</string>
+    <string name="core_status_playback_blocked">Playback blocked\nPurchase premium to view recordings</string>
+    <string name="click_to_enable">Click to enable</string>
+    <string name="dvr_not_available">DVR feature not available</string>
+    <string name="dvr_grant_permission">Please allow storage access inorder for DVR to function</string>
+
+    <!-- BEGIN Translations for non-Android UI -->
+    <!-- Web UI -->
+    <string name="menu_settings_general">General</string>
+    <string name="menu_setup_system_network_identity">System network identity</string>
+    <string name="about_product_number">Product number</string>
+    <string name="about_software_version">Software version</string>
+    <string name="about_build_date">Build date</string>
+    <string name="about_manufacturer">Manufacturer</string>
+    <string name="about_release_note">Release Note</string>
+
+    <!-- Apple UI -->
+    <string name="zapster_server">ZapsterTV Server</string>
+    <string name="zapster_server_name">Name</string>
+    <string name="zapster_server_uniqie_id">Unique ID</string>
+    <string name="zapster_select_new">Select New Server</string>
+    <string name="zapster_server_info">Info</string>
+    <string name="zapster_server_version">Version</string>
+    <!-- END Translations -->
+
+
+    <string name="update_new_found">New update found</string>
+    <string name="update_download">Download update</string>
+    <string name="update_check">Check for update</string>
+    <string name="update_checking">Checking</string>
+    <string name="update_download_complete">Download complete</string>
+    <string name="update_apply">Apply update</string>
+    <string name="update_title">Software update</string>
+    <string name="update_forced">Forced update</string>
+    <string name="update_up_to_date">System is up to date</string>
+    <string name="update_enter_safe_mode">Entering safe mode</string>
+    <string name="update_channel">Update Channel</string>
+    <string name="update_channel_stable">Stable</string>
+    <string name="update_channel_beta">Beta</string>
+    <string name="update_restarting">Restarting in</string>
 </resources>
