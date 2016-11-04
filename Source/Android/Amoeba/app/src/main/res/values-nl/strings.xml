@@ -256,7 +256,6 @@ Druk nogmaals op om terug te keren naar fullscreen"</string>
 <string name="menu_wizard_connection_type_remote_description">"Verbinding maken met een van de beschikbare ZapsterTV servers"</string>
 <string name="menu_wizard_connection_type_standalone">"lokale installatie"</string>
 <string name="menu_wizard_connection_type_standalone_description">"Configureren dit apparaat onafhankelijk"</string>
-<string name="menu_wizard_tvgateway_title">"ZapsterTV Server"</string>
 <string name="menu_wizard_tvgateway_description">"Selecteer server te gebruiken"</string>
 <string name="menu_wizard_tvgateway_connecting">"Verbinden met"</string>
 <string name="menu_wizard_tvgateway_upgradefirmware">"Oude server firmware gevonden. Upgrade nu eerst"</string>
@@ -265,4 +264,44 @@ Druk nogmaals op om terug te keren naar fullscreen"</string>
 <string name="menu_wizard_tvgateway_not_configured">"Niet ingesteld"</string>
 <string name="menu_wizard_searching_for_devices">"Het ontdekken van netwerkapparaten"</string>
 <string name="wizard_please_wait">"Even geduld aub"</string>
+<string name="menu_settings_reset_server_or_local">"Server of Local Settings"</string>
+<string name="core_status_playback_blocked">"afspelen geblokkeerd
+Schaf premie aan opnamen te bekijken"</string>
+<string name="click_to_enable">"Klik hier om in te schakelen"</string>
+<string name="dvr_not_available">"DVR beschikken niet beschikbaar"</string>
+<string name="dvr_grant_permission">"Houdt u rekening met opslag toegang inorder voor DVR te laten functioneren"</string>
+
+<!-- BEGIN Translations for non-Android UI 
+ Web UI -->
+<string name="menu_settings_general">"Algemeen"</string>
+<string name="menu_setup_system_network_identity">"System netwerk identiteit"</string>
+<string name="about_product_number">"Productnummer"</string>
+<string name="about_software_version">"Software versie"</string>
+<string name="about_build_date">"Bouwdatum"</string>
+<string name="about_manufacturer">"Fabrikant"</string>
+<string name="about_release_note">"release note"</string>
+
+<!-- Apple UI -->
+<string name="zapster_server">"ZapsterTV Server"</string>
+<string name="zapster_server_name">"Naam"</string>
+<string name="zapster_server_uniqie_id">"Unieke ID"</string>
+<string name="zapster_select_new">"Selecteer Nieuwe Server"</string>
+<string name="zapster_server_info">"info"</string>
+<string name="zapster_server_version">"Versie"</string>
+
+<!-- END Translations -->
+<string name="update_new_found">"Nieuwe update gevonden"</string>
+<string name="update_download">"Download-update"</string>
+<string name="update_check">"Controleer op updates"</string>
+<string name="update_checking">"Controleren"</string>
+<string name="update_download_complete">"Download voltooid"</string>
+<string name="update_apply">"Update uitvoeren"</string>
+<string name="update_title">"Software-update"</string>
+<string name="update_forced">"gedwongen-update"</string>
+<string name="update_up_to_date">"Systeem is up-to-date"</string>
+<string name="update_enter_safe_mode">"Het invoeren van de veilige modus"</string>
+<string name="update_channel">"update-Channel"</string>
+<string name="update_channel_stable">"Stal"</string>
+<string name="update_channel_beta">"beta"</string>
+<string name="update_restarting">"Het opnieuw starten in"</string>
 </resources>
