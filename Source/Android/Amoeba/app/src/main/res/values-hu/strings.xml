@@ -256,7 +256,6 @@ Nyomja meg ismét, hogy visszatérjen a teljes képernyős"</string>
 <string name="menu_wizard_connection_type_remote_description">"Csatlakozás az egyik elérhető ZapsterTV szerverek"</string>
 <string name="menu_wizard_connection_type_standalone">"helyi telepítés"</string>
 <string name="menu_wizard_connection_type_standalone_description">"Az eszköz konfigurálásához függetlenül"</string>
-<string name="menu_wizard_tvgateway_title">"ZapsterTV Server"</string>
 <string name="menu_wizard_tvgateway_description">"Válassza szerver használata"</string>
 <string name="menu_wizard_tvgateway_connecting">"Csatlakozás"</string>
 <string name="menu_wizard_tvgateway_upgradefirmware">"Régi szerver firmware található. Kérjük, frissítse az első"</string>
@@ -265,4 +264,44 @@ Nyomja meg ismét, hogy visszatérjen a teljes képernyős"</string>
 <string name="menu_wizard_tvgateway_not_configured">"nincs beállítva"</string>
 <string name="menu_wizard_searching_for_devices">"Felfedezése hálózati eszközök"</string>
 <string name="wizard_please_wait">"Kérlek várj"</string>
+<string name="menu_settings_reset_server_or_local">"Server vagy Helyi beállítások"</string>
+<string name="core_status_playback_blocked">"A lejátszás blokkolt
+Vásároljon prémium megtekintéséhez felvételek"</string>
+<string name="click_to_enable">"Kattints, hogy"</string>
+<string name="dvr_not_available">"DVR funkció nem elérhető"</string>
+<string name="dvr_grant_permission">"Kérjük, hogy a tárolóhoz való hozzáférés inorder DVR működéséhez"</string>
+
+<!-- BEGIN Translations for non-Android UI 
+ Web UI -->
+<string name="menu_settings_general">"Tábornok"</string>
+<string name="menu_setup_system_network_identity">"A rendszer hálózati azonosítóhoz"</string>
+<string name="about_product_number">"Termék szám"</string>
+<string name="about_software_version">"Szoftver verzió"</string>
+<string name="about_build_date">"Építés éve"</string>
+<string name="about_manufacturer">"Gyártó"</string>
+<string name="about_release_note">"Kiadott verziók"</string>
+
+<!-- Apple UI -->
+<string name="zapster_server">"ZapsterTV Server"</string>
+<string name="zapster_server_name">"Név"</string>
+<string name="zapster_server_uniqie_id">"Egyéni azonosító"</string>
+<string name="zapster_select_new">"Válassza az Új kiszolgáló"</string>
+<string name="zapster_server_info">"Info"</string>
+<string name="zapster_server_version">"Változat"</string>
+
+<!-- END Translations -->
+<string name="update_new_found">"Új frissítés talált"</string>
+<string name="update_download">"frissítés letöltése"</string>
+<string name="update_check">"Frissítések"</string>
+<string name="update_checking">"Ellenőrzés"</string>
+<string name="update_download_complete">"A letöltés befejeződött"</string>
+<string name="update_apply">"használja a frissítést"</string>
+<string name="update_title">"Szoftver frissítés"</string>
+<string name="update_forced">"Erőltetett frissítés"</string>
+<string name="update_up_to_date">"A rendszer naprakész"</string>
+<string name="update_enter_safe_mode">"Belépő csökkentett módban"</string>
+<string name="update_channel">"Csatorna frissítése"</string>
+<string name="update_channel_stable">"Stabil"</string>
+<string name="update_channel_beta">"Beta"</string>
+<string name="update_restarting">"újraindítás"</string>
 </resources>
