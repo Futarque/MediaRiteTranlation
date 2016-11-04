@@ -7,13 +7,14 @@ msgstr ""
 "Project-Id-Version: MediaRite\n"
 "Language: fi\n"
 
-#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:400
-#: Core/Implementation/ChannelSearchController.cpp:2341
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:367
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:405
+#: Core/Implementation/ChannelSearchController.cpp:2347
 msgid "Analog"
 msgstr "Analoginen"
 
 #. Tuner
-#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:424
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:429
 msgid "Antenna Error"
 msgstr "Antenni Virhe"
 
@@ -66,40 +67,40 @@ msgid "CA|Checking Card"
 msgstr "Tarkistaminen Card"
 
 #: Core/Implementation/MediaHandlers/Analog/AnalogStreamHandler.cpp:308
-#: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:3234
-#: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:5340
+#: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:3233
+#: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:5339
 msgid "CHNAME|Default"
 msgstr "Oletusarvo"
 
-#: Core/Implementation/ChannelSearchController.cpp:558
+#: Core/Implementation/ChannelSearchController.cpp:564
 msgid "CHSEARCH|Aborted"
 msgstr "Epäonnistunut"
 
-#: Core/Implementation/ChannelSearchController.cpp:556
+#: Core/Implementation/ChannelSearchController.cpp:562
 msgid "CHSEARCH|Aborting"
 msgstr "Keskeytetään"
 
-#: Core/Implementation/ChannelSearchController.cpp:560
+#: Core/Implementation/ChannelSearchController.cpp:566
 msgid "CHSEARCH|Finished"
 msgstr "Valmiit"
 
-#: Core/Implementation/ChannelSearchController.cpp:550
+#: Core/Implementation/ChannelSearchController.cpp:556
 msgid "CHSEARCH|Initializing"
 msgstr "Alustetaan"
 
-#: Core/Implementation/ChannelSearchController.cpp:564
+#: Core/Implementation/ChannelSearchController.cpp:570
 msgid "CHSEARCH|Interaction"
 msgstr "Vuorovaikutus"
 
-#: Core/Implementation/ChannelSearchController.cpp:562
+#: Core/Implementation/ChannelSearchController.cpp:568
 msgid "CHSEARCH|Processing"
 msgstr "Jalostus"
 
-#: Core/Implementation/ChannelSearchController.cpp:554
+#: Core/Implementation/ChannelSearchController.cpp:560
 msgid "CHSEARCH|Searching"
 msgstr "Tutkiva"
 
-#: Core/Implementation/ChannelSearchController.cpp:552
+#: Core/Implementation/ChannelSearchController.cpp:558
 msgid "CHSEARCH|Tuning"
 msgstr "Viritys"
 
@@ -143,9 +144,9 @@ msgstr "Selostus"
 msgid "COUNTRY|Other"
 msgstr "Muut"
 
-#: Core/Implementation/ChannelSearchController.cpp:779
-#: Core/Implementation/ChannelSearchController.cpp:1620
-#: Core/Implementation/ChannelSearchController.cpp:2338
+#: Core/Implementation/ChannelSearchController.cpp:785
+#: Core/Implementation/ChannelSearchController.cpp:1626
+#: Core/Implementation/ChannelSearchController.cpp:2344
 msgid "Cable"
 msgstr "Kaapeli"
 
@@ -242,8 +243,8 @@ msgstr "Draama"
 msgid "Dutch"
 msgstr "Hollantilainen"
 
-#: Core/Implementation/ChannelSearchController.cpp:503
-#: MediaRiteApi/ChannelLists/ChannelListManager.cpp:572
+#: Core/Implementation/ChannelSearchController.cpp:509
+#: MediaRiteApi/Channels/ChannelManager.cpp:586
 msgid "East"
 msgstr "Itään"
 
@@ -366,15 +367,15 @@ msgstr "Kannada"
 msgid "LANG|Original"
 msgstr "Alkuperäinen"
 
-#: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2729
+#: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2730
 msgid "LIST|All"
 msgstr "Kaikki"
 
-#: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2733
+#: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2734
 msgid "LIST|Favorite"
 msgstr "Suosikki"
 
-#: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2731
+#: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2732
 msgid "LIST|Hidden"
 msgstr "Kätketty"
 
@@ -488,15 +489,15 @@ msgid "No Resources"
 msgstr "Ei Resurssit"
 
 #. Tuner
-#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:437
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:442
 msgid "No Signal"
 msgstr "Ei signaalia"
 
-#: MediaRiteApi/Player/Player.cpp:888
+#: MediaRiteApi/Player/Player.cpp:903
 msgid "No Subtitles"
 msgstr "Ei Tekstitykset"
 
-#: MediaRiteApi/Settings/SettingsManager.cpp:342
+#: MediaRiteApi/Settings/SettingsManager.cpp:394
 msgid "None"
 msgstr "Ei mitään"
 
@@ -634,8 +635,8 @@ msgstr "Sami"
 msgid "Sanskrit"
 msgstr "Sanskritin"
 
-#: Core/Implementation/ChannelSearchController.cpp:786
-#: Core/Implementation/ChannelSearchController.cpp:1617
+#: Core/Implementation/ChannelSearchController.cpp:792
+#: Core/Implementation/ChannelSearchController.cpp:1623
 msgid "Satellite"
 msgstr "Satelliitti"
 
@@ -643,8 +644,8 @@ msgstr "Satelliitti"
 msgid "Service %d.%d MHz"
 msgstr "Palvelu% d.% D MHz"
 
-#: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:3231
-#: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:5342
+#: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:3230
+#: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:5341
 msgid "Service <%u,%u,%u>"
 msgstr "Huolto <% u,% u,% u>"
 
@@ -911,17 +912,17 @@ msgid "TUNER|Horizontal"
 msgstr "Vaakasuora"
 
 #. Tuner
-#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:427
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:432
 msgid "TUNER|Locked"
 msgstr "Kiinni"
 
 #. Tuner
-#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:430
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:435
 msgid "TUNER|Scanning"
 msgstr "Skannaus"
 
 #. Tuner
-#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:440
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:445
 msgid "TUNER|Unlocked"
 msgstr "Auki"
 
@@ -942,7 +943,7 @@ msgstr "Tamil"
 msgid "Telugu"
 msgstr "Telugu"
 
-#: Core/Implementation/ChannelSearchController.cpp:2335
+#: Core/Implementation/ChannelSearchController.cpp:2341
 msgid "Terrestrial"
 msgstr "Maa-"
 
@@ -1011,8 +1012,8 @@ msgstr "Tukematon salausjärjestelmä"
 msgid "Welsh"
 msgstr "Walesin"
 
-#: Core/Implementation/ChannelSearchController.cpp:506
-#: MediaRiteApi/ChannelLists/ChannelListManager.cpp:575
+#: Core/Implementation/ChannelSearchController.cpp:512
+#: MediaRiteApi/Channels/ChannelManager.cpp:589
 msgid "West"
 msgstr "Länsi"
 
@@ -1031,33 +1032,34 @@ msgid "Audio CD"
 msgstr "Audio CD"
 
 #. OAD
-#: Core/Implementation/SoftwareUpdateController.cpp:1167
+#: Core/Implementation/SoftwareUpdateController.cpp:1228
 msgid "Decryption error"
 msgstr "Salauksen virhe"
 
 #. OAD
-#: Core/Implementation/SoftwareUpdateController.cpp:665
-#: Core/Implementation/SoftwareUpdateController.cpp:1017
+#: Core/Implementation/SoftwareUpdateController.cpp:725
+#: Core/Implementation/SoftwareUpdateController.cpp:1078
 msgid "Error contacting update server"
 msgstr "Virhe yhteyttä päivityspalvelimen"
 
 #. OAD
 #: Core/Implementation/OverAirUpdateController.cpp:134
-#: Core/Implementation/SoftwareUpdateController.cpp:701
-#: Core/Implementation/SoftwareUpdateController.cpp:719
+#: Core/Implementation/SoftwareUpdateController.cpp:761
+#: Core/Implementation/SoftwareUpdateController.cpp:779
 msgid "Error downloading update."
 msgstr "Virhe ladattaessa päivitys."
 
 #. OAD
-#: Core/Implementation/SoftwareUpdateController.cpp:674
-#: Core/Implementation/SoftwareUpdateController.cpp:681
-#: Core/Implementation/SoftwareUpdateController.cpp:1144
-#: Core/Implementation/SoftwareUpdateController.cpp:1153
+#: Core/Implementation/SoftwareUpdateController.cpp:734
+#: Core/Implementation/SoftwareUpdateController.cpp:741
+#: Core/Implementation/SoftwareUpdateController.cpp:1205
+#: Core/Implementation/SoftwareUpdateController.cpp:1214
 msgid "Error reading update file"
 msgstr "Virhe luettaessa päivitystiedosto"
 
 #. newTuner.mFrontEndCapabilityMask;
-#: Core/Implementation/Stream/Modules/NetworkTunerManager/NetworkTunerManager.cpp:745
+#: Core/Implementation/Stream/Modules/NetworkTunerManager/NetworkTunerManager.cpp:887
+#: Core/Implementation/Stream/Modules/NetworkTunerManager/NetworkTunerManager.cpp:937
 msgid "Internal"
 msgstr "Sisäinen"
 
@@ -1066,17 +1068,17 @@ msgid "Internal HDD"
 msgstr "Sisäiselle kiintolevylle"
 
 #. OAD
-#: Core/Implementation/SoftwareUpdateController.cpp:1053
+#: Core/Implementation/SoftwareUpdateController.cpp:1114
 msgid "Invalid index file"
 msgstr "Virheellinen indeksitiedostoa"
 
 #. OAD
-#: Core/Implementation/SoftwareUpdateController.cpp:983
+#: Core/Implementation/SoftwareUpdateController.cpp:1044
 msgid "Invalid product."
 msgstr "Virheellinen tuote."
 
 #. OAD
-#: Core/Implementation/SoftwareUpdateController.cpp:1032
+#: Core/Implementation/SoftwareUpdateController.cpp:1093
 msgid "No update found at URL"
 msgstr "Päivitystä ei löytynyt osoitteessa URL"
 
@@ -1086,12 +1088,12 @@ msgid "Track"
 msgstr "Raita"
 
 #. OAD
-#: Core/Implementation/SoftwareUpdateController.cpp:997
+#: Core/Implementation/SoftwareUpdateController.cpp:1058
 msgid "Unable to burn update."
 msgstr "Pysty polttaa päivitys."
 
 #. OAD
-#: Core/Implementation/SoftwareUpdateController.cpp:980
+#: Core/Implementation/SoftwareUpdateController.cpp:1041
 msgid "Update corrupt."
 msgstr "Päivitä korruptoitunut."
 
@@ -1099,19 +1101,19 @@ msgstr "Päivitä korruptoitunut."
 #: Core/Implementation/OverAirUpdateController.cpp:253
 #: Core/Implementation/OverAirUpdateController.cpp:261
 #: Core/Implementation/OverAirUpdateController.cpp:283
-#: Core/Implementation/SoftwareUpdateController.cpp:819
-#: Core/Implementation/SoftwareUpdateController.cpp:1053
-#: Core/Implementation/SoftwareUpdateController.cpp:1167
+#: Core/Implementation/SoftwareUpdateController.cpp:879
+#: Core/Implementation/SoftwareUpdateController.cpp:1114
+#: Core/Implementation/SoftwareUpdateController.cpp:1228
 msgid "Update failed"
 msgstr "Päivitys epäonnistui"
 
 #. OAD
-#: Core/Implementation/SoftwareUpdateController.cpp:986
+#: Core/Implementation/SoftwareUpdateController.cpp:1047
 msgid "Update invalid."
 msgstr "Päivitä kelpaa."
 
 #. OAD
-#: Core/Implementation/SoftwareUpdateController.cpp:989
+#: Core/Implementation/SoftwareUpdateController.cpp:1050
 msgid "Update requirements not met."
 msgstr "-päivitysvaatimukset Ei täyty."
 
@@ -1121,12 +1123,12 @@ msgid "Verify error"
 msgstr "Tarkista virhe"
 
 #. OAD
-#: Core/Implementation/SoftwareUpdateController.cpp:819
+#: Core/Implementation/SoftwareUpdateController.cpp:879
 msgid "Write error"
 msgstr "Kirjoitusvirhe"
 
 #. OAD
-#: Core/Implementation/SoftwareUpdateController.cpp:992
+#: Core/Implementation/SoftwareUpdateController.cpp:1053
 msgid "Your current version is newer."
 msgstr "Nykyinen versio on uudempi."
 
@@ -1180,4 +1182,48 @@ msgstr "Running"
 #: Basic/FutarqueInfo/src/FutarqueCaInfo.cpp:212
 msgid "No Card Reader"
 msgstr "Ei kortinlukija"
+
+#. Software Update
+#: Basic/FutarqueInfo/src/FutarqueSWDownloadInfo.cpp:54
+msgid "Detecting Size"
+msgstr "havaitsemiseksi Koko"
+
+#. Software Update
+#: Basic/FutarqueInfo/src/FutarqueSWDownloadInfo.cpp:72
+msgid "Done"
+msgstr "Tehty"
+
+#. Software Update
+#: Basic/FutarqueInfo/src/FutarqueSWDownloadInfo.cpp:58
+msgid "Downloading"
+msgstr "lataaminen"
+
+#. Software Update
+#: Basic/FutarqueInfo/src/FutarqueSWDownloadInfo.cpp:99
+msgid "Failed"
+msgstr "epäonnistui"
+
+#. Software Update
+#: Basic/FutarqueInfo/src/FutarqueSWDownloadInfo.cpp:95
+msgid "Rebooting"
+msgstr "uudelleenkäynnistystä"
+
+#. Software Update
+#: Basic/FutarqueInfo/src/FutarqueSWDownloadInfo.cpp:80
+msgid "Validating"
+msgstr "Tarkistetaan"
+
+#: Basic/FutarqueInfo/src/FutarqueSWDownloadInfo.cpp:86
+msgid "Warning!\n"
+"Upgrading Software.\n"
+"Do NOT turn off your device."
+msgstr "Varoitus!\n"
+"Päivittäminen Software.\n"
+"Älä sammuta laitteesta."
+
+#. Software Update
+#: Basic/FutarqueInfo/src/FutarqueSWDownloadInfo.cpp:85
+#: Basic/FutarqueInfo/src/FutarqueSWDownloadInfo.cpp:90
+msgid "Writing Update"
+msgstr "kirjoittaminen Update"
 
