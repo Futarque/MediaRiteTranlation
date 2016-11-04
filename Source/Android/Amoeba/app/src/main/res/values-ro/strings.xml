@@ -258,7 +258,6 @@ Apăsați din nou pentru a reveni la ecranul complet"</string>
 <string name="menu_wizard_connection_type_remote_description">"Conectați-vă la unul dintre serverele ZapsterTV disponibile"</string>
 <string name="menu_wizard_connection_type_standalone">"instalare locală"</string>
 <string name="menu_wizard_connection_type_standalone_description">"Configurați acest dispozitiv independent"</string>
-<string name="menu_wizard_tvgateway_title">"ZapsterTV Server"</string>
 <string name="menu_wizard_tvgateway_description">"Selectați server pentru a utiliza"</string>
 <string name="menu_wizard_tvgateway_connecting">"conectarea la"</string>
 <string name="menu_wizard_tvgateway_upgradefirmware">"server de firmware vechi găsite. Vă rugăm să actualizați mai întâi"</string>
@@ -267,4 +266,44 @@ Apăsați din nou pentru a reveni la ecranul complet"</string>
 <string name="menu_wizard_tvgateway_not_configured">"nu este configurată"</string>
 <string name="menu_wizard_searching_for_devices">"Descoperind dispozitive de rețea"</string>
 <string name="wizard_please_wait">"Te rog asteapta"</string>
+<string name="menu_settings_reset_server_or_local">"Server sau locale Setări"</string>
+<string name="core_status_playback_blocked">"redare blocat
+Produse Cumpărare premium pentru a vizualiza înregistrările"</string>
+<string name="click_to_enable">"Clic pentru a activa"</string>
+<string name="dvr_not_available">"DVR nu dispun disponibile"</string>
+<string name="dvr_grant_permission">"Vă rugăm să permiteți accesul de stocare inorder pentru DVR sa functioneze"</string>
+
+<!-- BEGIN Translations for non-Android UI 
+ Web UI -->
+<string name="menu_settings_general">"General"</string>
+<string name="menu_setup_system_network_identity">"identitate de rețea sistem"</string>
+<string name="about_product_number">"Numărul produsului"</string>
+<string name="about_software_version">"Versiune de software"</string>
+<string name="about_build_date">"data construi"</string>
+<string name="about_manufacturer">"Producător"</string>
+<string name="about_release_note">"Notă de presă"</string>
+
+<!-- Apple UI -->
+<string name="zapster_server">"ZapsterTV Server"</string>
+<string name="zapster_server_name">"Nume"</string>
+<string name="zapster_server_uniqie_id">"ID unic"</string>
+<string name="zapster_select_new">"Selectați Server nou"</string>
+<string name="zapster_server_info">"info"</string>
+<string name="zapster_server_version">"Versiune"</string>
+
+<!-- END Translations -->
+<string name="update_new_found">"Noua actualizare găsită"</string>
+<string name="update_download">"Descărcați actualizarea"</string>
+<string name="update_check">"Verifica pentru actualizare"</string>
+<string name="update_checking">"Verificare"</string>
+<string name="update_download_complete">"Descarcare completa"</string>
+<string name="update_apply">"aplică actualizare"</string>
+<string name="update_title">"Actualizare de software"</string>
+<string name="update_forced">"actualizare forțată"</string>
+<string name="update_up_to_date">"Sistemul este actualizat"</string>
+<string name="update_enter_safe_mode">"Introducerea de modul de siguranță"</string>
+<string name="update_channel">"actualizare canal"</string>
+<string name="update_channel_stable">"Grajd"</string>
+<string name="update_channel_beta">"beta"</string>
+<string name="update_restarting">"Repornește"</string>
 </resources>
