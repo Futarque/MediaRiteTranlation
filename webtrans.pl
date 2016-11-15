@@ -76,7 +76,6 @@ sub Usage {
     print "Usage: webtrans.pl [OPTIONS]  <targetNr>\n";
     print "\n";
     print "    Options:\n";
-    print "        --mediariterootdir=<thedir>\n";
     print "        --debug=<0|1>\n";
     print "        --verbose=<0|1|..>\n";
     print "        --help\n";
@@ -190,10 +189,10 @@ sub ParseXmlTranslationFile {
 
     # Make main from en
     if($languageCode eq "en"){
-	$dst_file = $dst_dir."/Messages.properties";
-	open($fh, '>', $dst_file) || die "Failed to open ".$dst_file;
-	print $fh $code;
-	close $fh;
+        $dst_file = $dst_dir."/Messages.properties";
+        open($fh, '>', $dst_file) || die "Failed to open ".$dst_file;
+        print $fh $code;
+        close $fh;
     }
 }
 
