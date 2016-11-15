@@ -256,7 +256,6 @@ Premere di nuovo per tornare a schermo intero"</string>
 <string name="menu_wizard_connection_type_remote_description">"Connettersi a uno dei server disponibili ZapsterTV"</string>
 <string name="menu_wizard_connection_type_standalone">"installazione locale"</string>
 <string name="menu_wizard_connection_type_standalone_description">"Configurare il dispositivo in modo indipendente"</string>
-<string name="menu_wizard_tvgateway_title">"ZapsterTV Server"</string>
 <string name="menu_wizard_tvgateway_description">"Selezionare server da utilizzare"</string>
 <string name="menu_wizard_tvgateway_connecting">"Collegamento a"</string>
 <string name="menu_wizard_tvgateway_upgradefirmware">"Vecchio firmware del server trovato. Si prega di aggiornare prima"</string>
@@ -265,4 +264,44 @@ Premere di nuovo per tornare a schermo intero"</string>
 <string name="menu_wizard_tvgateway_not_configured">"Non configurato"</string>
 <string name="menu_wizard_searching_for_devices">"Alla scoperta di dispositivi di rete"</string>
 <string name="wizard_please_wait">"attendere prego"</string>
+<string name="menu_settings_reset_server_or_local">"Impostazioni del server o locali"</string>
+<string name="core_status_playback_blocked">"riproduzione bloccato
+Acquisto premio per visualizzare le registrazioni"</string>
+<string name="click_to_enable">"Clicca per attivare"</string>
+<string name="dvr_not_available">"DVR non dispongono disponibili"</string>
+<string name="dvr_grant_permission">"Si prega di permettere l'accesso allo storage inorder per DVR di funzionare"</string>
+
+<!-- BEGIN Translations for non-Android UI 
+ Web UI -->
+<string name="menu_settings_general">"Generale"</string>
+<string name="menu_setup_system_network_identity">"identità di rete del sistema"</string>
+<string name="about_product_number">"Numero del prodotto"</string>
+<string name="about_software_version">"Versione software"</string>
+<string name="about_build_date">"Data di costruzione"</string>
+<string name="about_manufacturer">"fabbricante"</string>
+<string name="about_release_note">"Nota di rilascio"</string>
+
+<!-- Apple UI -->
+<string name="zapster_server">"ZapsterTV Server"</string>
+<string name="zapster_server_name">"Nome"</string>
+<string name="zapster_server_uniqie_id">"ID univoco"</string>
+<string name="zapster_select_new">"Selezionare Nuovo Server"</string>
+<string name="zapster_server_info">"Informazioni"</string>
+<string name="zapster_server_version">"Versione"</string>
+
+<!-- END Translations -->
+<string name="update_new_found">"Nuovo aggiornamento trovati"</string>
+<string name="update_download">"Scarica aggiornamento"</string>
+<string name="update_check">"Ricerca aggiornamenti"</string>
+<string name="update_checking">"verifica"</string>
+<string name="update_download_complete">"Download completato"</string>
+<string name="update_apply">"Fare l'aggiornamento"</string>
+<string name="update_title">"aggiornamento software"</string>
+<string name="update_forced">"aggiornamento forzato"</string>
+<string name="update_up_to_date">"Sistema è aggiornato"</string>
+<string name="update_enter_safe_mode">"Accesso alla modalità sicura"</string>
+<string name="update_channel">"Canale di aggiornamento"</string>
+<string name="update_channel_stable">"Stabile"</string>
+<string name="update_channel_beta">"Beta"</string>
+<string name="update_restarting">"Riavvio in"</string>
 </resources>

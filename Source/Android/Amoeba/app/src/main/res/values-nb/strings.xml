@@ -258,7 +258,6 @@ Trykk igjen for å gå tilbake til fullskjerm"</string>
 <string name="menu_wizard_connection_type_remote_description">"Koble til en av de tilgjengelige ZapsterTV servere"</string>
 <string name="menu_wizard_connection_type_standalone">"lokal installasjon"</string>
 <string name="menu_wizard_connection_type_standalone_description">"Konfigurere denne enheten uavhengig"</string>
-<string name="menu_wizard_tvgateway_title">"ZapsterTV Server"</string>
 <string name="menu_wizard_tvgateway_description">"Velg serveren til å bruke"</string>
 <string name="menu_wizard_tvgateway_connecting">"Koble til"</string>
 <string name="menu_wizard_tvgateway_upgradefirmware">"Gamle serveren firmware funnet. Oppgrader først"</string>
@@ -267,4 +266,44 @@ Trykk igjen for å gå tilbake til fullskjerm"</string>
 <string name="menu_wizard_tvgateway_not_configured">"ikke konfigurert"</string>
 <string name="menu_wizard_searching_for_devices">"Oppdage nettverksenheter"</string>
 <string name="wizard_please_wait">"Vennligst vent"</string>
+<string name="menu_settings_reset_server_or_local">"Server eller Lokale innstillinger"</string>
+<string name="core_status_playback_blocked">"avspilling blokkert
+Kjøp premie for å vise opptak"</string>
+<string name="click_to_enable">"Klikk for å aktivere"</string>
+<string name="dvr_not_available">"DVR har ikke tilgjengelig"</string>
+<string name="dvr_grant_permission">"Vennligst tillate lagring tilgang inorder for DVR å fungere"</string>
+
+<!-- BEGIN Translations for non-Android UI 
+ Web UI -->
+<string name="menu_settings_general">"Generell"</string>
+<string name="menu_setup_system_network_identity">"System nettverk identitet"</string>
+<string name="about_product_number">"Varenummer nummer~~POS=HEADCOMP"</string>
+<string name="about_software_version">"Programvareversjon versjon~~POS=HEADCOMP"</string>
+<string name="about_build_date">"Bygg dato"</string>
+<string name="about_manufacturer">"Produsent"</string>
+<string name="about_release_note">"Release Note"</string>
+
+<!-- Apple UI -->
+<string name="zapster_server">"ZapsterTV Server"</string>
+<string name="zapster_server_name">"Navn"</string>
+<string name="zapster_server_uniqie_id">"unik ID"</string>
+<string name="zapster_select_new">"Velg Ny Server"</string>
+<string name="zapster_server_info">"info"</string>
+<string name="zapster_server_version">"Versjon"</string>
+
+<!-- END Translations -->
+<string name="update_new_found">"Ny oppdatering funnet"</string>
+<string name="update_download">"Last ned oppdatering"</string>
+<string name="update_check">"Se etter oppdatering"</string>
+<string name="update_checking">"Kontrollere"</string>
+<string name="update_download_complete">"nedlasting fullført"</string>
+<string name="update_apply">"Legg til oppdatering"</string>
+<string name="update_title">"Programvare oppdatering"</string>
+<string name="update_forced">"tvungen oppdatering"</string>
+<string name="update_up_to_date">"System er oppdatert"</string>
+<string name="update_enter_safe_mode">"Gå inn safe mode"</string>
+<string name="update_channel">"Oppdater Channel"</string>
+<string name="update_channel_stable">"Stabil"</string>
+<string name="update_channel_beta">"Beta"</string>
+<string name="update_restarting">"Starte i"</string>
 </resources>

@@ -257,7 +257,6 @@ Tryck igen för att återgå till fullskärmsläge"</string>
 <string name="menu_wizard_connection_type_remote_description">"Anslut till en av de tillgängliga ZapsterTV servrar"</string>
 <string name="menu_wizard_connection_type_standalone">"lokal installation"</string>
 <string name="menu_wizard_connection_type_standalone_description">"Konfigurera enheten oberoende"</string>
-<string name="menu_wizard_tvgateway_title">"ZapsterTV Server"</string>
 <string name="menu_wizard_tvgateway_description">"Välj server för att använda"</string>
 <string name="menu_wizard_tvgateway_connecting">"Ansluter till"</string>
 <string name="menu_wizard_tvgateway_upgradefirmware">"Gamla servern firmware hittas. Uppgradera först"</string>
@@ -266,4 +265,44 @@ Tryck igen för att återgå till fullskärmsläge"</string>
 <string name="menu_wizard_tvgateway_not_configured">"inte konfigurerad"</string>
 <string name="menu_wizard_searching_for_devices">"Upptäcka nätverksenheter"</string>
 <string name="wizard_please_wait">"Vänta"</string>
+<string name="menu_settings_reset_server_or_local">"Server eller Lokala inställningar"</string>
+<string name="core_status_playback_blocked">"uppspelning blockerad
+Köp premie för att visa inspelningar"</string>
+<string name="click_to_enable">"Klicka för att aktivera"</string>
+<string name="dvr_not_available">"DVR har inte tillgängligt"</string>
+<string name="dvr_grant_permission">"Vänligen tillåta åtkomst inorder för DVR att fungera lagring"</string>
+
+<!-- BEGIN Translations for non-Android UI 
+ Web UI -->
+<string name="menu_settings_general">"Allmän"</string>
+<string name="menu_setup_system_network_identity">"System nätverksidentitet"</string>
+<string name="about_product_number">"Produktnummer"</string>
+<string name="about_software_version">"Mjukvaru-version"</string>
+<string name="about_build_date">"bygga datum"</string>
+<string name="about_manufacturer">"Tillverkare"</string>
+<string name="about_release_note">"frisättning Obs"</string>
+
+<!-- Apple UI -->
+<string name="zapster_server">"ZapsterTV Server"</string>
+<string name="zapster_server_name">"namn"</string>
+<string name="zapster_server_uniqie_id">"Unikt ID"</string>
+<string name="zapster_select_new">"Välj ny server"</string>
+<string name="zapster_server_info">"Info"</string>
+<string name="zapster_server_version">"Version"</string>
+
+<!-- END Translations -->
+<string name="update_new_found">"Ny uppdatering hittades"</string>
+<string name="update_download">"nedladdning uppdatering"</string>
+<string name="update_check">"Sök efter uppdatering"</string>
+<string name="update_checking">"Kontroll"</string>
+<string name="update_download_complete">"Nedladdning klar"</string>
+<string name="update_apply">"Tillämpa uppdatering"</string>
+<string name="update_title">"Programuppdatering"</string>
+<string name="update_forced">"forcerad uppdatering"</string>
+<string name="update_up_to_date">"Systemet är aktuell"</string>
+<string name="update_enter_safe_mode">"Mata in felsäkert läge"</string>
+<string name="update_channel">"Uppdatera kanal"</string>
+<string name="update_channel_stable">"Stabil"</string>
+<string name="update_channel_beta">"Beta"</string>
+<string name="update_restarting">"omstart i"</string>
 </resources>

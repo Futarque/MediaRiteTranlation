@@ -256,7 +256,6 @@
 <string name="menu_wizard_connection_type_remote_description">"Подключение к одному из доступных серверов ZapsterTV"</string>
 <string name="menu_wizard_connection_type_standalone">"Локальная установка"</string>
 <string name="menu_wizard_connection_type_standalone_description">"Настройка этого устройства независимо друг от друга"</string>
-<string name="menu_wizard_tvgateway_title">"ZapsterTV сервера"</string>
 <string name="menu_wizard_tvgateway_description">"Выберите сервер для использования"</string>
 <string name="menu_wizard_tvgateway_connecting">"Присоединенный к"</string>
 <string name="menu_wizard_tvgateway_upgradefirmware">"Старый микропрограммного сервер найден. Пожалуйста, обновите первый"</string>
@@ -265,4 +264,44 @@
 <string name="menu_wizard_tvgateway_not_configured">"Не настроено"</string>
 <string name="menu_wizard_searching_for_devices">"Обнаружения сетевых устройств"</string>
 <string name="wizard_please_wait">"пожалуйста, подождите"</string>
+<string name="menu_settings_reset_server_or_local">"Сервер или Local Settings"</string>
+<string name="core_status_playback_blocked">"Воспроизведение заблокирован
+Приобрести премию для просмотра записей"</string>
+<string name="click_to_enable">"Нажмите, чтобы включить"</string>
+<string name="dvr_not_available">"DVR функция не доступна"</string>
+<string name="dvr_grant_permission">"Пожалуйста, позвольте доступ к системе хранения заказовМои для DVR функционировать"</string>
+
+<!-- BEGIN Translations for non-Android UI 
+ Web UI -->
+<string name="menu_settings_general">"Генеральная"</string>
+<string name="menu_setup_system_network_identity">"Системный идентификационный номер сети"</string>
+<string name="about_product_number">"Номер продукта"</string>
+<string name="about_software_version">"Версия ПО"</string>
+<string name="about_build_date">"Дата постройки"</string>
+<string name="about_manufacturer">"производитель"</string>
+<string name="about_release_note">"Release Note"</string>
+
+<!-- Apple UI -->
+<string name="zapster_server">"ZapsterTV сервера"</string>
+<string name="zapster_server_name">"имя"</string>
+<string name="zapster_server_uniqie_id">"Уникальный идентификатор"</string>
+<string name="zapster_select_new">"Выберите новый сервер"</string>
+<string name="zapster_server_info">"Информация"</string>
+<string name="zapster_server_version">"Версия"</string>
+
+<!-- END Translations -->
+<string name="update_new_found">"Новое обновление найдено"</string>
+<string name="update_download">"Скачать обновление"</string>
+<string name="update_check">"Проверить обновления"</string>
+<string name="update_checking">"проверка"</string>
+<string name="update_download_complete">"Загрузка завершена"</string>
+<string name="update_apply">"Применить обновление"</string>
+<string name="update_title">"Обновление программного обеспечения"</string>
+<string name="update_forced">"Принудительное обновление"</string>
+<string name="update_up_to_date">"Система находится в актуальном состоянии"</string>
+<string name="update_enter_safe_mode">"Вход в безопасный режим"</string>
+<string name="update_channel">"Channel Update"</string>
+<string name="update_channel_stable">"стабильный"</string>
+<string name="update_channel_beta">"Бета"</string>
+<string name="update_restarting">"Перезапуск в"</string>
 </resources>
