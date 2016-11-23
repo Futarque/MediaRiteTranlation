@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+<!-- select real or test ad -->
 <string name="cancelled">"Abgebrochen"</string>
 <string name="complete">"Vollständig"</string>
 <string name="button_next">"Weiter"</string>
@@ -320,4 +322,8 @@ Erwerben Sie Premium-Aufnahmen zu sehen"</string>
 <string name="update_channel_stable">"Stabil"</string>
 <string name="update_channel_beta">"Beta"</string>
 <string name="update_restarting">"Neustart im"</string>
+<string name="about_model_name">"Modellname"</string>
+<string name="update_no_exit">"Kann nicht während des Upgrades zu beenden"</string>
+<string name="menu_wizard_tvgateway_not_responding">"Hat nicht geantwortet"</string>
+<string name="menu_wizard_tvgateway_unable_to_connect">"Kann nicht verbinden"</string>
 </resources>
