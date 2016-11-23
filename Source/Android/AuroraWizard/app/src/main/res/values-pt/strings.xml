@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="wizard_country">"Land"</string>
+<string name="wizard_country_description">"Välj ditt land"</string>
+<string name="wizard_language">"Språk"</string>
+<string name="wizard_language_description">"Välj ditt språk"</string>
+<string name="wizard_timezone">"Tidszon"</string>
+<string name="wizard_timezone_description">"Välj din tidszon"</string>
+<string name="wizard_complete">"Guiden färdig"</string>
+<string name="wizard_complete_ok">"OK"</string>
+<string name="wizard_network">"Nätverk"</string>
+<string name="network_connecting">"Anslut"</string>
+<string name="network_skip">"Hoppa"</string>
+<string name="eula_title">"Licensavtal för slutanvändare"</string>
+<string name="eula_continue">"FORTSÄTT"</string>
+<string name="eula_view">"VISA LICENSAVTAL"</string>
+<string name="eula_description">"Genom att fortsätta godkänner du till slutanvändaravtal."</string>
+</resources>
