@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+<!-- select real or test ad -->
 <string name="cancelled">"Cancelado"</string>
 <string name="complete">"Completa"</string>
 <string name="button_next">"Siguiente"</string>
@@ -304,4 +306,8 @@ Compra prima para ver las grabaciones"</string>
 <string name="update_channel_stable">"Estable"</string>
 <string name="update_channel_beta">"Beta"</string>
 <string name="update_restarting">"reinicio en"</string>
+<string name="about_model_name">"Nombre del modelo"</string>
+<string name="update_no_exit">"Incapaz de salir durante la actualización"</string>
+<string name="menu_wizard_tvgateway_not_responding">"No respondió"</string>
+<string name="menu_wizard_tvgateway_unable_to_connect">"Incapaz de conectarse a"</string>
 </resources>
