@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+<!-- select real or test ad -->
 <string name="cancelled">"Peruutettu"</string>
 <string name="complete">"Täydellinen"</string>
 <string name="button_next">"Seuraava"</string>
@@ -304,4 +306,8 @@ Osto palkkio katsella tallenteita"</string>
 <string name="update_channel_stable">"Vakaa"</string>
 <string name="update_channel_beta">"Beeta"</string>
 <string name="update_restarting">"käynnistäminen uudelleen vuonna"</string>
+<string name="about_model_name">"Mallinimi"</string>
+<string name="update_no_exit">"Pysty poistua päivityksen aikana"</string>
+<string name="menu_wizard_tvgateway_not_responding">"Ei vastannut"</string>
+<string name="menu_wizard_tvgateway_unable_to_connect">"Ei saada yhteyttä"</string>
 </resources>
