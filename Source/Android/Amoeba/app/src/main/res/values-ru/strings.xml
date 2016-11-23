@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+<!-- select real or test ad -->
 <string name="cancelled">"Отменен"</string>
 <string name="complete">"Полный"</string>
 <string name="button_next">"Следующий"</string>
@@ -304,4 +306,8 @@
 <string name="update_channel_stable">"стабильный"</string>
 <string name="update_channel_beta">"Бета"</string>
 <string name="update_restarting">"Перезапуск в"</string>
+<string name="about_model_name">"Название модели"</string>
+<string name="update_no_exit">"Невозможно выйти во время обновления"</string>
+<string name="menu_wizard_tvgateway_not_responding">"Не ответил"</string>
+<string name="menu_wizard_tvgateway_unable_to_connect">"Невозможно подключиться к"</string>
 </resources>
