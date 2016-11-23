@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="wizard_country">"Land"</string>
-<string name="wizard_country_description">"Välj ditt land"</string>
-<string name="wizard_language">"Språk"</string>
-<string name="wizard_language_description">"Välj ditt språk"</string>
-<string name="wizard_timezone">"Tidszon"</string>
-<string name="wizard_timezone_description">"Välj din tidszon"</string>
-<string name="wizard_complete">"Guiden färdig"</string>
-<string name="wizard_complete_ok">"OK"</string>
-<string name="wizard_network">"Nätverk"</string>
-<string name="network_connecting">"Anslut"</string>
-<string name="network_skip">"Hoppa"</string>
-<string name="eula_title">"Licensavtal för slutanvändare"</string>
-<string name="eula_continue">"FORTSÄTT"</string>
-<string name="eula_view">"VISA LICENSAVTAL"</string>
-<string name="eula_description">"Genom att fortsätta godkänner du till slutanvändaravtal."</string>
+<string name="wizard_country">"País"</string>
+<string name="wizard_country_description">"por favor selecione seu país"</string>
+<string name="wizard_language">"Língua"</string>
+<string name="wizard_language_description">"Selecione seu idioma"</string>
+<string name="wizard_timezone">"Fuso horário"</string>
+<string name="wizard_timezone_description">"Por favor, selecione seu fuso horário"</string>
+<string name="wizard_complete">"assistente concluiu"</string>
+<string name="wizard_complete_ok">"Está bem"</string>
+<string name="wizard_network">"Rede"</string>
+<string name="network_connecting">"Ligar"</string>
+<string name="network_skip">"PULAR"</string>
+<string name="eula_title">"End User License Agreement"</string>
+<string name="eula_continue">"CONTINUAR"</string>
+<string name="eula_view">"CONTRATO DE LICENÇA DE VISTA"</string>
+<string name="eula_description">"Ao continuar, você concorda com o Contrato de Licença do Utilizador Final."</string>
 </resources>
