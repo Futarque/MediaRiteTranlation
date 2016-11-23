@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+<!-- select real or test ad -->
 <string name="cancelled">"Avbrutt"</string>
 
 <!-- as in done ? - then it should be Ferdig -->
@@ -306,4 +308,8 @@ Kjøp premie for å vise opptak"</string>
 <string name="update_channel_stable">"Stabil"</string>
 <string name="update_channel_beta">"Beta"</string>
 <string name="update_restarting">"Starte i"</string>
+<string name="about_model_name">"Modell navn"</string>
+<string name="update_no_exit">"Kan ikke gå under oppgradering"</string>
+<string name="menu_wizard_tvgateway_not_responding">"Svarte ikke"</string>
+<string name="menu_wizard_tvgateway_unable_to_connect">"Kan ikke koble til"</string>
 </resources>
