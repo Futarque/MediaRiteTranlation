@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+<!-- select real or test ad -->
 <string name="cancelled">"Törölt"</string>
 <string name="complete">"teljes"</string>
 <string name="button_next">"Következő"</string>
@@ -304,4 +306,8 @@ Vásároljon prémium megtekintéséhez felvételek"</string>
 <string name="update_channel_stable">"Stabil"</string>
 <string name="update_channel_beta">"Beta"</string>
 <string name="update_restarting">"újraindítás"</string>
+<string name="about_model_name">"Modell név"</string>
+<string name="update_no_exit">"Nem lehet, hogy kilépjen a frissítés során"</string>
+<string name="menu_wizard_tvgateway_not_responding">"Nem válaszolt"</string>
+<string name="menu_wizard_tvgateway_unable_to_connect">"Nem sikerült csatlakozni a"</string>
 </resources>
