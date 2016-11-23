@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+<!-- select real or test ad -->
 <string name="cancelled">"Anulat"</string>
 <string name="complete">"Complet"</string>
 <string name="button_next">"Următorul"</string>
@@ -306,4 +308,8 @@ Produse Cumpărare premium pentru a vizualiza înregistrările"</string>
 <string name="update_channel_stable">"Grajd"</string>
 <string name="update_channel_beta">"beta"</string>
 <string name="update_restarting">"Repornește"</string>
+<string name="about_model_name">"Numele modelului"</string>
+<string name="update_no_exit">"Nu se poate ieși în timpul actualizării"</string>
+<string name="menu_wizard_tvgateway_not_responding">"Nu a răspuns"</string>
+<string name="menu_wizard_tvgateway_unable_to_connect">"Nu se poate conecta la"</string>
 </resources>
