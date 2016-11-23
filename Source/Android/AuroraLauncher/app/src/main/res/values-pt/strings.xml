@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">"AuroraLauncher"</string>
+<string name="home_featured">"Anbefalede"</string>
+<string name="home_launcher_settings">"Konfiguration"</string>
+<string name="home_leanback">"TV Apps"</string>
+<string name="home_recent">"Nyligt brugte"</string>
+<string name="home_settings">"Indstillinger"</string>
+<string name="home_standard">"Apps"</string>
+<string name="home_system">"System"</string>
+<string name="home_system_display">"Skærm"</string>
+<string name="home_system_manage_applications">"Håndter programmer"</string>
+<string name="home_system_power">"Sluk"</string>
+<string name="home_system_settings">"Systemindstillinger"</string>
+<string name="home_system_sound">"Lyd"</string>
+<string name="search_result">"Søgeresultater:"</string>
+<string name="home_system_update">"Opdatering er tilgængelig"</string>
+<string name="system_update_available">"En systemopdatering er tilgængelig."</string>
+<string name="new_version">"Ny version"</string>
+<string name="later">"Senere"</string>
+<string name="install">"Installér"</string>
+<string name="home_system_help">"Hjælp"</string>
+<string name="home_storage">"Flytbart lager"</string>
+<string name="sd_card">"SD kort"</string>
+<string name="home_screen_share">"Skærmspejling"</string>
+<string name="share_wifi_enable">"Tænder Wifi, Vent venligst"</string>
+<string name="auto_detect_language">"Kan ikke automatisk finde land"</string>
+<string name="share_wifi_unable">"Kan ikke tænde Wifi"</string>
+<string name="onlinehelp_error_loading_url">"Kan ikke åbne hjælp"</string>
+<string name="home_bookmarks">"Anbefalede sider"</string>
+</resources>
