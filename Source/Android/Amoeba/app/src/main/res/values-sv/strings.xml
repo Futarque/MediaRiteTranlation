@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+<!-- select real or test ad -->
 <string name="cancelled">"Avbruten"</string>
 <string name="complete">"Avslutat"</string>
 <string name="button_next">"Nästa"</string>
@@ -305,4 +307,8 @@ Köp premie för att visa inspelningar"</string>
 <string name="update_channel_stable">"Stabil"</string>
 <string name="update_channel_beta">"Beta"</string>
 <string name="update_restarting">"omstart i"</string>
+<string name="about_model_name">"Modellnamn"</string>
+<string name="update_no_exit">"Det går inte att avsluta under uppgraderingen"</string>
+<string name="menu_wizard_tvgateway_not_responding">"Svarade inte"</string>
+<string name="menu_wizard_tvgateway_unable_to_connect">"Det går inte att ansluta till"</string>
 </resources>
