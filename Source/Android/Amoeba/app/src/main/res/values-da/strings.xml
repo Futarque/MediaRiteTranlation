@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+<!-- select real or test ad -->
 <string name="cancelled">"Afbrudt"</string>
 <string name="complete">"Færdig"</string>
 <string name="button_next">"Næste"</string>
@@ -305,4 +307,8 @@ Køb præmium for at se optagelser"</string>
 <string name="update_channel_stable">"Stabil"</string>
 <string name="update_channel_beta">"Beta"</string>
 <string name="update_restarting">"Genstarter om"</string>
+<string name="about_model_name">"Modelnavn"</string>
+<string name="update_no_exit">"Kan ikke afbrude under opdatering"</string>
+<string name="menu_wizard_tvgateway_not_responding">"Svarede ikke"</string>
+<string name="menu_wizard_tvgateway_unable_to_connect">"Unable to connect to "</string>
 </resources>
