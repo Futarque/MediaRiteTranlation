@@ -30,4 +30,5 @@
 <string name="share_wifi_unable">"Kann nicht Wifi zu ermöglichen"</string>
 <string name="onlinehelp_error_loading_url">"Hilfe kann nicht öffnen"</string>
 <string name="home_bookmarks">"Beliebte Seiten"</string>
+<string name="home_notifications">"Benachrichtigungen"</string>
 </resources>
