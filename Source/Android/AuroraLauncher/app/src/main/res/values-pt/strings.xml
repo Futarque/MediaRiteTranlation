@@ -28,4 +28,5 @@
 <string name="share_wifi_unable">"Não é possível habilitar Wifi"</string>
 <string name="onlinehelp_error_loading_url">"Não é possível abrir ajuda"</string>
 <string name="home_bookmarks">"Sites em destaque"</string>
+<string name="home_notifications">"notificações"</string>
 </resources>
