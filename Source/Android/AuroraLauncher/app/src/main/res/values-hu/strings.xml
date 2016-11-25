@@ -28,4 +28,5 @@
 <string name="share_wifi_unable">"Nem lehet, hogy Wifi"</string>
 <string name="onlinehelp_error_loading_url">"Nem sikerült megnyitni a súgót"</string>
 <string name="home_bookmarks">"Kiemelt oldalak"</string>
+<string name="home_notifications">"Értesítések"</string>
 </resources>
