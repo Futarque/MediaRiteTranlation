@@ -28,4 +28,5 @@
 <string name="share_wifi_unable">"Невозможно включить Wi-Fi"</string>
 <string name="onlinehelp_error_loading_url">"Невозможно открыть помощь"</string>
 <string name="home_bookmarks">"Интересные сайты"</string>
+<string name="home_notifications">"Уведомления"</string>
 </resources>
