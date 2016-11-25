@@ -28,4 +28,5 @@
 <string name="share_wifi_unable">"Enää ottaa Wifi"</string>
 <string name="onlinehelp_error_loading_url">"Ei voitu avata ohjeen"</string>
 <string name="home_bookmarks">"Ohjelmaan Sites"</string>
+<string name="home_notifications">"ilmoitukset"</string>
 </resources>
