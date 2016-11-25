@@ -28,4 +28,5 @@
 <string name="share_wifi_unable">"Kan ikke tænde Wifi"</string>
 <string name="onlinehelp_error_loading_url">"Kan ikke åbne hjælp"</string>
 <string name="home_bookmarks">"Anbefalede sider"</string>
+<string name="home_notifications">"Meddelelser"</string>
 </resources>
