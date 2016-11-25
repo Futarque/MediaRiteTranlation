@@ -28,4 +28,5 @@
 <string name="share_wifi_unable">"Nu se poate activa Wi-Fi"</string>
 <string name="onlinehelp_error_loading_url">"Nu se poate deschide ajutorul"</string>
 <string name="home_bookmarks">"Site-uri recomandate"</string>
+<string name="home_notifications">"notificările"</string>
 </resources>
