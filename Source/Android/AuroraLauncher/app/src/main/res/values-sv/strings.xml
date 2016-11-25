@@ -20,7 +20,7 @@
 <string name="later">"Senare"</string>
 <string name="install">"Installera"</string>
 <string name="home_system_help">"Hjälp"</string>
-<string name="home_storage">"flyttbara lagringsmedia"</string>
+<string name="home_storage">"Flyttbara lagringsmedia"</string>
 <string name="sd_card">"SD-kort"</string>
 <string name="home_screen_share">"Skärmspegling"</string>
 <string name="share_wifi_enable">"Aktivera WiFi, Vänta"</string>
@@ -28,4 +28,5 @@
 <string name="share_wifi_unable">"Det går inte att aktivera WiFi"</string>
 <string name="onlinehelp_error_loading_url">"Det går inte att öppna hjälp"</string>
 <string name="home_bookmarks">"Utvalda platser"</string>
+<string name="home_notifications">"Aviseringar"</string>
 </resources>
