@@ -255,7 +255,6 @@ Paina uudelleen palata koko näytön"</string>
 <string name="menu_wizard_cable_sweep_start_freq">"Start (kHz)"</string>
 <string name="menu_wizard_cable_sweep_end_freq">"End (kHz)"</string>
 <string name="menu_wizard_connection_type">"asennuksen tyyppi"</string>
-<string name="menu_wizard_connection_type_remote_description">"Yhdistä yhden käytettävissä olevista ZapsterTV palvelimet"</string>
 <string name="menu_wizard_connection_type_standalone">"paikallinen asennus"</string>
 <string name="menu_wizard_connection_type_standalone_description">"Määritä tämä laite itsenäisesti"</string>
 <string name="menu_wizard_tvgateway_description">"Valitse palvelin käyttää"</string>
@@ -282,9 +281,6 @@ Osto palkkio katsella tallenteita"</string>
 <string name="about_build_date">"Build päivämäärä"</string>
 <string name="about_manufacturer">"Valmistaja"</string>
 <string name="about_release_note">"Release Note"</string>
-
-<!-- Apple UI -->
-<string name="zapster_server">"ZapsterTV Server"</string>
 <string name="zapster_server_name">"Nimi"</string>
 <string name="zapster_server_uniqie_id">"Unique ID"</string>
 <string name="zapster_select_new">"Valitse Uusi palvelin"</string>
@@ -310,4 +306,19 @@ Osto palkkio katsella tallenteita"</string>
 <string name="update_no_exit">"Pysty poistua päivityksen aikana"</string>
 <string name="menu_wizard_tvgateway_not_responding">"Ei vastannut"</string>
 <string name="menu_wizard_tvgateway_unable_to_connect">"Ei saada yhteyttä"</string>
+<string name="menu_wizard_connection_type_remote_description">"Yhdistä johonkin käytettävissä palvelimet"</string>
+
+<!-- Apple UI -->
+<string name="zapster_server">"ZapsterTV Server"</string>
+<string name="zapstertv_network_id_title">"Network Identity"</string>
+<string name="wizard_completed_remotely">"Ohjattu valmistunut etänä"</string>
+<string name="zapster_connected_to">"Yhdistetty"</string>
+<string name="menu_wizard_connection_type_description">"Valitse joka kokoonpano käyttää"</string>
+<string name="wizard_setup_local_title">"Asetukset paikallinen asennus"</string>
+<string name="wizard_setup_local_description">"Käytä paikallisia viritin etsiä kanavia"</string>
+<string name="wizard_connect_to_title">"Yhdistää"</string>
+<string name="wizard_connect_to_description">"Yhdistä olemassa olevalla laitoksella"</string>
+<string name="reset_connected_server_title">"Connected Server"</string>
+<string name="zapster_remote_access_title">"Etäyhteys"</string>
+<string name="disconnect">"Katkaista"</string>
 </resources>
