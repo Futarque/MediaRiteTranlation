@@ -255,7 +255,6 @@
 <string name="menu_wizard_cable_sweep_start_freq">"Начальная частота (кГц)"</string>
 <string name="menu_wizard_cable_sweep_end_freq">"Конечная частота (кГц)"</string>
 <string name="menu_wizard_connection_type">"Тип установки"</string>
-<string name="menu_wizard_connection_type_remote_description">"Подключение к одному из доступных серверов ZapsterTV"</string>
 <string name="menu_wizard_connection_type_standalone">"Локальная установка"</string>
 <string name="menu_wizard_connection_type_standalone_description">"Настройка этого устройства независимо друг от друга"</string>
 <string name="menu_wizard_tvgateway_description">"Выберите сервер для использования"</string>
@@ -282,9 +281,6 @@
 <string name="about_build_date">"Дата постройки"</string>
 <string name="about_manufacturer">"производитель"</string>
 <string name="about_release_note">"Release Note"</string>
-
-<!-- Apple UI -->
-<string name="zapster_server">"ZapsterTV сервера"</string>
 <string name="zapster_server_name">"имя"</string>
 <string name="zapster_server_uniqie_id">"Уникальный идентификатор"</string>
 <string name="zapster_select_new">"Выберите новый сервер"</string>
@@ -310,4 +306,19 @@
 <string name="update_no_exit">"Невозможно выйти во время обновления"</string>
 <string name="menu_wizard_tvgateway_not_responding">"Не ответил"</string>
 <string name="menu_wizard_tvgateway_unable_to_connect">"Невозможно подключиться к"</string>
+<string name="menu_wizard_connection_type_remote_description">"Подключение к одному из доступных серверов"</string>
+
+<!-- Apple UI -->
+<string name="zapster_server">"ZapsterTV сервера"</string>
+<string name="zapstertv_network_id_title">"Сетевая идентификация"</string>
+<string name="wizard_completed_remotely">"Мастер завершил удаленно"</string>
+<string name="zapster_connected_to">"Подключен к"</string>
+<string name="menu_wizard_connection_type_description">"Выберите, какая конфигурация для использования"</string>
+<string name="wizard_setup_local_title">"локальная установка настройка"</string>
+<string name="wizard_setup_local_description">"Использовать локальный тюнер для поиска каналов"</string>
+<string name="wizard_connect_to_title">"Подключиться к"</string>
+<string name="wizard_connect_to_description">"Подключение к существующей установке"</string>
+<string name="reset_connected_server_title">"Подключенный сервер"</string>
+<string name="zapster_remote_access_title">"Удаленный доступ"</string>
+<string name="disconnect">"Отключить"</string>
 </resources>
