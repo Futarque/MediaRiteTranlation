@@ -257,7 +257,6 @@ Apăsați din nou pentru a reveni la ecranul complet"</string>
 <string name="menu_wizard_cable_sweep_start_freq">"Frecventa Start (kHz)"</string>
 <string name="menu_wizard_cable_sweep_end_freq">"Sfârșitul de frecvență (kHz)"</string>
 <string name="menu_wizard_connection_type">"tipul de instalare"</string>
-<string name="menu_wizard_connection_type_remote_description">"Conectați-vă la unul dintre serverele ZapsterTV disponibile"</string>
 <string name="menu_wizard_connection_type_standalone">"instalare locală"</string>
 <string name="menu_wizard_connection_type_standalone_description">"Configurați acest dispozitiv independent"</string>
 <string name="menu_wizard_tvgateway_description">"Selectați server pentru a utiliza"</string>
@@ -284,9 +283,6 @@ Produse Cumpărare premium pentru a vizualiza înregistrările"</string>
 <string name="about_build_date">"data construi"</string>
 <string name="about_manufacturer">"Producător"</string>
 <string name="about_release_note">"Notă de presă"</string>
-
-<!-- Apple UI -->
-<string name="zapster_server">"ZapsterTV Server"</string>
 <string name="zapster_server_name">"Nume"</string>
 <string name="zapster_server_uniqie_id">"ID unic"</string>
 <string name="zapster_select_new">"Selectați Server nou"</string>
@@ -312,4 +308,19 @@ Produse Cumpărare premium pentru a vizualiza înregistrările"</string>
 <string name="update_no_exit">"Nu se poate ieși în timpul actualizării"</string>
 <string name="menu_wizard_tvgateway_not_responding">"Nu a răspuns"</string>
 <string name="menu_wizard_tvgateway_unable_to_connect">"Nu se poate conecta la"</string>
+<string name="menu_wizard_connection_type_remote_description">"Conectarea la unul dintre serverele disponibile"</string>
+
+<!-- Apple UI -->
+<string name="zapster_server">"ZapsterTV Server"</string>
+<string name="zapstertv_network_id_title">"identitate de rețea"</string>
+<string name="wizard_completed_remotely">"Expertul de la distanță finalizat"</string>
+<string name="zapster_connected_to">"Conectat la"</string>
+<string name="menu_wizard_connection_type_description">"Alege configurație care să utilizeze"</string>
+<string name="wizard_setup_local_title">"Configurare instalare locală"</string>
+<string name="wizard_setup_local_description">"Folosi tunerul local pentru canalele de căutare"</string>
+<string name="wizard_connect_to_title">"Conectează la"</string>
+<string name="wizard_connect_to_description">"Conectați-vă la instalare existentă"</string>
+<string name="reset_connected_server_title">"Serverul conectat"</string>
+<string name="zapster_remote_access_title">"Acces de la distanță"</string>
+<string name="disconnect">"Deconecta"</string>
 </resources>
