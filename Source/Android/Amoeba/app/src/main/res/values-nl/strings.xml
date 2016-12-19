@@ -255,7 +255,6 @@ Druk nogmaals op om terug te keren naar fullscreen"</string>
 <string name="menu_wizard_cable_sweep_start_freq">"Start frequentie (kHz)"</string>
 <string name="menu_wizard_cable_sweep_end_freq">"End frequentie (kHz)"</string>
 <string name="menu_wizard_connection_type">"Type installatie"</string>
-<string name="menu_wizard_connection_type_remote_description">"Verbinding maken met een van de beschikbare ZapsterTV servers"</string>
 <string name="menu_wizard_connection_type_standalone">"lokale installatie"</string>
 <string name="menu_wizard_connection_type_standalone_description">"Configureren dit apparaat onafhankelijk"</string>
 <string name="menu_wizard_tvgateway_description">"Selecteer server te gebruiken"</string>
@@ -282,9 +281,6 @@ Schaf premie aan opnamen te bekijken"</string>
 <string name="about_build_date">"Bouwdatum"</string>
 <string name="about_manufacturer">"Fabrikant"</string>
 <string name="about_release_note">"release note"</string>
-
-<!-- Apple UI -->
-<string name="zapster_server">"ZapsterTV Server"</string>
 <string name="zapster_server_name">"Naam"</string>
 <string name="zapster_server_uniqie_id">"Unieke ID"</string>
 <string name="zapster_select_new">"Selecteer Nieuwe Server"</string>
@@ -310,4 +306,19 @@ Schaf premie aan opnamen te bekijken"</string>
 <string name="update_no_exit">"Niet in staat om af te sluiten tijdens upgrade"</string>
 <string name="menu_wizard_tvgateway_not_responding">"Heeft niet gereageerd"</string>
 <string name="menu_wizard_tvgateway_unable_to_connect">"Kan geen verbinding maken"</string>
+<string name="menu_wizard_connection_type_remote_description">"Verbinding maken met een van de beschikbare servers"</string>
+
+<!-- Apple UI -->
+<string name="zapster_server">"ZapsterTV Server"</string>
+<string name="zapstertv_network_id_title">"Network Identity"</string>
+<string name="wizard_completed_remotely">"Wizard voltooid op afstand"</string>
+<string name="zapster_connected_to">"Verbonden met"</string>
+<string name="menu_wizard_connection_type_description">"Kies welke configuratie te gebruiken"</string>
+<string name="wizard_setup_local_title">"Setup lokale installatie"</string>
+<string name="wizard_setup_local_description">"Gebruik lokale tuner om kanalen te zoeken"</string>
+<string name="wizard_connect_to_title">"Verbinden aan"</string>
+<string name="wizard_connect_to_description">"Verbinding maken met bestaande installatie"</string>
+<string name="reset_connected_server_title">"Connected Server"</string>
+<string name="zapster_remote_access_title">"Toegang op afstand"</string>
+<string name="disconnect">"losmaken"</string>
 </resources>
