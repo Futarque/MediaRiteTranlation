@@ -256,7 +256,6 @@ Tryk igen for at komme tilbage til fuldskærm"</string>
 <string name="menu_wizard_cable_sweep_start_freq">"Start frekvens"</string>
 <string name="menu_wizard_cable_sweep_end_freq">"Slut frekvens"</string>
 <string name="menu_wizard_connection_type">"Installationstype"</string>
-<string name="menu_wizard_connection_type_remote_description">"Forbind til en af de tilgængelige ZapsterTV servere"</string>
 <string name="menu_wizard_connection_type_standalone">"Lokal installation"</string>
 <string name="menu_wizard_connection_type_standalone_description">"Opsæt kun denne enhed"</string>
 <string name="menu_wizard_tvgateway_description">"Vælg server"</string>
@@ -283,9 +282,6 @@ Køb præmium for at se optagelser"</string>
 <string name="about_build_date">"Byggedato"</string>
 <string name="about_manufacturer">"Producent"</string>
 <string name="about_release_note">"Release Note"</string>
-
-<!-- Apple UI -->
-<string name="zapster_server">"ZapsterTV Server"</string>
 <string name="zapster_server_name">"Navn"</string>
 <string name="zapster_server_uniqie_id">"Unik ID"</string>
 <string name="zapster_select_new">"Vælg ny server"</string>
@@ -311,4 +307,19 @@ Køb præmium for at se optagelser"</string>
 <string name="update_no_exit">"Kan ikke afbrude under opdatering"</string>
 <string name="menu_wizard_tvgateway_not_responding">"Svarede ikke"</string>
 <string name="menu_wizard_tvgateway_unable_to_connect">"Unable to connect to "</string>
+<string name="menu_wizard_connection_type_remote_description">"Forbind til en af de tilgængelige servere"</string>
+
+<!-- Apple UI -->
+<string name="zapster_server">"Server"</string>
+<string name="zapstertv_network_id_title">"Netværksidentitet"</string>
+<string name="wizard_completed_remotely">"Installationsguide gennemført eksternt"</string>
+<string name="zapster_connected_to">"Forbundet til"</string>
+<string name="menu_wizard_connection_type_description">"Vælg hvilken konfiguration der skal benyttes"</string>
+<string name="wizard_setup_local_title">"Opsætning af lokal installation"</string>
+<string name="wizard_setup_local_description">"Benyt lokal tuner til at søge kanaler"</string>
+<string name="wizard_connect_to_title">"Forbind til"</string>
+<string name="wizard_connect_to_description">"Forbind til eksisterende installation"</string>
+<string name="reset_connected_server_title">"Forbundet server"</string>
+<string name="zapster_remote_access_title">"Fjern adgang"</string>
+<string name="disconnect">"Afbryd forbindelse"</string>
 </resources>
