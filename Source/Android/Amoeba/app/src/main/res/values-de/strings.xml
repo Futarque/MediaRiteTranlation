@@ -271,7 +271,6 @@ Drücken Sie erneut zurück in den Vollbild"</string>
 <string name="menu_wizard_cable_sweep_start_freq">"Startfrequenz (kHz)"</string>
 <string name="menu_wizard_cable_sweep_end_freq">"End Frequenz (kHz)"</string>
 <string name="menu_wizard_connection_type">"Einbauart"</string>
-<string name="menu_wizard_connection_type_remote_description">"Eine Verbindung mit einem der verfügbaren ZapsterTV Server"</string>
 <string name="menu_wizard_connection_type_standalone">"Lokale Installation"</string>
 <string name="menu_wizard_connection_type_standalone_description">"Konfigurieren Sie dieses Gerät unabhängig"</string>
 <string name="menu_wizard_tvgateway_description">"Wählen Sie Server zu verwenden"</string>
@@ -298,9 +297,6 @@ Erwerben Sie Premium-Aufnahmen zu sehen"</string>
 <string name="about_build_date">"Build-Datum"</string>
 <string name="about_manufacturer">"Hersteller"</string>
 <string name="about_release_note">"Veröffentlichungshinweis"</string>
-
-<!-- Apple UI -->
-<string name="zapster_server">"ZapsterTV Server"</string>
 <string name="zapster_server_name">"Name"</string>
 <string name="zapster_server_uniqie_id">"Eindeutige ID"</string>
 <string name="zapster_select_new">"Wählen Sie Neuer Server"</string>
@@ -326,4 +322,19 @@ Erwerben Sie Premium-Aufnahmen zu sehen"</string>
 <string name="update_no_exit">"Kann nicht während des Upgrades zu beenden"</string>
 <string name="menu_wizard_tvgateway_not_responding">"Hat nicht geantwortet"</string>
 <string name="menu_wizard_tvgateway_unable_to_connect">"Kann nicht verbinden"</string>
+<string name="menu_wizard_connection_type_remote_description">"Eine Verbindung mit einem der verfügbaren Server"</string>
+
+<!-- Apple UI -->
+<string name="zapster_server">"ZapsterTV Server"</string>
+<string name="zapstertv_network_id_title">"Netzwerkidentität"</string>
+<string name="wizard_completed_remotely">"Assistent abgeschlossen Ferne"</string>
+<string name="zapster_connected_to">"Angeschlossen"</string>
+<string name="menu_wizard_connection_type_description">"Wählen Sie die Konfiguration verwenden"</string>
+<string name="wizard_setup_local_title">"Setup-lokale Installation"</string>
+<string name="wizard_setup_local_description">"Verwenden Sie lokale Senderprogrammirung suchen"</string>
+<string name="wizard_connect_to_title">"Verbunden mit"</string>
+<string name="wizard_connect_to_description">"Eine Verbindung mit bestehenden Installation"</string>
+<string name="reset_connected_server_title">"Connected Server"</string>
+<string name="zapster_remote_access_title">"Fernzugriff"</string>
+<string name="disconnect">"Trennen"</string>
 </resources>
