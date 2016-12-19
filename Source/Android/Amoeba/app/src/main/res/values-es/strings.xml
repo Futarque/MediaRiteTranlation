@@ -255,7 +255,6 @@ Pulse de nuevo para volver a pantalla completa"</string>
 <string name="menu_wizard_cable_sweep_start_freq">"Frecuencia de inicio (kHz)"</string>
 <string name="menu_wizard_cable_sweep_end_freq">"Frecuencia final (kHz)"</string>
 <string name="menu_wizard_connection_type">"tipo de instalación"</string>
-<string name="menu_wizard_connection_type_remote_description">"Conectarse a uno de los servidores disponibles ZapsterTV"</string>
 <string name="menu_wizard_connection_type_standalone">"instalación local"</string>
 <string name="menu_wizard_connection_type_standalone_description">"Configurar este dispositivo independiente"</string>
 <string name="menu_wizard_tvgateway_description">"Seleccionar servidor para utilizar"</string>
@@ -282,9 +281,6 @@ Compra prima para ver las grabaciones"</string>
 <string name="about_build_date">"La fecha de construcción"</string>
 <string name="about_manufacturer">"Fabricante"</string>
 <string name="about_release_note">"Notas de la versión"</string>
-
-<!-- Apple UI -->
-<string name="zapster_server">"ZapsterTV servidor"</string>
 <string name="zapster_server_name">"Nombre"</string>
 <string name="zapster_server_uniqie_id">"Identificación única"</string>
 <string name="zapster_select_new">"Seleccione Nuevo servidor"</string>
@@ -310,4 +306,19 @@ Compra prima para ver las grabaciones"</string>
 <string name="update_no_exit">"Incapaz de salir durante la actualización"</string>
 <string name="menu_wizard_tvgateway_not_responding">"No respondió"</string>
 <string name="menu_wizard_tvgateway_unable_to_connect">"Incapaz de conectarse a"</string>
+<string name="menu_wizard_connection_type_remote_description">"Conectarse a uno de los servidores disponibles"</string>
+
+<!-- Apple UI -->
+<string name="zapster_server">"ZapsterTV servidor"</string>
+<string name="zapstertv_network_id_title">"identidad de Red"</string>
+<string name="wizard_completed_remotely">"Asistente finalizó de forma remota"</string>
+<string name="zapster_connected_to">"Conectado a"</string>
+<string name="menu_wizard_connection_type_description">"Elegir qué configuración utilizar"</string>
+<string name="wizard_setup_local_title">"Configuración de instalación local"</string>
+<string name="wizard_setup_local_description">"Usar el sintonizador local para buscar canales"</string>
+<string name="wizard_connect_to_title">"Conectar a"</string>
+<string name="wizard_connect_to_description">"Conectarse a la instalación existente"</string>
+<string name="reset_connected_server_title">"servidor conectado"</string>
+<string name="zapster_remote_access_title">"Acceso remoto"</string>
+<string name="disconnect">"Desconectar"</string>
 </resources>
