@@ -255,7 +255,6 @@ Nyomja meg ismét, hogy visszatérjen a teljes képernyős"</string>
 <string name="menu_wizard_cable_sweep_start_freq">"Induló frekvencia (kHz)"</string>
 <string name="menu_wizard_cable_sweep_end_freq">"Záró frekvencia (kHz)"</string>
 <string name="menu_wizard_connection_type">"telepítés típusa"</string>
-<string name="menu_wizard_connection_type_remote_description">"Csatlakozás az egyik elérhető ZapsterTV szerverek"</string>
 <string name="menu_wizard_connection_type_standalone">"helyi telepítés"</string>
 <string name="menu_wizard_connection_type_standalone_description">"Az eszköz konfigurálásához függetlenül"</string>
 <string name="menu_wizard_tvgateway_description">"Válassza szerver használata"</string>
@@ -282,9 +281,6 @@ Vásároljon prémium megtekintéséhez felvételek"</string>
 <string name="about_build_date">"Építés éve"</string>
 <string name="about_manufacturer">"Gyártó"</string>
 <string name="about_release_note">"Kiadott verziók"</string>
-
-<!-- Apple UI -->
-<string name="zapster_server">"ZapsterTV Server"</string>
 <string name="zapster_server_name">"Név"</string>
 <string name="zapster_server_uniqie_id">"Egyéni azonosító"</string>
 <string name="zapster_select_new">"Válassza az Új kiszolgáló"</string>
@@ -310,4 +306,19 @@ Vásároljon prémium megtekintéséhez felvételek"</string>
 <string name="update_no_exit">"Nem lehet, hogy kilépjen a frissítés során"</string>
 <string name="menu_wizard_tvgateway_not_responding">"Nem válaszolt"</string>
 <string name="menu_wizard_tvgateway_unable_to_connect">"Nem sikerült csatlakozni a"</string>
+<string name="menu_wizard_connection_type_remote_description">"Csatlakozás az egyik elérhető szerverek"</string>
+
+<!-- Apple UI -->
+<string name="zapster_server">"ZapsterTV Server"</string>
+<string name="zapstertv_network_id_title">"Network Identity"</string>
+<string name="wizard_completed_remotely">"Wizard befejezte távolról"</string>
+<string name="zapster_connected_to">"Csatlakozva valamihez"</string>
+<string name="menu_wizard_connection_type_description">"Válassza ki, melyik beállításokat kívánja használni"</string>
+<string name="wizard_setup_local_title">"Beállítás helyi telepítési"</string>
+<string name="wizard_setup_local_description">"Helyi tuner adások keresése"</string>
+<string name="wizard_connect_to_title">"Kapcsolodni"</string>
+<string name="wizard_connect_to_description">"Csatlakozás meglévő telepítés"</string>
+<string name="reset_connected_server_title">"Connected Server"</string>
+<string name="zapster_remote_access_title">"Távoli hozzáférés"</string>
+<string name="disconnect">"szétkapcsol"</string>
 </resources>
