@@ -297,4 +297,15 @@
     <string name="update_no_exit">Unable to exit during upgrade</string>
     <string name="menu_wizard_tvgateway_not_responding">Did not respond</string>
     <string name="menu_wizard_tvgateway_unable_to_connect">"Unable to connect to "</string>
+    <string name="zapstertv_network_id_title">Network Identity</string>
+    <string name="wizard_completed_remotely">Wizard completed remotely</string>
+    <string name="zapster_connected_to">Connected to</string>
+    <string name="menu_wizard_connection_type_description">Choose which configuration to use</string>
+    <string name="wizard_setup_local_title">Setup local installation</string>
+    <string name="wizard_setup_local_description">Use local tuner to search channels</string>
+    <string name="wizard_connect_to_title">Connect to</string>
+    <string name="wizard_connect_to_description">Connect to existing installation</string>
+    <string name="reset_connected_server_title">Connected Server</string>
+    <string name="zapster_remote_access_title">Remote access</string>
+    <string name="disconnect">Disconnect</string>
 </resources>
