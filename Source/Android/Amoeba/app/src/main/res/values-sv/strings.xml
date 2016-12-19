@@ -256,7 +256,6 @@ Tryck igen för att återgå till fullskärmsläge"</string>
 <string name="menu_wizard_cable_sweep_start_freq">"Startfrekvens (kHz)"</string>
 <string name="menu_wizard_cable_sweep_end_freq">"Slutfrekvens (kHz)"</string>
 <string name="menu_wizard_connection_type">"installations~~POS=TRUNC"</string>
-<string name="menu_wizard_connection_type_remote_description">"Anslut till en av de tillgängliga ZapsterTV servrar"</string>
 <string name="menu_wizard_connection_type_standalone">"lokal installation"</string>
 <string name="menu_wizard_connection_type_standalone_description">"Konfigurera enheten oberoende"</string>
 <string name="menu_wizard_tvgateway_description">"Välj server för att använda"</string>
@@ -283,9 +282,6 @@ Köp premie för att visa inspelningar"</string>
 <string name="about_build_date">"bygga datum"</string>
 <string name="about_manufacturer">"Tillverkare"</string>
 <string name="about_release_note">"frisättning Obs"</string>
-
-<!-- Apple UI -->
-<string name="zapster_server">"ZapsterTV Server"</string>
 <string name="zapster_server_name">"namn"</string>
 <string name="zapster_server_uniqie_id">"Unikt ID"</string>
 <string name="zapster_select_new">"Välj ny server"</string>
@@ -311,4 +307,19 @@ Köp premie för att visa inspelningar"</string>
 <string name="update_no_exit">"Det går inte att avsluta under uppgraderingen"</string>
 <string name="menu_wizard_tvgateway_not_responding">"Svarade inte"</string>
 <string name="menu_wizard_tvgateway_unable_to_connect">"Det går inte att ansluta till"</string>
+<string name="menu_wizard_connection_type_remote_description">"Anslut till en av de tillgängliga servrar"</string>
+
+<!-- Apple UI -->
+<string name="zapster_server">"ZapsterTV Server"</string>
+<string name="zapstertv_network_id_title">"nätverks identitet"</string>
+<string name="wizard_completed_remotely">"Guiden avslutade distans"</string>
+<string name="zapster_connected_to">"Ansluten till"</string>
+<string name="menu_wizard_connection_type_description">"Välj vilken konfiguration som ska användas"</string>
+<string name="wizard_setup_local_title">"Inställning lokal installation"</string>
+<string name="wizard_setup_local_description">"Använd lokal tuner för att söka kanaler"</string>
+<string name="wizard_connect_to_title">"Koppla till"</string>
+<string name="wizard_connect_to_description">"Ansluta till befintlig installation"</string>
+<string name="reset_connected_server_title">"ansluten server"</string>
+<string name="zapster_remote_access_title">"Fjärranslutning"</string>
+<string name="disconnect">"Koppla från"</string>
 </resources>
