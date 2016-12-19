@@ -255,7 +255,6 @@ Press again to return to fullscreen"</string>
 <string name="menu_wizard_cable_sweep_start_freq">"Start Frequency (kHz)"</string>
 <string name="menu_wizard_cable_sweep_end_freq">"End Frequency (kHz)"</string>
 <string name="menu_wizard_connection_type">"Installation type"</string>
-<string name="menu_wizard_connection_type_remote_description">"Connect to one of the available servers"</string>
 <string name="menu_wizard_connection_type_standalone">"Local installation"</string>
 <string name="menu_wizard_connection_type_standalone_description">"Configure this device independently"</string>
 <string name="menu_wizard_tvgateway_description">"Select server to use"</string>
@@ -282,9 +281,6 @@ Purchase premium to view recordings"</string>
 <string name="about_build_date">"Build date"</string>
 <string name="about_manufacturer">"Manufacturer"</string>
 <string name="about_release_note">"Release Note"</string>
-
-<!-- Apple UI -->
-<string name="zapster_server">"ZapsterTV Server"</string>
 <string name="zapster_server_name">"Name"</string>
 <string name="zapster_server_uniqie_id">"Unique ID"</string>
 <string name="zapster_select_new">"Select New Server"</string>
@@ -310,4 +306,19 @@ Purchase premium to view recordings"</string>
 <string name="update_no_exit">"Unable to exit during upgrade"</string>
 <string name="menu_wizard_tvgateway_not_responding">"Did not respond"</string>
 <string name="menu_wizard_tvgateway_unable_to_connect">"Unable to connect to "</string>
+<string name="menu_wizard_connection_type_remote_description">"Connect to one of the available servers"</string>
+
+<!-- Apple UI -->
+<string name="zapster_server">"ZapsterTV Server"</string>
+<string name="zapstertv_network_id_title">"Network Identity"</string>
+<string name="wizard_completed_remotely">"Wizard completed remotely"</string>
+<string name="zapster_connected_to">"Connected to"</string>
+<string name="menu_wizard_connection_type_description">"Choose which configuration to use"</string>
+<string name="wizard_setup_local_title">"Setup local installation"</string>
+<string name="wizard_setup_local_description">"Use local tuner to search channels"</string>
+<string name="wizard_connect_to_title">"Connect to"</string>
+<string name="wizard_connect_to_description">"Connect to existing installation"</string>
+<string name="reset_connected_server_title">"Connected Server"</string>
+<string name="zapster_remote_access_title">"Remote access"</string>
+<string name="disconnect">"Disconnect"</string>
 </resources>
