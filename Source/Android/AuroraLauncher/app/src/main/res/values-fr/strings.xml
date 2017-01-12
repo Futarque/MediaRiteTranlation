@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_name">"AuroraLauncher"</string>
-<string name="home_featured">"Sélection"</string>
 <string name="home_launcher_settings">"Configuration"</string>
 <string name="home_leanback">"TV Apps"</string>
 <string name="home_recent">"Récent"</string>
@@ -27,6 +25,27 @@
 <string name="auto_detect_language">"Impossible de détecter automatiquement le pays"</string>
 <string name="share_wifi_unable">"Impossible d'activer Wifi"</string>
 <string name="onlinehelp_error_loading_url">"Impossible d'ouvrir l'aide"</string>
-<string name="home_bookmarks">"Sites phares"</string>
 <string name="home_notifications">"Notifications"</string>
+<string name="home_favorite_apps">"Applications favorites"</string>
+<string name="home_system_setup">"Apparence"</string>
+<string name="home_bookmarks">"Bookmarks"</string>
+<string name="action_move">"Déplacer"</string>
+<string name="action_delete">"Effacer"</string>
+<string name="action_edit">"modifier"</string>
+<string name="action_uninstall">"Désinstaller"</string>
+<string name="action_mark_as_favourite">"Ajouter aux Favoris"</string>
+<string name="action_kill">"Tuer"</string>
+<string name="hidden">"Caché"</string>
+<string name="shown">"Montré"</string>
+<string name="show_option">"Montrer"</string>
+<string name="hide_option">"Cacher"</string>
+<string name="action_remove_as_favourite">"Supprimer des favoris"</string>
+<string name="customize_hide_suggested_apps">"favoris Suggestions"</string>
+<string name="customize_show_bookmarks_row">"Bookmarks Row"</string>
+<string name="customize_show_recent_apps_row">"Applications récentes Row"</string>
+<string name="customize_show_notifications_row">"Afficher les notifications ligne"</string>
+<string name="action_add">"Ajouter"</string>
+<string name="bookmark_edit_apply_toast">"Url Application"</string>
+<string name="bookmark_edit_wait_toast">"En attente de la page à la charge - appuyez sur OK pour appliquer avec force"</string>
+<string name="bookmarks_edit_capture_toast">"Capturer nouvelle icône"</string>
 </resources>
