@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_name">"AuroraLauncher"</string>
-
-<!-- Fuzzy -->
-<string name="home_featured">"Hervorgehoben"</string>
 <string name="home_launcher_settings">"Konfiguration"</string>
 <string name="home_leanback">"TV Apps"</string>
 <string name="home_recent">"Neueste"</string>
@@ -29,6 +25,27 @@
 <string name="auto_detect_language">"Kann nicht automatisch Land entdecken"</string>
 <string name="share_wifi_unable">"Kann nicht Wifi zu ermöglichen"</string>
 <string name="onlinehelp_error_loading_url">"Hilfe kann nicht öffnen"</string>
-<string name="home_bookmarks">"Beliebte Seiten"</string>
 <string name="home_notifications">"Benachrichtigungen"</string>
+<string name="home_favorite_apps">"Lieblings Apps"</string>
+<string name="home_system_setup">"Aussehen"</string>
+<string name="home_bookmarks">"Lesezeichen"</string>
+<string name="action_move">"Bewegung"</string>
+<string name="action_delete">"Löschen"</string>
+<string name="action_edit">"Bearbeiten"</string>
+<string name="action_uninstall">"Deinstallieren"</string>
+<string name="action_mark_as_favourite">"Zu Favoriten hinzufügen"</string>
+<string name="action_kill">"Töten"</string>
+<string name="hidden">"Versteckt"</string>
+<string name="shown">"Gezeigt"</string>
+<string name="show_option">"Show"</string>
+<string name="hide_option">"Verstecken"</string>
+<string name="action_remove_as_favourite">"Entfernen"</string>
+<string name="customize_hide_suggested_apps">"Empfohlene Favoriten"</string>
+<string name="customize_show_bookmarks_row">"Lesezeichen Row"</string>
+<string name="customize_show_recent_apps_row">"Neue Apps Row"</string>
+<string name="customize_show_notifications_row">"Benachrichtigungen anzeigen Reihe"</string>
+<string name="action_add">"Hinzufügen"</string>
+<string name="bookmark_edit_apply_toast">"Die Anwendung URL"</string>
+<string name="bookmark_edit_wait_toast">"Warten auf Seite Last - drücken Sie OK, um mit Gewalt anwenden"</string>
+<string name="bookmarks_edit_capture_toast">"Capturing neues Symbol"</string>
 </resources>
