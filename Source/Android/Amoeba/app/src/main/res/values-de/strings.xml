@@ -337,4 +337,7 @@ Erwerben Sie Premium-Aufnahmen zu sehen"</string>
 <string name="reset_connected_server_title">"Connected Server"</string>
 <string name="zapster_remote_access_title">"Fernzugriff"</string>
 <string name="disconnect">"Trennen"</string>
+<string name="update_forcing_restart">"Erzwingen Neustart"</string>
+<string name="grant_account_access">"Erteilen Sie den Kontozugriff"</string>
+<string name="grant_account_access_description">"Bitte erlauben den Zugriff auf Informationen zuzugreifen in App-Käufe zu berücksichtigen"</string>
 </resources>
