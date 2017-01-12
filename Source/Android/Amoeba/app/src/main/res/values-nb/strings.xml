@@ -323,4 +323,7 @@ Kjøp premie for å vise opptak"</string>
 <string name="reset_connected_server_title">"tilkoblet Server"</string>
 <string name="zapster_remote_access_title">"Fjerntilgang"</string>
 <string name="disconnect">"Frakople"</string>
+<string name="update_forcing_restart">"tvinge restart"</string>
+<string name="grant_account_access">"Gi tilgang til kontoen"</string>
+<string name="grant_account_access_description">"Vennligst gi tilgang til kontoinformasjon til tilgang i app kjøp"</string>
 </resources>
