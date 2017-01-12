@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_name">"AuroraLauncher"</string>
-<string name="home_featured">"Destacado"</string>
 <string name="home_launcher_settings">"Configuración"</string>
 <string name="home_leanback">"Televisión Aplicaciones"</string>
 <string name="home_recent">"Recientes"</string>
@@ -27,6 +25,27 @@
 <string name="auto_detect_language">"No se puede detectar automáticamente país"</string>
 <string name="share_wifi_unable">"No se puede permitir Wifi"</string>
 <string name="onlinehelp_error_loading_url">"No se puede abrir la ayuda"</string>
-<string name="home_bookmarks">"Sitios destacados"</string>
 <string name="home_notifications">"Notificaciones"</string>
+<string name="home_favorite_apps">"Aplicaciones favoritos"</string>
+<string name="home_system_setup">"Apariencia"</string>
+<string name="home_bookmarks">"marcadores"</string>
+<string name="action_move">"Movimiento"</string>
+<string name="action_delete">"Borrar"</string>
+<string name="action_edit">"Editar"</string>
+<string name="action_uninstall">"desinstalación"</string>
+<string name="action_mark_as_favourite">"Agregar a los favoritos"</string>
+<string name="action_kill">"Matar"</string>
+<string name="hidden">"Oculto"</string>
+<string name="shown">"Mostrado"</string>
+<string name="show_option">"Espectáculo"</string>
+<string name="hide_option">"Esconder"</string>
+<string name="action_remove_as_favourite">"Quitar de favoritos"</string>
+<string name="customize_hide_suggested_apps">"favoritos sugeridos"</string>
+<string name="customize_show_bookmarks_row">"marcadores Fila"</string>
+<string name="customize_show_recent_apps_row">"Aplicaciones recientes Fila"</string>
+<string name="customize_show_notifications_row">"Mostrar notificaciones fila"</string>
+<string name="action_add">"Añadir"</string>
+<string name="bookmark_edit_apply_toast">"Url aplicar"</string>
+<string name="bookmark_edit_wait_toast">"A la espera de la página a la carga - pulse OK para aplicar la fuerza"</string>
+<string name="bookmarks_edit_capture_toast">"La captura de nuevo icono"</string>
 </resources>
