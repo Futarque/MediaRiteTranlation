@@ -321,4 +321,7 @@ Osto palkkio katsella tallenteita"</string>
 <string name="reset_connected_server_title">"Connected Server"</string>
 <string name="zapster_remote_access_title">"Etäyhteys"</string>
 <string name="disconnect">"Katkaista"</string>
+<string name="update_forcing_restart">"pakottaminen uudelleenkäynnistys"</string>
+<string name="grant_account_access">"Myönnä tilin käyttöoikeus"</string>
+<string name="grant_account_access_description">"Sallikaa pääsyn tilitietojen pääsyn sovelluksessa ostoksia"</string>
 </resources>
