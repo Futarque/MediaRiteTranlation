@@ -321,4 +321,7 @@ Compra prima para ver las grabaciones"</string>
 <string name="reset_connected_server_title">"servidor conectado"</string>
 <string name="zapster_remote_access_title">"Acceso remoto"</string>
 <string name="disconnect">"Desconectar"</string>
+<string name="update_forcing_restart">"Forzar reinicio"</string>
+<string name="grant_account_access">"Conceder acceso a la cuenta"</string>
+<string name="grant_account_access_description">"Por favor, permita el acceso a la información de la cuenta para el acceso en las compras de aplicaciones"</string>
 </resources>
