@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_name">"AuroraOppstart"</string>
-<string name="home_featured">"Utvalgt"</string>
 <string name="home_launcher_settings">"Konfigurasjon"</string>
 <string name="home_leanback">"TV Apps"</string>
 <string name="home_recent">"Siste"</string>
@@ -29,6 +27,27 @@
 <string name="auto_detect_language">"Kan ikke automatisk oppdage landet"</string>
 <string name="share_wifi_unable">"Kan ikke aktivere Wifi"</string>
 <string name="onlinehelp_error_loading_url">"Kan ikke åpne hjelpen"</string>
-<string name="home_bookmarks">"Utvalgte nettsteder"</string>
 <string name="home_notifications">"Varsler"</string>
+<string name="home_favorite_apps">"Favoritt Apps"</string>
+<string name="home_system_setup">"Utseende"</string>
+<string name="home_bookmarks">"bokmerker"</string>
+<string name="action_move">"Bevege seg"</string>
+<string name="action_delete">"Slett"</string>
+<string name="action_edit">"Redigere"</string>
+<string name="action_uninstall">"Avinstaller"</string>
+<string name="action_mark_as_favourite">"Legg til i favoritter"</string>
+<string name="action_kill">"Drepe"</string>
+<string name="hidden">"skjult"</string>
+<string name="shown">"Vist"</string>
+<string name="show_option">"Forestilling"</string>
+<string name="hide_option">"Gjemme seg"</string>
+<string name="action_remove_as_favourite">"Fjern fra favoritter"</string>
+<string name="customize_hide_suggested_apps">"Forslag til Favoritter"</string>
+<string name="customize_show_bookmarks_row">"bokmerker Row"</string>
+<string name="customize_show_recent_apps_row">"Nylige Apps Row"</string>
+<string name="customize_show_notifications_row">"Vis varslinger rad"</string>
+<string name="action_add">"Legg til"</string>
+<string name="bookmark_edit_apply_toast">"påføring Url"</string>
+<string name="bookmark_edit_wait_toast">"Venter på siden til last - trykk OK for å tvangs søke"</string>
+<string name="bookmarks_edit_capture_toast">"Fange nytt ikon"</string>
 </resources>
