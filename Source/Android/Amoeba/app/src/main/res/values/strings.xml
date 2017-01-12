@@ -308,4 +308,7 @@
     <string name="reset_connected_server_title">Connected Server</string>
     <string name="zapster_remote_access_title">Remote access</string>
     <string name="disconnect">Disconnect</string>
+    <string name="update_forcing_restart">Forcing restart</string>
+    <string name="grant_account_access">Grant account access</string>
+    <string name="grant_account_access_description">Please allow access to account information to access in app purchases</string>
 </resources>

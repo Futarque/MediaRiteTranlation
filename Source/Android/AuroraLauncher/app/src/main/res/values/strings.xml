@@ -1,6 +1,5 @@
 <resources>
-    <string name="app_name">AuroraLauncher</string>
-    <string name="home_featured">Featured Apps</string>
+    <string name="home_favorite_apps">Favourite Apps</string>
     <string name="home_leanback">TV Apps</string>
     <string name="home_standard">Apps</string>
     <string name="home_system">System</string>
@@ -15,6 +14,7 @@
     <string name="search_result">Search Result:</string>
     <string name="home_system_update">Update Available</string>
     <string name="home_system_help">Help</string>
+    <string name="home_system_setup">Appearance</string>
     <string name="system_update_available">A system update is available.</string>
     <string name="new_version">New version</string>
     <string name="later">Later</string>
@@ -26,6 +26,25 @@
     <string name="auto_detect_language">Unable to automatically detect country</string>
     <string name="share_wifi_unable">Unable to enable Wifi</string>
     <string name="onlinehelp_error_loading_url">Unable to open help</string>
-    <string name="home_bookmarks">Featured Sites</string>
+    <string name="home_bookmarks">Bookmarks</string>
     <string name="home_notifications">Notifications</string>
+    <string name="action_move">Move</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_uninstall">Uninstall</string>
+    <string name="action_mark_as_favourite">Add to favorites</string>
+    <string name="action_kill">Kill</string>
+    <string name="hidden">Hidden</string>
+    <string name="shown">Shown</string>
+    <string name="show_option">Show</string>
+    <string name="hide_option">Hide</string>
+    <string name="action_remove_as_favourite">Remove from favourites</string>
+    <string name="customize_hide_suggested_apps">Suggested Favourites</string>
+    <string name="customize_show_bookmarks_row">Bookmarks Row</string>
+    <string name="customize_show_recent_apps_row">Recent Apps Row</string>
+    <string name="customize_show_notifications_row">Show notifications row</string>
+    <string name="action_add">Add</string>
+    <string name="bookmark_edit_apply_toast">Applying Url</string>
+    <string name="bookmark_edit_wait_toast">Waiting for page to load - press OK to forcefully apply</string>
+    <string name="bookmarks_edit_capture_toast">Capturing new icon</string>
 </resources>
