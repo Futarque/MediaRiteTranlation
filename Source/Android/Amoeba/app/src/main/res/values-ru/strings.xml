@@ -321,4 +321,7 @@
 <string name="reset_connected_server_title">"Подключенный сервер"</string>
 <string name="zapster_remote_access_title">"Удаленный доступ"</string>
 <string name="disconnect">"Отключить"</string>
+<string name="update_forcing_restart">"Принудительная перезагрузка"</string>
+<string name="grant_account_access">"Предоставление доступа учетной записи"</string>
+<string name="grant_account_access_description">"Пожалуйста, позволяют получить доступ к информации по счетам для доступа в приложение покупок"</string>
 </resources>
