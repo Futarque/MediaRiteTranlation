@@ -321,4 +321,7 @@ Schaf premie aan opnamen te bekijken"</string>
 <string name="reset_connected_server_title">"Connected Server"</string>
 <string name="zapster_remote_access_title">"Toegang op afstand"</string>
 <string name="disconnect">"losmaken"</string>
+<string name="update_forcing_restart">"Dwingen herstart"</string>
+<string name="grant_account_access">"Toegang verlenen rekening"</string>
+<string name="grant_account_access_description">"Houd rekening met de toegang tot informatie-account om toegang in app-aankopen"</string>
 </resources>
