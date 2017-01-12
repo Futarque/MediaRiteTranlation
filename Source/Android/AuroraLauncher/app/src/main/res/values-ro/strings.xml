@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_name">"AuroraLauncher"</string>
-<string name="home_featured">"Recomandate"</string>
 <string name="home_launcher_settings">"Configurație"</string>
 <string name="home_leanback">"TV Apps"</string>
 <string name="home_recent">"Recent"</string>
@@ -27,6 +25,27 @@
 <string name="auto_detect_language">"Nu se poate detecta automat țară"</string>
 <string name="share_wifi_unable">"Nu se poate activa Wi-Fi"</string>
 <string name="onlinehelp_error_loading_url">"Nu se poate deschide ajutorul"</string>
-<string name="home_bookmarks">"Site-uri recomandate"</string>
 <string name="home_notifications">"notificările"</string>
+<string name="home_favorite_apps">"Aplicații preferate"</string>
+<string name="home_system_setup">"Aspect"</string>
+<string name="home_bookmarks">"Semne de carte"</string>
+<string name="action_move">"Mișcare"</string>
+<string name="action_delete">"Șterge"</string>
+<string name="action_edit">"Editați | ×"</string>
+<string name="action_uninstall">"dezinstalare"</string>
+<string name="action_mark_as_favourite">"Adauga la favorite"</string>
+<string name="action_kill">"Ucide"</string>
+<string name="hidden">"Ascuns"</string>
+<string name="shown">"Afișate"</string>
+<string name="show_option">"Spectacol"</string>
+<string name="hide_option">"Ascunde"</string>
+<string name="action_remove_as_favourite">"Eliminați din favorite"</string>
+<string name="customize_hide_suggested_apps">"Favorite sugerate"</string>
+<string name="customize_show_bookmarks_row">"Semne de carte Row"</string>
+<string name="customize_show_recent_apps_row">"Aplicații recente Row"</string>
+<string name="customize_show_notifications_row">"Afișați notificări rând"</string>
+<string name="action_add">"Adăuga"</string>
+<string name="bookmark_edit_apply_toast">"aplicând Url"</string>
+<string name="bookmark_edit_wait_toast">"Se așteaptă pagina la încărcare - apăsați OK pentru a aplica cu forța"</string>
+<string name="bookmarks_edit_capture_toast">"Surprinderea nouă pictogramă"</string>
 </resources>
