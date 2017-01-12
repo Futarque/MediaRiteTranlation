@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_name">"AuroraLauncher"</string>
-<string name="home_featured">"Varustellun"</string>
 <string name="home_launcher_settings">"Kokoonpano"</string>
 <string name="home_leanback">"TV Apps"</string>
 <string name="home_recent">"Viimeaikainen"</string>
@@ -27,6 +25,27 @@
 <string name="auto_detect_language">"Pysty tunnistamaan automaattisesti maahan"</string>
 <string name="share_wifi_unable">"Enää ottaa Wifi"</string>
 <string name="onlinehelp_error_loading_url">"Ei voitu avata ohjeen"</string>
-<string name="home_bookmarks">"Ohjelmaan Sites"</string>
 <string name="home_notifications">"ilmoitukset"</string>
+<string name="home_favorite_apps">"Lempisovelluksemme"</string>
+<string name="home_system_setup">"Ulkomuoto"</string>
+<string name="home_bookmarks">"kirjanmerkit"</string>
+<string name="action_move">"Liikkua"</string>
+<string name="action_delete">"Poistaa"</string>
+<string name="action_edit">"Muokata"</string>
+<string name="action_uninstall">"Uninstall"</string>
+<string name="action_mark_as_favourite">"Lisää suosikkeihin"</string>
+<string name="action_kill">"Tappaa"</string>
+<string name="hidden">"kätketty"</string>
+<string name="shown">"Näkyy"</string>
+<string name="show_option">"Show"</string>
+<string name="hide_option">"Piilottaa"</string>
+<string name="action_remove_as_favourite">"Poista suosikeista"</string>
+<string name="customize_hide_suggested_apps">"Ehdotetut suosikit"</string>
+<string name="customize_show_bookmarks_row">"kirjanmerkit Row"</string>
+<string name="customize_show_recent_apps_row">"Viimeaikaiset sovellukset Row"</string>
+<string name="customize_show_notifications_row">"Näytä ilmoitukset rivi"</string>
+<string name="action_add">"Lisätä"</string>
+<string name="bookmark_edit_apply_toast">"hakeminen URL"</string>
+<string name="bookmark_edit_wait_toast">"Odotetaan sivun kuorman - painamalla OK voimakkaasti soveltaa"</string>
+<string name="bookmarks_edit_capture_toast">"Kaappaaminen uusi kuvake"</string>
 </resources>
