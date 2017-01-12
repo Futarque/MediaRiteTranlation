@@ -259,7 +259,7 @@ Tryk igen for at komme tilbage til fuldskærm"</string>
 <string name="menu_wizard_connection_type_standalone">"Lokal installation"</string>
 <string name="menu_wizard_connection_type_standalone_description">"Opsæt kun denne enhed"</string>
 <string name="menu_wizard_tvgateway_description">"Vælg server"</string>
-<string name="menu_wizard_tvgateway_connecting">"Forbind til "</string>
+<string name="menu_wizard_tvgateway_connecting">"Forbinder til "</string>
 <string name="menu_wizard_tvgateway_upgradefirmware">"Gammel server software fundet. Opdater først"</string>
 <string name="menu_wizard_tvgateway_upgradeapplication">"Gammel klient version fundet. Opdater først"</string>
 <string name="menu_wizard_tvgateway_channelsfound">"Tilgængelige kanaler: "</string>
@@ -322,4 +322,7 @@ Køb præmium for at se optagelser"</string>
 <string name="reset_connected_server_title">"Forbundet server"</string>
 <string name="zapster_remote_access_title">"Fjern adgang"</string>
 <string name="disconnect">"Afbryd forbindelse"</string>
+<string name="update_forcing_restart">"Tvinger genstart"</string>
+<string name="grant_account_access">"Giv konto adgang"</string>
+<string name="grant_account_access_description">"Tillad venligst adgang til konto information for tilgang til køb i appen"</string>
 </resources>
