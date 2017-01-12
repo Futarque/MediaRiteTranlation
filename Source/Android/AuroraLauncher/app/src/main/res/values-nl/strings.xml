@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_name">"AuroraLauncher"</string>
-<string name="home_featured">"Uitgelicht"</string>
 <string name="home_launcher_settings">"Configuratie"</string>
 <string name="home_leanback">"TV Apps"</string>
 <string name="home_recent">"Recent"</string>
@@ -27,6 +25,27 @@
 <string name="auto_detect_language">"Niet in staat om automatisch te detecteren land"</string>
 <string name="share_wifi_unable">"Kan geen Wifi in te schakelen"</string>
 <string name="onlinehelp_error_loading_url">"Niet in staat om hulp te openen"</string>
-<string name="home_bookmarks">"Aanbevolen sites"</string>
 <string name="home_notifications">"meldingen"</string>
+<string name="home_favorite_apps">"Favourite Apps"</string>
+<string name="home_system_setup">"Uiterlijk"</string>
+<string name="home_bookmarks">"bladwijzers"</string>
+<string name="action_move">"beweging"</string>
+<string name="action_delete">"Verwijder"</string>
+<string name="action_edit">"Bewerk"</string>
+<string name="action_uninstall">"Uninstall"</string>
+<string name="action_mark_as_favourite">"Toevoegen aan favorieten"</string>
+<string name="action_kill">"Doden"</string>
+<string name="hidden">"Verborgen"</string>
+<string name="shown">"getoond"</string>
+<string name="show_option">"Tonen"</string>
+<string name="hide_option">"Verbergen"</string>
+<string name="action_remove_as_favourite">"Verwijderen uit favorieten"</string>
+<string name="customize_hide_suggested_apps">"Voorgestelde favorieten"</string>
+<string name="customize_show_bookmarks_row">"Bookmarks Row"</string>
+<string name="customize_show_recent_apps_row">"Recente Apps Row"</string>
+<string name="customize_show_notifications_row">"Meldingen weergeven rij"</string>
+<string name="action_add">"Toevoegen"</string>
+<string name="bookmark_edit_apply_toast">"Het toepassen van Url"</string>
+<string name="bookmark_edit_wait_toast">"Wachten op pagina te laden - druk op OK om geweld toe te passen"</string>
+<string name="bookmarks_edit_capture_toast">"Het vastleggen van nieuwe icoon"</string>
 </resources>
