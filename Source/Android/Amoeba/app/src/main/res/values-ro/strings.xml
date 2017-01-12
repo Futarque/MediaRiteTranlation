@@ -323,4 +323,7 @@ Produse Cumpărare premium pentru a vizualiza înregistrările"</string>
 <string name="reset_connected_server_title">"Serverul conectat"</string>
 <string name="zapster_remote_access_title">"Acces de la distanță"</string>
 <string name="disconnect">"Deconecta"</string>
+<string name="update_forcing_restart">"forțându repornire"</string>
+<string name="grant_account_access">"Acordați acces la cont"</string>
+<string name="grant_account_access_description">"Vă rugăm să permiteți accesul la informații de cont pentru acces în achiziții de aplicații"</string>
 </resources>
