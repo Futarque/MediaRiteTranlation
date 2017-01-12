@@ -322,4 +322,7 @@ Köp premie för att visa inspelningar"</string>
 <string name="reset_connected_server_title">"ansluten server"</string>
 <string name="zapster_remote_access_title">"Fjärranslutning"</string>
 <string name="disconnect">"Koppla från"</string>
+<string name="update_forcing_restart">"tvingar omstart"</string>
+<string name="grant_account_access">"Bevilja kontoåtkomst"</string>
+<string name="grant_account_access_description">"Vänligen ge tillgång till kontoinformation till tillgång i appar"</string>
 </resources>
