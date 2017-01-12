@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_name">"AuroraLauncher"</string>
-<string name="home_featured">"In primo piano"</string>
 <string name="home_launcher_settings">"Configurazione"</string>
 <string name="home_leanback">"TV Apps"</string>
 <string name="home_recent">"Recente"</string>
@@ -27,6 +25,27 @@
 <string name="auto_detect_language">"In grado di rilevare automaticamente paese"</string>
 <string name="share_wifi_unable">"Impossibile abilitare Wifi"</string>
 <string name="onlinehelp_error_loading_url">"Impossibile aprire aiuto"</string>
-<string name="home_bookmarks">"Siti in vetrina"</string>
 <string name="home_notifications">"notifiche"</string>
+<string name="home_favorite_apps">"applicazioni preferite"</string>
+<string name="home_system_setup">"Aspetto"</string>
+<string name="home_bookmarks">"Preferiti"</string>
+<string name="action_move">"Mossa"</string>
+<string name="action_delete">"cancellare"</string>
+<string name="action_edit">"Modifica"</string>
+<string name="action_uninstall">"Disinstalla"</string>
+<string name="action_mark_as_favourite">"Aggiungi ai preferiti"</string>
+<string name="action_kill">"Uccidere"</string>
+<string name="hidden">"Nascosto"</string>
+<string name="shown">"indicato"</string>
+<string name="show_option">"Mostrare"</string>
+<string name="hide_option">"nascondere"</string>
+<string name="action_remove_as_favourite">"Rimuovere dai preferiti"</string>
+<string name="customize_hide_suggested_apps">"favoriti suggeriti"</string>
+<string name="customize_show_bookmarks_row">"Preferiti Row"</string>
+<string name="customize_show_recent_apps_row">"Recenti applicazioni Row"</string>
+<string name="customize_show_notifications_row">"Mostra notifiche fila"</string>
+<string name="action_add">"Aggiungere"</string>
+<string name="bookmark_edit_apply_toast">"L'applicazione di URL"</string>
+<string name="bookmark_edit_wait_toast">"In attesa di pagina da caricare - Premere OK per applicare con forza"</string>
+<string name="bookmarks_edit_capture_toast">"Cattura nuova icona"</string>
 </resources>
