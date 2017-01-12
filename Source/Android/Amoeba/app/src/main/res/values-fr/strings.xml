@@ -322,4 +322,7 @@ Achetez premium pour voir les enregistrements"</string>
 <string name="reset_connected_server_title">"connecté serveur"</string>
 <string name="zapster_remote_access_title">"Accès à distance"</string>
 <string name="disconnect">"couper"</string>
+<string name="update_forcing_restart">"Forcer redémarrage"</string>
+<string name="grant_account_access">"Accorder l'accès au compte"</string>
+<string name="grant_account_access_description">"S'il vous plaît permettre l'accès aux informations de compte d'accès achats in-app"</string>
 </resources>
