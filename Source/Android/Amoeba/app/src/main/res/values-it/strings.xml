@@ -321,4 +321,7 @@ Acquisto premio per visualizzare le registrazioni"</string>
 <string name="reset_connected_server_title">"Connected Server"</string>
 <string name="zapster_remote_access_title">"Accesso remoto"</string>
 <string name="disconnect">"Disconnect"</string>
+<string name="update_forcing_restart">"Forzare il riavvio"</string>
+<string name="grant_account_access">"Concedere l'accesso conto"</string>
+<string name="grant_account_access_description">"Si prega di consentire l'accesso alle informazioni di account di accesso in app acquisti"</string>
 </resources>
