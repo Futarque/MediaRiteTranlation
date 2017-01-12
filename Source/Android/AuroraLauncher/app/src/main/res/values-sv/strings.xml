@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_name">"AuroraLauncher"</string>
-<string name="home_featured">"Utvalda"</string>
 <string name="home_launcher_settings">"Konfiguration"</string>
 <string name="home_leanback">"TV Apps"</string>
 <string name="home_recent">"Senaste"</string>
@@ -27,6 +25,27 @@
 <string name="auto_detect_language">"Det går inte att automatiskt upptäcka land"</string>
 <string name="share_wifi_unable">"Det går inte att aktivera WiFi"</string>
 <string name="onlinehelp_error_loading_url">"Det går inte att öppna hjälp"</string>
-<string name="home_bookmarks">"Utvalda platser"</string>
 <string name="home_notifications">"Aviseringar"</string>
+<string name="home_favorite_apps">"Favoritlag appar"</string>
+<string name="home_system_setup">"Utseende"</string>
+<string name="home_bookmarks">"bokmärken"</string>
+<string name="action_move">"Flytta"</string>
+<string name="action_delete">"Radera"</string>
+<string name="action_edit">"Redigera"</string>
+<string name="action_uninstall">"avinstallera"</string>
+<string name="action_mark_as_favourite">"Lägg till i favoriter"</string>
+<string name="action_kill">"Döda"</string>
+<string name="hidden">"Dold"</string>
+<string name="shown">"Visad"</string>
+<string name="show_option">"Show"</string>
+<string name="hide_option">"Dölja"</string>
+<string name="action_remove_as_favourite">"Ta bort från favoriter"</string>
+<string name="customize_hide_suggested_apps">"föreslagna favoriter"</string>
+<string name="customize_show_bookmarks_row">"bokmärken Row"</string>
+<string name="customize_show_recent_apps_row">"Senaste appar Row"</string>
+<string name="customize_show_notifications_row">"Visa aviseringar rad"</string>
+<string name="action_add">"Lägg till"</string>
+<string name="bookmark_edit_apply_toast">"applicera Url"</string>
+<string name="bookmark_edit_wait_toast">"Väntar på sidan till last - tryck på OK för att kraftfullt tillämpa"</string>
+<string name="bookmarks_edit_capture_toast">"Fånga ny ikon"</string>
 </resources>
