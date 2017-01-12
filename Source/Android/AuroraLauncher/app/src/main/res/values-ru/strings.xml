@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_name">"AuroraLauncher"</string>
-<string name="home_featured">"Рекомендуемые"</string>
 <string name="home_launcher_settings">"Конфигурация"</string>
 <string name="home_leanback">"ТВ программы и приложения"</string>
 <string name="home_recent">"Недавний"</string>
@@ -27,6 +25,27 @@
 <string name="auto_detect_language">"Невозможно автоматически определить страну"</string>
 <string name="share_wifi_unable">"Невозможно включить Wi-Fi"</string>
 <string name="onlinehelp_error_loading_url">"Невозможно открыть помощь"</string>
-<string name="home_bookmarks">"Интересные сайты"</string>
 <string name="home_notifications">"Уведомления"</string>
+<string name="home_favorite_apps">"Любимые приложения"</string>
+<string name="home_system_setup">"Внешность"</string>
+<string name="home_bookmarks">"закладки"</string>
+<string name="action_move">"Переехать"</string>
+<string name="action_delete">"Удалить"</string>
+<string name="action_edit">"редактировать"</string>
+<string name="action_uninstall">"Удаление"</string>
+<string name="action_mark_as_favourite">"Добавить в избранное"</string>
+<string name="action_kill">"Убийство"</string>
+<string name="hidden">"скрытый"</string>
+<string name="shown">"показанный"</string>
+<string name="show_option">"Показать"</string>
+<string name="hide_option">"Спрятать"</string>
+<string name="action_remove_as_favourite">"Удалить из избранного"</string>
+<string name="customize_hide_suggested_apps">"Предлагаемые Избранное"</string>
+<string name="customize_show_bookmarks_row">"закладки Row"</string>
+<string name="customize_show_recent_apps_row">"Новые приложения Row"</string>
+<string name="customize_show_notifications_row">"Показывать уведомления строки"</string>
+<string name="action_add">"Добавить"</string>
+<string name="bookmark_edit_apply_toast">"Применение Url"</string>
+<string name="bookmark_edit_wait_toast">"Ожидание загрузки страницы - нажмите OK, чтобы принудительно применить"</string>
+<string name="bookmarks_edit_capture_toast">"Захватив новый значок"</string>
 </resources>
