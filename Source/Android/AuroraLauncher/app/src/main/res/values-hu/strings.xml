@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_name">"AuroraLauncher"</string>
-<string name="home_featured">"Kiemelt"</string>
 <string name="home_launcher_settings">"Konfiguráció"</string>
 <string name="home_leanback">"TV Apps"</string>
 <string name="home_recent">"Újabb keletű"</string>
@@ -27,6 +25,27 @@
 <string name="auto_detect_language">"Nem lehet automatikusan észleli ország"</string>
 <string name="share_wifi_unable">"Nem lehet, hogy Wifi"</string>
 <string name="onlinehelp_error_loading_url">"Nem sikerült megnyitni a súgót"</string>
-<string name="home_bookmarks">"Kiemelt oldalak"</string>
 <string name="home_notifications">"Értesítések"</string>
+<string name="home_favorite_apps">"Kedvenceink"</string>
+<string name="home_system_setup">"Kinézet"</string>
+<string name="home_bookmarks">"Könyvjelzők"</string>
+<string name="action_move">"Mozog"</string>
+<string name="action_delete">"Töröl"</string>
+<string name="action_edit">"szerkesztése"</string>
+<string name="action_uninstall">"Eltávolítás"</string>
+<string name="action_mark_as_favourite">"Add hozzá a kedvencekhez"</string>
+<string name="action_kill">"Megöl"</string>
+<string name="hidden">"Rejtett"</string>
+<string name="shown">"Látható"</string>
+<string name="show_option">"Előadás"</string>
+<string name="hide_option">"Elrejt"</string>
+<string name="action_remove_as_favourite">"Eltávolítás a kedvencek közül"</string>
+<string name="customize_hide_suggested_apps">"javasolt Kedvencek"</string>
+<string name="customize_show_bookmarks_row">"Könyvjelzők Row"</string>
+<string name="customize_show_recent_apps_row">"Legutóbbi alkalmazások Row"</string>
+<string name="customize_show_notifications_row">"Értesítések megjelenítése sorban"</string>
+<string name="action_add">"hozzáad"</string>
+<string name="bookmark_edit_apply_toast">"alkalmazása URL"</string>
+<string name="bookmark_edit_wait_toast">"Várakozás az oldalt terhelés - nyomja meg az OK erőteljesen alkalmazni"</string>
+<string name="bookmarks_edit_capture_toast">"Rögzítése új ikon"</string>
 </resources>
