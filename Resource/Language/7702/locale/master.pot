@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MediaRite\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-12-19 16:07+0100\n"
+"POT-Creation-Date: 2017-02-03 15:39+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -440,8 +440,8 @@ msgid "India"
 msgstr ""
 
 #. newTuner.mFrontEndCapabilityMask;
-#: Core/Implementation/Stream/Modules/NetworkTunerManager/NetworkTunerManager.cpp:899
-#: Core/Implementation/Stream/Modules/NetworkTunerManager/NetworkTunerManager.cpp:950
+#: Core/Implementation/Stream/Modules/NetworkTunerManager/NetworkTunerManager.cpp:986
+#: Core/Implementation/Stream/Modules/NetworkTunerManager/NetworkTunerManager.cpp:1038
 msgid "Internal"
 msgstr ""
 
@@ -620,7 +620,7 @@ msgstr ""
 msgid "No Signal"
 msgstr ""
 
-#: MediaRiteApi/Player/Player.cpp:913
+#: MediaRiteApi/Player/Player.cpp:918
 msgid "No Subtitles"
 msgstr ""
 

@@ -271,12 +271,12 @@
     <string name="about_model_name">Model name</string>
 
     <!-- Apple UI -->
-    <string name="zapster_server">ZapsterTV Server</string>
-    <string name="zapster_server_name">Name</string>
-    <string name="zapster_server_uniqie_id">Unique ID</string>
-    <string name="zapster_select_new">Select New Server</string>
-    <string name="zapster_server_info">Info</string>
-    <string name="zapster_server_version">Version</string>
+    <string name="apple_server">TV Server</string>
+    <string name="name">Name</string>
+    <string name="unique_id">Unique ID</string>
+    <string name="select_new_server">Select New Server</string>
+    <string name="info">Info</string>
+    <string name="apple_server_version">Version</string>
     <!-- END Translations -->
 
 
@@ -311,4 +311,5 @@
     <string name="update_forcing_restart">Forcing restart</string>
     <string name="grant_account_access">Grant account access</string>
     <string name="grant_account_access_description">Please allow access to account information to access in app purchases</string>
+    <string name="no_gateway_servers_found">No servers found</string>
 </resources>
