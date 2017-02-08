@@ -282,11 +282,6 @@ Achetez premium pour voir les enregistrements"</string>
 <string name="about_build_date">"Date de construction"</string>
 <string name="about_manufacturer">"Fabricant"</string>
 <string name="about_release_note">"Release Note"</string>
-<string name="zapster_server_name">"prénom"</string>
-<string name="zapster_server_uniqie_id">"Identifiant unique"</string>
-<string name="zapster_select_new">"Sélectionnez Nouveau serveur"</string>
-<string name="zapster_server_info">"Info"</string>
-<string name="zapster_server_version">"Version"</string>
 
 <!-- END Translations -->
 <string name="update_new_found">"Nouvelle mise à jour disponible"</string>
@@ -308,9 +303,6 @@ Achetez premium pour voir les enregistrements"</string>
 <string name="menu_wizard_tvgateway_not_responding">"N'a pas répondu"</string>
 <string name="menu_wizard_tvgateway_unable_to_connect">"Impossible de se connecter"</string>
 <string name="menu_wizard_connection_type_remote_description">"Connectez-vous à l'un des serveurs disponibles"</string>
-
-<!-- Apple UI -->
-<string name="zapster_server">"ZapsterTV serveur"</string>
 <string name="zapstertv_network_id_title">"Identité de Réseau"</string>
 <string name="wizard_completed_remotely">"Assistant terminé à distance"</string>
 <string name="zapster_connected_to">"Connecté à"</string>
@@ -325,4 +317,13 @@ Achetez premium pour voir les enregistrements"</string>
 <string name="update_forcing_restart">"Forcer redémarrage"</string>
 <string name="grant_account_access">"Accorder l'accès au compte"</string>
 <string name="grant_account_access_description">"S'il vous plaît permettre l'accès aux informations de compte d'accès achats in-app"</string>
+
+<!-- Apple UI -->
+<string name="apple_server">"TV Server"</string>
+<string name="name">"prénom"</string>
+<string name="unique_id">"Identifiant unique"</string>
+<string name="select_new_server">"Sélectionnez Nouveau serveur"</string>
+<string name="info">"Info"</string>
+<string name="apple_server_version">"Version"</string>
+<string name="no_gateway_servers_found">"Aucun serveur trouvé"</string>
 </resources>
