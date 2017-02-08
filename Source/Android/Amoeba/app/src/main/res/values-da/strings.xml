@@ -282,11 +282,6 @@ Køb præmium for at se optagelser"</string>
 <string name="about_build_date">"Byggedato"</string>
 <string name="about_manufacturer">"Producent"</string>
 <string name="about_release_note">"Release Note"</string>
-<string name="zapster_server_name">"Navn"</string>
-<string name="zapster_server_uniqie_id">"Unik ID"</string>
-<string name="zapster_select_new">"Vælg ny server"</string>
-<string name="zapster_server_info">"Info"</string>
-<string name="zapster_server_version">"Version"</string>
 
 <!-- END Translations -->
 <string name="update_new_found">"Ny opdatering tilgængelig"</string>
@@ -308,9 +303,6 @@ Køb præmium for at se optagelser"</string>
 <string name="menu_wizard_tvgateway_not_responding">"Svarede ikke"</string>
 <string name="menu_wizard_tvgateway_unable_to_connect">"Unable to connect to "</string>
 <string name="menu_wizard_connection_type_remote_description">"Forbind til en af de tilgængelige servere"</string>
-
-<!-- Apple UI -->
-<string name="zapster_server">"Server"</string>
 <string name="zapstertv_network_id_title">"Netværksidentitet"</string>
 <string name="wizard_completed_remotely">"Installationsguide gennemført eksternt"</string>
 <string name="zapster_connected_to">"Forbundet til"</string>
@@ -320,9 +312,18 @@ Køb præmium for at se optagelser"</string>
 <string name="wizard_connect_to_title">"Forbind til"</string>
 <string name="wizard_connect_to_description">"Forbind til eksisterende installation"</string>
 <string name="reset_connected_server_title">"Forbundet server"</string>
-<string name="zapster_remote_access_title">"Fjern adgang"</string>
+<string name="zapster_remote_access_title">"Fjernadgang"</string>
 <string name="disconnect">"Afbryd forbindelse"</string>
 <string name="update_forcing_restart">"Tvinger genstart"</string>
 <string name="grant_account_access">"Giv konto adgang"</string>
 <string name="grant_account_access_description">"Tillad venligst adgang til konto information for tilgang til køb i appen"</string>
+
+<!-- Apple UI -->
+<string name="apple_server">"TV Server"</string>
+<string name="name">"Navn"</string>
+<string name="unique_id">"Unik ID"</string>
+<string name="select_new_server">"Vælg ny server"</string>
+<string name="info">"Info"</string>
+<string name="apple_server_version">"Version"</string>
+<string name="no_gateway_servers_found">"Ingen servere fundet"</string>
 </resources>
