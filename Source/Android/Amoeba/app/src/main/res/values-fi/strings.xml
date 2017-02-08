@@ -281,11 +281,6 @@ Osto palkkio katsella tallenteita"</string>
 <string name="about_build_date">"Build päivämäärä"</string>
 <string name="about_manufacturer">"Valmistaja"</string>
 <string name="about_release_note">"Release Note"</string>
-<string name="zapster_server_name">"Nimi"</string>
-<string name="zapster_server_uniqie_id">"Unique ID"</string>
-<string name="zapster_select_new">"Valitse Uusi palvelin"</string>
-<string name="zapster_server_info">"Tiedot"</string>
-<string name="zapster_server_version">"Versio"</string>
 
 <!-- END Translations -->
 <string name="update_new_found">"Uusi päivitys löytyi"</string>
@@ -307,9 +302,6 @@ Osto palkkio katsella tallenteita"</string>
 <string name="menu_wizard_tvgateway_not_responding">"Ei vastannut"</string>
 <string name="menu_wizard_tvgateway_unable_to_connect">"Ei saada yhteyttä"</string>
 <string name="menu_wizard_connection_type_remote_description">"Yhdistä johonkin käytettävissä palvelimet"</string>
-
-<!-- Apple UI -->
-<string name="zapster_server">"ZapsterTV Server"</string>
 <string name="zapstertv_network_id_title">"Network Identity"</string>
 <string name="wizard_completed_remotely">"Ohjattu valmistunut etänä"</string>
 <string name="zapster_connected_to">"Yhdistetty"</string>
@@ -324,4 +316,13 @@ Osto palkkio katsella tallenteita"</string>
 <string name="update_forcing_restart">"pakottaminen uudelleenkäynnistys"</string>
 <string name="grant_account_access">"Myönnä tilin käyttöoikeus"</string>
 <string name="grant_account_access_description">"Sallikaa pääsyn tilitietojen pääsyn sovelluksessa ostoksia"</string>
+
+<!-- Apple UI -->
+<string name="apple_server">"TV Server"</string>
+<string name="name">"Nimi"</string>
+<string name="unique_id">"Uniikki tunniste"</string>
+<string name="select_new_server">"Valitse Uusi palvelin"</string>
+<string name="info">"Tiedot"</string>
+<string name="apple_server_version">"Versio"</string>
+<string name="no_gateway_servers_found">"Ei palvelimet löytynyt"</string>
 </resources>
