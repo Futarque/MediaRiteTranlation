@@ -297,11 +297,6 @@ Erwerben Sie Premium-Aufnahmen zu sehen"</string>
 <string name="about_build_date">"Build-Datum"</string>
 <string name="about_manufacturer">"Hersteller"</string>
 <string name="about_release_note">"Veröffentlichungshinweis"</string>
-<string name="zapster_server_name">"Name"</string>
-<string name="zapster_server_uniqie_id">"Eindeutige ID"</string>
-<string name="zapster_select_new">"Wählen Sie Neuer Server"</string>
-<string name="zapster_server_info">"Info"</string>
-<string name="zapster_server_version">"Version"</string>
 
 <!-- END Translations -->
 <string name="update_new_found">"Neues Update gefunden"</string>
@@ -323,9 +318,6 @@ Erwerben Sie Premium-Aufnahmen zu sehen"</string>
 <string name="menu_wizard_tvgateway_not_responding">"Hat nicht geantwortet"</string>
 <string name="menu_wizard_tvgateway_unable_to_connect">"Kann nicht verbinden"</string>
 <string name="menu_wizard_connection_type_remote_description">"Eine Verbindung mit einem der verfügbaren Server"</string>
-
-<!-- Apple UI -->
-<string name="zapster_server">"ZapsterTV Server"</string>
 <string name="zapstertv_network_id_title">"Netzwerkidentität"</string>
 <string name="wizard_completed_remotely">"Assistent abgeschlossen Ferne"</string>
 <string name="zapster_connected_to">"Angeschlossen"</string>
@@ -340,4 +332,13 @@ Erwerben Sie Premium-Aufnahmen zu sehen"</string>
 <string name="update_forcing_restart">"Erzwingen Neustart"</string>
 <string name="grant_account_access">"Erteilen Sie den Kontozugriff"</string>
 <string name="grant_account_access_description">"Bitte erlauben den Zugriff auf Informationen zuzugreifen in App-Käufe zu berücksichtigen"</string>
+
+<!-- Apple UI -->
+<string name="apple_server">"TV Server"</string>
+<string name="name">"Name"</string>
+<string name="unique_id">"Eindeutige ID"</string>
+<string name="select_new_server">"Wählen Sie Neuer Server"</string>
+<string name="info">"Info"</string>
+<string name="apple_server_version">"Version"</string>
+<string name="no_gateway_servers_found">"Keine Server gefunden"</string>
 </resources>
