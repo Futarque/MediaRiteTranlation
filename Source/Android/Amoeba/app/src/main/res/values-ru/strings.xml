@@ -281,11 +281,6 @@
 <string name="about_build_date">"Дата постройки"</string>
 <string name="about_manufacturer">"производитель"</string>
 <string name="about_release_note">"Release Note"</string>
-<string name="zapster_server_name">"имя"</string>
-<string name="zapster_server_uniqie_id">"Уникальный идентификатор"</string>
-<string name="zapster_select_new">"Выберите новый сервер"</string>
-<string name="zapster_server_info">"Информация"</string>
-<string name="zapster_server_version">"Версия"</string>
 
 <!-- END Translations -->
 <string name="update_new_found">"Новое обновление найдено"</string>
@@ -307,9 +302,6 @@
 <string name="menu_wizard_tvgateway_not_responding">"Не ответил"</string>
 <string name="menu_wizard_tvgateway_unable_to_connect">"Невозможно подключиться к"</string>
 <string name="menu_wizard_connection_type_remote_description">"Подключение к одному из доступных серверов"</string>
-
-<!-- Apple UI -->
-<string name="zapster_server">"ZapsterTV сервера"</string>
 <string name="zapstertv_network_id_title">"Сетевая идентификация"</string>
 <string name="wizard_completed_remotely">"Мастер завершил удаленно"</string>
 <string name="zapster_connected_to">"Подключен к"</string>
@@ -324,4 +316,13 @@
 <string name="update_forcing_restart">"Принудительная перезагрузка"</string>
 <string name="grant_account_access">"Предоставление доступа учетной записи"</string>
 <string name="grant_account_access_description">"Пожалуйста, позволяют получить доступ к информации по счетам для доступа в приложение покупок"</string>
+
+<!-- Apple UI -->
+<string name="apple_server">"ТВ-сервер"</string>
+<string name="name">"имя"</string>
+<string name="unique_id">"Уникальный идентификатор"</string>
+<string name="select_new_server">"Выберите новый сервер"</string>
+<string name="info">"Информация"</string>
+<string name="apple_server_version">"Версия"</string>
+<string name="no_gateway_servers_found">"Не найдено ни одного сервера"</string>
 </resources>
