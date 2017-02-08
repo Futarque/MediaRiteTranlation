@@ -281,11 +281,6 @@ Comprar premium para ver gravações"</string>
 <string name="about_build_date">"Data de construção"</string>
 <string name="about_manufacturer">"Fabricante"</string>
 <string name="about_release_note">"Nota de lançamento"</string>
-<string name="zapster_server_name">"Nome"</string>
-<string name="zapster_server_uniqie_id">"ID único"</string>
-<string name="zapster_select_new">"Selecione Novo Servidor"</string>
-<string name="zapster_server_info">"informações"</string>
-<string name="zapster_server_version">"Versão"</string>
 
 <!-- END Translations -->
 <string name="update_new_found">"Nova atualização encontrada"</string>
@@ -307,9 +302,6 @@ Comprar premium para ver gravações"</string>
 <string name="menu_wizard_tvgateway_not_responding">"Não respondeu"</string>
 <string name="menu_wizard_tvgateway_unable_to_connect">"Não é possível conectar-se"</string>
 <string name="menu_wizard_connection_type_remote_description">"Conectar-se a um dos servidores disponíveis"</string>
-
-<!-- Apple UI -->
-<string name="zapster_server">"ZapsterTV Servidor"</string>
 <string name="zapstertv_network_id_title">"identidade de rede"</string>
 <string name="wizard_completed_remotely">"Assistente concluiu remotamente"</string>
 <string name="zapster_connected_to">"Conectado a"</string>
@@ -324,4 +316,13 @@ Comprar premium para ver gravações"</string>
 <string name="update_forcing_restart">"Forçar reinício"</string>
 <string name="grant_account_access">"Conceder acesso à conta"</string>
 <string name="grant_account_access_description">"Por favor, permita o acesso a informações da conta para o acesso em compras de aplicativos"</string>
+
+<!-- Apple UI -->
+<string name="apple_server">"Servidor de TV"</string>
+<string name="name">"Nome"</string>
+<string name="unique_id">"ID único"</string>
+<string name="select_new_server">"Selecione Novo Servidor"</string>
+<string name="info">"informações"</string>
+<string name="apple_server_version">"Versão"</string>
+<string name="no_gateway_servers_found">"Nenhum servidor encontrado"</string>
 </resources>
