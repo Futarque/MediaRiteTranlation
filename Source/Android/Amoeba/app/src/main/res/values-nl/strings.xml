@@ -281,11 +281,6 @@ Schaf premie aan opnamen te bekijken"</string>
 <string name="about_build_date">"Bouwdatum"</string>
 <string name="about_manufacturer">"Fabrikant"</string>
 <string name="about_release_note">"release note"</string>
-<string name="zapster_server_name">"Naam"</string>
-<string name="zapster_server_uniqie_id">"Unieke ID"</string>
-<string name="zapster_select_new">"Selecteer Nieuwe Server"</string>
-<string name="zapster_server_info">"info"</string>
-<string name="zapster_server_version">"Versie"</string>
 
 <!-- END Translations -->
 <string name="update_new_found">"Nieuwe update gevonden"</string>
@@ -307,9 +302,6 @@ Schaf premie aan opnamen te bekijken"</string>
 <string name="menu_wizard_tvgateway_not_responding">"Heeft niet gereageerd"</string>
 <string name="menu_wizard_tvgateway_unable_to_connect">"Kan geen verbinding maken"</string>
 <string name="menu_wizard_connection_type_remote_description">"Verbinding maken met een van de beschikbare servers"</string>
-
-<!-- Apple UI -->
-<string name="zapster_server">"ZapsterTV Server"</string>
 <string name="zapstertv_network_id_title">"Network Identity"</string>
 <string name="wizard_completed_remotely">"Wizard voltooid op afstand"</string>
 <string name="zapster_connected_to">"Verbonden met"</string>
@@ -324,4 +316,13 @@ Schaf premie aan opnamen te bekijken"</string>
 <string name="update_forcing_restart">"Dwingen herstart"</string>
 <string name="grant_account_access">"Toegang verlenen rekening"</string>
 <string name="grant_account_access_description">"Houd rekening met de toegang tot informatie-account om toegang in app-aankopen"</string>
+
+<!-- Apple UI -->
+<string name="apple_server">"TV Server"</string>
+<string name="name">"Naam"</string>
+<string name="unique_id">"Unieke ID"</string>
+<string name="select_new_server">"Selecteer Nieuwe Server"</string>
+<string name="info">"info"</string>
+<string name="apple_server_version">"Versie"</string>
+<string name="no_gateway_servers_found">"Geen servers gevonden"</string>
 </resources>
