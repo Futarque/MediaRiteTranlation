@@ -282,11 +282,6 @@ Köp premie för att visa inspelningar"</string>
 <string name="about_build_date">"bygga datum"</string>
 <string name="about_manufacturer">"Tillverkare"</string>
 <string name="about_release_note">"frisättning Obs"</string>
-<string name="zapster_server_name">"namn"</string>
-<string name="zapster_server_uniqie_id">"Unikt ID"</string>
-<string name="zapster_select_new">"Välj ny server"</string>
-<string name="zapster_server_info">"Info"</string>
-<string name="zapster_server_version">"Version"</string>
 
 <!-- END Translations -->
 <string name="update_new_found">"Ny uppdatering hittades"</string>
@@ -308,9 +303,6 @@ Köp premie för att visa inspelningar"</string>
 <string name="menu_wizard_tvgateway_not_responding">"Svarade inte"</string>
 <string name="menu_wizard_tvgateway_unable_to_connect">"Det går inte att ansluta till"</string>
 <string name="menu_wizard_connection_type_remote_description">"Anslut till en av de tillgängliga servrar"</string>
-
-<!-- Apple UI -->
-<string name="zapster_server">"ZapsterTV Server"</string>
 <string name="zapstertv_network_id_title">"nätverks identitet"</string>
 <string name="wizard_completed_remotely">"Guiden avslutade distans"</string>
 <string name="zapster_connected_to">"Ansluten till"</string>
@@ -325,4 +317,13 @@ Köp premie för att visa inspelningar"</string>
 <string name="update_forcing_restart">"tvingar omstart"</string>
 <string name="grant_account_access">"Bevilja kontoåtkomst"</string>
 <string name="grant_account_access_description">"Vänligen ge tillgång till kontoinformation till tillgång i appar"</string>
+
+<!-- Apple UI -->
+<string name="apple_server">"TV Server"</string>
+<string name="name">"namn"</string>
+<string name="unique_id">"Unikt ID"</string>
+<string name="select_new_server">"Välj ny server"</string>
+<string name="info">"Info"</string>
+<string name="apple_server_version">"Version"</string>
+<string name="no_gateway_servers_found">"Inga servrar hittades"</string>
 </resources>
