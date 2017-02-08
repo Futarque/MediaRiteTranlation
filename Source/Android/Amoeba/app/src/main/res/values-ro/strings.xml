@@ -283,11 +283,6 @@ Produse Cumpărare premium pentru a vizualiza înregistrările"</string>
 <string name="about_build_date">"data construi"</string>
 <string name="about_manufacturer">"Producător"</string>
 <string name="about_release_note">"Notă de presă"</string>
-<string name="zapster_server_name">"Nume"</string>
-<string name="zapster_server_uniqie_id">"ID unic"</string>
-<string name="zapster_select_new">"Selectați Server nou"</string>
-<string name="zapster_server_info">"info"</string>
-<string name="zapster_server_version">"Versiune"</string>
 
 <!-- END Translations -->
 <string name="update_new_found">"Noua actualizare găsită"</string>
@@ -309,9 +304,6 @@ Produse Cumpărare premium pentru a vizualiza înregistrările"</string>
 <string name="menu_wizard_tvgateway_not_responding">"Nu a răspuns"</string>
 <string name="menu_wizard_tvgateway_unable_to_connect">"Nu se poate conecta la"</string>
 <string name="menu_wizard_connection_type_remote_description">"Conectarea la unul dintre serverele disponibile"</string>
-
-<!-- Apple UI -->
-<string name="zapster_server">"ZapsterTV Server"</string>
 <string name="zapstertv_network_id_title">"identitate de rețea"</string>
 <string name="wizard_completed_remotely">"Expertul de la distanță finalizat"</string>
 <string name="zapster_connected_to">"Conectat la"</string>
@@ -326,4 +318,13 @@ Produse Cumpărare premium pentru a vizualiza înregistrările"</string>
 <string name="update_forcing_restart">"forțându repornire"</string>
 <string name="grant_account_access">"Acordați acces la cont"</string>
 <string name="grant_account_access_description">"Vă rugăm să permiteți accesul la informații de cont pentru acces în achiziții de aplicații"</string>
+
+<!-- Apple UI -->
+<string name="apple_server">"TV Server"</string>
+<string name="name">"Nume"</string>
+<string name="unique_id">"ID unic"</string>
+<string name="select_new_server">"Selectați Server nou"</string>
+<string name="info">"info"</string>
+<string name="apple_server_version">"Versiune"</string>
+<string name="no_gateway_servers_found">"Nu există servere găsite"</string>
 </resources>
