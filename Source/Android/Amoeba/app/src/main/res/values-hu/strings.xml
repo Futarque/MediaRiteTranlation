@@ -281,11 +281,6 @@ Vásároljon prémium megtekintéséhez felvételek"</string>
 <string name="about_build_date">"Építés éve"</string>
 <string name="about_manufacturer">"Gyártó"</string>
 <string name="about_release_note">"Kiadott verziók"</string>
-<string name="zapster_server_name">"Név"</string>
-<string name="zapster_server_uniqie_id">"Egyéni azonosító"</string>
-<string name="zapster_select_new">"Válassza az Új kiszolgáló"</string>
-<string name="zapster_server_info">"Info"</string>
-<string name="zapster_server_version">"Változat"</string>
 
 <!-- END Translations -->
 <string name="update_new_found">"Új frissítés talált"</string>
@@ -307,9 +302,6 @@ Vásároljon prémium megtekintéséhez felvételek"</string>
 <string name="menu_wizard_tvgateway_not_responding">"Nem válaszolt"</string>
 <string name="menu_wizard_tvgateway_unable_to_connect">"Nem sikerült csatlakozni a"</string>
 <string name="menu_wizard_connection_type_remote_description">"Csatlakozás az egyik elérhető szerverek"</string>
-
-<!-- Apple UI -->
-<string name="zapster_server">"ZapsterTV Server"</string>
 <string name="zapstertv_network_id_title">"Network Identity"</string>
 <string name="wizard_completed_remotely">"Wizard befejezte távolról"</string>
 <string name="zapster_connected_to">"Csatlakozva valamihez"</string>
@@ -324,4 +316,13 @@ Vásároljon prémium megtekintéséhez felvételek"</string>
 <string name="update_forcing_restart">"erőltetése újraindítás"</string>
 <string name="grant_account_access">"Grant fiókhozzáférés"</string>
 <string name="grant_account_access_description">"Kérjük, hogy hozzáférjen fiókinformációt hozzáférést az app vásárlások"</string>
+
+<!-- Apple UI -->
+<string name="apple_server">"TV Server"</string>
+<string name="name">"Név"</string>
+<string name="unique_id">"Egyéni azonosító"</string>
+<string name="select_new_server">"Válassza az Új kiszolgáló"</string>
+<string name="info">"Info"</string>
+<string name="apple_server_version">"Változat"</string>
+<string name="no_gateway_servers_found">"Nincs szerver talált"</string>
 </resources>
