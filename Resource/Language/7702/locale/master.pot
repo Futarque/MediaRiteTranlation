@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MediaRite\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-02-03 15:39+0100\n"
+"POT-Creation-Date: 2017-03-03 08:30+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,9 +17,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+#: MediaRiteApi/Player/Player.cpp:1090
+msgid "A tuner is needed "
+msgstr ""
+
+#: MediaRiteApi/Player/Player.cpp:1093
+msgid "Allow recording"
+msgstr ""
+
 #: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:367
 #: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:405
-#: Core/Implementation/ChannelSearchController.cpp:2360
+#: Core/Implementation/ChannelSearchController.cpp:2362
 msgid "Analog"
 msgstr ""
 
@@ -90,35 +98,35 @@ msgstr ""
 msgid "CHNAME|Default"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:561
+#: Core/Implementation/ChannelSearchController.cpp:562
 msgid "CHSEARCH|Aborted"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:559
+#: Core/Implementation/ChannelSearchController.cpp:560
 msgid "CHSEARCH|Aborting"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:563
+#: Core/Implementation/ChannelSearchController.cpp:564
 msgid "CHSEARCH|Finished"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:553
+#: Core/Implementation/ChannelSearchController.cpp:554
 msgid "CHSEARCH|Initializing"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:567
+#: Core/Implementation/ChannelSearchController.cpp:568
 msgid "CHSEARCH|Interaction"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:565
+#: Core/Implementation/ChannelSearchController.cpp:566
 msgid "CHSEARCH|Processing"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:557
+#: Core/Implementation/ChannelSearchController.cpp:558
 msgid "CHSEARCH|Searching"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:555
+#: Core/Implementation/ChannelSearchController.cpp:556
 msgid "CHSEARCH|Tuning"
 msgstr ""
 
@@ -162,9 +170,9 @@ msgstr ""
 msgid "COUNTRY|Other"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:782
-#: Core/Implementation/ChannelSearchController.cpp:1623
-#: Core/Implementation/ChannelSearchController.cpp:2357
+#: Core/Implementation/ChannelSearchController.cpp:783
+#: Core/Implementation/ChannelSearchController.cpp:1625
+#: Core/Implementation/ChannelSearchController.cpp:2359
 msgid "Cable"
 msgstr ""
 
@@ -213,7 +221,7 @@ msgid "Children's"
 msgstr ""
 
 #. SettingsDBNetworkChangeType
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:409
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:413
 msgid "Coverage Changed"
 msgstr ""
 
@@ -383,7 +391,7 @@ msgid "French"
 msgstr ""
 
 #. SettingsDBNetworkChangeType
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:413
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:417
 msgid "Frequency Changed"
 msgstr ""
 
@@ -485,15 +493,15 @@ msgstr ""
 msgid "LANG|Original"
 msgstr ""
 
-#: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2725
+#: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2751
 msgid "LIST|All"
 msgstr ""
 
-#: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2729
+#: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2755
 msgid "LIST|Favorite"
 msgstr ""
 
-#: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2727
+#: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2753
 msgid "LIST|Hidden"
 msgstr ""
 
@@ -545,7 +553,7 @@ msgid "Maturity Locked"
 msgstr ""
 
 #. SettingsDBNetworkChangeType
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:403
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:407
 msgid "Message Only"
 msgstr ""
 
@@ -560,12 +568,12 @@ msgid "Movie"
 msgstr ""
 
 #. SettingsDBNetworkChangeType
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:405
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:409
 msgid "Multiplex Added"
 msgstr ""
 
 #. SettingsDBNetworkChangeType
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:407
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:411
 msgid "Multiplex Removed"
 msgstr ""
 
@@ -620,7 +628,7 @@ msgstr ""
 msgid "No Signal"
 msgstr ""
 
-#: MediaRiteApi/Player/Player.cpp:918
+#: MediaRiteApi/Player/Player.cpp:932
 msgid "No Subtitles"
 msgstr ""
 
@@ -644,6 +652,10 @@ msgstr ""
 
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:80
 msgid "Off"
+msgstr ""
+
+#: MediaRiteApi/Player/Player.cpp:1055
+msgid "Out of free tuners!"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:228
@@ -671,6 +683,10 @@ msgstr ""
 #. Software Update
 #: Basic/FutarqueInfo/src/FutarqueSWDownloadInfo.cpp:95
 msgid "Rebooting"
+msgstr ""
+
+#: MediaRiteApi/Player/Player.cpp:1025
+msgid "Recording"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:237
@@ -776,9 +792,13 @@ msgstr ""
 msgid "Sanskrit"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:789
-#: Core/Implementation/ChannelSearchController.cpp:1620
+#: Core/Implementation/ChannelSearchController.cpp:790
+#: Core/Implementation/ChannelSearchController.cpp:1622
 msgid "Satellite"
+msgstr ""
+
+#: MediaRiteApi/Player/Player.cpp:1076
+msgid "Select a programme to watch or steal the tuner from"
 msgstr ""
 
 #: Core/Implementation/MediaHandlers/Analog/AnalogStreamHandler.cpp:306
@@ -793,7 +813,7 @@ msgid "Service <%u,%u,%u>"
 msgstr ""
 
 #. SettingsDBNetworkChangeType
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:411
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:415
 msgid "Service Changed"
 msgstr ""
 
@@ -819,9 +839,18 @@ msgstr ""
 msgid "Sport"
 msgstr ""
 
+#: MediaRiteApi/Player/Player.cpp:1079 MediaRiteApi/Player/Player.cpp:1081
+msgid "Steal tuner"
+msgstr ""
+
 #. AudioMixType
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:303
 msgid "Stereo"
+msgstr ""
+
+#. Positive index 0
+#: MediaRiteApi/Player/Player.cpp:1083 MediaRiteApi/Player/Player.cpp:1094
+msgid "Stop recording"
 msgstr ""
 
 #. AudioMixType
@@ -1038,7 +1067,7 @@ msgstr ""
 msgid "TIME|Wednesday"
 msgstr ""
 
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:379
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:383
 msgid "TUNER|Analog"
 msgstr ""
 
@@ -1086,7 +1115,7 @@ msgstr ""
 msgid "Telugu"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:2354
+#: Core/Implementation/ChannelSearchController.cpp:2356
 msgid "Terrestrial"
 msgstr ""
 
@@ -1144,15 +1173,15 @@ msgstr ""
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:293
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:309
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:313
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:399
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:415
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:403
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:419
 #: Core/Implementation/SettingsDB/DynamicResource.cpp:47
 #: Core/Implementation/Storage/Local/Gio/CddaRipActivity.cpp:76
 msgid "Unknown"
 msgstr ""
 
 #. SettingsDBNetworkChangeType
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:401
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:405
 msgid "Unspecified"
 msgstr ""
 
@@ -1203,6 +1232,10 @@ msgid ""
 "Do NOT turn off your device."
 msgstr ""
 
+#: MediaRiteApi/Player/Player.cpp:1077
+msgid "Watch program"
+msgstr ""
+
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:273
 msgid "Welsh"
 msgstr ""
@@ -1236,4 +1269,8 @@ msgstr ""
 #. OAD
 #: Core/Implementation/SoftwareUpdateController.cpp:1055
 msgid "Your current version is newer."
+msgstr ""
+
+#: MediaRiteApi/Player/Player.cpp:1091
+msgid "for the following recording:"
 msgstr ""
