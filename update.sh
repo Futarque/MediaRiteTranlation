@@ -65,7 +65,7 @@ else
 	dirname="$(basename "${dir}")"    
 	$CMD ${SDIR}/Resource/Language/7702/locale/${dirname}/mediarite.po ${TDIR}/Resource/Language/7702/locale/${dirname}/mediarite.po
     done
-    make -C ${TDIR}/Resource/Language update_from_master
+    YCONFIG_PRODUCT=7702 make -C ${TDIR}/Resource/Language update_from_master
     echo "Processing Web Translations"
     ./webtrans.pl 7702
     $CMD ${SDIR}/Resource/Gui/7702/tv-gateway-web/bundle/* ${TDIR}/Resource/Gui/7702/tv-gateway-web/bundle/
