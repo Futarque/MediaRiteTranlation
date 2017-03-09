@@ -493,7 +493,7 @@ msgstr "Geen Resources"
 msgid "No Signal"
 msgstr "Geen signaal"
 
-#: MediaRiteApi/Player/Player.cpp:932
+#: MediaRiteApi/Player/Player.cpp:933
 msgid "No Subtitles"
 msgstr "Geen ondertiteling"
 
@@ -700,198 +700,193 @@ msgstr "Zweeds"
 msgid "Switzerland"
 msgstr "Zwitserland"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1099
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1307
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1521
+#. Abbreviation of the month April
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1038
 msgid "TIME|Apr"
 msgstr "April"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1349
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1478
+#. Full name of the month April
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1008
 msgid "TIME|April"
 msgstr "April"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1111
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1319
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1533
+#. Abbreviation of the month August
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1046
 msgid "TIME|Aug"
 msgstr "Augustus"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1361
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1490
+#. Full name of the month August
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1016
 msgid "TIME|August"
 msgstr "Augustus"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1123
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1331
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1545
+#. Abbreviation of the month December
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1054
 msgid "TIME|Dec"
 msgstr "December"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1373
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1502
+#. Full name of the month December
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1024
 msgid "TIME|December"
 msgstr "December"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1093
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1301
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1515
+#. Abbreviation of the month February
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1034
 msgid "TIME|Feb"
 msgstr "Februari"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1343
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1472
+#. Full name of the month February
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1004
 msgid "TIME|February"
 msgstr "Februari"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1456
+#. Abbreviation of the weekday Friday
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1092
 msgid "TIME|Fri"
 msgstr "Vr"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1147
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1428
+#. Full name of the weekday Friday
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1072
 msgid "TIME|Friday"
 msgstr "Vrijdag"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1090
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1298
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1512
+#. Abbreviation of the month January
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1032
 msgid "TIME|Jan"
 msgstr "Jan"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1340
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1469
+#. Full name of the month January
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1002
 msgid "TIME|January"
 msgstr "Januari"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1108
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1316
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1530
+#. Abbreviation of the month July
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1044
 msgid "TIME|Jul"
 msgstr "Juli"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1358
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1487
+#. Full name of the month July
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1014
 msgid "TIME|July"
 msgstr "Juli"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1105
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1313
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1527
+#. Abbreviation of the month June
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1042
 msgid "TIME|Jun"
 msgstr "Juni"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1355
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1484
+#. Full name of the month June
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1012
 msgid "TIME|June"
 msgstr "Juni"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1096
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1304
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1518
+#. Abbreviation of the month March
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1036
 msgid "TIME|Mar"
 msgstr "Ontsieren"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1346
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1475
+#. Full name of the month March
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1006
 msgid "TIME|March"
 msgstr "Maart"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1102
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1310
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1352
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1524
+#. Abbreviation of the month May
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1040
 msgid "TIME|May"
 msgstr "Mei"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1481
+#. Full name of the month May
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1010
 msgid "TIME|May_long"
 msgstr "Mei"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1444
+#. Abbreviation of the weekday Monday
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1084
 msgid "TIME|Mon"
 msgstr "Ma"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1135
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1416
+#. Full name of the weekday Monday
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1064
 msgid "TIME|Monday"
 msgstr "Maandag"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1120
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1328
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1542
+#. Abbreviation of the month November
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1052
 msgid "TIME|Nov"
 msgstr "November"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1370
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1499
+#. Full name of the month November
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1022
 msgid "TIME|November"
 msgstr "November"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1117
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1325
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1539
+#. Abbreviation of the month October
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1050
 msgid "TIME|Oct"
 msgstr "Oktober"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1367
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1496
+#. Full name of the month October
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1020
 msgid "TIME|October"
 msgstr "Oktober"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1459
+#. Abbreviation of the weekday Saturday
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1094
 msgid "TIME|Sat"
 msgstr "Za"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1150
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1431
+#. Full name of the weekday Saturday
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1074
 msgid "TIME|Saturday"
 msgstr "Zaterdag"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1114
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1322
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1536
+#. Abbreviation of the month September
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1048
 msgid "TIME|Sep"
 msgstr "September"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1364
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1493
+#. Full name of the month September
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1018
 msgid "TIME|September"
 msgstr "September"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1441
+#. Abbreviation of the weekday Sunday
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1082
 msgid "TIME|Sun"
 msgstr "Zon"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1132
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1413
+#. Full name of the weekday Sunday
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1062
 msgid "TIME|Sunday"
 msgstr "Zondag"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1453
+#. Abbreviation of the weekday Thursday
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1090
 msgid "TIME|Thu"
 msgstr "Don"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1144
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1425
+#. Full name of the weekday Thursday
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1070
 msgid "TIME|Thursday"
 msgstr "Donderdag"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1447
+#. Abbreviation of the weekday Tuesday
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1086
 msgid "TIME|Tue"
 msgstr "Din"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1138
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1419
+#. Full name of the weekday Tuesday
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1066
 msgid "TIME|Tuesday"
 msgstr "Dinsdag"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1450
+#. Abbreviation of the weekday Wednesday
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1088
 msgid "TIME|Wed"
 msgstr "Wo"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1141
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1422
+#. Full name of the weekday Wednesday
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1068
 msgid "TIME|Wednesday"
 msgstr "Woensdag"
 
@@ -947,12 +942,12 @@ msgstr "Telugu"
 msgid "Terrestrial"
 msgstr "Aards"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1043
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1143
 msgid "Today"
 msgstr "Vandaag"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1051
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1191
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1151
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1234
 msgid "Tomorrow"
 msgstr "Morgen"
 
@@ -1022,8 +1017,8 @@ msgstr "Westen"
 msgid "Wrong Card Version"
 msgstr "Verkeerde Card Version"
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1047
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1185
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1147
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1228
 msgid "Yesterday"
 msgstr "Gisteren"
 
@@ -1227,40 +1222,48 @@ msgstr "Waarschuwing!\n"
 msgid "Writing Update"
 msgstr "Schrijven bijwerken"
 
-#: MediaRiteApi/Player/Player.cpp:1093
+#: MediaRiteApi/Player/Player.cpp:1111
 msgid "Allow recording"
 msgstr "laat opname"
 
-#: MediaRiteApi/Player/Player.cpp:1055
+#: MediaRiteApi/Player/Player.cpp:1068
 msgid "Out of free tuners!"
 msgstr "Uit vrije tuners!"
 
-#: MediaRiteApi/Player/Player.cpp:1025
+#: MediaRiteApi/Player/Player.cpp:1031
 msgid "Recording"
 msgstr "opname"
 
-#: MediaRiteApi/Player/Player.cpp:1079 MediaRiteApi/Player/Player.cpp:1081
+#: MediaRiteApi/Player/Player.cpp:1092 MediaRiteApi/Player/Player.cpp:1094
 msgid "Steal tuner"
 msgstr "Steal tuner"
 
 #. Positive index 0
-#: MediaRiteApi/Player/Player.cpp:1083 MediaRiteApi/Player/Player.cpp:1094
+#: MediaRiteApi/Player/Player.cpp:1096 MediaRiteApi/Player/Player.cpp:1112
 msgid "Stop recording"
 msgstr "de opname te stoppen"
 
-#: MediaRiteApi/Player/Player.cpp:1077
+#: MediaRiteApi/Player/Player.cpp:1090
 msgid "Watch program"
 msgstr "horloge programma"
 
-#: MediaRiteApi/Player/Player.cpp:1091
+#: MediaRiteApi/Player/Player.cpp:1109
 msgid "for the following recording:"
 msgstr "voor de volgende opname:"
 
-#: MediaRiteApi/Player/Player.cpp:1090
+#: MediaRiteApi/Player/Player.cpp:1108
 msgid "A tuner is needed"
 msgstr "Een tuner is nodig"
 
-#: MediaRiteApi/Player/Player.cpp:1076
+#: MediaRiteApi/Player/Player.cpp:1089
 msgid "Select a program to watch or steal the tuner from"
 msgstr "Selecteer een programma om naar te kijken of te stelen van de tuner uit"
+
+#: MediaRiteApi/Player/Player.cpp:1224
+msgid "Taking tuner from"
+msgstr "Het nemen van tuner uit"
+
+#: MediaRiteApi/Player/Player.cpp:1204
+msgid "Tuner taken by"
+msgstr "Tuner genomen door"
 
