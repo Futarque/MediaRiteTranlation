@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="wizard_country">"ülke"</string>
+<string name="wizard_country">"Ülke"</string>
 <string name="wizard_country_description">"Lütfen ülkenizi seçiniz"</string>
 <string name="wizard_language">"Dil"</string>
 <string name="wizard_language_description">"Lütfen dilinizi seçin"</string>
 <string name="wizard_timezone">"Saat dilimi"</string>
 <string name="wizard_timezone_description">"Lütfen saat dilimini seçin"</string>
-<string name="wizard_complete">"Büyücü tamamlandı"</string>
-<string name="wizard_complete_ok">"tamam"</string>
+<string name="wizard_complete">"Sihirbaz tamamlandı"</string>
+<string name="wizard_complete_ok">"Tamam"</string>
 <string name="wizard_network">"Ağ"</string>
-<string name="network_connecting">"bağlantı"</string>
+<string name="network_connecting">"Bağlanıyor"</string>
 <string name="network_skip">"ATLA"</string>
 <string name="eula_title">"Son kullanıcı Lisans Anlaşması"</string>
 <string name="eula_continue">"DEVAM ET"</string>
