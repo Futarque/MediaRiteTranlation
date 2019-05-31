@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MediaRite\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-03-08 10:59+0100\n"
+"POT-Creation-Date: 2019-04-15 14:40+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,22 +17,22 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: MediaRiteApi/Player/Player.cpp:1108
+#: MediaRiteApi/Players/Player.cpp:2276
 msgid "A tuner is needed"
 msgstr ""
 
-#: MediaRiteApi/Player/Player.cpp:1111
+#: MediaRiteApi/Players/Player.cpp:2279
 msgid "Allow recording"
 msgstr ""
 
-#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:367
-#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:405
-#: Core/Implementation/ChannelSearchController.cpp:2362
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:401
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:449
+#: Core/Implementation/ChannelSearchController.cpp:2032
 msgid "Analog"
 msgstr ""
 
 #. Tuner
-#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:429
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:480
 msgid "Antenna Error"
 msgstr ""
 
@@ -49,16 +49,16 @@ msgid "Audio Description"
 msgstr ""
 
 #. AUSTRALIA
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:376
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:379
 msgid "Australia"
 msgstr ""
 
 #. AUSTRIA
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:378
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:381
 msgid "Austria"
 msgstr ""
 
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:82
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:92
 msgid "Automatic"
 msgstr ""
 
@@ -76,7 +76,7 @@ msgid "Belarusian"
 msgstr ""
 
 #. BELGIUM
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:380
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:383
 msgid "Belgium"
 msgstr ""
 
@@ -93,86 +93,92 @@ msgid "CA|Checking Card"
 msgstr ""
 
 #: Core/Implementation/MediaHandlers/Analog/AnalogStreamHandler.cpp:308
-#: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:3237
-#: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:5343
+#: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:3255
+#: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:5361
 msgid "CHNAME|Default"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:562
+#: Basic/FutarqueInfo/src/FutarqueChannelSearchInfo.cpp:356
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:1011
 msgid "CHSEARCH|Aborted"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:560
+#: Basic/FutarqueInfo/src/FutarqueChannelSearchInfo.cpp:354
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:1009
 msgid "CHSEARCH|Aborting"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:564
+#: Basic/FutarqueInfo/src/FutarqueChannelSearchInfo.cpp:358
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:1013
 msgid "CHSEARCH|Finished"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:554
+#: Basic/FutarqueInfo/src/FutarqueChannelSearchInfo.cpp:348
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:1003
 msgid "CHSEARCH|Initializing"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:568
+#: Basic/FutarqueInfo/src/FutarqueChannelSearchInfo.cpp:362
 msgid "CHSEARCH|Interaction"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:566
+#: Basic/FutarqueInfo/src/FutarqueChannelSearchInfo.cpp:360
 msgid "CHSEARCH|Processing"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:558
+#: Basic/FutarqueInfo/src/FutarqueChannelSearchInfo.cpp:352
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:1007
 msgid "CHSEARCH|Searching"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:556
+#: Basic/FutarqueInfo/src/FutarqueChannelSearchInfo.cpp:350
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:1005
 msgid "CHSEARCH|Tuning"
 msgstr ""
 
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:280
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:296
 msgid "CONTENT|Commentary"
 msgstr ""
 
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:277
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:293
 msgid "CONTENT|Dialogue"
 msgstr ""
 
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:283
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:299
 msgid "CONTENT|Emergency"
 msgstr ""
 
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:268
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:284
 msgid "CONTENT|HearingImpaired"
 msgstr ""
 
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:289
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:305
 msgid "CONTENT|Karaoke"
 msgstr ""
 
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:274
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:290
 msgid "CONTENT|MusicAndEffects"
 msgstr ""
 
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:265
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:281
 msgid "CONTENT|Normal"
 msgstr ""
 
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:271
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:287
 msgid "CONTENT|VisuallyImpaired"
 msgstr ""
 
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:286
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:302
 msgid "CONTENT|VoiceOver"
 msgstr ""
 
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:374
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:377
 msgid "COUNTRY|Other"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:783
-#: Core/Implementation/ChannelSearchController.cpp:1625
-#: Core/Implementation/ChannelSearchController.cpp:2359
+#: Core/Implementation/ChannelSearchController.cpp:439
+#: Core/Implementation/ChannelSearchController.cpp:1283
+#: Core/Implementation/ChannelSearchController.cpp:2029
 msgid "Cable"
 msgstr ""
 
@@ -221,7 +227,7 @@ msgid "Children's"
 msgstr ""
 
 #. SettingsDBNetworkChangeType
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:413
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:429
 msgid "Coverage Changed"
 msgstr ""
 
@@ -233,55 +239,55 @@ msgstr ""
 msgid "Czech"
 msgstr ""
 
-#: MediaRiteApi/Dvr/DvrStorage.cpp:66
+#: MediaRiteApi/Dvr/Types/DvrTypes.cpp:119
 msgid "DVREXPORT|Aborted"
 msgstr ""
 
-#: MediaRiteApi/Dvr/DvrStorage.cpp:64
+#: MediaRiteApi/Dvr/Types/DvrTypes.cpp:117
 msgid "DVREXPORT|Aborting"
 msgstr ""
 
-#: MediaRiteApi/Dvr/DvrStorage.cpp:68
+#: MediaRiteApi/Dvr/Types/DvrTypes.cpp:121
 msgid "DVREXPORT|Done"
 msgstr ""
 
-#: MediaRiteApi/Dvr/DvrStorage.cpp:58
+#: MediaRiteApi/Dvr/Types/DvrTypes.cpp:111
 msgid "DVREXPORT|Idle"
 msgstr ""
 
-#: MediaRiteApi/Dvr/DvrStorage.cpp:60
+#: MediaRiteApi/Dvr/Types/DvrTypes.cpp:113
 msgid "DVREXPORT|Preparing"
 msgstr ""
 
-#: MediaRiteApi/Dvr/DvrStorage.cpp:62
+#: MediaRiteApi/Dvr/Types/DvrTypes.cpp:115
 msgid "DVREXPORT|Running"
 msgstr ""
 
-#: Core/Implementation/SettingsDB/DynamicResource.cpp:35
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:443
 msgid "DYNUP|Checking"
 msgstr ""
 
-#: Core/Implementation/SettingsDB/DynamicResource.cpp:41
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:449
 msgid "DYNUP|Deleting"
 msgstr ""
 
-#: Core/Implementation/SettingsDB/DynamicResource.cpp:39
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:447
 msgid "DYNUP|Deploying"
 msgstr ""
 
-#: Core/Implementation/SettingsDB/DynamicResource.cpp:37
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:445
 msgid "DYNUP|Downloading"
 msgstr ""
 
-#: Core/Implementation/SettingsDB/DynamicResource.cpp:45
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:453
 msgid "DYNUP|Failed"
 msgstr ""
 
-#: Core/Implementation/SettingsDB/DynamicResource.cpp:33
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:441
 msgid "DYNUP|Idle"
 msgstr ""
 
-#: Core/Implementation/SettingsDB/DynamicResource.cpp:43
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:451
 msgid "DYNUP|Success"
 msgstr ""
 
@@ -295,7 +301,7 @@ msgid "Decryption error"
 msgstr ""
 
 #. DENMARK
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:382
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:385
 msgid "Denmark"
 msgstr ""
 
@@ -323,8 +329,9 @@ msgstr ""
 msgid "Dutch"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:506
-#: MediaRiteApi/Channels/ChannelManager.cpp:587
+#: Core/Implementation/ChannelSearchController.cpp:184
+#: MediaRiteApi/Channels/ChannelManager.cpp:744
+#: MediaRiteApi/Channels/ChannelManager.cpp:954
 msgid "East"
 msgstr ""
 
@@ -373,7 +380,7 @@ msgid "Failed"
 msgstr ""
 
 #. FINLAND
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:384
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:387
 msgid "Finland"
 msgstr ""
 
@@ -382,7 +389,7 @@ msgid "Finnish"
 msgstr ""
 
 #. FRANCE
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:386
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:389
 msgid "France"
 msgstr ""
 
@@ -391,7 +398,7 @@ msgid "French"
 msgstr ""
 
 #. SettingsDBNetworkChangeType
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:417
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:433
 msgid "Frequency Changed"
 msgstr ""
 
@@ -413,12 +420,12 @@ msgid "German"
 msgstr ""
 
 #. GERMANY
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:388
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:391
 msgid "Germany"
 msgstr ""
 
 #. GREECE
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:390
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:393
 msgid "Greece"
 msgstr ""
 
@@ -443,13 +450,13 @@ msgid "Icelandic"
 msgstr ""
 
 #. INDIA
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:392
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:395
 msgid "India"
 msgstr ""
 
 #. newTuner.mFrontEndCapabilityMask;
-#: Core/Implementation/Stream/Modules/NetworkTunerManager/NetworkTunerManager.cpp:986
-#: Core/Implementation/Stream/Modules/NetworkTunerManager/NetworkTunerManager.cpp:1038
+#: Core/Implementation/Stream/Modules/NetworkTunerManager/NetworkTunerManager.cpp:1089
+#: Core/Implementation/Stream/Modules/NetworkTunerManager/NetworkTunerManager.cpp:1184
 msgid "Internal"
 msgstr ""
 
@@ -468,7 +475,7 @@ msgid "Invalid product."
 msgstr ""
 
 #. IRELAND
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:394
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:397
 msgid "Ireland"
 msgstr ""
 
@@ -481,7 +488,7 @@ msgid "Italian"
 msgstr ""
 
 #. ITALY
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:396
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:399
 msgid "Italy"
 msgstr ""
 
@@ -493,23 +500,19 @@ msgstr ""
 msgid "LANG|Original"
 msgstr ""
 
-#: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2751
+#: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2762
 msgid "LIST|All"
 msgstr ""
 
-#: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2755
+#: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2766
 msgid "LIST|Favorite"
 msgstr ""
 
-#: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2753
+#: Core/Implementation/SettingsDB/ChannelListHandler.cpp:2764
 msgid "LIST|Hidden"
 msgstr ""
 
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:109
-msgid "LNB|SCIF"
-msgstr ""
-
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:93
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:105
 msgid "LNB|Universal"
 msgstr ""
 
@@ -535,12 +538,16 @@ msgid "Malayalam"
 msgstr ""
 
 #. MALTA
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:398
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:401
 msgid "Malta"
 msgstr ""
 
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:84
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:94
 msgid "Manual"
+msgstr ""
+
+#: Core/Implementation/PlayerControl/PlayerController.cpp:4267
+msgid "Manually Added"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:222
@@ -553,12 +560,12 @@ msgid "Maturity Locked"
 msgstr ""
 
 #. SettingsDBNetworkChangeType
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:407
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:423
 msgid "Message Only"
 msgstr ""
 
 #. AudioMixType
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:300
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:316
 msgid "Mono"
 msgstr ""
 
@@ -568,17 +575,17 @@ msgid "Movie"
 msgstr ""
 
 #. SettingsDBNetworkChangeType
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:409
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:425
 msgid "Multiplex Added"
 msgstr ""
 
 #. SettingsDBNetworkChangeType
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:411
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:427
 msgid "Multiplex Removed"
 msgstr ""
 
 #. NETHERLANDS
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:400
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:403
 msgid "Netherlands"
 msgstr ""
 
@@ -624,11 +631,11 @@ msgid "No Resources"
 msgstr ""
 
 #. Tuner
-#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:442
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:493
 msgid "No Signal"
 msgstr ""
 
-#: MediaRiteApi/Player/Player.cpp:933
+#: MediaRiteApi/Players/Player.cpp:2096
 msgid "No Subtitles"
 msgstr ""
 
@@ -637,12 +644,13 @@ msgstr ""
 msgid "No update found at URL"
 msgstr ""
 
-#: MediaRiteApi/Settings/SettingsManager.cpp:394
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:103
+#: MediaRiteApi/Settings/SettingsManager.cpp:428
 msgid "None"
 msgstr ""
 
 #. NORWAY
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:402
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:405
 msgid "Norway"
 msgstr ""
 
@@ -650,11 +658,11 @@ msgstr ""
 msgid "Norwegian"
 msgstr ""
 
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:80
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:90
 msgid "Off"
 msgstr ""
 
-#: MediaRiteApi/Player/Player.cpp:1068
+#: MediaRiteApi/Players/Player.cpp:2236
 msgid "Out of free tuners!"
 msgstr ""
 
@@ -663,7 +671,7 @@ msgid "Panjabi"
 msgstr ""
 
 #. POLAND
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:404
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:407
 msgid "Poland"
 msgstr ""
 
@@ -672,7 +680,7 @@ msgid "Polish"
 msgstr ""
 
 #. PORTUGAL
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:406
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:409
 msgid "Portugal"
 msgstr ""
 
@@ -685,7 +693,7 @@ msgstr ""
 msgid "Rebooting"
 msgstr ""
 
-#: MediaRiteApi/Player/Player.cpp:1031
+#: MediaRiteApi/Players/Player.cpp:2199
 msgid "Recording"
 msgstr ""
 
@@ -792,12 +800,12 @@ msgstr ""
 msgid "Sanskrit"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:790
-#: Core/Implementation/ChannelSearchController.cpp:1622
+#: Core/Implementation/ChannelSearchController.cpp:446
+#: Core/Implementation/ChannelSearchController.cpp:1280
 msgid "Satellite"
 msgstr ""
 
-#: MediaRiteApi/Player/Player.cpp:1089
+#: MediaRiteApi/Players/Player.cpp:2257
 msgid "Select a program to watch or steal the tuner from"
 msgstr ""
 
@@ -806,14 +814,14 @@ msgstr ""
 msgid "Service %d.%d MHz"
 msgstr ""
 
-#: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:3234
-#: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:5345
+#: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:3252
+#: Core/Implementation/MediaHandlers/Mpeg2Ts/Dvb/DvbStreamHandler.cpp:5363
 #, c-format
 msgid "Service <%u,%u,%u>"
 msgstr ""
 
 #. SettingsDBNetworkChangeType
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:415
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:431
 msgid "Service Changed"
 msgstr ""
 
@@ -826,7 +834,7 @@ msgid "Slovenian"
 msgstr ""
 
 #. SPAIN
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:408
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:411
 msgid "Spain"
 msgstr ""
 
@@ -839,27 +847,27 @@ msgstr ""
 msgid "Sport"
 msgstr ""
 
-#: MediaRiteApi/Player/Player.cpp:1092 MediaRiteApi/Player/Player.cpp:1094
+#: MediaRiteApi/Players/Player.cpp:2260 MediaRiteApi/Players/Player.cpp:2262
 msgid "Steal tuner"
 msgstr ""
 
 #. AudioMixType
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:303
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:319
 msgid "Stereo"
 msgstr ""
 
 #. Positive index 0
-#: MediaRiteApi/Player/Player.cpp:1096 MediaRiteApi/Player/Player.cpp:1112
+#: MediaRiteApi/Players/Player.cpp:2264 MediaRiteApi/Players/Player.cpp:2280
 msgid "Stop recording"
 msgstr ""
 
 #. AudioMixType
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:306
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:322
 msgid "SurroundSound"
 msgstr ""
 
 #. SWEDEN
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:410
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:413
 msgid "Sweden"
 msgstr ""
 
@@ -868,201 +876,201 @@ msgid "Swedish"
 msgstr ""
 
 #. SWITZERLAND
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:412
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:415
 msgid "Switzerland"
 msgstr ""
 
 #. Abbreviation of the month April
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1038
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1059
 msgid "TIME|Apr"
 msgstr ""
 
 #. Full name of the month April
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1008
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1029
 msgid "TIME|April"
 msgstr ""
 
 #. Abbreviation of the month August
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1046
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1067
 msgid "TIME|Aug"
 msgstr ""
 
 #. Full name of the month August
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1016
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1037
 msgid "TIME|August"
 msgstr ""
 
 #. Abbreviation of the month December
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1054
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1075
 msgid "TIME|Dec"
 msgstr ""
 
 #. Full name of the month December
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1024
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1045
 msgid "TIME|December"
 msgstr ""
 
 #. Abbreviation of the month February
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1034
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1055
 msgid "TIME|Feb"
 msgstr ""
 
 #. Full name of the month February
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1004
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1025
 msgid "TIME|February"
 msgstr ""
 
 #. Abbreviation of the weekday Friday
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1092
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1113
 msgid "TIME|Fri"
 msgstr ""
 
 #. Full name of the weekday Friday
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1072
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1093
 msgid "TIME|Friday"
 msgstr ""
 
 #. Abbreviation of the month January
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1032
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1053
 msgid "TIME|Jan"
 msgstr ""
 
 #. Full name of the month January
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1002
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1023
 msgid "TIME|January"
 msgstr ""
 
 #. Abbreviation of the month July
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1044
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1065
 msgid "TIME|Jul"
 msgstr ""
 
 #. Full name of the month July
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1014
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1035
 msgid "TIME|July"
 msgstr ""
 
 #. Abbreviation of the month June
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1042
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1063
 msgid "TIME|Jun"
 msgstr ""
 
 #. Full name of the month June
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1012
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1033
 msgid "TIME|June"
 msgstr ""
 
 #. Abbreviation of the month March
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1036
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1057
 msgid "TIME|Mar"
 msgstr ""
 
 #. Full name of the month March
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1006
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1027
 msgid "TIME|March"
 msgstr ""
 
 #. Abbreviation of the month May
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1040
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1061
 msgid "TIME|May"
 msgstr ""
 
 #. Full name of the month May
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1010
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1031
 msgid "TIME|May_long"
 msgstr ""
 
 #. Abbreviation of the weekday Monday
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1084
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1105
 msgid "TIME|Mon"
 msgstr ""
 
 #. Full name of the weekday Monday
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1064
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1085
 msgid "TIME|Monday"
 msgstr ""
 
 #. Abbreviation of the month November
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1052
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1073
 msgid "TIME|Nov"
 msgstr ""
 
 #. Full name of the month November
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1022
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1043
 msgid "TIME|November"
 msgstr ""
 
 #. Abbreviation of the month October
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1050
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1071
 msgid "TIME|Oct"
 msgstr ""
 
 #. Full name of the month October
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1020
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1041
 msgid "TIME|October"
 msgstr ""
 
 #. Abbreviation of the weekday Saturday
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1094
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1115
 msgid "TIME|Sat"
 msgstr ""
 
 #. Full name of the weekday Saturday
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1074
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1095
 msgid "TIME|Saturday"
 msgstr ""
 
 #. Abbreviation of the month September
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1048
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1069
 msgid "TIME|Sep"
 msgstr ""
 
 #. Full name of the month September
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1018
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1039
 msgid "TIME|September"
 msgstr ""
 
 #. Abbreviation of the weekday Sunday
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1082
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1103
 msgid "TIME|Sun"
 msgstr ""
 
 #. Full name of the weekday Sunday
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1062
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1083
 msgid "TIME|Sunday"
 msgstr ""
 
 #. Abbreviation of the weekday Thursday
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1090
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1111
 msgid "TIME|Thu"
 msgstr ""
 
 #. Full name of the weekday Thursday
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1070
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1091
 msgid "TIME|Thursday"
 msgstr ""
 
 #. Abbreviation of the weekday Tuesday
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1086
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1107
 msgid "TIME|Tue"
 msgstr ""
 
 #. Full name of the weekday Tuesday
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1066
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1087
 msgid "TIME|Tuesday"
 msgstr ""
 
 #. Abbreviation of the weekday Wednesday
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1088
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1109
 msgid "TIME|Wed"
 msgstr ""
 
 #. Full name of the weekday Wednesday
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1068
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1089
 msgid "TIME|Wednesday"
 msgstr ""
 
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:383
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:399
 msgid "TUNER|Analog"
 msgstr ""
 
@@ -1079,17 +1087,17 @@ msgid "TUNER|Horizontal"
 msgstr ""
 
 #. Tuner
-#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:432
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:483
 msgid "TUNER|Locked"
 msgstr ""
 
 #. Tuner
-#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:435
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:486
 msgid "TUNER|Scanning"
 msgstr ""
 
 #. Tuner
-#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:445
+#: Basic/FutarqueInfo/src/FutarqueFrontEndInfo.cpp:496
 msgid "TUNER|Unlocked"
 msgstr ""
 
@@ -1098,12 +1106,8 @@ msgid "TUNER|Vertical"
 msgstr ""
 
 #. TAIWAN,PROVINCEOFCHINA
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:414
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:417
 msgid "Taiwan"
-msgstr ""
-
-#: MediaRiteApi/Player/Player.cpp:1224
-msgid "Taking tuner from"
 msgstr ""
 
 #: Basic/FutarqueStdLib/src/FutarqueISO639LanguageCodes.cpp:261
@@ -1114,16 +1118,16 @@ msgstr ""
 msgid "Telugu"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:2356
+#: Core/Implementation/ChannelSearchController.cpp:2026
 msgid "Terrestrial"
 msgstr ""
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1143
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1164
 msgid "Today"
 msgstr ""
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1151
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1234
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1172
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1255
 msgid "Tomorrow"
 msgstr ""
 
@@ -1132,12 +1136,12 @@ msgstr ""
 msgid "Track"
 msgstr ""
 
-#: MediaRiteApi/Player/Player.cpp:1204
+#: MediaRiteApi/Players/Player.cpp:2412
 msgid "Tuner taken by"
 msgstr ""
 
 #. TURKEY
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:416
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:419
 msgid "Turkey"
 msgstr ""
 
@@ -1164,27 +1168,27 @@ msgid "Undetermined"
 msgstr ""
 
 #. UNITEDKINGDOM
-#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:418
+#: Basic/FutarqueStdLib/src/FutarqueCountry.cpp:421
 msgid "United Kingdom"
 msgstr ""
 
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:31
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:42
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:49
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:74
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:112
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:293
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:84
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:126
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:309
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:313
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:403
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:325
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:329
 #: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:419
-#: Core/Implementation/SettingsDB/DynamicResource.cpp:47
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:435
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:455
 #: Core/Implementation/Storage/Local/Gio/CddaRipActivity.cpp:76
 msgid "Unknown"
 msgstr ""
 
 #. SettingsDBNetworkChangeType
-#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:405
+#: Basic/FutarqueInfo/src/FutarqueSettingsDBInfo.cpp:421
 msgid "Unspecified"
 msgstr ""
 
@@ -1235,7 +1239,7 @@ msgid ""
 "Do NOT turn off your device."
 msgstr ""
 
-#: MediaRiteApi/Player/Player.cpp:1090
+#: MediaRiteApi/Players/Player.cpp:2258
 msgid "Watch program"
 msgstr ""
 
@@ -1243,8 +1247,9 @@ msgstr ""
 msgid "Welsh"
 msgstr ""
 
-#: Core/Implementation/ChannelSearchController.cpp:509
-#: MediaRiteApi/Channels/ChannelManager.cpp:590
+#: Core/Implementation/ChannelSearchController.cpp:187
+#: MediaRiteApi/Channels/ChannelManager.cpp:747
+#: MediaRiteApi/Channels/ChannelManager.cpp:957
 msgid "West"
 msgstr ""
 
@@ -1264,8 +1269,8 @@ msgstr ""
 msgid "Wrong Card Version"
 msgstr ""
 
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1147
-#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1228
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1168
+#: Basic/FutarqueStdLib/src/FutarqueTime.cpp:1249
 msgid "Yesterday"
 msgstr ""
 
@@ -1274,6 +1279,6 @@ msgstr ""
 msgid "Your current version is newer."
 msgstr ""
 
-#: MediaRiteApi/Player/Player.cpp:1109
+#: MediaRiteApi/Players/Player.cpp:2277
 msgid "for the following recording:"
 msgstr ""

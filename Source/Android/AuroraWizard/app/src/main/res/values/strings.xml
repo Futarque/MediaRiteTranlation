@@ -9,6 +9,10 @@
     <string name="wizard_complete_ok">OK</string>
     <string name="wizard_network">"Network"</string>
     <string name="network_connecting">Connecting</string>
+    <string name="login">LOGIN</string>
+    <string name="ensure_network">You must be connected to the internet to proceed</string>
+    <string name="setup_network">Setup your internet connection</string>
+    <string name="ensure_native_login">You must register your account to proceed</string>
     <string name="network_skip">SKIP</string>
     <string name="eula_title">End User License Agreement</string>
     <string name="eula_continue">CONTINUE</string>
